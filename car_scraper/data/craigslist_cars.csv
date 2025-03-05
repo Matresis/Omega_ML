@@ -1,3 +1,2 @@
-Title,Price,Year,Make & Model,Mileage,Condition,Cylinders,Fuel Type,Title Status,Transmission,Body Type,Image URL,Link
-2009 Hyundai Sonata,2750,2009,Unknown,124000,excellent,Unknown,gas,clean,automatic,Unknown,https://images.craigslist.org/00H0H_hdXAfxZcGxG_0t20CI_600x450.jpg,https://newyork.craigslist.org/stn/cto/d/staten-island-2009-hyundai-sonata/7831810485.html
-2009 Hyundai Sonata,2750,2009,Unknown,124000,excellent,Unknown,gas,clean,automatic,Unknown,https://images.craigslist.org/00H0H_hdXAfxZcGxG_0t20CI_600x450.jpg,https://newyork.craigslist.org/stn/cto/d/staten-island-2009-hyundai-sonata/7831810485.html
+Brand,Model,Price,Year,Mileage,Transmission,Body Type,Condition,Cylinders,Fuel Type,VIN,Title Status,Link
+Ford,Mustang GT Premium,17495,2014,98373,automatic,other,good,8,gas,1ZVBP8FF5E5222006,clean,https://losangeles.craigslist.org/lac/ctd/d/los-angeles-2014-ford-mustang-gt/7831971545.html

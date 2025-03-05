@@ -1,7 +1,6 @@
 ﻿import time
 import pandas as pd
 from selenium import webdriver
-from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from bs4 import BeautifulSoup
 from webdriver_manager.chrome import ChromeDriverManager
@@ -15,19 +14,26 @@ options.add_argument("--window-size=1920,1080")
 
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
-def scrape_craigslist(city="newyork", max_pages=2):
+def scrape_craigslist(city="losangeles", max_pages=10, max_records=1500):
     base_url = f"https://{city}.craigslist.org/search/cta"
     cars = []
+    visited_links = set()
 
     for page in range(0, max_pages * 120, 120):
+        if len(cars) >= max_records:
+            break  # Stop when 1500 records are collected
+
         url = f"{base_url}?s={page}"
         driver.get(url)
         time.sleep(3)
 
         soup = BeautifulSoup(driver.page_source, "html.parser")
-        listings = soup.find_all("div", class_="cl-search-results")
+        listings = soup.find_all("li", class_="cl-search-result")
 
         for listing in listings:
+            if len(cars) >= max_records:
+                break  # Stop when 1500 records are collected
+
             try:
                 # Extract title
                 title_tag = listing.find("a", class_="cl-app-anchor text-only posting-title")
@@ -39,7 +45,15 @@ def scrape_craigslist(city="newyork", max_pages=2):
 
                 # Extract link
                 link_tag = listing.find("a", class_="cl-app-anchor text-only posting-title")
-                link = link_tag["href"] if link_tag else "Unknown"
+                link = link_tag["href"] if link_tag else None
+
+                if not link or link in visited_links:
+                    continue  # Skip duplicate listings
+
+                visited_links.add(link)  # Mark as visited
+
+                # Save current page before navigating
+                current_page = driver.current_url
 
                 # Open details page
                 driver.get(link)
@@ -50,49 +64,66 @@ def scrape_craigslist(city="newyork", max_pages=2):
                 attributes = {}
                 attr_groups = detail_soup.find_all("div", class_="attrgroup")
 
+                brand = "Unknown"
+                model = "Unknown"
+                year = "Unknown"
+
+                for group in attr_groups:
+                    # Extract year correctly
+                    year_tag = group.find("span", class_="valu year")
+                    if year_tag:
+                        year = year_tag.text.strip()
+
+                    make_model_tag = group.find("span", class_="valu makemodel")
+                    if make_model_tag:
+                        make_model_link = make_model_tag.find("a")
+                        if make_model_link:
+                            full_make_model = make_model_link.text.strip()
+                            split_model = full_make_model.split(" ", 1)
+                            brand = split_model[0] if len(split_model) > 0 else "Unknown"
+                            model = split_model[1] if len(split_model) > 1 else "Unknown"
+
+                # Extract other details
                 for group in attr_groups:
                     for attr in group.find_all("div", class_="attr"):
                         label = attr.find("span", class_="labl")
                         value = attr.find("span", class_="valu")
                         if label and value:
                             attributes[label.text.strip().replace(":", "").lower()] = value.text.strip()
-                        elif label and attr.find("a"):  # Handle cases where value is inside <a>
-                            attributes[label.text.strip().replace(":", "").lower()] = attr.find("a").text.strip()
 
-                # Extract car details with default values if not found
-                year = attributes.get("year", title.split()[0])  # If not found, use the title
-                brand_model = attributes.get("makemodel", "Unknown")
                 mileage = attributes.get("odometer", "Unknown").replace(",", "")
                 condition = attributes.get("condition", "Unknown")
-                cylinders = attributes.get("cylinders", "Unknown")
+                cylinders = attributes.get("cylinders", "Unknown").split()[0]
+                cylinders = int(cylinders) if cylinders.isdigit() else "Unknown"
                 fuel_type = attributes.get("fuel", "Unknown")
                 title_status = attributes.get("title status", "Unknown")
                 transmission = attributes.get("transmission", "Unknown")
+                vin = attributes.get("vin", "Unknown")
                 body_type = attributes.get("type", "Unknown")
-
-                # Extract image URL
-                img_element = detail_soup.find("img", src=True)
-                img_url = img_element["src"] if img_element else "No image"
 
                 # Store data
                 cars.append({
-                    "Title": title,
+                    "Brand": brand,
+                    "Model": model,
                     "Price": price,
                     "Year": year,
-                    "Make & Model": brand_model,
                     "Mileage": mileage,
+                    "Transmission": transmission,
+                    "Body Type": body_type,
                     "Condition": condition,
                     "Cylinders": cylinders,
                     "Fuel Type": fuel_type,
+                    "VIN": vin,
                     "Title Status": title_status,
-                    "Transmission": transmission,
-                    "Body Type": body_type,
-                    "Image URL": img_url,
                     "Link": link
                 })
 
+                # Return to main page to continue scraping
+                driver.get(current_page)
+                time.sleep(2)
+
             except Exception as e:
-                print("Skipping a listing due to error:", e)
+                print(f"Skipping a listing due to error: {e}")
 
     return cars
 
@@ -101,7 +132,7 @@ cars_data = scrape_craigslist()
 
 # Save to CSV
 df = pd.DataFrame(cars_data)
-df.to_csv("craigslist_cars.csv", index=False)
+df.to_csv("data/craigslist_cars.csv", index=False)
 
 # Close driver
 driver.quit()
