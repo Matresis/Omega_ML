@@ -8,7 +8,7 @@ options.add_argument("--headless")  # Run in headless mode (no UI)
 # Fix: Proper way to initialize WebDriver
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
-driver.get("https://newyork.craigslist.org/search/cta")
+driver.get("https://losangeles.craigslist.org/search/cta")
 page_source = driver.page_source
 driver.quit()
 

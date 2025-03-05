@@ -7,27 +7,38 @@ from webdriver_manager.chrome import ChromeDriverManager
 
 # Configure WebDriver
 options = webdriver.ChromeOptions()
-options.add_argument("--headless")
+options.add_argument("--headless")  # Run in headless mode
 options.add_argument("--disable-gpu")
 options.add_argument("--no-sandbox")
 options.add_argument("--window-size=1920,1080")
 
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
-def scrape_craigslist(city="losangeles", max_pages=2):
+
+def scrape_craigslist(city="losangeles", max_pages=1, max_records=1500):
     base_url = f"https://{city}.craigslist.org/search/cta"
     cars = []
     visited_links = set()
 
+    print("🚀 Starting Craigslist Scraper...")
+
     for page in range(0, max_pages * 120, 120):
+        if len(cars) >= max_records:
+            break  # Stop when reaching max records
+
         url = f"{base_url}?s={page}"
+        print(f"📄 Scraping page: {url}")
+
         driver.get(url)
         time.sleep(3)
 
         soup = BeautifulSoup(driver.page_source, "html.parser")
-        listings = soup.find_all("div", class_="cl-search-results")
+        listings = soup.find_all("div", class_="cl-search-result cl-search-view-mode-gallery")
 
         for listing in listings:
+            if len(cars) >= max_records:
+                break
+
             try:
                 # Extract title
                 title_tag = listing.find("a", class_="cl-app-anchor text-only posting-title")
@@ -38,29 +49,30 @@ def scrape_craigslist(city="losangeles", max_pages=2):
                 price = price_element.text.strip().replace("$", "").replace(",", "") if price_element else "Unknown"
 
                 # Extract link
-                link_tag = listing.find("a", class_="cl-app-anchor text-only posting-title")
+                link_tag = listing.find("a", href=True)
                 link = link_tag["href"] if link_tag else None
 
                 if not link or link in visited_links:
                     continue  # Skip duplicate listings
 
                 visited_links.add(link)  # Mark as visited
+                print(f"🚗 Scraping car: {title} ({link})")
+
+                # Save current page before navigating
+                current_page = driver.current_url
 
                 # Open details page
                 driver.get(link)
                 time.sleep(2)
                 detail_soup = BeautifulSoup(driver.page_source, "html.parser")
 
-                # Extract attributes from "attrgroup"
+                # Extract attributes
                 attributes = {}
                 attr_groups = detail_soup.find_all("div", class_="attrgroup")
 
-                brand = "Unknown"
-                model = "Unknown"
-                year = "Unknown"
+                brand, model, year = "Unknown", "Unknown", "Unknown"
 
                 for group in attr_groups:
-                    # Extract year correctly
                     year_tag = group.find("span", class_="valu year")
                     if year_tag:
                         year = year_tag.text.strip()
@@ -74,7 +86,6 @@ def scrape_craigslist(city="losangeles", max_pages=2):
                             brand = split_model[0] if len(split_model) > 0 else "Unknown"
                             model = split_model[1] if len(split_model) > 1 else "Unknown"
 
-                # Extract other details
                 for group in attr_groups:
                     for attr in group.find_all("div", class_="attr"):
                         label = attr.find("span", class_="labl")
@@ -109,10 +120,18 @@ def scrape_craigslist(city="losangeles", max_pages=2):
                     "Link": link
                 })
 
-            except Exception as e:
-                print(f"Skipping a listing due to error: {e}")
+                print(f"✅ {len(cars)} cars scraped so far...")
 
+                # Return to main page to continue scraping
+                driver.get(current_page)
+                time.sleep(2)
+
+            except Exception as e:
+                print(f"⚠️ Skipping a listing due to error: {e}")
+
+    print(f"🏁 Scraping completed! Total cars scraped: {len(cars)}")
     return cars
+
 
 # Run scraper
 cars_data = scrape_craigslist()
