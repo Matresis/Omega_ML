@@ -1,21 +1,41 @@
 ﻿import time
 import pandas as pd
+import requests
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from bs4 import BeautifulSoup
 from webdriver_manager.chrome import ChromeDriverManager
 
+# API Key (Replace with your actual API key)
+API_KEY = "S711EBOUek2pf145pTwPug==MbebzFBDWwPqNkZK"
+API_URL = "https://api.api-ninjas.com/v1/cars"
+
 # Configure WebDriver
 options = webdriver.ChromeOptions()
-#options.add_argument("--headless")  # Run in headless mode
+options.add_argument("--headless")
 options.add_argument("--disable-gpu")
 options.add_argument("--no-sandbox")
 options.add_argument("--window-size=1920,1080")
 
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
+def fetch_car_details(brand, model):
+    """Fetch additional car details from the API."""
+    try:
+        response = requests.get(
+            API_URL,
+            headers={"X-Api-Key": API_KEY},
+            params={"make": brand, "model": model}
+        )
+        if response.status_code == 200:
+            data = response.json()
+            if data:
+                return data[0]  # Return the first matching car
+    except Exception as e:
+        print(f"⚠️ API request failed: {e}")
+    return {}
 
-def scrape_craigslist(city="losangeles", max_pages=1, max_records=1500):
+def scrape_craigslist(city="losangeles", max_pages=1, max_records=50):
     base_url = f"https://{city}.craigslist.org/search/cta"
     cars = []
     visited_links = set()
@@ -24,7 +44,7 @@ def scrape_craigslist(city="losangeles", max_pages=1, max_records=1500):
 
     for page in range(0, max_pages * 120, 120):
         if len(cars) >= max_records:
-            break  # Stop when reaching max records
+            break
 
         url = f"{base_url}?s={page}"
         print(f"📄 Scraping page: {url}")
@@ -53,9 +73,9 @@ def scrape_craigslist(city="losangeles", max_pages=1, max_records=1500):
                 link = link_tag["href"] if link_tag else None
 
                 if not link or link in visited_links:
-                    continue  # Skip duplicate listings
+                    continue
 
-                visited_links.add(link)  # Mark as visited
+                visited_links.add(link)
                 print(f"🚗 Scraping car: {title} ({link})")
 
                 # Save current page before navigating
@@ -103,6 +123,15 @@ def scrape_craigslist(city="losangeles", max_pages=1, max_records=1500):
                 vin = attributes.get("vin", "Unknown")
                 body_type = attributes.get("type", "Unknown")
 
+                # Fetch additional details from API
+                car_api_data = fetch_car_details(brand, model)
+
+                engine_size = car_api_data.get("engine", "Unknown")
+                drivetrain = car_api_data.get("drivetrain", "Unknown")
+                horsepower = car_api_data.get("horsepower", "Unknown")
+                torque = car_api_data.get("torque", "Unknown")
+                fuel_efficiency = car_api_data.get("combined_mpg", "Unknown")
+
                 # Store data
                 cars.append({
                     "Brand": brand,
@@ -117,12 +146,17 @@ def scrape_craigslist(city="losangeles", max_pages=1, max_records=1500):
                     "Fuel Type": fuel_type,
                     "VIN": vin,
                     "Title Status": title_status,
+                    "Engine Size": engine_size,
+                    "Drivetrain": drivetrain,
+                    "Horsepower": horsepower,
+                    "Torque": torque,
+                    "Fuel Efficiency (MPG)": fuel_efficiency,
                     "Link": link
                 })
 
                 print(f"✅ {len(cars)} cars scraped so far...")
 
-                # Return to main page to continue scraping
+                # Return to main page
                 driver.get(current_page)
                 time.sleep(2)
 
@@ -131,7 +165,6 @@ def scrape_craigslist(city="losangeles", max_pages=1, max_records=1500):
 
     print(f"🏁 Scraping completed! Total cars scraped: {len(cars)}")
     return cars
-
 
 # Run scraper
 cars_data = scrape_craigslist()
