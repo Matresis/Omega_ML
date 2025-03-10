@@ -1,0 +1,603 @@
+Brand,Model,Price,Year,Mileage,Transmission,Body Type,Condition,Cylinders,Fuel Type,VIN,Title Status,Link
+Ford,f-150,16000,2018,67772,automatic,pickup,like new,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-ford-f150-stx-4x4-2018/7833510653.html
+Kia,sportage,1000,2009,88585,automatic,SUV,fair,6,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/west-palm-beach-2009-kia-sportage-88k/7833504072.html
+Nissan,altima,6000,2015,100000,automatic,sedan,like new,4,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-nissan-altima-2015-for-sale/7833500390.html
+Volkswagen,Tiguan w/ Auto,12000,2015,82000,automatic,SUV,Unknown,4,gas,WVGAV7AX1FW615863,clean,https://miami.craigslist.org/mdc/cto/d/miami-volkswagen-tiguan-2015/7833480872.html
+Alfa Romeo,giulia,18900,2020,17000,automatic,sedan,excellent,4,gas,Unknown,salvage,https://miami.craigslist.org/mdc/cto/d/homestead-2020-alfa-romeo-giulia-q4/7833476572.html
+Chrysler,300 300c,3700,2005,139000,automatic,sedan,good,6,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/delray-beach-for-sale-2005-chrysler-300/7833468651.html
+Chevrolet,Uplander APV Extended Wheelbase,12900,2006,57000,automatic,van,excellent,6,gas,1GBDV13126D211302,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-2006-chevy-uplander/7833466493.html
+Volvo,v70,1900,2004,145000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2004-volvo-70/7833462613.html
+Chevrolet,Uplander APV Extended Wheelbase,7900,1996,190000,automatic,truck,good,8,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-96-chevy-ext-cab-dually-alcoa/7833459782.html
+Ford,f-150,18500,2015,51000,automatic,van,Unknown,Unknown,gas,Unknown,rebuilt,https://miami.craigslist.org/brw/cto/d/coral-springs-2015-ford-transit-150/7833456510.html
+Hyundai,sonata,4000,2014,105300,automatic,sedan,good,4,gas,Unknown,rebuilt,https://miami.craigslist.org/brw/cto/d/hollywood-2014-hyundai-sonata/7833453997.html
+Lexus,rx350,4500,2010,133582,automatic,SUV,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hallandale-2010-lexus-rx350/7833452561.html
+Infiniti,qx56,7200,2012,150000,automatic,SUV,excellent,8,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-2012-infiniti-qx56/7833451539.html
+Tesla,MODEL X,32900,2016,21064,automatic,Unknown,excellent,Unknown,electric,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2016-tesla-model-90d/7833446572.html
+Ford,f-150,21000,2006,64000,automatic,pickup,like new,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-lifted-2006-ford-150/7833446390.html
+Nissan,altima,3900,2008,219874,automatic,truck,like new,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-2008-nissan-titan/7833446318.html
+Honda,pilot,16800,2019,67000,automatic,SUV,excellent,6,gas,Unknown,rebuilt,https://miami.craigslist.org/brw/cto/d/hallandale-honda-pilot-ex-awd-2019/7833444554.html
+Lincoln,town car executive,7500,2008,70881,automatic,other,like new,8,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-lincoln-town-car-limousine/7833444178.html
+Ford,f-150,21500,2024,13232,automatic,Unknown,Unknown,Unknown,hybrid,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2024-ford-maverick-hybrid-42mpg/7833443650.html
+Toyota,Tundra SR5,15500,2014,156720,automatic,pickup,like new,8,gas,5TFRU5F15EX031316,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2014-toyota-tundra-tdr/7833442103.html
+Nissan,altima,9900,2019,68122,automatic,sedan,like new,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-2019-nissan-altima/7833441861.html
+Chrysler,300 300c,8700,2019,91329,automatic,sedan,like new,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-2019-chrysler-300-limited/7833440384.html
+Chrysler,300 300c,7900,2016,98107,automatic,van,like new,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-2016-chrysler-town-country/7833438943.html
+Audi,s5,4900,2012,155484,automatic,coupe,like new,8,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-2012-audi-s5/7833437948.html
+Ford,f-150,16000,2012,232000,automatic,pickup,excellent,8,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/palm-bay-2012-f250-4wd-crewcab-lariat/7833437721.html
+Q50,3.0t sport awd (,24500,2018,42000,automatic,sedan,excellent,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-beach-2018-infiniti-q50-30t-sport/7833431479.html
+Q50,3.0t sport awd (,24500,2018,42000,automatic,sedan,excellent,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-beach-2018-infiniti-q50-30t-sport/7833430293.html
+Chevrolet,Uplander APV Extended Wheelbase,32000,2016,90000,automatic,pickup,excellent,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/deerfield-beach-2016-chevy-2500-hd-lt/7833429496.html
+Toyota,Tundra SR5,29750,1978,24000,manual,SUV,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-1978-toyota-land-cruise/7833425797.html
+Nissan,altima,1500,2015,149000,automatic,sedan,good,4,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/hialeah-2015-nissan-altima/7833422697.html
+Subaru,forester,3500,2006,143000,automatic,Unknown,Unknown,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2006-subaru-forestor/7833420941.html
+F-150,Ford,24900,2023,14900,automatic,pickup,like new,6,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2023-ford-f150-doors/7833419741.html
+Ford,f-150,4200,1993,229000,automatic,truck,good,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/coral-springs-1993-150-xlt/7833418697.html
+Mgb,convertible,7500,1967,10000,manual,convertible,good,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-1967-mgb/7833414328.html
+Ford,f-150,4200,2006,152410,automatic,pickup,good,6,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2006-ford-150-reliable-strong/7833411103.html
+Kia,sportage,3300,2010,123199,automatic,sedan,excellent,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2010-kia-rio-gas-saver/7833411043.html
+Ford,f-150,4400,2010,174785,automatic,sedan,Unknown,4,gas,Unknown,rebuilt,https://miami.craigslist.org/brw/cto/d/pompano-beach-2010-ford-fusion-tints/7833410829.html
+Volvo,v70,7499,2013,75000,automatic,sedan,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/wellington-2013-volvo-s80-premier-plus/7833410303.html
+F350,4x4 Lariat,22750,2016,209000,automatic,pickup,good,8,diesel,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/delray-beach-2016-f350-4x4-lariat/7833408879.html
+Ford,f-150,4750,2012,136547,automatic,sedan,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2012-ford-fusion-owner/7833408098.html
+Mercedes,benz sl500,17500,2003,29000,automatic,convertible,like new,8,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/west-palm-beach-low-miles-2003-mercedes/7833403961.html
+Jeep,grand cherokee limited,8900,2015,119514,automatic,SUV,like new,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-2015-jeep-grand-cherokee/7833402095.html
+Volkswagen,Tiguan w/ Auto,8499,2016,90500,automatic,SUV,excellent,4,gas,WVGAV7AX9GW601534,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2016-volkswagen-tiguan-20t-tsi/7833401760.html
+Hyundai,sonata,9500,2015,72000,automatic,sedan,excellent,4,gas,5NPE34AB4FH168823,clean,https://miami.craigslist.org/pbc/cto/d/boca-raton-2015-hyundai-sonata-sport-20t/7833401304.html
+Hyundai,sonata,4500,2013,107252,automatic,sedan,like new,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-2013-hyundai-accent/7833401119.html
+Chevrolet,Uplander APV Extended Wheelbase,8900,2013,99000,automatic,truck,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/west-palm-beach-2013-chevrolet-silverado/7833399073.html
+Mercedes,benz sl500,14999,2017,98000,automatic,sedan,good,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2017-mercedes-c300/7833398959.html
+Toyota,Tundra SR5,6500,2011,100000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/lake-worth-great-priced-2011-toyota/7833393504.html
+Chevrolet,Uplander APV Extended Wheelbase,8200,2017,100000,automatic,sedan,good,4,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/boynton-beach-2017-chevrolet-malibu-lt/7833383436.html
+Honda,pilot,4700,2011,170000,automatic,van,excellent,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2011-honda-odyssey/7833379413.html
+Chevy,s10,7500,1998,37000,automatic,pickup,like new,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-1998-chevy-10-37k-miles/7833378060.html
+Ford,f-150,25000,1956,90000,automatic,Unknown,good,8,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/lake-worth-crown-victoria/7833374890.html
+Ford,f-150,8200,2016,140000,automatic,SUV,good,6,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/boynton-beach-2016-ford-explorer-limited/7833368290.html
+Mazda,3,5000,2012,153000,automatic,Unknown,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2012-mazda3-hatchback/7833362139.html
+Ford,f-150,4500,2000,370000,automatic,pickup,good,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-ford-obo/7833361860.html
+Gmc,Sierra 1 Ton Work Truck,9000,2009,196000,automatic,truck,good,8,diesel,1GDJK79639E159864,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2009-gmc-sierra-3500-duly/7833360302.html
+Alfa Romeo,giulia,9750,1984,62771,manual,convertible,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-1984-alfa-romeo-spider/7833356110.html
+Ford,f-150,10500,2011,211000,automatic,van,like new,8,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2011-ford-econoline/7833354520.html
+Ford,f-150,15200,2017,133000,automatic,SUV,like new,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2017-ford-expedition-el-for/7833353419.html
+Chevrolet,Uplander APV Extended Wheelbase,15500,1954,25000,automatic,sedan,like new,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-1954-chevy-bel-air/7833351726.html
+Porsche,PANAMERA,15000,2008,81589,automatic,hatchback,Unknown,Unknown,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/opa-locka-2013-porsche-panamera/7833350778.html
+Subaru,forester,6600,2011,110800,automatic,SUV,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2011-subaru-outback-25i-premium/7833347355.html
+Ford,f-150,37000,1995,81680,automatic,pickup,like new,8,diesel,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-1995-ford-250-xlt/7833344587.html
+Nissan,altima,2300,2015,127000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2015-nissan-versa-note/7833343648.html
+Lincoln,town car executive,1900,2011,110241,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-lincoln/7833341563.html
+Chevrolet,Uplander APV Extended Wheelbase,2300,2007,104848,automatic,sedan,Unknown,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-chevrolet/7833341437.html
+Chrysler,300 300c,4200,2014,105421,automatic,Unknown,like new,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-chrysler/7833341187.html
+Mercedes,benz sl500,6800,2009,96,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/margate-2009-mercedes-benz-c300-luxury/7833340343.html
+Mazda,3,2700,2011,143177,automatic,hatchback,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/pompano-beach-mazda/7833339951.html
+Hyundai,sonata,3900,2012,144271,automatic,sedan,Unknown,4,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/pompano-beach-hyunda-accent/7833339742.html
+Toyota,Tundra SR5,2700,1999,140000,automatic,Unknown,good,Unknown,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/lake-worth-toyota-rav-1999/7833338108.html
+Mercedes,benz sl500,4000,2007,180000,automatic,van,excellent,Unknown,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/boca-raton-2007-mercedez-benz-350/7833329742.html
+Toyota,Tundra SR5,3400,2006,120000,automatic,sedan,like new,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2006-toyota-camry-for/7833328924.html
+Gmc,Sierra 1 Ton Work Truck,25000,2022,12400,automatic,SUV,Unknown,Unknown,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/hialeah-2022-gmc-terrain/7833327787.html
+Nissan,altima,9500,2018,88000,automatic,SUV,excellent,4,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-nissan-rogue-2018-awd-impecable/7833326061.html
+Jeep,grand cherokee limited,14500,2015,158000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-jeep-wrangler/7833320014.html
+Ford,f-150,8000,2001,15000,automatic,Unknown,excellent,Unknown,diesel,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2001-utility-50-stainless-spread/7833319813.html
+Campervan,road trek,14500,2002,143000,automatic,van,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2002-roadtrek-190-versatile/7833314839.html
+Mercedes-Benz,s550,15900,2016,120000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/port-saint-lucie-2016-mercedes-benz/7833313334.html
+Mitsubishi,eclipse,4500,2011,125000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-mitsubishi-eclipse-2011/7833312423.html
+Nissan,altima,9800,2021,105281,automatic,van,like new,4,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2021-nissan-nv-200-sv/7833310346.html
+Mercury,mariner,1300,2006,195000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2006-mercury-mariner-suv/7833299117.html
+Nissan,altima,1500,2008,210000,automatic,sedan,fair,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2008-nissan-altima-needs/7833286938.html
+Mercedes-Benz,s550,9500,2013,120000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/port-saint-lucie-2013-mercedes-benz/7833271437.html
+Volkswagen,Tiguan w/ Auto,6495,2016,120000,automatic,SUV,like new,4,gas,WVGBV7AX6GW566200,clean,https://miami.craigslist.org/mdc/cto/d/delray-beach-2016-volkswagen-tiquan-all/7833262479.html
+Hyundai,sonata,10,2017,70255,automatic,Unknown,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2017-hyundai-elantra/7833256670.html
+Dodge,ram 2500 4x4,8500,2008,174000,automatic,pickup,excellent,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2008-dodge-ram-2500-st/7833255097.html
+Ram,1500,19500,2014,126696,automatic,pickup,excellent,6,diesel,1C6RR7PM4ES314140,clean,https://miami.craigslist.org/pbc/cto/d/jupiter-2014-ram-1500-limited-ecodiesel/7833251474.html
+Chrysler,300 300c,4750,2014,140000,automatic,minivan,like new,6,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2014-chrysler-town-country/7833250619.html
+Nissan,altima,6350,2017,122487,automatic,sedan,good,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-gardens-2017-nissan-altima-25-sr/7833250471.html
+Toyota,Tundra SR5,7000,2004,120900,automatic,truck,good,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/plantation-toyota-tundra-2004/7833250025.html
+Toyota,Tundra SR5,7000,2007,147000,automatic,SUV,fair,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-toyota-4runner/7833247012.html
+Bmw,430i,15000,2018,98000,manual,coupe,like new,4,gas,Unknown,rebuilt,https://miami.craigslist.org/brw/cto/d/hollywood-2018-bmw-430i-hollywood/7833245797.html
+Tesla,MODEL X,13000,2019,73000,other,sedan,fair,Unknown,electric,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2019-tesla-model/7833243515.html
+Ford,f-150,26850,2021,33000,automatic,coupe,like new,8,gas,1FA6P8CF6M5128360,clean,https://miami.craigslist.org/mdc/cto/d/miami-2021-ford-mustang-gt-automatic-red/7833231014.html
+Hyundai,sonata,17000,2022,42500,automatic,Unknown,excellent,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/west-palm-beach-hyundai-elantra/7833229431.html
+Jaguar,XF 3.0 Portfolio,11995,2015,71,automatic,sedan,like new,6,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/saint-petersburg-2015-jaguar-xf/7833228224.html
+Jeep,grand cherokee limited,4995,2015,115000,automatic,SUV,good,4,gas,Unknown,rebuilt,https://miami.craigslist.org/brw/cto/d/hollywood-jeep-compass-2015-automatic/7833224684.html
+Chevrolet,Uplander APV Extended Wheelbase,3150,2008,86337,automatic,sedan,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2008-chevy-malibu-086kmi/7833219691.html
+Hummer,H2 SUV,26999,2006,66000,automatic,SUV,excellent,8,gas,5GRGN23U86H101631,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2006-hummer-h2-suv-only-66k/7833217293.html
+Lincoln,town car executive,5500,2006,118000,automatic,sedan,good,8,gas,1LNHM82W96Y650524,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-lincoln-towncar/7833213938.html
+Genesis,G70 2.0T,20900,2021,44000,automatic,sedan,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/lake-worth-2021-genesis-g70-20t/7833209053.html
+Chrysler,300 300c,4999,1999,76000,automatic,convertible,excellent,6,gas,3C3EL55H3XT574912,clean,https://miami.craigslist.org/brw/cto/d/hollywood-1999-chrysler-sebring/7833204314.html
+Nissan,altima,6500,2014,94000,automatic,SUV,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/coral-springs-2014-nissan-rogue/7833203960.html
+Ford,f-150,15500,2016,117800,automatic,van,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2016-ford-transit-connect-xlt/7833193832.html
+Chevy,s10,2500,1998,217000,automatic,van,good,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-chevy-van/7833193301.html
+Ford,f-150,6900,2002,98000,manual,pickup,like new,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2002-ford-150-crew-cab/7833187996.html
+Dodge,ram 2500 4x4,8300,2018,113000,automatic,minivan,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-minivan-dodge-grand-caravan-gt/7833187180.html
+Buick,Enclave CXL,2399,2011,152376,automatic,SUV,good,6,gas,5GAKRBED6BJ293326,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2011-buick-enclave-cxl-1xl/7833179873.html
+Ford,f-150,14500,2019,75000,automatic,SUV,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/lake-worth-2019-ford-edge-titanium/7833177878.html
+Vw,jetta,4950,2017,109000,automatic,sedan,good,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2017-vw-jetta/7833174441.html
+Toyota,Tundra SR5,1800,2004,203000,automatic,sedan,good,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-toyota-corolla-2004-mechanic/7833173416.html
+Bmw,430i,16499,2012,69727,automatic,convertible,excellent,8,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2012-bmw-series-650i-convertible/7833172909.html
+Chevrolet,Uplander APV Extended Wheelbase,6900,2002,263852,automatic,truck,good,8,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2002-chevrolet-1500hd-ls/7833171222.html
+Jeep,grand cherokee limited,5200,2001,147000,automatic,SUV,excellent,6,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2001-jeep-cherokee-xj-2wd/7833170529.html
+Saturn,Ion,2500,2004,117000,automatic,sedan,good,4,gas,1G8AJ52F84Z159621,clean,https://miami.craigslist.org/mdc/cto/d/miami-saturn-ion-2004/7833168501.html
+Cadillac,escalade,5600,2010,131000,automatic,Unknown,good,8,other,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-cadillac-escalade-2010/7833168450.html
+Ford,f-150,6200,2012,84000,automatic,Unknown,good,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-ecoboost-35/7833167591.html
+Acura,tl,3500,2009,199000,automatic,Unknown,good,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-acura-tl-2009/7833166328.html
+Cadillac,escalade,5000,2008,141000,automatic,Unknown,good,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-cadillac-escalade-esv-2008/7833165294.html
+Hyundai,sonata,4500,2015,126000,automatic,coupe,good,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-hyundai-veloster-2015/7833164688.html
+Acura,tl,3000,2006,163000,automatic,SUV,good,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-acura-mdx-2006/7833163947.html
+Toyota,Tundra SR5,19518,2018,32000,automatic,sedan,like new,4,gas,4T1B11HK0JU133137,clean,https://miami.craigslist.org/mdc/cto/d/miami-perfect-condition-2018-toyota/7833157520.html
+Freightliner,cascadia,35000,2012,200000,automatic,truck,excellent,6,diesel,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-truck-for-sale/7833156669.html
+Toyota,Tundra SR5,4800,2007,142000,automatic,SUV,good,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hallandale-2007-toyota-rav-limited/7833156444.html
+Honda,pilot,6900,2013,129000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hallandale-2013-honda-pilot-exl-row/7833156064.html
+Hyundai,sonata,300,2019,77000,automatic,Unknown,like new,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2019-hyundai-elantra-300-week/7833150771.html
+Land Rover,discovery sport,12800,2018,87000,automatic,SUV,excellent,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-land-rover-discover-sport-low/7833149708.html
+Toyota,Tundra SR5,4900,2009,120000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2009-toyota-camry/7833138734.html
+Chevy,s10,2800,2013,120000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2013-chevy-cruze/7833136775.html
+Ford,f-150,28000,1964,56000,manual,convertible,excellent,8,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/homestead-1964-falcon-convertible/7833131983.html
+Toyota,Tundra SR5,7500,1999,186000,manual,SUV,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-toyota-4runner-1999-manual/7833131371.html
+F150,Unknown,3999,2009,2,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-ford-150/7833129027.html
+Cadillac,escalade,5500,2014,138000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2014-cadillac-srx-leather/7833126044.html
+Mercedes,benz sl500,10900,2012,124202,automatic,SUV,excellent,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2012-mercedes-benz-ml-350-bluetec/7833123806.html
+Ford,f-150,4200,2008,198000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-ford-f150/7833121588.html
+Hyundai,sonata,18990,2018,55000,automatic,SUV,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2018-hyundai-santa-fe-suv-se/7833117812.html
+Bmw,430i,13500,2017,62300,automatic,SUV,like new,4,gas,WBXHT3C31H5F81711,salvage,https://miami.craigslist.org/brw/cto/d/dania-bmw-xdrive/7833106409.html
+Mercedes-Benz,s550,10500,2014,134950,automatic,convertible,like new,Unknown,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/lake-worth-2014-mercedes-benz-e350/7833105670.html
+Chevy,s10,4400,1995,56000,automatic,coupe,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-1995-chevy-camaro-tops/7833104977.html
+Mercedes,benz sl500,4799,2012,150000,automatic,sedan,like new,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-2011-mercedes-e350-4matic/7833104652.html
+Infiniti,qx56,5899,2011,155000,automatic,SUV,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-2011-infiniti-fx35-limited/7833104553.html
+Chevrolet,Uplander APV Extended Wheelbase,5300,2002,84759,automatic,truck,good,8,diesel,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-chevy-3500-hd-stake/7833104043.html
+Chrysler,300 300c,2995,2008,85000,automatic,convertible,good,6,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/delray-beach-2008-chrysler-sebring/7833102952.html
+Chevrolet,Uplander APV Extended Wheelbase,7500,2011,170000,automatic,truck,good,8,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2011-chevrolet-silverado-1500/7833101903.html
+Bmw,430i,8000,2012,91500,automatic,SUV,good,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2012-bmw-x5-xdrive50i/7833101453.html
+Mercedes,benz sl500,4500,2010,209000,automatic,sedan,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2010-mercedes-benz-e350/7833101131.html
+Hyundai,sonata,7900,2013,78000,automatic,SUV,good,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/boca-raton-2013-hyundai-santa-fe-4dr/7833096083.html
+Pontiac,lemans,16000,1972,63500,automatic,coupe,excellent,8,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/lake-worth-1972-pontiac-lemans/7833095295.html
+Land Rover,discovery sport,1150,2006,269000,automatic,SUV,good,6,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/jupiter-2006-range-rover-full-size-hse/7833093274.html
+Volvo,v70,16000,2004,73000,automatic,wagon,excellent,5,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/jupiter-2004-volvo-v70r/7833092685.html
+Mercedes,benz sl500,11900,2014,99975,automatic,sedan,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/west-palm-beach-2014-mercedes-e350/7833091628.html
+Ford,f-150,7500,2017,130000,automatic,SUV,good,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hallandale-ford-explorer/7833091591.html
+Infiniti,qx56,13900,2014,13900,automatic,sedan,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/west-palm-beach-2014-infiniti-q50/7833091569.html
+Dodge,ram 2500 4x4,4500,2014,130000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hallandale-dodge-charger/7833091494.html
+Ford,f-150,7500,2014,190000,automatic,pickup,good,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hallandale-ford-f150-super-crew-cab/7833091213.html
+Toyota,Tundra SR5,3500,2006,120000,automatic,sedan,like new,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2006-toyota-camry-for/7833089080.html
+Volvo,v70,3490,1998,88000,automatic,sedan,excellent,5,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-1998-volvo-s70-glt/7833087003.html
+Gayam,Motor E Pro Cargo,750,2024,300,automatic,Unknown,good,Unknown,electric,Unknown,missing,https://miami.craigslist.org/mdc/cto/d/miami-gayam-motor-pro-cargo-read/7833086875.html
+Porsche,PANAMERA,1650,1979,12345,other,coupe,Unknown,Unknown,gas,Unknown,parts only,https://miami.craigslist.org/mdc/cto/d/apex-porsche-911-wall-art/7833085344.html
+Nissan,altima,3000,2015,90000,automatic,sedan,Unknown,Unknown,gas,Unknown,salvage,https://miami.craigslist.org/mdc/cto/d/pompano-beach-2015-nissan-versa-note/7833084149.html
+Honda,pilot,2900,2004,124,automatic,wagon,Unknown,4,diesel,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-se-vende-un-carro/7833071746.html
+Chevrolet,Uplander APV Extended Wheelbase,3400,2010,121000,automatic,coupe,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/coral-springs-2010-chevrolet-cobalt/7833064347.html
+Subaru,forester,6900,2016,139000,automatic,hatchback,good,4,gas,JF1GPAB66GH233657,clean,https://miami.craigslist.org/pbc/cto/d/delray-beach-16-subaru-impreza/7833057878.html
+Bmw,430i,5000,2013,114450,automatic,SUV,good,4,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/lake-worth-2013-bmw-x3-for-sale/7833049544.html
+Toyota,Tundra SR5,6500,2012,186200,automatic,Unknown,like new,4,hybrid,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/west-palm-beach-2012-toyota-camry/7833049055.html
+Bmw,430i,11500,2015,88000,automatic,SUV,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/boca-raton-2015-bmw-x3-sdrive28i-sport/7833045810.html
+Audi,s5,20500,2013,62000,automatic,sedan,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2013-audi-s4-dsg-sports-diff/7833044106.html
+Lexus,rx350,100,2002,10543,automatic,sedan,good,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2002-lexus-sc430-part-out/7833038876.html
+Volkswagen,Tiguan w/ Auto,4850,2010,110267,automatic,SUV,excellent,4,gas,WVGBV7AX5AW521613,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2010-volkswagen-tiguan-sel/7833038550.html
+Honda,pilot,1999,2003,157437,automatic,SUV,good,6,gas,2HKYF18623H595862,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2003-honda-pilot-ex-only/7833038201.html
+Chevrolet,Uplander APV Extended Wheelbase,350,2023,1000,automatic,convertible,like new,10,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-beach-corrvate-2023-for-rent/7833037446.html
+Honda,pilot,4995,2007,109000,automatic,sedan,good,4,gas,Unknown,rebuilt,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2007-honda-accord-109k/7833029626.html
+Acura,tl,5995,2006,112000,automatic,sedan,good,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2006-acura-tl-32l-112k/7833028776.html
+Mercedes,benz sl500,32000,2013,39000,automatic,sedan,like new,Unknown,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/boca-raton-mercedes-s550/7833026272.html
+Chevrolet,Uplander APV Extended Wheelbase,19000,1976,45000,automatic,coupe,like new,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-1976-corvette/7833025995.html
+Lexus,rx350,3900,2006,171700,automatic,sedan,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-lexus-es/7833024325.html
+Chevy,s10,4500,2010,112000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/fort-lauderdale-2010-chevy-impala/7833020781.html
+Rolls,royce silver shadow,9900,1976,76670,automatic,sedan,good,8,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/fort-lauderdale-rolls-royce-silver/7833013761.html
+Nissan,altima,11800,2018,93000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hollywood-2018-nissan-frontier/7833005824.html
+Toyota,Tundra SR5,6500,2017,184000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hollywood-2017-toyota-camry/7833004495.html
+Hyundai,sonata,6800,2011,160000,automatic,sedan,good,4,gas,Unknown,rebuilt,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2011-hyundai-sonata/7833003801.html
+Kia,sportage,5900,2013,96050,automatic,sedan,like new,4,gas,5XXGN4A7XDG218986,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2013-kia-optima-ex/7833003433.html
+Toyota,Tundra SR5,12800,2017,173000,automatic,pickup,Unknown,4,gas,5TFRX5GN6HX089805,clean,https://miami.craigslist.org/mdc/cto/d/hollywood-2017-toyota-tacoma/7833002749.html
+Nissan,altima,10800,2016,111000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hollywood-2016-nissan-frontier/7833001431.html
+Ford,f-150,5800,2002,191000,automatic,convertible,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/towson-02-ford-thunderbird-convertible/7833000253.html
+Gmc,Sierra 1 Ton Work Truck,4300,2004,200000,automatic,SUV,good,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2004-gmc-envoy-slt/7832998699.html
+Toyota,Tundra SR5,3600,2006,120000,automatic,sedan,like new,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2006-toyota-camry-for/7832998645.html
+Ford,f-150,3500,2005,70072,automatic,sedan,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/coral-springs-2005-ford-taurus/7832997644.html
+Land Rover,discovery sport,75000,1998,186000,manual,SUV,excellent,6,diesel,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-land-rover-defender-90/7832994359.html
+Cadillac,escalade,4000,1969,1,other,coupe,salvage,Unknown,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/lake-worth-1969-cadillac-2dr-coupe/7832993912.html
+Ford,f-150,3500,2006,129000,automatic,pickup,like new,6,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/west-palm-beach-2006-ford-f150-single/7832992385.html
+Ford,f-150,4700,2006,74668,automatic,SUV,good,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-2006-ford-explorer/7832989112.html
+Ram,1500,6900,2018,175000,automatic,pickup,like new,6,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/west-palm-beach-2018-dodge-ram-four/7832985024.html
+Ford,f-150,3200,2004,131000,automatic,van,good,8,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/boynton-beach-2004-ford-original-miles/7832984875.html
+Jeep,grand cherokee limited,4,2015,129000,manual,SUV,good,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-jeep-patriot-2015/7832981951.html
+Chevrolet,Uplander APV Extended Wheelbase,4990,2014,95000,automatic,SUV,like new,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2014-chevrolet-equinox/7832977407.html
+Gmc,Sierra 1 Ton Work Truck,15000,2016,280000,automatic,truck,fair,8,gas,1GD37TCG9G1275580,clean,https://miami.craigslist.org/mdc/cto/d/north-miami-beach-gmc-cavana-box-truck/7832976036.html
+Nissan,altima,5990,2017,134000,automatic,sedan,like new,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2017-nissan-altima/7832975996.html
+Porsche,PANAMERA,26900,2018,93547,automatic,SUV,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2018-porsche-macan-gts/7832973102.html
+Cadillac,escalade,4500,2011,152000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/west-palm-beach-cadillac-dts/7832971748.html
+Kia,sportage,1500,2013,120000,automatic,sedan,salvage,4,gas,5XXGN4A75DG144392,clean,https://miami.craigslist.org/mdc/cto/d/miami-2013-kia-optima/7832970934.html
+Nissan,altima,4950,2014,85000,automatic,sedan,like new,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2014-nissan-altima/7832970798.html
+Chevrolet,Uplander APV Extended Wheelbase,4500,2013,113000,automatic,SUV,like new,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2013-chevrolet-captiva/7832970469.html
+Vw,jetta,5990,2013,145000,automatic,hatchback,like new,4,diesel,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2013-vw-jetta-sportwagen/7832970193.html
+Hyundai,sonata,4500,2011,90000,automatic,sedan,excellent,4,gas,Unknown,rebuilt,https://miami.craigslist.org/brw/cto/d/hollywood-2011-hyundai-elantra-gls-very/7832970093.html
+Cadillac,escalade,8990,2017,56000,automatic,sedan,like new,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2017-cadillac-ats/7832969553.html
+Mercedes-Benz,s550,5500,2005,175300,automatic,coupe,good,6,gas,WDBTJ65J75F124686,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2005-mercedes-benz-clk/7832966954.html
+Jeep,grand cherokee limited,5500,1972,8271,manual,Unknown,Unknown,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-jeep-cj5-1972/7832964512.html
+Honda,pilot,7300,2013,158322,automatic,coupe,like new,4,gas,1HGCT1B83DA001562,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2013-honda-accord-cpe/7832961977.html
+Nissan,altima,6000,2014,105000,automatic,sedan,fair,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2014-nissan-maxima/7832961792.html
+Honda,pilot,11000,2015,113000,automatic,minivan,excellent,6,gas,5FNRL5H90FB008513,rebuilt,https://miami.craigslist.org/brw/cto/d/coral-springs-honda-odyssey-elite-2015/7832958497.html
+Chevrolet,Uplander APV Extended Wheelbase,5300,2012,115211,automatic,sedan,excellent,4,gas,1G1PC5SH5C7117230,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2012-chevrolet-cruze-ls/7832956340.html
+Toyota,Tundra SR5,6200,2011,145112,automatic,sedan,excellent,4,gas,JTDBU4EE3B9168397,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2011-toyota-corolla/7832953438.html
+Dodge,ram 2500 4x4,8500,2013,119000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hollywood-2013-dodge-durango/7832953299.html
+Ford,f-150,34000,2021,82500,automatic,pickup,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-beach-2021-ford-f150-lariat-sport/7832950389.html
+Acura,tl,10900,2013,101000,automatic,sedan,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-acura-ilx-20-premium/7832943588.html
+Gmc,Sierra 1 Ton Work Truck,17000,2015,146000,manual,pickup,good,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/coral-springs-2015-gmc-sierra-1500-slt/7832943234.html
+Honda,pilot,15000,2018,44100,automatic,SUV,like new,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/north-miami-beach-2018-honda-hr/7832942793.html
+Chrysler,300 300c,11900,2014,56990,automatic,van,excellent,6,gas,2C4RC1BGXER132890,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2014-chrysler-town-country/7832941749.html
+Nissan,altima,26500,1996,56670,manual,Unknown,excellent,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-nissan-skyline-r33-type/7832937659.html
+Acura,tl,13500,2013,101000,automatic,SUV,like new,6,gas,2HNYD2H65DH523053,clean,https://miami.craigslist.org/mdc/cto/d/miami-2013-acura-mdx-suv-downpayment/7832935614.html
+Acura,tl,5999,2006,124000,automatic,sedan,like new,6,gas,JH4KB16546C004327,clean,https://miami.craigslist.org/mdc/cto/d/miami-2006-acura-rl-one-owner-clean/7832933504.html
+Fiat,500 Pop,4999,2013,87000,manual,hatchback,like new,4,gas,3C3CFFHH7DT629275,clean,https://miami.craigslist.org/mdc/cto/d/miami-2013-fiat-500-turbo-clean-title/7832931902.html
+Chevrolet,Uplander APV Extended Wheelbase,3299,2004,105000,automatic,sedan,like new,4,gas,1G1ZS52F74F239489,clean,https://miami.craigslist.org/mdc/cto/d/miami-2004-chevrolet-malibu-clean-title/7832931066.html
+Porsche,PANAMERA,17999,2016,131000,automatic,SUV,excellent,6,gas,WP1AA2A29GLA09851,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2016-porsche-cayenne/7832926965.html
+Chrysler,300 300c,6200,2006,76000,automatic,van,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/west-palm-beach-runs-excellent-ams/7832924692.html
+Ford,f-150,15500,2019,98200,automatic,pickup,like new,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/homestead-2019-ford-f150-xl-clean-title/7832920560.html
+Chevrolet,Uplander APV Extended Wheelbase,4600,2013,67000,automatic,wagon,good,4,gas,Unknown,salvage,https://miami.craigslist.org/mdc/cto/d/miami-chevrolet-cruze-2013-listo-para/7832918483.html
+Mercedes-Benz,s550,4500,2007,149000,automatic,sedan,excellent,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2007-mercedes-benz-e350/7832917915.html
+Ford,f-150,5400,1996,233000,automatic,truck,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-ford-ecoline-e350-box-truck/7832917912.html
+Toyota,Tundra SR5,3800,2005,180000,automatic,SUV,good,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2005-toyota-highlander/7832917365.html
+Mini,Cooper,3500,2010,119000,manual,hatchback,good,4,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/west-palm-beach-2010-mini-cooper/7832912546.html
+Nissan,altima,3000,2005,113030,automatic,sedan,good,4,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/west-palm-beach-2005-nissan-altima-3k/7832900713.html
+Nissan,altima,7500,2018,61235,automatic,sedan,excellent,4,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-for-sale-nissan-sentra-sv-2018/7832899704.html
+Maserati,levante,23000,2018,61000,automatic,SUV,like new,6,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-maserati-levante-2018/7832896883.html
+Toyota,Tundra SR5,37000,2022,15200,automatic,pickup,like new,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-toyota-tundra-2022/7832896617.html
+Chevy,s10,7500,2014,121180,automatic,SUV,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2014-chevy-equinox-ltz/7832888026.html
+Alfa Romeo,giulia,15950,2018,63332,automatic,sedan,excellent,4,gas,ZARFAECNXJ7566449,clean,https://miami.craigslist.org/mdc/cto/d/homestead-alfa-romeo/7832887106.html
+Chevrolet,Uplander APV Extended Wheelbase,10900,1989,160000,manual,Unknown,excellent,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-1989-chevrolet-1500/7832886480.html
+Honda,pilot,3750,2007,250000,automatic,Unknown,good,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2007-honda-element-ex/7832885579.html
+Honda,pilot,13500,2019,54110,automatic,SUV,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2019-honda-hr-lx/7832884812.html
+Ford,f-150,4850,2002,185000,automatic,pickup,Unknown,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-ford-ranger-xlt-v6/7832883826.html
+Toyota,Tundra SR5,3700,2004,152180,automatic,minivan,good,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2004-toyota-sienna-by/7832883360.html
+Honda,pilot,4999,2009,152000,automatic,hatchback,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-honda-fit-sport/7832883263.html
+Mini,Cooper,11000,2015,50800,automatic,hatchback,like new,4,gas,WMWXP7C58F2A42486,clean,https://miami.craigslist.org/mdc/cto/d/miami-2015-mini-cooper-like-new/7832877046.html
+Lexus,rx350,17900,2008,147000,automatic,SUV,excellent,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/delray-beach-lexus-gx470-service-history/7832874711.html
+Mercedes,benz sl500,31500,2016,70000,automatic,coupe,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/port-saint-lucie-2016-mercedes-benz/7832874240.html
+Audi,s5,44300,2022,32932,automatic,convertible,like new,6,gas,WAU24GF59NN006525,clean,https://miami.craigslist.org/pbc/cto/d/delray-beach-2022-audi-s5-premium/7832872784.html
+Nissan,altima,12995,1986,123118,manual,hatchback,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-1986-nissan-300zx-tops/7832868271.html
+Nissan,altima,4900,2008,170000,automatic,Unknown,Unknown,8,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2008-nissan-armada-suv/7832868044.html
+Volvo,v70,20000,2010,1118514,manual,truck,fair,6,diesel,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/fort-pierce-2010-tractor-and-dry-van/7832866984.html
+Gmc,Sierra 1 Ton Work Truck,8000,2010,174000,automatic,pickup,good,8,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2010-gmc-sierra-ice-cold-ac-runs/7832866842.html
+Kia,sportage,1300,2008,180000,automatic,sedan,Unknown,4,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/lake-worth-drive-good-cold-ac/7832857279.html
+Cadillac,escalade,4000,2011,90000,automatic,SUV,good,6,gas,3GYFNAEY3BS595304,clean,https://miami.craigslist.org/mdc/cto/d/miami-2011-cadillac-srx-with-90k-miles/7832855744.html
+Toyota,Tundra SR5,12000,2007,170000,automatic,SUV,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-one-owner-low-miles/7832854972.html
+Nissan,altima,7500,2014,89000,automatic,SUV,like new,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2014-nissan-rogue/7832850935.html
+Mazda,3,10000,2016,62980,automatic,SUV,like new,4,gas,Unknown,rebuilt,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2016-mazda-cx5/7832850205.html
+Bmw,430i,7500,2015,169000,automatic,sedan,fair,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2015-bmw-535i/7832849044.html
+Honda,pilot,7500,2014,117000,automatic,Unknown,like new,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-honda-civic/7832847457.html
+Nissan,altima,15500,2021,57700,automatic,hatchback,like new,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2021-nissan-kicks/7832847345.html
+Infiniti,qx56,14999,2017,56000,automatic,sedan,like new,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2017-infiniti-q50-awd/7832847235.html
+Nissan,altima,14999,2021,58300,automatic,sedan,like new,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2021-nissan-sentra/7832847127.html
+Nissan,altima,13999,2021,60000,automatic,sedan,like new,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2021-nissan-versa/7832847012.html
+Porsche,PANAMERA,49900,2007,70200,automatic,Unknown,excellent,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-beach-porsche-cayman-34-custom/7832844738.html
+Toyota,Tundra SR5,13975,2014,111086,automatic,SUV,excellent,4,gas,2T3WFREV7EW083222,clean,https://miami.craigslist.org/mdc/cto/d/miami-2014-toyota-rav4-xle-blue-tooth/7832839761.html
+Mazda,3,5400,2008,149304,automatic,convertible,excellent,4,gas,JM1NC26F880145206,clean,https://miami.craigslist.org/pbc/cto/d/boca-raton-2008-mazda-miata-mx5/7832837730.html
+Cadillac,escalade,4500,2002,118000,automatic,SUV,good,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/deerfield-beach-2002-cadillac-escalade/7832837686.html
+Lincoln,town car executive,9800,2016,75000,automatic,SUV,excellent,6,gas,2LMTJ8LR4GBL69780,clean,https://miami.craigslist.org/pbc/cto/d/boca-raton-2016-lincoln-mkx-reserve-75k/7832837459.html
+Toyota,Tundra SR5,3995,1999,68000,automatic,sedan,like new,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-1999-toyota-corolla-le/7832837066.html
+Dodge,ram 2500 4x4,2900,2012,170000,automatic,sedan,excellent,6,gas,Unknown,rebuilt,https://miami.craigslist.org/pbc/cto/d/boca-raton-2012-dodge-avenger/7832837051.html
+Ford,f-150,12800,2014,118000,automatic,pickup,excellent,8,gas,1FTFX1EF0EKE61980,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2014-ford-f150-extended/7832835406.html
+Toyota,Tundra SR5,5795,2009,121000,automatic,wagon,like new,4,gas,2T1KU40E39C126856,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2009-toyota-matrix-le/7832835161.html
+Ford,f-150,9800,2016,88000,automatic,pickup,excellent,6,gas,1FTEX1CPXGFB51032,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2016-ford-f150-extcab/7832835022.html
+Vw,jetta,15900,2015,29069,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/coral-gables-2015-volkswagen-gti/7832830383.html
+Nissan,altima,9500,2019,39000,automatic,SUV,like new,4,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2019-nissan-rogue/7832823730.html
+Gmc,Sierra 1 Ton Work Truck,4900,2006,216123,automatic,van,excellent,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/deerfield-beach-2006-gmc-savanna-3500/7832823313.html
+Mercedes,benz sl500,8500,2007,96000,automatic,sedan,good,8,gas,WDDNG71X37A066350,clean,https://miami.craigslist.org/pbc/cto/d/boynton-beach-mercedes-s550-only-96k/7832822259.html
+Nissan,altima,6900,2016,119000,automatic,SUV,like new,4,gas,KNMAT2MT5GP627984,clean,https://miami.craigslist.org/mdc/cto/d/miami-2016-nissan-rogue/7832821372.html
+Chevrolet,Uplander APV Extended Wheelbase,9450,2020,44000,automatic,SUV,like new,4,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2020-chevrolet-trax/7832819748.html
+Chevrolet,Uplander APV Extended Wheelbase,10500,2020,29000,automatic,SUV,like new,4,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2020-chevrolet-trax/7832819070.html
+Nissan,altima,10500,2021,29000,automatic,sedan,like new,4,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2021-nissan-sentra/7832818664.html
+Buick,Enclave CXL,1800,2007,151406,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/west-palm-beach-2007-buick-rendezvous/7832813835.html
+Lincoln,town car executive,4650,1999,101274,automatic,Unknown,good,8,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/port-salerno-lincoln-continental/7832813586.html
+Mitsubishi,eclipse,2900,2012,195000,automatic,sedan,fair,4,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/west-palm-beach-2012-mitsubishi-galant/7832813220.html
+Chevrolet,Uplander APV Extended Wheelbase,6900,2008,220000,automatic,SUV,Unknown,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-chevrolet-suburban-z71/7832810500.html
+Honda,pilot,9500,2017,128000,automatic,sedan,new,Unknown,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2017-honda-accord-sport-likenew/7832804527.html
+Bmw,430i,8500,2012,112320,automatic,SUV,good,6,gas,5UXZV4C53CL766300,clean,https://miami.craigslist.org/pbc/cto/d/west-palm-beach-2012-bmw-x5-35i-great/7832802498.html
+Bmw,430i,9999,2015,115105,automatic,SUV,like new,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/west-palm-beach-2015-bmw-x5-awd-xdrive/7832797744.html
+Mercedes-Benz,s550,10500,2015,144000,automatic,SUV,like new,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/coral-springs-mercedes-benz-ml-350-sport/7832796860.html
+Honda,pilot,9300,2015,133000,automatic,SUV,like new,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/coral-springs-2015-honda-crv/7832796739.html
+Mazda,3,10300,2015,123000,automatic,SUV,like new,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/coral-springs-2015-mazda-cx-grand/7832796362.html
+Jaguar,XF 3.0 Portfolio,11800,2011,73358,automatic,sedan,like new,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-jaguar-xjl-clean-title/7832784840.html
+Bmw,430i,9500,2013,76896,automatic,sedan,like new,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-bmw-528i-xdrive-clean/7832784801.html
+Jeep,grand cherokee limited,8700,2019,99800,automatic,SUV,excellent,4,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2019-jeep-renegade-private-sale/7832779106.html
+Chrysler,300 300c,4900,2008,146305,automatic,sedan,excellent,8,gas,2C3KA63H58H320971,clean,https://miami.craigslist.org/brw/cto/d/margate-2008-chrysler-300-hemi-57l-v8/7832777704.html
+Plymouth,pb,25500,1932,55000,manual,convertible,good,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/prescott-valley-1932-plymouth-pb-rs/7832773699.html
+Cadillac,escalade,21750,1978,56000,automatic,coupe,excellent,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-1978-cadillac-eldorado/7832759230.html
+Chevrolet,Uplander APV Extended Wheelbase,5500,2017,80000,automatic,SUV,excellent,Unknown,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2017-chevrolet-trax/7832757642.html
+Hyundai,sonata,11500,2020,38700,automatic,sedan,good,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hollywood-2020-hyundai-elantra-se/7832752487.html
+Honda,pilot,14900,2018,68500,automatic,sedan,good,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hollywood-2018-honda-accord-ex/7832751231.html
+Volkswagen,Tiguan w/ Auto,1995,2010,198999,automatic,sedan,good,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2010-volkswagen-jetta/7832749169.html
+Volkswagen,Tiguan w/ Auto,4900,2008,98000,automatic,Unknown,excellent,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2008-volkswagen-beetle/7832748097.html
+Audi,s5,21000,2018,28000,automatic,SUV,excellent,4,gas,Unknown,lien,https://miami.craigslist.org/mdc/cto/d/miami-beach-audi-q5-only-miles-awd-2018/7832747045.html
+Volvo,v70,3490,1998,88000,automatic,sedan,excellent,5,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-1998-volvo-s70-glt/7832745598.html
+Vw,jetta,12500,2018,118000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2018-vw-atlas-suv/7832745329.html
+Chevrolet,Uplander APV Extended Wheelbase,17995,1997,85000,automatic,other,excellent,8,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/stokesdale-1997-chevrolet-camaro/7832743950.html
+Ford,f-150,4000,2008,132864,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/lake-worth-2008-ford-escape-xlt-sport/7832734294.html
+Cadillac,escalade,2700,2006,216000,automatic,sedan,good,6,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/lake-worth-cts-for-sale/7832733853.html
+Honda,pilot,4900,2012,240000,automatic,minivan,like new,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/coral-springs-need-to-sell-2012-honda/7832730662.html
+Chevrolet,Uplander APV Extended Wheelbase,8600,2019,85400,automatic,SUV,new,4,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2019-chevrolet-equinox-black/7832728160.html
+Ford,f-150,8500,2020,66000,automatic,SUV,excellent,Unknown,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2020-ford-ecosport/7832724286.html
+Hyundai,sonata,4500,2014,124817,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/lake-worth-2014-hyundai-sonata-hybrid/7832722942.html
+Isuzu,F7 7000 Series Medium Duty,14499,2001,321542,manual,truck,fair,6,diesel,4GTJ7C1371J700053,clean,https://miami.craigslist.org/mdc/cto/d/homestead-2001-isuzu-ftr-obo/7832722430.html
+Ford,f-150,4999,2001,240105,automatic,van,fair,6,gas,1FBSS31L92HA32841,clean,https://miami.craigslist.org/mdc/cto/d/homestead-2001-ford-150-van-obo/7832722254.html
+Chevrolet,Uplander APV Extended Wheelbase,13900,2019,54000,automatic,SUV,excellent,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2019-chevrolet-traverse/7832722102.html
+Dodge,ram 2500 4x4,28500,2021,41000,automatic,truck,excellent,8,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/homestead-dodge-ram-1500/7832721862.html
+Ford,f-150,5000,2014,120000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2014-ford-escape/7832717340.html
+Toyota,Tundra SR5,12975,2018,43048,automatic,sedan,excellent,4,gas,3MYDLBYV7JY316735,clean,https://miami.craigslist.org/mdc/cto/d/miami-2018-toyota-yaris-ia-43k-miles/7832717204.html
+Hyundai,sonata,4500,2013,143000,automatic,sedan,good,4,hybrid,KMHEC4A4XDA098536,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2013-hyundai-sonata-hybrid/7832715553.html
+Mercedes-Benz,s550,10500,1995,167000,automatic,convertible,good,6,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/deer-park-1995-mercedes-class-e320/7832714139.html
+Cadillac,escalade,32900,2012,60000,automatic,Unknown,excellent,8,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/homestead-cadillac-cts/7832713842.html
+Hyundai,sonata,11500,2020,80000,automatic,SUV,like new,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2020-hyundai-kona-sel/7832708932.html
+Jeep,grand cherokee limited,12000,2014,105000,automatic,SUV,excellent,6,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2014-jeep-wrangler-unlimited/7832708307.html
+Chevy,s10,4500,2016,80000,automatic,hatchback,good,4,gas,Unknown,rebuilt,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2016-chevy-spark-great/7832708088.html
+Chevy,s10,12500,1991,44000,manual,coupe,good,8,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-1991-chevy-camaro-rs/7832705580.html
+For,Torres limited,4000,2008,177755,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/west-palm-beach-2008-ford-taurus-limited/7832701463.html
+Chevy,s10,4000,2000,264000,automatic,SUV,Unknown,Unknown,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/homestead-chevy-suburban-ls-1500/7832698261.html
+Bmw,430i,11500,2015,88000,automatic,SUV,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/boca-raton-2015-bmw-x3-sdrive28i-sport/7832697662.html
+Hyundai,sonata,10000,2015,123398,automatic,sedan,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/north-palm-beach-2015-genesis-by-owner/7832696528.html
+Freightliner,cascadia,9500,2006,1100000,manual,truck,fair,Unknown,diesel,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-freightliner/7832696521.html
+Chevy,s10,29500,2014,113700,manual,coupe,excellent,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2014-chevy-corvette-z51/7832694066.html
+Mazda,3,3000,2003,100000,manual,coupe,Unknown,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2003-mazad-protege-manual/7832686188.html
+Ford,f-150,3999,2004,199854,automatic,hatchback,Unknown,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2004-ford-expadition-xlt/7832685774.html
+Dodge,ram 2500 4x4,8900,2013,157000,automatic,pickup,good,8,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/delray-beach-2013-dodge-ram-hemi-4x4/7832681949.html
+Nissan,altima,8900,2015,119000,automatic,SUV,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/delray-beach-2015-nissan-nv200-cargo/7832681815.html
+Mazda,3,4700,2012,120000,automatic,sedan,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/delray-beach-2012-mazda-touring-clean/7832681528.html
+Chevrolet,Uplander APV Extended Wheelbase,36000,2020,18000,automatic,pickup,like new,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2020-chevrolet-silverado/7832681421.html
+Mercedes,benz sl500,8900,2014,121000,automatic,SUV,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/delray-beach-2014-mercedes-glk-clean/7832681333.html
+Toyota,Tundra SR5,8800,2015,87000,automatic,sedan,like new,4,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2015-toyota-corolla-le/7832680613.html
+Toyota,Tundra SR5,1800,2004,203000,automatic,sedan,good,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-toyota-corolla-2004-mechanic/7832678626.html
+Bmw,430i,3800,2011,187000,automatic,Unknown,good,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/dania-bmw-535-ix-drive-2011-for-sale/7832675060.html
+Mercedes-Benz,s550,17500,2014,109601,automatic,van,fair,6,diesel,WD3PE7CCXE5836384,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2014-mercedes-benz/7832669885.html
+Chevrolet,Uplander APV Extended Wheelbase,7800,1962,16,manual,pickup,good,6,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/west-palm-beach-chevrolet/7832668156.html
+Toyota,Tundra SR5,2950,2006,120000,automatic,sedan,good,Unknown,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-toyota-corolla-2006-in-good/7832665578.html
+Kia,sportage,4500,2014,131982,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/lake-worth-2014-kia-forte-lx/7832655358.html
+Honda,pilot,4500,2008,128543,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/lake-worth-2008-honda-accord-ex/7832653636.html
+Bmw,430i,4500,2012,120000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-bmw-550i-sport-private/7832652052.html
+Chevrolet,Uplander APV Extended Wheelbase,8000,2016,92000,automatic,sedan,like new,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/north-miami-beach-chevrolet-malibu-lt/7832649745.html
+Toyota,Tundra SR5,18998,2011,142600,automatic,pickup,excellent,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2011-toyota-tundra-sr5/7832645010.html
+Mini,Cooper,6500,2011,72,manual,hatchback,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2011-mini-cooper-no/7832642792.html
+Ford,f-150,4800,2013,123994,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/lake-worth-2013-ford-taurus-limited/7832639597.html
+Ford,f-150,5550,2009,173000,automatic,pickup,good,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2009-ford-obo/7832637840.html
+Ford,f-150,13900,2023,16000,automatic,SUV,like new,3,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2023-ford-escape-active/7832633530.html
+Bmw,430i,9000,2011,100000,automatic,convertible,like new,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2011-bmw-335i-convertible/7832632682.html
+Porsche,PANAMERA,12000,2017,200000,automatic,SUV,excellent,6,hybrid,Unknown,clean,https://miami.craigslist.org/brw/cto/d/coral-springs-porsche-cayenne-hybrid/7832627461.html
+Ram,1500,70000,2015,104088,automatic,pickup,excellent,6,diesel,3C7WRNBLXFG706095,clean,https://miami.craigslist.org/brw/cto/d/deerfield-beach-2015-ram-5500-altec-41m/7832616622.html
+Fiat,500 Pop,5500,2013,140000,automatic,coupe,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2013-fiat-leather-seats/7832614220.html
+Chrysler,300 300c,4700,2012,106000,automatic,sedan,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-2012-chrysler-200/7832613003.html
+Gmc,Sierra 1 Ton Work Truck,4700,2010,129000,automatic,SUV,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-2010-gmc-acadia-sl/7832612788.html
+Chevy,s10,37000,2023,6600,automatic,SUV,excellent,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/north-miami-beach-chevy-blazer/7832611465.html
+Jeep,grand cherokee limited,7900,2000,1000,manual,Unknown,good,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-beach-2000-jeep-wrangler-sport/7832611118.html
+Ford,f-150,3900,2013,173000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/west-palm-beach-2013-ford-escape/7832611088.html
+Scion,tc release series,3500,2012,91000,manual,hatchback,excellent,4,gas,Unknown,rebuilt,https://miami.craigslist.org/pbc/cto/d/west-palm-beach-2012-scion-tc-release/7832600832.html
+Scion,tc release series,6600,2010,63100,automatic,Unknown,good,4,gas,JTLZE4FE2A1113998,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2010-scion-xb-70/7832600569.html
+Lexus,rx350,22000,2006,143000,automatic,SUV,excellent,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/deerfield-beach-lexus-lx/7832599097.html
+Cadillac,escalade,5800,2010,76665,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/boca-raton-2010-cadillac-srx-sport/7832593432.html
+Chevrolet,Uplander APV Extended Wheelbase,4500,2015,222072,automatic,truck,like new,Unknown,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/fort-lauderdale-trucks-for-sale/7832593038.html
+Ford,f-150,4500,2015,222072,automatic,truck,like new,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/fort-lauderdale-from-4500/7832591363.html
+Ford,f-150,10000,2005,234000,automatic,truck,excellent,8,diesel,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2005-ford-f250-4x4/7832590476.html
+Toyota,Tundra SR5,12900,2015,142100,automatic,sedan,good,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-toyota-camry-se/7832586472.html
+Dodge,ram 2500 4x4,4500,2012,126661,automatic,minivan,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/boca-raton-2012-dodge-grand-caravan/7832584172.html
+Toyota,Tundra SR5,12900,2015,142100,automatic,sedan,good,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2015-camry-se/7832581903.html
+Dodge,ram 2500 4x4,5300,2016,103921,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/boca-raton-2016-dodge-journey-se/7832579051.html
+Nissan,altima,5700,2014,114293,automatic,SUV,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/miami-2014-nissan-murano-sv/7832578571.html
+Lexus,rx350,34500,2023,18000,automatic,SUV,like new,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-lexus-nx-clean-title/7832578065.html
+Toyota,Tundra SR5,10000,2018,87000,automatic,sedan,like new,4,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-toyota-corolla-le/7832577912.html
+Mercedes-Benz,s550,23500,2019,43000,automatic,SUV,excellent,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pembroke-pines-2019-mercedes-glc-300/7832576959.html
+Toyota,Tundra SR5,21900,2022,30000,automatic,pickup,like new,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-toyota-tacoma-sr-access/7832575942.html
+Nissan,altima,5000,2009,124630,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/boca-raton-2009-nissan-pathfinder/7832575410.html
+Jaguar,XF 3.0 Portfolio,123000,1967,41600,manual,convertible,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/columbus-1967-jaguar-series-e-type/7832570430.html
+Mazda,3,6000,2014,168000,automatic,sedan,good,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-mazda-touring/7832570140.html
+Mercedes-Benz,s550,9500,2016,118000,automatic,SUV,good,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-2016-mercedes-benz-gl-450/7832563944.html
+5700Xe,Unknown,35000,2017,614000,manual,truck,good,Unknown,diesel,Unknown,clean,https://miami.craigslist.org/brw/cto/d/coral-springs-western-star/7832561045.html
+Ford,f-150,11500,1994,90000,automatic,coupe,good,8,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/boynton-beach-1994-mustang-cobra-347ci/7832559862.html
+Hyundai,sonata,4700,2009,44500,automatic,Unknown,excellent,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2009-hyundai-accent-gs/7832556567.html
+Kia,sportage,10500,2017,110000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2017-kia-sorento-sxl-owner/7832555150.html
+Jaguar,XF 3.0 Portfolio,5000,2007,76475,automatic,sedan,excellent,8,gas,SAJWA82B17SH15036,rebuilt,https://miami.craigslist.org/pbc/cto/d/boca-raton-2007-jaguar-vandenplas/7832552689.html
+Gmc,Sierra 1 Ton Work Truck,21500,2018,134500,automatic,van,excellent,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2018-gmc-savana-3500/7832552512.html
+International,4300,35000,2004,220,automatic,truck,excellent,8,diesel,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/fort-pierce-30-international-16-gmc/7832547474.html
+Mercedes-Benz,s550,9500,2012,271000,automatic,van,Unknown,Unknown,diesel,Unknown,clean,https://miami.craigslist.org/brw/cto/d/coral-springs-2012-mercedes-benz/7832545418.html
+Dodge,ram 2500 4x4,2000,2006,200000,automatic,van,Unknown,Unknown,diesel,Unknown,clean,https://miami.craigslist.org/brw/cto/d/coral-springs-2006-sprinter-2500-dodge/7832534749.html
+In,Unknown,21000,2007,425000,automatic,truck,Unknown,Unknown,diesel,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2007-international-4300-dt466/7832520928.html
+Mercedes,benz sl500,10995,2011,92,automatic,SUV,like new,8,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/saint-petersburg-2011-mercedes-ml550/7832516008.html
+Chevy,s10,8000,2014,112345,automatic,coupe,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2014-chevy-camaro/7832510569.html
+Jaguar,XF 3.0 Portfolio,15000,2005,68000,automatic,coupe,excellent,8,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2005-jaguar-xkr-coupe/7832491826.html
+Volkswagen,Tiguan w/ Auto,6800,2010,153,automatic,hatchback,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-volkswagen-new-beetle/7832481288.html
+Hino,Conventional Type Truck,32800,2019,216000,automatic,truck,excellent,Unknown,diesel,5PVNJ8JV0K4S72958,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2019-hino-ft-lift/7832476687.html
+International,4300,16800,2006,,automatic,truck,excellent,Unknown,diesel,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/opa-locka-international-2006/7832470445.html
+Nissan,altima,10000,2010,94245,automatic,pickup,good,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2010-nissan-frontier-se-door/7832467779.html
+Chevrolet,Uplander APV Extended Wheelbase,5995,2018,60000,automatic,sedan,excellent,4,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/homestead-2018-chevrolet-malibu-lt/7832466374.html
+Freightliner,cascadia,14800,2005,239786,automatic,truck,excellent,Unknown,diesel,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-freighliner-m2-2005/7832463759.html
+Ford,f-150,7000,2012,300000,automatic,Unknown,good,Unknown,diesel,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/homestead-ford-250/7832462472.html
+Ford,f-150,15500,2018,101000,automatic,pickup,like new,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/homestead-2018-ford-f150-xl-clean-title/7832462458.html
+Nissan,altima,10500,2020,51000,automatic,SUV,like new,Unknown,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-nissan-pathfinder-2020/7832461797.html
+Volvo,v70,5500,2008,152217,automatic,SUV,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2008-volvo-xc70/7832442668.html
+Bmw,430i,6000,2007,141000,automatic,sedan,good,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-bmw-335i-2007/7832441998.html
+Mercedes-Benz,s550,1400,2002,122000,automatic,sedan,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2002-mercedes-benz-240-elegance/7832436852.html
+Honda,pilot,17500,2024,11799,automatic,SUV,like new,4,gas,3CZRZ1H50RM748724,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2024-honda-hrv/7832434847.html
+Tesla,MODEL X,24500,2022,25709,automatic,sedan,excellent,Unknown,electric,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2022-tesla-model-rwd-one-owner-no/7832432351.html
+Chrysler,300 300c,3300,2005,145854,automatic,Unknown,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2005-chrysler-sebring/7832425415.html
+Honda,pilot,26000,2019,19574,manual,sedan,Unknown,4,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/boynton-beach-2019-honda-accord/7832416110.html
+Cadillac,escalade,7995,2015,94899,automatic,sedan,like new,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/coral-springs-2015-cadillac-ats-luxury/7832413693.html
+Toyota,Tundra SR5,6500,2015,211451,automatic,hatchback,Unknown,Unknown,hybrid,Unknown,clean,https://miami.craigslist.org/brw/cto/d/coral-springs-2015-toyota-prius-four/7832413239.html
+Buick,Enclave CXL,4500,2001,61308,automatic,sedan,like new,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/coral-springs-2001-buick-century-custom/7832412836.html
+Ford,f-150,6100,2011,220000,automatic,SUV,good,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hollywood-ford-explorer-2011/7832402306.html
+Chevrolet,Uplander APV Extended Wheelbase,65000,1957,12000,automatic,sedan,good,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/west-palm-beach-1957-chevrolet-150/7832401538.html
+Chevrolet,Uplander APV Extended Wheelbase,65000,1957,12000,automatic,sedan,good,Unknown,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/west-palm-beach-1957-chevrolet-150/7832401136.html
+Dodge,ram 2500 4x4,20000,2011,310000,automatic,Unknown,good,Unknown,diesel,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/boynton-beach-2011-ram-2500-mega-cab/7832399086.html
+Honda,pilot,6800,2013,142000,automatic,sedan,like new,4,hybrid,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2013-honda-civic-hybrid/7832398581.html
+Toyota,Tundra SR5,9900,2014,191000,automatic,pickup,good,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-toyota-tacoma-access-cab/7832398135.html
+Honda,pilot,2000,2008,155009,automatic,SUV,fair,6,gas,5FNYF28498B004291,clean,https://miami.craigslist.org/mdc/cto/d/miami-2008-honda-pilot/7832396094.html
+Chevrolet,Uplander APV Extended Wheelbase,6000,2018,234000,automatic,van,good,6,gas,Unknown,lien,https://miami.craigslist.org/pbc/cto/d/delray-beach-chevy-van/7832379381.html
+Mercedes-Benz,s550,6500,2005,57000,automatic,coupe,excellent,8,gas,WDBTJ75J35F159828,clean,https://miami.craigslist.org/pbc/cto/d/west-palm-beach-2005-mercedes-benz-clk/7832378262.html
+Bmw,430i,6500,2009,173315,automatic,sedan,fair,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/homestead-2009-bmw-series/7832373789.html
+Toyota,Tundra SR5,3500,2004,150000,automatic,other,good,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2004-toyota-camry/7832365596.html
+Chevy,s10,9500,2020,65000,automatic,sedan,like new,4,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2020-chevy-malibu-lt/7832365328.html
+Chrysler,300 300c,4000,2013,148000,automatic,minivan,like new,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2013-chrysler-town-country/7832361247.html
+Ford,f-150,16000,1937,300,automatic,sedan,excellent,8,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-1937-ford-sedan-suicide-doors/7832360912.html
+Dodge,ram 2500 4x4,2000,1995,128538,automatic,pickup,fair,8,gas,1B7HF16Y2SS138067,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-truck-for-sale/7832359877.html
+Chrysler,300 300c,1200,2010,1500,automatic,Unknown,good,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2010-chrysler-sebring-for/7832357270.html
+Toyota,Tundra SR5,7700,2007,152820,automatic,SUV,good,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-toyota-rav-sport/7832357077.html
+Ford,f-150,12500,2002,120000,automatic,Unknown,good,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hollywood-2002-ford-f150-svt-lightning/7832355126.html
+94,Freightliner,10000,1994,1100000,manual,Unknown,Unknown,Unknown,diesel,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/fort-myers-great-deal/7832347364.html
+Ford,f-150,24000,2005,69000,automatic,pickup,like new,Unknown,diesel,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2005-ford-f250-king-ranch-diesel/7832347237.html
+Lexus,rx350,6700,2002,88859,automatic,sedan,good,6,gas,JTHBF30G820016762,clean,https://miami.craigslist.org/pbc/cto/d/boca-raton-2002-lexus-es300/7832344856.html
+Oldsmobile,Ninety Eight,14500,1973,9808,automatic,sedan,like new,8,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-oldsmobile-ninety-eight-regency/7832335884.html
+Toyota,Tundra SR5,3500,2007,179000,automatic,sedan,excellent,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2007-toyota-avalon/7832335578.html
+Cars,trucks vans SUV,1000,2026,10000,automatic,sedan,good,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-pay-cash-for-unwanted-vehicles/7832333683.html
+Nissan,altima,4200,2012,130000,automatic,sedan,good,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hallandale-nissan-altima/7832332912.html
+Chevy,s10,33500,2019,40000,automatic,truck,like new,8,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2019-chevy-silverado-1500-rst/7832331937.html
+Mazda,3,9500,2017,107154,automatic,SUV,like new,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2017-mazda-cx/7832326678.html
+Honda,pilot,3999,2008,212000,automatic,SUV,good,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2008-honda-pilot-with/7832323632.html
+Chevrolet,Uplander APV Extended Wheelbase,3999,2008,198000,automatic,SUV,good,8,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-2008-chevy-tahoe-lt/7832321441.html
+Toyota,Tundra SR5,5500,2014,192000,automatic,sedan,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/homestead-2014-toyota-corolla/7832320366.html
+Toyota,Tundra SR5,6595,2011,118000,automatic,sedan,like new,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2011-toyota-camry-le/7832315416.html
+Bmw,430i,6700,2011,104700,automatic,convertible,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/margate-2011-bmw-328i-convertible-blk/7832306706.html
+Honda,pilot,12900,2018,22875,automatic,sedan,excellent,Unknown,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2018-honda-civic/7832306276.html
+Ram,1500,6750,2004,170000,automatic,pickup,like new,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/margate-2004-dodge-ram-1500-quad-brand/7832306163.html
+Kia,sportage,13900,2020,32146,automatic,sedan,excellent,Unknown,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2020-kia-forte/7832306034.html
+Ford,f-150,22900,2019,71226,automatic,van,excellent,Unknown,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2019-ford-transit-350-van/7832305836.html
+Mazda,3,13900,2022,32000,automatic,sedan,excellent,4,gas,Unknown,salvage,https://miami.craigslist.org/mdc/cto/d/hialeah-mazda/7832305454.html
+Ford,f-150,14500,2019,75000,automatic,SUV,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/lake-worth-2019-ford-edge-titanium/7832302075.html
+Nissan,altima,4250,2004,142500,manual,pickup,fair,4,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/west-palm-beach-nissan-frontier/7832301902.html
+Bmw,430i,9500,2013,76896,automatic,sedan,like new,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-bmw-528i-xdrive-clean/7832299601.html
+Ford,f-150,8500,2001,102143,automatic,truck,good,8,gas,1FDWE35L81HA35402,clean,https://miami.craigslist.org/pbc/cto/d/boynton-beach-2001-ford-14ft-box-truck/7832298606.html
+Mercedes,benz sl500,1990,2003,138200,automatic,sedan,good,8,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2003-mercedes-benz-e500-sport/7832297271.html
+Dodge,ram 2500 4x4,4200,2005,182000,automatic,truck,good,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-05-dodge-ram-1500-slt-57l/7832290951.html
+Honda,pilot,4200,2008,120000,automatic,sedan,like new,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/homestead-rebuild/7832288933.html
+Hyundai,sonata,5900,2013,135138,automatic,Unknown,excellent,Unknown,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2013-hyundai-elantra-gls/7832285884.html
+Chevrolet,Uplander APV Extended Wheelbase,12000,2018,81457,automatic,Unknown,excellent,Unknown,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2018-chevrolet-equinox-ls/7832281527.html
+Cadillac,escalade,3000,1983,65000,automatic,Unknown,good,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-cadillac-fleetwood-1983-antique/7832278288.html
+Ford,f-150,1750,1996,139000,automatic,pickup,good,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-1996-ford-f150-xl-standard-cab/7832276312.html
+Dodge,ram 2500 4x4,29900,1971,999,automatic,Unknown,excellent,8,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-1971-dodge-demon-4-mile-race/7832272102.html
+Toyota,Tundra SR5,6295,2012,149000,automatic,sedan,like new,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2012-toyota-corolla/7832264928.html
+Nissan,altima,4000,2009,110000,automatic,SUV,good,4,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/west-palm-beach-nissan-rogue/7832264094.html
+Alfa Romeo,giulia,14000,1996,79705,manual,Unknown,Unknown,4,gas,ZAR91600006015288,clean,https://miami.craigslist.org/brw/cto/d/margate-1996-alfa-romeo-spider/7832263597.html
+Kia,sportage,12000,2018,93765,automatic,minivan,good,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-kia-sedona-ex-2018/7832261647.html
+Chevy,s10,38000,2023,6600,automatic,SUV,excellent,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/north-miami-beach-chevy-blazer/7832260333.html
+Ford,f-150,8450,2012,79000,automatic,pickup,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2012-ford-150-white-only-miles/7832259458.html
+Mitsubishi,eclipse,4750,2010,115000,automatic,sedan,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2010-mitsubishi-galant-red-with/7832258161.html
+Mitsubishi,eclipse,4600,2010,115000,automatic,sedan,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2010-mitsubishi-galant-red-with/7832257518.html
+Kia,sportage,2750,2009,157000,manual,Unknown,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/pompano-beach-2009-kia-spectra-sw/7832251747.html
+Nissan,altima,9800,2021,105281,automatic,van,like new,4,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2021-nissan-nv-200-sv/7832250585.html
+Ford,f-150,13800,2011,98000,automatic,truck,like new,10,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/opa-locka-2011ford-e450-box-truck-clean/7832250004.html
+Ford,f-150,13800,2011,98000,automatic,truck,like new,10,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/opa-locka-2011ford-e450-box-truck-clean/7832249682.html
+Bmw,430i,6000,2015,160000,automatic,sedan,excellent,4,gas,WBA3A5C57FF610284,clean,https://miami.craigslist.org/brw/cto/d/hollywood-bmw-328i/7832247718.html
+Carrier,Unknown,6500,2006,10,other,Unknown,Unknown,Unknown,other,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-triler-reefer/7832246260.html
+Chevy,s10,38000,2023,6600,automatic,SUV,excellent,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/north-miami-beach-chevy-blazer/7832244713.html
+Lexus,rx350,3000,2006,249000,automatic,Unknown,fair,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2006-lexus-rx/7832243488.html
+Kia,sportage,6900,2016,84000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2016-kia-forte-lx/7832238564.html
+Fork,Unknown,19500,1997,425000,manual,truck,fair,6,diesel,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-1997-ford-truck-ln9000/7832234790.html
+Dodge,ram 2500 4x4,30000,2014,80003,automatic,pickup,good,6,diesel,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-dodge-ram-2500/7832232475.html
+Bmw,430i,55999,2017,35701,automatic,coupe,like new,6,gas,WBS3R9C57HK708883,clean,https://miami.craigslist.org/mdc/cto/d/miami-2017-bmw-m4-premium-upgrades-yas/7832210779.html
+Land Rover,discovery sport,10500,2015,122714,automatic,SUV,excellent,4,gas,Unknown,rebuilt,https://miami.craigslist.org/brw/cto/d/pompano-beach-2015-range-rover-evoque/7832195664.html
+Dodge,ram 2500 4x4,35000,2008,12000,automatic,coupe,excellent,8,gas,2B3LJ74W48H301767,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-dodge-challenger-srt8-426ci-36l/7832189378.html
+Mercedes,benz sl500,5995,2009,146800,automatic,sedan,good,8,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/delray-beach-mercedes-benz-2009-cls-550/7832189363.html
+Jaguar,XF 3.0 Portfolio,11800,2011,73358,automatic,sedan,like new,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-jaguar-xjl-clean-title/7832189158.html
+Volkswagen,Tiguan w/ Auto,3900,2014,117000,automatic,sedan,Unknown,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/opa-locka-2014-vw-passat/7832188175.html
+Volkswagen,Tiguan w/ Auto,2800,2008,124721,automatic,sedan,good,5,gas,3VWRZ71K38M043629,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2008-volkswagen-jetta-fully/7832187837.html
+Ford,f-150,14900,2018,94000,automatic,SUV,like new,4,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/hialeah-ford-explorer-limited-sport-2018/7832187670.html
+Chevrolet,Uplander APV Extended Wheelbase,22800,2017,76450,automatic,SUV,like new,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-chevrolet-suburban-2017/7832187553.html
+Mitsubishi,eclipse,4800,2015,121075,automatic,SUV,good,4,gas,4A4AR4AU4FE002888,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2015-mitsubishi-outlander/7832187001.html
+Isuzu,F7 7000 Series Medium Duty,21500,2006,200000,automatic,truck,good,Unknown,diesel,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2006-isuzu-npr-diesel/7832181727.html
+Lexus,rx350,2900,2015,85450,automatic,sedan,excellent,6,gas,JTHBK1GG6F2195321,clean,https://miami.craigslist.org/mdc/cto/d/miami-2015-lexus-es350/7832176644.html
+Honda,pilot,2900,2004,115000,automatic,sedan,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2004-honda-civic-lx/7832174161.html
+Dodge,ram 2500 4x4,6800,2007,159065,automatic,pickup,excellent,8,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-2007-dodge-ram/7832173423.html
+Mercedes,benz sl500,6500,2008,93217,automatic,sedan,like new,6,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/miami-2008-mercedes-benz-350/7832171394.html
+Toyota,Tundra SR5,4500,2009,117537,automatic,Unknown,excellent,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-2009-toyota-camry-le/7832169514.html
+Honda,pilot,6300,2013,112000,automatic,sedan,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-honda-civic-2013/7832167700.html
+Ford,f-150,39999,2017,146000,automatic,Unknown,Unknown,Unknown,diesel,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2017-ford-450/7832167065.html
+Ford,f-150,40399,2018,145000,automatic,Unknown,Unknown,Unknown,diesel,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2018-ford-450/7832165616.html
+Hyundai,sonata,5500,2013,142322,automatic,hatchback,excellent,4,gas,KMHD35LE4DU052271,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2013-hyundai-elantra-gt/7832165194.html
+Pontiac,lemans,12000,2000,80000,automatic,coupe,good,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/pompano-beach-firebird-base-2000/7832163722.html
+Chevy,s10,4500,2007,150000,automatic,van,good,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-chevy-express-van/7832163241.html
+Jeep,grand cherokee limited,2500,2005,197000,automatic,SUV,fair,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hallandale-2005-jeep-cherokee-laredo/7832162671.html
+Lexus,rx350,3250,2008,286000,automatic,sedan,fair,8,hybrid,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2008-lexus-ls600hl/7832160144.html
+Jeep,grand cherokee limited,7350,2014,112311,automatic,SUV,like new,6,gas,1C4RJEAG9EC127025,rebuilt,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-jeep-grand-cherokee/7832158593.html
+Gmc,Sierra 1 Ton Work Truck,19950,2005,123000,automatic,van,excellent,8,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/homestead-2005-gmc-savana-2500/7832147118.html
+Nissan,altima,5000,2013,157000,automatic,SUV,fair,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/fort-lauderdale-2013-nissan-pathfinder/7832144900.html
+Toyota,Tundra SR5,6900,2006,190000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-toyota-sequoia-sr5/7832144169.html
+Dodge,ram 2500 4x4,22900,2018,111000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-dodge-ram-ft-bed-4x4/7832143720.html
+Toyota,Tundra SR5,8900,2011,140000,automatic,Unknown,good,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-toyota-rav4/7832143364.html
+Toyota,Tundra SR5,15900,2011,116000,automatic,pickup,Unknown,Unknown,gas,5TFUY5F12BX183452,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-toyota-tundra-grade-4x4/7832143240.html
+Nissan,altima,6900,2012,112000,automatic,sedan,excellent,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-nissan-maxima-sv-35/7832143125.html
+Dodge,ram 2500 4x4,11900,2019,65000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-dodge-journey-crossroad/7832142847.html
+Toyota,Tundra SR5,18900,2014,159000,automatic,pickup,like new,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-toyota-tundra-4x4/7832142714.html
+Nissan,altima,6900,2014,148000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-nissan-maxima-sv/7832142477.html
+Toyota,Tundra SR5,11900,2017,116000,automatic,Unknown,Unknown,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-toyota-camry-xle/7832142347.html
+Hyundai,sonata,7900,2015,114000,automatic,Unknown,excellent,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-hyundai-sonata-se-2015/7832142129.html
+Ford,f-150,7900,2005,190000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-ford-150-extended-cab/7832140542.html
+Hyundai,sonata,7900,2014,139000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-hyundai-azera-limited/7832140286.html
+Toyota,Tundra SR5,21900,2019,131000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-toyota-tacoma-sr-crew/7832140026.html
+Toyota,Tundra SR5,5900,2005,170000,automatic,pickup,good,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-toyota-tundra-access-cab/7832139880.html
+Honda,pilot,8900,2012,117000,automatic,sedan,like new,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-honda-accord-cyl/7832139631.html
+Ford,f-150,15900,2015,150000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-ford-f150-xlt-super/7832139461.html
+Nissan,altima,4900,2012,160000,automatic,sedan,good,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-nissan-sentra-sl-with/7832139333.html
+Mercedes-Benz,s550,12900,2013,79000,automatic,SUV,excellent,Unknown,gas,4JGDF7CE2DA108471,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-mercedes-benz-gl-450/7832139103.html
+Nissan,altima,13900,2017,70500,automatic,Unknown,Unknown,6,gas,1N6DD0CU3HN704421,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-nissan-frontier-crew-cab/7832138962.html
+Toyota,Tundra SR5,7900,2014,124000,automatic,sedan,Unknown,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-toyota-corolla/7832138810.html
+Toyota,Tundra SR5,25900,2021,62000,automatic,pickup,like new,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-toyota-tacoma-sr5/7832138682.html
+Dodge,ram 2500 4x4,9900,2015,130000,automatic,SUV,excellent,Unknown,gas,3C4PDCGB4FT540250,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-dodge-journey-crossroad/7832138426.html
+Ford,f-150,9900,2012,174000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-ford-250-econoline/7832138264.html
+Nissan,altima,5400,2014,27100,automatic,sedan,excellent,Unknown,gas,Unknown,rebuilt,https://miami.craigslist.org/brw/cto/d/hallandale-2014-nissan-versa-sv-sedan/7832138116.html
+Dodge,ram 2500 4x4,13900,2016,149000,automatic,pickup,excellent,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-dodge-ram-1500-big-horn/7832138103.html
+Toyota,Tundra SR5,3900,2004,128000,automatic,sedan,good,4,gas,4T1BE32KX4U328336,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-toyota-camry-le/7832137856.html
+Toyota,Tundra SR5,23900,2020,69000,automatic,pickup,excellent,4,gas,5TFAX5GN9LX174482,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-toyota-tacoma-sr-full/7832137561.html
+Toyota,Tundra SR5,8900,2010,127000,automatic,SUV,excellent,4,gas,4T3ZA3BB5AU026403,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-toyota-venza-one-owner/7832137376.html
+Chevy,s10,16500,2012,13000,automatic,convertible,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/orlando-2012-chevy-camaro-rs-owner-with/7832137129.html
+Toyota,Tundra SR5,6900,2005,196000,automatic,pickup,good,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-toyota-tundra-crew-cab/7832137020.html
+Ford,f-150,20900,2015,117000,automatic,pickup,like new,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-ford-150-super-crew/7832136737.html
+Toyota,Tundra SR5,9800,2019,1189,automatic,truck,Unknown,6,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/lake-worth-2006-toyota-tacoma/7832135300.html
+Nissan,altima,1500,2008,142542,automatic,SUV,fair,4,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/west-palm-beach-2008-nissan-rogue/7832134256.html
+Chevy,s10,4800,2007,120289,automatic,van,good,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-work-vans/7832132390.html
+Ford,f-150,3900,2011,163000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-ford/7832128247.html
+Nissan,altima,1300,2009,130000,automatic,sedan,good,Unknown,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/hialeah-nissan-versa-2009/7832124493.html
+Kia,sportage,3700,2009,119000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-kia/7832124072.html
+Honda,pilot,3900,2007,150000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-honda/7832123298.html
+Fore,TRANSIT,28800,2016,52000,automatic,van,like new,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-250-ford-transit/7832117899.html
+Chrysler,300 300c,3150,2004,73687,automatic,convertible,excellent,6,gas,1C3EL55R74N116441,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2004-chrysler-sebring-lxi/7832113496.html
+Ford,f-150,3900,2006,167000,automatic,pickup,good,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-ford-2006-f350-super-duty/7832102646.html
+Ford,f-150,2900,2005,184215,automatic,Unknown,Unknown,6,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/pompano-beach-ford/7832098230.html
+Dodge,ram 2500 4x4,5500,2010,123000,automatic,pickup,good,6,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/hallandale-2010-dodge-dakota/7832097406.html
+Chevrolet,Uplander APV Extended Wheelbase,7900,2015,110000,automatic,Unknown,good,4,gas,Unknown,rebuilt,https://miami.craigslist.org/brw/cto/d/hallandale-2015-chev-malibu-lt/7832096837.html
+Ford,f-150,8900,2010,160000,automatic,pickup,good,8,gas,Unknown,rebuilt,https://miami.craigslist.org/brw/cto/d/hialeah-2010-ford-150-xlt/7832095941.html
+Lexus,rx350,17900,2008,140000,automatic,SUV,excellent,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/delray-beach-lexus-gx470/7832094880.html
+Ford,f-150,8500,2003,258888,automatic,pickup,good,Unknown,diesel,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-ford-f250-super-duty/7832094796.html
+Toyota,Tundra SR5,4495,2004,120000,automatic,sedan,like new,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2004-toyota-corolla-le/7832091856.html
+Mini,Cooper,11000,2012,62000,automatic,coupe,Unknown,4,gas,WMWSX3C51CT465903,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2012-mini-cooper/7832091245.html
+Honda,pilot,2900,2010,189000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2010-honda-civic/7832084977.html
+Saturn,Ion,2500,2006,124140,automatic,sedan,good,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2004-saturn-ion-corner-of/7832081847.html
+Jeep,grand cherokee limited,14000,2012,112000,automatic,other,excellent,6,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/hialeah-2012-wangler/7832081711.html
+Dodge,ram 2500 4x4,2500,2010,151000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2010-dodge-charger-for-sale/7832080912.html
+Plymouth,pb,30000,1973,1,automatic,Unknown,excellent,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-1973-plymouth-road-runner/7832080801.html
+Chevrolet,Uplander APV Extended Wheelbase,26000,1965,1,automatic,Unknown,good,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-1965-chevelle/7832080395.html
+Workhorse,2003,25000,2003,134000,automatic,truck,good,6,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-truck/7832073902.html
+Ford,f-150,7500,2011,123000,automatic,pickup,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/north-miami-beach-2011-ford-f150/7832064854.html
+Ford,f-150,21999,2008,187505,automatic,Unknown,good,Unknown,diesel,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-ford/7832062676.html
+Toyota,Tundra SR5,4999,2004,242000,automatic,Unknown,good,6,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-toyota-sienna/7832061733.html
+Mercedes,benz sl500,1650,2011,143000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/homestead-2011-merecdes-benz-c300/7832059413.html
+Mercedes,benz sl500,9000,2008,117,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/boca-raton-mercedes-benz-cls550/7832058661.html
+Gmc,Sierra 1 Ton Work Truck,7850,2016,110000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/coral-springs-2016-gmc-terrain-denali/7832051346.html
+Hyundai,sonata,5200,2015,102000,automatic,sedan,excellent,Unknown,gas,5NPDH4AE3FH559565,clean,https://miami.craigslist.org/mdc/cto/d/hialeah-hyundai-elantra/7832050176.html
+Ford,f-150,51000,2024,24000,automatic,pickup,like new,8,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/west-palm-beach-2024-ford-150-xlt/7832049352.html
+Mini,Cooper,7900,2016,81363,automatic,hatchback,good,4,gas,WMWXP7C51G3B92662,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-by-owner-2016-mini-cooper-turbo/7832028649.html
+Mazda,3,6000,2010,82000,automatic,sedan,excellent,5,gas,JM1BL1SF8A1200059,clean,https://miami.craigslist.org/brw/cto/d/hollywood-mazda/7832027682.html
+Nissan,altima,7000,2014,1050000,automatic,convertible,excellent,6,gas,Unknown,rebuilt,https://miami.craigslist.org/brw/cto/d/hollywood-2014-nissan-murano/7832022092.html
+Cadillac,escalade,5900,2009,118000,automatic,sedan,excellent,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2009-cadillac-cts/7832022050.html
+Honda,pilot,6800,2009,106000,automatic,SUV,excellent,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-2009-honda-crv/7832020752.html
+Chevrolet,Uplander APV Extended Wheelbase,8500,1999,173000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-1999-chevrolet-tahoe-lt-door-44/7832016503.html
+Maserati,levante,11495,2016,67900,automatic,sedan,good,6,gas,ZAM57XSA6G1175644,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2016-maserati-ghilbi/7832016013.html
+Hyundai,sonata,9895,2018,28529,automatic,sedan,good,4,gas,5NPE24AF5JH702877,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2018-hyundai-sonata-se/7832015436.html
+Chrysler,300 300c,2999,2006,151678,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2006-chrysler/7832005475.html
+Ford,f-150,3800,2009,151678,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2009-ford-escort-corner/7832005270.html
+Toyota,Tundra SR5,2500,2003,190000,automatic,sedan,good,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-toyota-corolla/7832004246.html
+Hyundai,sonata,3995,2009,170147,automatic,Unknown,like new,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-09-hyundai-sonata-corner/7832002330.html
+Honda,pilot,9888,2015,155000,automatic,minivan,good,6,gas,5FNRL5H65FB072648,clean,https://miami.craigslist.org/brw/cto/d/hallandale-honda-odessey/7832000645.html
+Lincoln,town car executive,4500,2009,200000,automatic,sedan,excellent,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2009-lincoln-towncar-15th/7831997828.html
+Ford,f-150,35299,2023,13500,automatic,pickup,like new,6,hybrid,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-2023-ford-f150-xlt-4x4-35-hybrid/7831995518.html
+Nissan,altima,10800,2016,111000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-nissan-frontier/7831989265.html
+Honda,pilot,6000,1997,88728,manual,van,good,3,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/miami-beach-honda-acty-van-jdm-1997/7831987973.html
+Chevrolet,Uplander APV Extended Wheelbase,4900,2016,126000,automatic,sedan,like new,4,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/hialeah-2016-chevrolet-cruze/7831987457.html
+Hyundai,sonata,4700,2009,44500,automatic,Unknown,excellent,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2009-hyundai-accent-gs/7831987126.html
+Kia,sportage,10500,2017,110000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/pompano-beach-2017-kia-sorento-sxl-owner/7831986666.html
+Nissan,altima,6800,2017,56000,automatic,sedan,excellent,Unknown,gas,Unknown,rebuilt,https://miami.craigslist.org/mdc/cto/d/miami-nissan-sentra-2017/7831986171.html
+Toyota,Tundra SR5,7500,2015,87121,automatic,sedan,Unknown,Unknown,gas,Unknown,rebuilt,https://miami.craigslist.org/brw/cto/d/miami-gardens-2015-toyota-camry/7831984745.html
+Volvo,v70,6596,2012,112000,automatic,sedan,excellent,6,gas,Unknown,clean,https://miami.craigslist.org/pbc/cto/d/west-palm-beach-2012-volvo-s60-t5-great/7831984534.html
+Toyota,Tundra SR5,5000,2007,142080,automatic,sedan,good,4,hybrid,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2007-toyota-camry/7831981291.html
+Chevrolet,Uplander APV Extended Wheelbase,2775,2010,173000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/mdc/cto/d/pompano-beach-2010-chevrolet-impala/7831980176.html
+2005,Lexus sc430,8200,2003,208000,automatic,convertible,excellent,8,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/fort-lauderdale-2003-lexus-sc430/7831975640.html
+Ford,f-150,2700,2007,130000,manual,sedan,good,4,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/hollywood-2007-ford-focus/7831970275.html
+Honda,pilot,5000,2014,171300,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://miami.craigslist.org/brw/cto/d/dania-2014-honda-accord-sport/7831968709.html

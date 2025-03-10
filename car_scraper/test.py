@@ -174,9 +174,9 @@ desired_columns = [
 df = pd.DataFrame(car_data)[desired_columns]
 
 # Save to CSV
-df.to_csv("data/craigslist_cars.csv", index=False)
+df.to_csv("data/craigslist_cars_la.csv", index=False)
 
 # Close driver
 driver.quit()
 
-print("✅ Scraping complete! Data saved as craigslist_cars.csv")
+print("✅ Scraping complete! Data saved as craigslist_cars_la.csv")

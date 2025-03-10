@@ -1,0 +1,604 @@
+Brand,Model,Price,Year,Mileage,Transmission,Body Type,Condition,Cylinders,Fuel Type,VIN,Title Status,Link
+Ford,EXPLORER XLT LIMITED,14900,2018,97000,automatic,SUV,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/woodside-fully-loaded-2018-ford/7833505035.html
+Chevrolet,silverado 1500,12900,2011,126335,automatic,pickup,like new,8,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2011-chevrolet-silverado/7833504485.html
+Nissan,altima,21000,2023,18000,automatic,sedan,like new,4,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/yorktown-heights-2023-nissan-altima-sr/7833504188.html
+Toyota,camry se,4800,2016,193797,automatic,sedan,good,6,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-toyota-camry/7833498801.html
+Dodge,challenger r/t,8500,2009,110000,manual,coupe,excellent,8,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/forest-hills-2009-dodge-challenger-rt/7833496439.html
+Honda,CR-V EX-L,7200,2009,127725,automatic,SUV,good,4,gas,5J6RE48719L008843,clean,https://newyork.craigslist.org/brx/cto/d/bronx-2009-honda-crv-ex/7833495150.html
+Nissan,altima,3250,2006,818551,automatic,SUV,good,6,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-nissan-pathfinder/7833487103.html
+Mg,mgb,8500,1975,62307,manual,convertible,excellent,4,gas,GHN5UF376895G,clean,https://newyork.craigslist.org/lgi/cto/d/mount-sinai-mg-mgb/7833482508.html
+Honda,CR-V EX-L,7800,2007,128000,manual,coupe,like new,4,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-honda-accord-for-sale-by/7833481320.html
+Honda,CR-V EX-L,1300,2007,128000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/new-york-2007-honda-pilot-lx/7833480519.html
+Mercedes,benz c300,5450,2017,45000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2017-mercedes-benz-c300-4matic/7833478951.html
+Nissan,altima,8499,2017,73097,automatic,sedan,like new,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/corona-nissan-altima-sr-miles-very/7833478880.html
+Bmw,x5,2900,2012,135000,automatic,SUV,Unknown,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2012-bmw-x5-xdrive35i/7833477704.html
+Chevrolet,silverado 1500,2500,2015,164000,automatic,SUV,Unknown,6,gas,1GNKVFKDXFJ240485,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2015-chevrolet-traverse-ls-awd/7833475612.html
+Honda,CR-V EX-L,8700,2014,147000,automatic,sedan,Unknown,4,gas,1HGCR2F74EA062698,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2014-honda-accord-ex/7833474433.html
+Ford,EXPLORER XLT LIMITED,9500,2015,130000,automatic,van,good,6,gas,1FTSW3XG7FKA01526,clean,https://newyork.craigslist.org/que/cto/d/flushing-selling-our-2015-ford-transit/7833472510.html
+Chrysler,Pacifica RU,15000,2018,83000,automatic,minivan,good,6,hybrid,2C4RC1N76JR105353,clean,https://newyork.craigslist.org/que/cto/d/ridgewood-2018-chrysler-pacifica-hybrid/7833470653.html
+Chevrolet,silverado 1500,12000,1999,184011,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/fct/cto/d/norwalk-1999-chevrolet-silverado-rust/7833470203.html
+Honda,CR-V EX-L,2000,2013,10000,automatic,Unknown,new,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/brooklyn-we-buy-cars/7833467830.html
+Toyota,camry se,1000,2010,100000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/new-york-2010-toyota-corolla/7833464175.html
+Chevy,Silverado,18500,2013,71000,automatic,pickup,excellent,8,gas,Unknown,clean,https://newyork.craigslist.org/fct/cto/d/stratford-2013-chevy-1500-extended-cab/7833463811.html
+Subaru,Forester,2000,2002,232052,manual,SUV,fair,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-subaru-forester-awd-2002/7833453157.html
+Bmw,x5,19989,2015,62000,automatic,coupe,excellent,6,gas,WBA3R5C52FK189381,clean,https://newyork.craigslist.org/que/cto/d/whitestone-bmw-435i-xdrive-for-sale-or/7833452525.html
+Hyundai,sonata gls,3500,2007,110000,automatic,sedan,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/fct/cto/d/stamford-2007-hyundai-sonata-gls/7833448968.html
+Dodge,challenger r/t,32000,2020,49000,automatic,sedan,like new,8,gas,Unknown,clean,https://newyork.craigslist.org/jsy/cto/d/jersey-city-2020-scat-pack-rwd/7833444223.html
+Honda,CR-V EX-L,24000,2018,68000,automatic,SUV,excellent,4,gas,2HKRW2H96JH662318,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-honda-cr-touring-awd-2018/7833440543.html
+Toyota,camry se,14995,2016,110000,automatic,SUV,like new,4,gas,2T3ZFREV3GW272997,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2016-toyota-rav4-le-like-new/7833430782.html
+Toyota,camry se,5000,2015,92575,automatic,other,like new,4,gas,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/bronx-2015-toyota-camery/7833429086.html
+Mack,pinnacle cxu613,14500,2017,749000,automatic,truck,good,Unknown,diesel,Unknown,clean,https://newyork.craigslist.org/jsy/cto/d/brooklyn-truck-for-saile/7833426052.html
+Toyota,camry se,8000,2012,126400,automatic,hatchback,excellent,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2012-toyota-prius-hybrid/7833422991.html
+Audi,S4,7250,2007,157000,manual,sedan,fair,8,gas,WAUGL78E47A257355,clean,https://newyork.craigslist.org/fct/cto/d/greenwich-2007-liter-8/7833420725.html
+Kia,Optima S,11800,2019,70000,automatic,sedan,excellent,4,gas,5XXGT4L39KG297855,clean,https://newyork.craigslist.org/lgi/cto/d/baldwin-2019-kia-optima-70k-miles/7833416866.html
+Toyota,camry se,15000,2022,62000,automatic,sedan,excellent,4,gas,5YFEPMAE4NP294017,clean,https://newyork.craigslist.org/lgi/cto/d/baldwin-2022-toyota-corolla-le-62k-miles/7833416031.html
+Jeep,Wrangler,9500,2011,140225,automatic,SUV,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/long-beach-jeep-wrangler-jk/7833413682.html
+Toyota,camry se,6950,2017,145000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2017-toyota-sienna/7833402296.html
+Dodge,challenger r/t,9000,2014,148000,automatic,minivan,fair,6,gas,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/bronx-2014-dodge-grand-caravan/7833400871.html
+Ford,EXPLORER XLT LIMITED,1600,2003,294000,automatic,van,fair,8,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/island-park-2003-ford-e350-work-van/7833398843.html
+Gmc,terrain sle awd,12999,2019,74301,automatic,SUV,like new,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/elmhurst-gmc-terrain-sle-awd-miles/7833398501.html
+Ford,EXPLORER XLT LIMITED,1600,2003,294000,automatic,van,fair,8,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/island-park-2003-ford-e350-work-van/7833398309.html
+Jeep,Wrangler,15000,2017,42385,automatic,SUV,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/valley-stream-2017-jeep-compass-sport/7833396241.html
+Honda,CR-V EX-L,20500,2019,47000,automatic,sedan,like new,4,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/freeport-honda-accord/7833388611.html
+Ford,EXPLORER XLT LIMITED,3000,2005,275000,automatic,van,Unknown,8,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2005-ford-e350-econoline-15/7833387252.html
+Ford,EXPLORER XLT LIMITED,7200,2016,167000,automatic,sedan,Unknown,4,gas,3FA6P0T9XGR355838,clean,https://newyork.craigslist.org/que/cto/d/astoria-2016-ford-fusion-se-awd/7833383231.html
+Toyota,camry se,5900,2015,170000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/new-york-2015-toyota-corolla/7833380478.html
+Chevrolet,silverado 1500,4000,1999,148367,automatic,truck,fair,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/long-island-city-99-chevy-s10/7833375660.html
+Volkswagen,Jetta S,5500,2017,125000,manual,sedan,excellent,4,gas,3VW167AJ6HM411783,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2017-volkswagen-jetta-speed/7833371283.html
+Ford,EXPLORER XLT LIMITED,3800,2014,69197,automatic,sedan,good,4,gas,1FADP3E22DL314445,clean,https://newyork.craigslist.org/que/cto/d/astoria-2013-ford-focus-69k-miles/7833371008.html
+Gmc,terrain sle awd,7500,2017,130000,automatic,SUV,excellent,6,gas,1GKKVSKD9HJ245900,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2017-gmc-acadia-limited-backup/7833370591.html
+Toyota,camry se,18500,2017,133000,automatic,SUV,good,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-toyota-highlander-2017/7833370281.html
+Nissan,altima,7900,2014,148000,automatic,pickup,excellent,6,gas,1N6AD0EV1EN712859,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2014-nissan-frontier-sv-crew/7833369964.html
+Jeep,Wrangler,16500,2014,89600,automatic,SUV,excellent,6,gas,1C4PJMBS0EW215643,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2014-jeep-cherokee-trailhawk/7833369328.html
+Ford,EXPLORER XLT LIMITED,5500,2019,70000,automatic,hatchback,excellent,4,gas,3FADP4EJ7KM156256,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2019-ford-fiesta-se-low-miles/7833369145.html
+Ford,EXPLORER XLT LIMITED,10500,2013,90000,automatic,pickup,good,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2013-ford-f150-supercrew-cab/7833365213.html
+Bmw,x5,13300,2017,80000,automatic,sedan,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/hicksville-2017-bmw-330i-xdrive-sedan/7833363802.html
+Infiniti,qx50,7400,2017,111256,automatic,SUV,excellent,6,gas,Unknown,rebuilt,https://newyork.craigslist.org/que/cto/d/woodhaven-2017-infiniti-qx50-awd/7833362818.html
+Tesla,y,34999,2023,17416,automatic,SUV,like new,Unknown,electric,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-tesla-2023-performance/7833361968.html
+Chrysler,Pacifica RU,4500,2013,130000,automatic,minivan,excellent,6,gas,2C4RC1BG4DR677496,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2013-chrysler-town-country/7833360997.html
+Hyundai,sonata gls,4400,2013,230162,automatic,sedan,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2013-hyundai-elantra-sedan-door/7833360193.html
+Nissan,altima,6500,2018,137000,automatic,sedan,excellent,4,gas,1N4AL3AP2JC200327,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2018-nissan-altima-sv-backup/7833359521.html
+Ford,EXPLORER XLT LIMITED,10600,2014,129000,automatic,SUV,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/astoria-2014-ford-explorer-awd/7833359435.html
+Chevrolet,silverado 1500,16500,2001,66500,automatic,coupe,like new,8,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/mahopac-2001-chevrolet-corvette-coupe/7833359390.html
+Ford,EXPLORER XLT LIMITED,18999,2013,53726,automatic,van,excellent,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/glen-cove-ford-wheelchair-van/7833358846.html
+Bmw,x5,6500,2011,73000,manual,sedan,like new,6,gas,WBAPK5C50BA810767,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2011-bmw-328i-xdrive-speed/7833358774.html
+Chrysler,Pacifica RU,2800,2008,85400,manual,other,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/richmond-hill-car-for-sale/7833358238.html
+Ford,EXPLORER XLT LIMITED,2995,2004,121000,automatic,pickup,excellent,8,gas,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/bronx-2004-ford-f150/7833356983.html
+Bmw,x5,8800,2015,113080,automatic,sedan,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2015-bmw-f10-528i-xdrive/7833355498.html
+Bmw,x5,3995,2002,161000,automatic,SUV,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/bronx-2002-bmw-x5/7833354747.html
+Bmw,x5,7500,2012,111251,manual,Unknown,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2012-bmw-f30-328i/7833351632.html
+Chevrolet,silverado 1500,4250,2003,250217,automatic,van,Unknown,Unknown,gas,1GCFH25T031132868,clean,https://newyork.craigslist.org/que/cto/d/astoria-2003-chevy-express-2500/7833350856.html
+Volkswagen,Jetta S,7995,2012,68000,automatic,SUV,like new,4,gas,WVGAV7AX3CW579556,clean,https://newyork.craigslist.org/que/cto/d/bayside-2012-vw-tiguan-super-low-mileage/7833350247.html
+Mercedes,benz c300,1999,2007,115832,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/waterbury-2007-mercedes-s550/7833348903.html
+Audi,S4,7700,2014,105600,automatic,SUV,like new,4,gas,WA1UFAFLXEA134811,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-audi-allroud/7833346902.html
+Volvo,v40,1700,2004,130000,automatic,Unknown,Unknown,4,gas,Unknown,clean,https://newyork.craigslist.org/mnh/cto/d/new-york-2004-volvo-v40/7833346525.html
+Toyota,camry se,14500,2017,156000,automatic,SUV,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/bronx-2017-toyota-highlander/7833345505.html
+Nissan,altima,3000,2008,148000,automatic,sedan,like new,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/queens-village-2008-nissan-alitma/7833344886.html
+Lexus,ES,6900,2007,110100,automatic,sedan,like new,6,gas,JTHBJ46G772054734,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-lexus-es350-luxury/7833342493.html
+Toyota,camry se,4901,2009,157000,automatic,van,good,6,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/valley-stream-sienna-california/7833341117.html
+Toyota,camry se,10250,2015,127800,automatic,hatchback,good,4,gas,Unknown,clean,https://newyork.craigslist.org/mnh/cto/d/new-york-2015-prius/7833340399.html
+Bmw,x5,5200,2008,127100,automatic,sedan,excellent,6,gas,WBANW135X8CZ76117,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-bmw-535i/7833339242.html
+Chrysler,Pacifica RU,2499,2000,165000,automatic,sedan,excellent,6,gas,2C3HC56G1YH355847,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-classic-chrysler-lhs/7833337328.html
+Dodge,challenger r/t,9999,2015,139000,automatic,sedan,like new,6,gas,2C3CDXHG6FH784124,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-dodge-charger-sxt/7833336810.html
+Ford,EXPLORER XLT LIMITED,5499,2004,120000,automatic,truck,like new,8,gas,1FDNF20L64EC96222,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-wow-ford-f250-sport/7833336674.html
+Buick,century limited,6495,2005,64000,automatic,sedan,like new,6,gas,2G4WS55J951165975,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-buick-century-limited-low/7833336521.html
+Dodge,challenger r/t,4999,2011,160000,automatic,SUV,excellent,6,gas,1D4PU7GX4BW576613,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-dodge-nitro-shock-t/7833336262.html
+Chevrolet,silverado 1500,9999,2010,128000,automatic,pickup,like new,5,gas,1GCJTDDE4A8104504,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-chevy-colorado-lt-4x4/7833336116.html
+1C6Rr7Tt2Ds710014,Unknown,7999,2013,180000,automatic,pickup,like new,8,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-wow-ram-crew-cab-4x4-like/7833335752.html
+Cadillac,DTS,7999,2008,82000,automatic,sedan,like new,8,gas,1G6KD57YX8U201689,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-cadillac-dts-pearl-white/7833335468.html
+Dodge,challenger r/t,6999,2014,93000,automatic,SUV,like new,6,gas,3C4PDDBG0ET271171,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-dodge-journey-sxt-awd/7833335233.html
+Chevrolet,silverado 1500,3500,2010,103000,automatic,SUV,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2010-chevrolet-traverse/7833335082.html
+Ford,EXPLORER XLT LIMITED,2999,2001,160000,automatic,pickup,excellent,8,gas,1FTRX18W31NA86264,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-ford-150-xlt4-door/7833334675.html
+Jeep,Wrangler,11999,2014,89000,automatic,SUV,like new,6,gas,1C4RJFBG1EC121398,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-wow-jeep-grand-cherokee/7833332639.html
+Dodge,challenger r/t,4999,2011,92000,automatic,minivan,like new,6,gas,2D4RN4DG2BR742371,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-owner-dodge-grand-caravan/7833332412.html
+Dodge,challenger r/t,11999,2016,87000,automatic,coupe,excellent,6,gas,2C3CDZAG1GH256871,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-dodge-challenger-sxt/7833332043.html
+Honda,CR-V EX-L,5300,2006,105000,automatic,minivan,Unknown,6,gas,5FNRL387X6B070195,clean,https://newyork.craigslist.org/que/cto/d/sunnyside-2006-honda-odyssey-ex-with/7833331761.html
+Toyota,camry se,3800,2005,201000,automatic,SUV,good,8,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/whitestone-2005-toyota-sequoia-sr5-4x4/7833329927.html
+Ford,EXPLORER XLT LIMITED,6499,2011,152000,automatic,bus,good,10,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/glen-cove-25-passenger-bus/7833324834.html
+Lexus,ES,6800,2009,171000,automatic,SUV,Unknown,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/south-ozone-park-2006-lexus-rx-330-suv/7833323623.html
+Toyota,camry se,9800,2009,61000,automatic,sedan,Unknown,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/south-ozone-park-2009-toyota-camry-le/7833323508.html
+Toyota,camry se,6800,2012,191000,automatic,Unknown,Unknown,4,hybrid,Unknown,clean,https://newyork.craigslist.org/que/cto/d/south-ozone-park-2012-toyota-prius/7833323277.html
+Honda,CR-V EX-L,10800,2016,184000,automatic,minivan,Unknown,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/south-ozone-park-2016-honda-odyssey-ex/7833323189.html
+Audi,S4,13950,2010,90000,automatic,sedan,like new,6,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/fresh-meadows-low-miles-2010-audi-s4/7833322257.html
+Land Rover,range rover hse,2600,2010,38317,automatic,SUV,Unknown,Unknown,gas,Unknown,salvage,https://newyork.craigslist.org/que/cto/d/ridgewood-land-rover-hse-2010/7833321637.html
+Hyundai,sonata gls,2500,2009,169454,automatic,sedan,good,6,gas,KMHFC46F79A380493,clean,https://newyork.craigslist.org/lgi/cto/d/valley-stream-2009-hyundai-azera/7833315191.html
+Chevrolet,silverado 1500,14900,2016,156150,automatic,SUV,excellent,8,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/somers-2016-chevrolet-suburban-ltz/7833306578.html
+Le613,Unknown,18000,2006,80000,automatic,truck,Unknown,Unknown,diesel,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/bronx-mack-packer-trucks-le-613-runs/7833298718.html
+Lexus,ES,6995,2009,94000,automatic,sedan,good,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/flushing-2009-lexus-gs350-sedan/7833296340.html
+Lexus,ES,3695,2004,210000,automatic,SUV,good,8,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/flushing-2004-lexus-gx470/7833295993.html
+Toyota,camry se,1,2015,100000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-we-buy-cars-running-or/7833287935.html
+Ford,EXPLORER XLT LIMITED,5300,2014,183000,automatic,SUV,excellent,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2014-ford-edge-limited-awd/7833281619.html
+Gmc,terrain sle awd,20000,1997,40000,automatic,truck,good,8,diesel,Unknown,clean,https://newyork.craigslist.org/que/cto/d/arverne-food-truck/7833281568.html
+Toyota,camry se,10300,2012,77856,automatic,sedan,excellent,4,hybrid,Unknown,rebuilt,https://newyork.craigslist.org/stn/cto/d/staten-island-2012-toyota-prius-with/7833276631.html
+Ford,EXPLORER XLT LIMITED,4499,2014,11800,automatic,Unknown,excellent,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-ford-fiesta/7833273682.html
+Infiniti,qx50,4000,2003,90000,automatic,sedan,like new,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/astoria-2003-infiniti-i35/7833273572.html
+Chevrolet,silverado 1500,12400,2012,155362,automatic,SUV,excellent,8,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/lynbrook-2012-chevy-tahoe/7833264826.html
+Subaru,Forester,6700,2014,132000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/bronx-2014-subaru-crosstrek-premium-4d/7833259438.html
+Ford,EXPLORER XLT LIMITED,1500,2002,210000,automatic,SUV,like new,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/maspeth-2002-ford-explorer/7833258546.html
+Honda,CR-V EX-L,19799,2019,70179,automatic,SUV,Unknown,4,gas,2HKRW2H53KH652716,clean,https://newyork.craigslist.org/wch/cto/d/yonkers-2019-honda-crv-ex/7833258399.html
+Subaru,Forester,2200,2007,174375,automatic,sedan,good,4,gas,4S3BL616477207028,clean,https://newyork.craigslist.org/lgi/cto/d/roslyn-2007-subaru-legacy-special/7833256929.html
+Ford,EXPLORER XLT LIMITED,7500,2013,100000,automatic,van,like new,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/flushing-selling-2013-ford-cargo-van/7833255603.html
+Ford,EXPLORER XLT LIMITED,5200,2006,145000,automatic,pickup,good,8,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/jackson-heights-vendo-ford-expedition/7833254964.html
+Mercedes-Benz,GLE350,16800,2017,136017,automatic,SUV,excellent,6,gas,4JGDA5HB4HA931085,clean,https://newyork.craigslist.org/wch/cto/d/yonkers-2017-mercedes-benz-gle-350/7833250601.html
+Mazda,3,3000,2012,186000,manual,sedan,good,4,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/new-rochelle-2012-mazda/7833247475.html
+Honda,CR-V EX-L,8900,2011,138000,automatic,SUV,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2011-honda-pilot-ex/7833247333.html
+Jeep,Wrangler,14900,2019,69000,automatic,SUV,like new,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/ozone-park-2019-jeep-cherokee-limited/7833247124.html
+Ford,EXPLORER XLT LIMITED,9900,2016,140000,automatic,SUV,excellent,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/ozone-park-2016-ford-explorer-limited/7833246978.html
+Mercedes,benz c300,11500,2018,95000,automatic,sedan,good,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/ozone-park-2018-mercedes-benz-c300-awd/7833246828.html
+Subaru,Forester,12900,2020,18452,automatic,hatchback,like new,4,gas,Unknown,rebuilt,https://newyork.craigslist.org/que/cto/d/brooklyn-2020-subaru-impreza/7833246797.html
+Dodge,challenger r/t,12900,2020,71000,automatic,SUV,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/ozone-park-2020-dodge-journey-crossroad/7833246706.html
+Porsche,911 carrera,58000,1988,128000,manual,convertible,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/bedford-hills-1988-porsche-g50-carrera/7833246577.html
+Infiniti,qx50,16900,2019,65000,automatic,Unknown,like new,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/ozone-park-2019-infiniti-q50/7833246578.html
+Mercedes-Benz,GLE350,23500,2017,101000,automatic,SUV,excellent,8,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/bayside-used-2017-mercedes-benz-gls-550/7833246456.html
+Toyota,camry se,13900,2012,135000,automatic,SUV,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/ozone-park-2012-toyota-tacoma-access/7833246454.html
+Bmw,x5,13900,2016,99000,automatic,SUV,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/ozone-park-2016-bmw-x5-xdrive/7833246287.html
+Dodge,challenger r/t,18900,2020,29000,automatic,coupe,like new,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/ozone-park-2020-dodge-challenger/7833246175.html
+Toyota,camry se,19900,2017,160000,automatic,SUV,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/ozone-park-2017-toyota-runner-sr5/7833246068.html
+Dodge,challenger r/t,11900,2015,120000,automatic,pickup,excellent,8,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/ozone-park-2015-ram-1500-big-horn/7833245979.html
+Nissan,altima,6300,2011,103452,automatic,sedan,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2011-nissan-maxima-sv/7833245793.html
+Ford,EXPLORER XLT LIMITED,18900,2019,50000,automatic,SUV,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/ozone-park-2019-ford-explorer-xlt/7833245548.html
+Honda,CR-V EX-L,18900,2021,45000,automatic,sedan,like new,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/ozone-park-2021-honda-account/7833245396.html
+Jeep,Wrangler,9500,2010,104000,automatic,SUV,good,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/ozone-park-2010-jeep-wrangler-sahara/7833245231.html
+Chevy,Silverado,18900,2018,99000,automatic,pickup,excellent,8,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/ozone-park-2018-chevy-silverado-1500/7833245130.html
+Doge,ram 1500,11500,2017,125000,automatic,pickup,excellent,8,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/ozone-park-2017-dodge-ram-1500/7833245001.html
+Acura,mdx,14900,2016,95000,automatic,SUV,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/ozone-park-2016-acura-mdx/7833244880.html
+Jeep,Wrangler,11900,2018,85000,automatic,SUV,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/ozone-park-2018-jeep-renegade-trailhawk/7833244716.html
+Chrysler,Pacifica RU,11900,2016,95000,automatic,sedan,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/ozone-park-2016-chrysler-300c-awd/7833244598.html
+Nissan,altima,4900,2013,97000,automatic,SUV,good,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/ozone-park-2013-nissan-rogue-sv-awd/7833244474.html
+Jeep,Wrangler,10900,2017,85000,automatic,SUV,good,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/ozone-park-2017-jeep-cherokee-latitude/7833244360.html
+Bmw,x5,18500,2019,85370,automatic,SUV,excellent,4,gas,5UXTR9C54KLP90952,clean,https://newyork.craigslist.org/wch/cto/d/yonkers-2019-bmw-x3-xdriver/7833242560.html
+Jeep,Wrangler,22500,2016,37916,automatic,other,like new,6,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/port-chester-jeep-wrangler-sahara/7833242011.html
+Ford,EXPLORER XLT LIMITED,1950,2003,149000,automatic,van,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2003-ford-econoline-e150/7833239636.html
+Honda,CR-V EX-L,21200,2023,36044,automatic,sedan,excellent,4,gas,2HGFE2F58PH530413,clean,https://newyork.craigslist.org/wch/cto/d/yonkers-2023-honda-civic-sport/7833238710.html
+Bmw,x5,2700,2010,117000,automatic,sedan,good,6,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/west-hempstead-bmw-x-drive/7833238149.html
+Nissan,altima,5000,2017,110000,automatic,sedan,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/harrison-nissan-carplay-works-well-cash/7833237936.html
+Mercedes-Benz,GLE350,28900,2021,57637,automatic,sedan,like new,4,gas,W1KWF8EB8MR625643,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2021-mercedes-benz-c300/7833235188.html
+Jeep,Wrangler,12750,2016,78900,automatic,SUV,like new,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/long-island-city-2016-jeep-cherokee/7833230626.html
+Mazda,3,3600,2008,150000,automatic,sedan,good,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2008-mazda6-for-sale/7833229806.html
+Nissan,altima,4300,2008,207500,automatic,pickup,good,4,gas,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/bronx-2008-nissan-frontier-se-king-cab/7833227009.html
+Mercedes-Benz,GLE350,19899,2019,58212,automatic,SUV,excellent,4,gas,WDC0G4KBXKV174370,clean,https://newyork.craigslist.org/wch/cto/d/yonkers-2019-mercedes-glc/7833225947.html
+Chevrolet,silverado 1500,17800,2018,120470,automatic,pickup,excellent,8,gas,1GCVKREC0JZ100636,clean,https://newyork.craigslist.org/wch/cto/d/yonkers-2018-chevrolet-silverado-lt-z71/7833225500.html
+Audi,S4,4800,2013,147000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2013-audi-a3-hatchbach-dct/7833222525.html
+Chevrolet,silverado 1500,1500,2010,160000,automatic,sedan,fair,4,gas,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/bronx-chevrolet-malibu-ltz/7833222498.html
+Mercedes,benz c300,19000,2018,45000,automatic,sedan,like new,4,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/tuckahoe-beautiful-mercedes-c300-turbo/7833219822.html
+Ford,EXPLORER XLT LIMITED,4500,2003,151386,automatic,truck,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/howard-beach-2003-ford-explorer-sport/7833216867.html
+Ford,EXPLORER XLT LIMITED,20500,1992,128000,manual,sedan,excellent,8,gas,1FACP40E1NF116328,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-1992-ford-mustang-lx-50/7833216862.html
+Volkswagen,Jetta S,5000,2015,165000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2015-volkswagen-tiguan-leather/7833216767.html
+Nissan,altima,2100,2013,140000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2013-nissan-versa/7833215760.html
+Plymouth,valiant,899,1966,79000,automatic,coupe,fair,6,gas,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/bronx-1966-plymouth-valiant/7833215122.html
+Bmw,x5,16500,2013,82695,automatic,coupe,excellent,6,gas,WBAKF9C50DE859968,clean,https://newyork.craigslist.org/que/cto/d/ridgewood-2013-bmw-335i-xdrive-coupe/7833209033.html
+Toyota,camry se,8900,2014,193300,automatic,minivan,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2014-toyota-sienna-limited-awd/7833208269.html
+Subaru,Forester,3200,2014,194958,automatic,sedan,good,4,gas,4S3BMBD68E3017013,clean,https://newyork.craigslist.org/fct/cto/d/trumbull-2014-subaru-legacy-awd-pze/7833207615.html
+Bmw,x5,1,2018,100000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/floral-park-cash-on-the-spot-for-your/7833204818.html
+Subaru,Forester,8700,2014,125201,automatic,SUV,excellent,4,gas,JF2SJAAC4EH471406,clean,https://newyork.craigslist.org/que/cto/d/oakland-gardens-2014-subaru-forester/7833203906.html
+International,LT,69999,2022,426000,automatic,truck,excellent,Unknown,diesel,Unknown,clean,https://newyork.craigslist.org/mnh/cto/d/new-york-2022-international-lt/7833202183.html
+Infiniti,qx50,2500,2014,140000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/newark-2014-infiniti-qx50-suv-sport/7833198634.html
+Bmw,x5,3999,2006,150000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/rockville-centre-2006-bmw-x3/7833197530.html
+Huyndai,accent,4500,2011,77000,automatic,hatchback,like new,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2011-huyndai-accent/7833194788.html
+Honda,CR-V EX-L,17500,2018,43789,automatic,SUV,excellent,4,gas,Unknown,rebuilt,https://newyork.craigslist.org/que/cto/d/jamaica-2018-honda-crv-ex-awd/7833186813.html
+Saab,9-3 Viggen convertible,7900,2001,127810,manual,convertible,good,4,gas,YS3DP75G517015963,clean,https://newyork.craigslist.org/wch/cto/d/mount-kisco-2001-saab-3-viggen/7833186733.html
+Nissan,altima,11000,2017,91259,automatic,van,excellent,4,gas,3N6CM0KN6HK716087,lien,https://newyork.craigslist.org/brk/cto/d/brooklyn-2017-nissan-nv200-van-4d/7833186100.html
+Gmc,terrain sle awd,4900,2002,192261,automatic,van,fair,6,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2002-gmc-savana-1500-van/7833181772.html
+Bmw,x5,6900,2013,131000,automatic,sedan,excellent,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/valley-stream-2013-bmw-328i-drive/7833181681.html
+Chevrolet,silverado 1500,4000,1997,130190,automatic,van,good,6,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-1997-chevrolet-astro/7833181663.html
+Jeep,Wrangler,4950,2012,110000,automatic,SUV,excellent,6,gas,1C4PJMAK4CW200030,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2012-jeep-liberty-sport/7833177210.html
+Ram,Cargo Van,4950,2013,130000,automatic,van,excellent,6,gas,2C4RRGAG4DR700262,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2013-ram-cargo-van-tradesman/7833176272.html
+Bmw,x5,4300,2009,118000,automatic,sedan,like new,6,gas,WBAPK53579A512498,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2009-bmw-328i-xdrive/7833175522.html
+Volvo,v40,4700,2012,132000,automatic,SUV,like new,6,gas,YV4952CZ9C1621165,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2012-volvo-xc90-awd-3rd-row/7833174796.html
+Honda,CR-V EX-L,3500,2006,135000,automatic,minivan,Unknown,4,gas,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/bronx-2006-honda-odyssey-touring-mint/7833174443.html
+Mercedes-Benz,GLE350,12000,2012,147000,automatic,truck,Unknown,Unknown,diesel,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/metuchen-2012-mercedes-benz-sprinter/7833173130.html
+Mercedes,benz c300,6000,2006,115000,automatic,sedan,excellent,8,gas,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/yonkers-mercedes-benz-e500/7833166819.html
+Bmw,x5,16000,2006,60000,automatic,coupe,excellent,10,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/east-elmhurst-2006-bmw-m6/7833165143.html
+Porsche,911 carrera,36800,1990,15810,manual,Unknown,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/new-york-1990-porsche-944-s2-cabriolet/7833164610.html
+Honda,CR-V EX-L,8850,2011,135000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/howard-beach-we-buy-cars-ny-we-will/7833163380.html
+Bmw,x5,5000,2007,115603,automatic,hatchback,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2007-bmw-runs-like-new/7833162832.html
+Buick,century limited,45000,1956,88000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/maspeth-1956-buick-special/7833161990.html
+Bmw,x5,5550,2010,120000,manual,sedan,good,6,gas,WBANW1C57AC164604,clean,https://newyork.craigslist.org/mnh/cto/d/new-york-2010-bmw-535i-120k-miles/7833159352.html
+Chevrolet,silverado 1500,5950,2014,132650,automatic,sedan,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2014-chevrolet-cruze-ltz-rs/7833157648.html
+Bmw,x5,2000,2020,50000,manual,Unknown,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/woodside-transporter-plate/7833156163.html
+Ford,EXPLORER XLT LIMITED,29500,2018,71280,automatic,SUV,good,6,gas,1FMJU2AT4JEA68606,clean,https://newyork.craigslist.org/lgi/cto/d/manhasset-2018-ford-expedition-limited/7833154488.html
+Ford,EXPLORER XLT LIMITED,8000,1963,40000,automatic,Unknown,good,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-1963-ford-falcon/7833152876.html
+Acura,mdx,3990,2009,158000,automatic,SUV,fair,4,gas,5J8TB18559A002218,salvage,https://newyork.craigslist.org/que/cto/d/fresh-meadows-2009-acura-rdx-sh-the/7833152076.html
+Honda,CR-V EX-L,5990,2014,199500,automatic,Unknown,Unknown,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2014-honda-cr-lx-backup-camera/7833150158.html
+Lincoln,mkt awd,3500,2014,510413,automatic,SUV,good,6,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/new-hyde-park-2014-lincoln-mkt-livery/7833146510.html
+Ford,EXPLORER XLT LIMITED,2750,2008,198000,automatic,SUV,good,8,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/new-hyde-park-2008-ford-expedition-el/7833142515.html
+Nissan,altima,6000,2014,100000,automatic,sedan,good,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2018-nissan-sentra-sv-miles/7833139696.html
+Honda,CR-V EX-L,5500,2007,142000,automatic,minivan,excellent,6,gas,5FNRL38797B134681,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2007-honda-odyssey-ex-minivan/7833137853.html
+Vw,new beetle convertible,4500,2008,124000,automatic,convertible,excellent,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2008-volkswagen-new-beetle/7833137061.html
+Nissan,altima,5500,2012,174000,automatic,sedan,excellent,6,gas,1N4AA5AP5CC800859,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2012-nissan-maxima-sv-sport/7833136371.html
+Toyota,camry se,7000,2014,187000,automatic,sedan,excellent,4,gas,4T1BF1FKXEU408118,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2014-toyota-camry-se-must-see/7833135843.html
+Chevrolet,silverado 1500,5500,2014,168000,automatic,Unknown,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2014-chevrolet-trevares-ls/7833134140.html
+Honda,CR-V EX-L,8900,2011,122000,automatic,minivan,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/forest-hills-2011-honda-odyssey-exl/7833130421.html
+Nissan,altima,4900,2012,131000,automatic,SUV,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2012-nissan-juke-sv-excellent/7833124588.html
+Porsche,911 carrera,2000,2009,221000,manual,SUV,fair,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/jamaica-suv-for-sale/7833117183.html
+Ford,EXPLORER XLT LIMITED,15500,2017,110000,automatic,van,good,6,gas,1FTYE1ZM4HKA20266,clean,https://newyork.craigslist.org/fct/cto/d/stamford-ford-transit/7833112526.html
+Honda,CR-V EX-L,1500,2005,120800,automatic,SUV,good,6,gas,2HKYF18595H548743,clean,https://newyork.craigslist.org/mnh/cto/d/new-york-2005-honda-pilot-dr-sport/7833109745.html
+Nissan,altima,1000,2010,90000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2010-nissan-cube/7833102148.html
+Cadillac,DTS,6900,2019,230000,automatic,Unknown,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2019-cadillac-xts-runs-and/7833102045.html
+Nissan,altima,2500,2001,200000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/cortlandt-manor-very-nice-infiniti-qx4/7833096651.html
+X19,Unknown,4000,2015,86000,manual,coupe,fair,4,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/yonkers-selling-x1-cars/7833091602.html
+Mercedes,benz c300,5000,1979,148000,automatic,sedan,good,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/maspeth-1979-mercedes-benz-450sl/7833088514.html
+Nissan,altima,8000,2015,65000,automatic,sedan,like new,4,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2015-nissan-versa-note-sv/7833086793.html
+Ford,EXPLORER XLT LIMITED,9300,2011,137000,automatic,bus,good,10,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/port-washington-ford-passenger-bus/7833085511.html
+Chrysler,Pacifica RU,28500,2021,80000,automatic,minivan,like new,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/queens-village-2021-chrysler-voyager/7833080472.html
+Bmw,x5,6500,2015,129000,automatic,sedan,excellent,4,gas,WBA3C3G57FNS72982,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2015-bmw-series-320i-xdrive/7833078020.html
+Kia,Optima S,2900,2009,158000,automatic,SUV,excellent,6,gas,KNDJH741895034437,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2009-kia-borrego-lx-3rd-row/7833077755.html
+Chrysler,Pacifica RU,2950,2006,105000,automatic,minivan,excellent,6,gas,2A4GP54L36R906020,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2006-chrysler-town-country/7833077573.html
+Acura,mdx,7500,2013,140000,automatic,sedan,like new,4,gas,19VDE1F71DE004351,clean,https://newyork.craigslist.org/brx/cto/d/bronx-2013-acura-ilx-tech-pkg/7833073143.html
+Toyota,camry se,1999,2013,250000,automatic,SUV,Unknown,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2005-toyota-sienna/7833066341.html
+Toyota,camry se,1999,1997,270000,automatic,SUV,Unknown,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-1997-toyota-4runner/7833066241.html
+Honda,CR-V EX-L,1999,2004,172000,automatic,SUV,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2004-honda-odyssey/7833066141.html
+Mercedes-Benz,GLE350,13000,2013,46000,automatic,sedan,new,8,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2013-mercedes-benz-s550/7833065584.html
+Nissan,altima,2600,2009,123000,automatic,sedan,like new,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2009-nissan-altima/7833065437.html
+Nissan,altima,2200,2002,152000,automatic,sedan,like new,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2002-nissan-maxima/7833065334.html
+Toyota,camry se,2999,2005,156000,automatic,SUV,Unknown,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2005-toyota-sienna-ce/7833065255.html
+Hyundai,sonata gls,2200,2010,210000,automatic,sedan,like new,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2010-hyundai-sonata/7833065181.html
+Mercedes,benz c300,3600,2009,157000,automatic,sedan,like new,8,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2009-mercedes-benz-e350/7833065094.html
+Nissan,altima,2400,2003,159000,automatic,sedan,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-nissan-maxima/7833065004.html
+Cheverolet,cruze,5500,2014,99851,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/jamaica-2014-chevrolet-cruz-white-99k/7833057705.html
+Kia,Optima S,4000,2018,160000,automatic,sedan,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2018-kia-optima-lx/7833054624.html
+Toyota,camry se,5000,2005,82012,automatic,sedan,good,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/oakland-gardens-2005-toyota-camry/7833048253.html
+Volkswagen,Jetta S,4900,2013,171000,automatic,sedan,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2013-volkswagen-cc-20t-sport/7833044890.html
+Bmw,x5,3850,2014,217000,automatic,sedan,Unknown,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/fresh-meadows-bmw-series-328i-xdrive/7833041921.html
+Mercedes,benz c300,7900,2015,139000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/fresh-meadows-mercedes-benz-ml350/7833041548.html
+Lexus,ES,7499,2007,127000,automatic,SUV,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2007-lexus-rx-350/7833040490.html
+Bmw,x5,6500,2012,149000,automatic,coupe,excellent,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2012-bmw-328i-xdrive-door/7833040179.html
+Toyota,camry se,16500,2014,72583,automatic,SUV,like new,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/elmhurst-toyota-rav-le-awd-miles-gray/7833040084.html
+Kia,Optima S,8000,2016,154900,automatic,SUV,excellent,4,gas,5XYPG4A3XGG042304,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-kia-sorento-2016-year/7833034404.html
+Nissan,altima,12499,2020,40900,automatic,sedan,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/corona-nissan-sentra-sr-miles/7833034201.html
+Honda,CR-V EX-L,13000,2019,78500,automatic,sedan,Unknown,Unknown,gas,Unknown,salvage,https://newyork.craigslist.org/brx/cto/d/bronx-2019-honda-accord-sports/7833031978.html
+Hino,268,38000,2017,196000,automatic,truck,excellent,8,diesel,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/bronx-2017-hino-268-truck-miles/7833028614.html
+Honda,CR-V EX-L,5300,2011,154000,automatic,van,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/bronx-honda-odyssey-2011-great-van/7833024603.html
+Toyota,camry se,5998,2005,210000,automatic,SUV,good,8,gas,Unknown,clean,https://newyork.craigslist.org/jsy/cto/d/chatham-2005-toyota-sequoia-limited/7833024110.html
+Mazda,3,2720,2006,124000,automatic,Unknown,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/irvington-original-owner-2006-mazda-mpv/7833002931.html
+Porsche,911 carrera,77000,2020,15000,manual,coupe,good,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-porsche-718-cayman-gt4/7833001368.html
+Ford,EXPLORER XLT LIMITED,5800,2002,191000,automatic,convertible,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/mnh/cto/d/towson-02-ford-thunderbird-convertible/7832999163.html
+Jeep,Wrangler,7000,2010,208927,automatic,other,good,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/jamaica-jeep-wrangler-sport-unlimited/7832993078.html
+Hyundai,sonata gls,2900,2006,142787,automatic,SUV,good,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/howard-beach-2006-tucson-4wd/7832992292.html
+Honda,CR-V EX-L,5500,2006,106500,automatic,coupe,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/new-york-honda-civic-coupe-ex/7832988959.html
+Toyota,camry se,13,2017,67526,automatic,sedan,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/glen-cove-2017-toyota-corolla-le-eco/7832988867.html
+Subaru,Forester,5999,2009,140000,manual,hatchback,like new,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-09-subaru-impreza-manual-with/7832987637.html
+Nissan,altima,14700,2019,168000,automatic,van,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2019-nissan-nv200-wheelchair/7832987476.html
+Jeep,Wrangler,5800,2016,159000,automatic,SUV,Unknown,6,gas,Unknown,clean,https://newyork.craigslist.org/fct/cto/d/bridgeport-2015-jeep-cherokee-limited/7832982463.html
+Buick,century limited,5500,2009,126000,automatic,SUV,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2009-buick-enclave-cxl-by/7832981513.html
+Infiniti,qx50,8000,2010,116000,automatic,sedan,like new,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/roslyn-2010-infiniti-g37x-awd-sedan-one/7832978046.html
+Infiniti,qx50,8000,2010,116000,automatic,sedan,like new,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/bayside-2010-infiniti-g37x-awd-sedan/7832976362.html
+Bmw,x5,57000,2023,15317,automatic,SUV,excellent,8,gas,Unknown,rebuilt,https://newyork.craigslist.org/que/cto/d/jackson-heights-2023-bmw-x5-m50i/7832974050.html
+Honda,CR-V EX-L,4000,2003,142712,automatic,SUV,good,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2003-honda-crv/7832969783.html
+Nissan,altima,13700,2018,110650,automatic,Unknown,like new,6,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/hempstead-2018-nissan-maxima-sl/7832969045.html
+Mercedes,benz c300,10000,2013,133000,automatic,coupe,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/baldwin-mercedes-benz-full-matic/7832961325.html
+Chrysler,Pacifica RU,4200,1983,130000,automatic,sedan,good,8,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-1983-chrysler-5th-ave-new/7832960786.html
+Toyota,camry se,5100,2008,68000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2008-toyota-solara-runs/7832937417.html
+Subaru,Forester,4000,2010,103935,automatic,SUV,good,4,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/katonah-2010-subaru-forester/7832935304.html
+Hyundai,sonata gls,5499,2013,113000,automatic,sedan,good,4,gas,5NPEC4AC6DH555637,clean,https://newyork.craigslist.org/fct/cto/d/riverside-2013-hyundai-sonata-limited/7832934899.html
+Lexus,ES,3200,2004,174000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/fct/cto/d/meriden-2004-lexus-es-330/7832932413.html
+Toyota,camry se,9000,2018,230000,automatic,Unknown,Unknown,4,hybrid,Unknown,clean,https://newyork.craigslist.org/que/cto/d/astoria-2018-camry/7832920948.html
+Chrysler,Pacifica RU,4600,2012,205000,automatic,sedan,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2012-chrysler-300c-36/7832917860.html
+Jeep,Wrangler,5200,2011,135000,automatic,SUV,like new,6,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2011-jeep-grand-cherokee/7832917470.html
+Ford,EXPLORER XLT LIMITED,6950,2013,124921,automatic,SUV,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/fct/cto/d/bridgeport-2013-ford-explorer-xlt-4wd/7832909621.html
+Toyota,camry se,10900,2012,227000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2012-toyota-sequoia/7832898533.html
+Infiniti,qx50,19995,2011,36663,automatic,convertible,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/brooklyn-2011-infiniti-g37-hardtop/7832894876.html
+Nissan,altima,65,2025,1000,manual,Unknown,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/howard-beach-cheap-cars-avalaible-days/7832893301.html
+Ford,EXPLORER XLT LIMITED,11500,2017,141000,automatic,van,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2017-ford-transit-150-cargo/7832890917.html
+Volkswagen,Jetta S,7990,2012,89000,automatic,hatchback,excellent,4,gas,WVWHD7AJ4CW166644,clean,https://newyork.craigslist.org/lgi/cto/d/baldwin-2012-volkswagen-gti-door/7832890005.html
+Subaru,Forester,6500,2007,98425,automatic,wagon,fair,4,gas,JF1GG74637H801301,clean,https://newyork.craigslist.org/lgi/cto/d/carle-place-subar-impreza-wrx/7832887926.html
+Dodge,challenger r/t,23500,2012,29135,automatic,pickup,new,8,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2012-dodge-ram-bighorn/7832887683.html
+Pontiac,Grand Prix GT,1600,1999,108000,automatic,sedan,good,6,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/arverne-1999-pontiac-grand-prix-gt/7832885152.html
+Toyota,camry se,9600,2013,126408,automatic,hatchback,excellent,4,hybrid,JTDKN3DU6D5570666,clean,https://newyork.craigslist.org/lgi/cto/d/westbury-2013-toyota-prius/7832881857.html
+Toyota,camry se,4100,2012,229837,automatic,sedan,excellent,4,gas,2T1BU4EE4CC816227,clean,https://newyork.craigslist.org/lgi/cto/d/westbury-2012-toyota-corolla-le/7832881357.html
+Toyota,camry se,6400,2007,94987,automatic,sedan,excellent,4,gas,4T1BE46K87U551463,clean,https://newyork.craigslist.org/lgi/cto/d/westbury-2007-toyota-camry-le-95-miles/7832881178.html
+Chevrolet,silverado 1500,4800,2016,120879,automatic,sedan,excellent,4,gas,1G1PE5SB3G7140355,clean,https://newyork.craigslist.org/lgi/cto/d/westbury-2016-chevy-cruze-lt/7832880399.html
+Toyota,camry se,5900,2009,135988,automatic,sedan,excellent,4,gas,4T1BE46K19U310881,clean,https://newyork.craigslist.org/lgi/cto/d/westbury-2009-toyota-camry-le-sunroof/7832880220.html
+Chevrolet,silverado 1500,9900,2014,125988,automatic,van,excellent,6,gas,1GCSGAFX1E1124990,clean,https://newyork.craigslist.org/lgi/cto/d/westbury-2014-chevrolet-express-1500/7832880042.html
+Toyota,camry se,6100,2010,124786,automatic,sedan,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/westbury-2010-toyota-corolla-le/7832879859.html
+Subaru,Forester,15900,2017,58183,manual,SUV,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/fct/cto/d/ridgefield-2017-subaru-forester-25i/7832878210.html
+Kia,Optima S,3000,2014,177000,automatic,sedan,good,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/white-plains-reliable-car-for-sale/7832876543.html
+Volkswagen,Jetta S,11350,2013,67850,automatic,sedan,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/jsy/cto/d/brooklyn-volkswagen-jetta-gli-autobahn/7832869090.html
+Subaru,Forester,5500,2013,158090,automatic,sedan,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/white-plains-2013-subaru-impreza/7832866502.html
+Honda,CR-V EX-L,1400,2003,153000,automatic,minivan,good,6,gas,5FNRL18933B135714,clean,https://newyork.craigslist.org/que/cto/d/flushing-2003-honda-odyssey-exl-for/7832864334.html
+Subaru,Forester,7400,2019,150000,automatic,sedan,good,4,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/katonah-2019-subaru-impreza-awd/7832863348.html
+Honda,CR-V EX-L,8900,2012,118000,automatic,SUV,excellent,8,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/uniondale-honda-pilot-2012-clean-118k/7832859402.html
+Honda,CR-V EX-L,4200,2010,31941,automatic,SUV,fair,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/bayside-2010-honda-cr-lx-4wd-miles/7832857896.html
+Bmw,x5,8800,2013,116650,automatic,SUV,like new,6,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2013-bmw-x5-xdrive/7832856359.html
+Mercedes-Benz,GLE350,9000,2015,105000,automatic,minivan,Unknown,Unknown,diesel,Unknown,clean,https://newyork.craigslist.org/jsy/cto/d/maywood-2015-mercedes-sprinter-3500/7832855815.html
+Honda,CR-V EX-L,1800,2004,170000,automatic,minivan,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2004-honda-odyssey-fully/7832854283.html
+Ford,EXPLORER XLT LIMITED,3650,1994,130000,manual,hatchback,good,6,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/yonkers-1994-ford-probe-gt/7832853912.html
+Honda,CR-V EX-L,15900,2018,59892,automatic,sedan,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/elmont-honda-accord-2018-low-miles/7832853580.html
+Infiniti,qx50,2250,2005,200000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2005-infiniti-gx35/7832852092.html
+Pontiac,Grand Prix GT,3600,2008,94652,automatic,convertible,good,6,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/eastchester-2008-pontiac-convertible-g6/7832851258.html
+Chevrolet,silverado 1500,8600,2011,76000,automatic,van,excellent,8,gas,1GCWGFCAXB1184986,clean,https://newyork.craigslist.org/lgi/cto/d/long-beach-2011-chevrolet-express-2500/7832848378.html
+Mercedes-Benz,GLE350,4500,2010,124730,automatic,sedan,like new,6,gas,WDDGF8BB8AR126409,clean,https://newyork.craigslist.org/brk/cto/d/staten-island-2010-mercedes-benz-c300/7832848276.html
+Dodge,challenger r/t,4900,2017,127000,automatic,SUV,Unknown,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2017-dodge-journey-se-great-on/7832848237.html
+Porsche,911 carrera,10900,2011,112000,automatic,SUV,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/brooklyn-2011-porsche-cayenne-awd-mint/7832848228.html
+Nissan,altima,3900,2008,2,automatic,SUV,excellent,8,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/astoria-2008-nissan-armada-le-4x4-3rd/7832847879.html
+Pontiac,Grand Prix GT,1,2007,190,manual,sedan,like new,4,gas,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/kingston-2007-pontiac-g5-1800/7832846744.html
+Honda,CR-V EX-L,6000,2004,200000,automatic,sedan,fair,4,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-we-buy-cars/7832846626.html
+Toyota,camry se,900,2010,100000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/new-york-2010-toyota-corolla/7832842774.html
+Nissan,altima,3700,2012,146361,automatic,Unknown,good,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/saint-albans-2012-nissan-rogue-sl-awd/7832833958.html
+Bmw,x5,3000,2008,200000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/union-2008-bmw-535i-sport-navigation/7832828574.html
+Ford,EXPLORER XLT LIMITED,11500,2019,70000,automatic,sedan,like new,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2019-ford-fusion-hybrid/7832828489.html
+Honda,CR-V EX-L,5900,2008,125100,automatic,SUV,like new,6,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/port-chester-clean/7832827474.html
+Mercedes-Benz,GLE350,7500,1999,194898,automatic,sedan,excellent,8,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/arverne-1999-mercedes-benz-class-s500/7832825894.html
+Ram,Cargo Van,25900,2020,41219,automatic,pickup,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/arverne-2020-ram-1500-big-horn-4x4-4dr/7832825782.html
+Mercedes,benz c300,1500,1999,102000,automatic,sedan,Unknown,8,gas,Unknown,missing,https://newyork.craigslist.org/que/cto/d/arverne-1999-mercedes-benz-class-s500/7832825697.html
+Chevy,Silverado,2500,2012,180000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/union-2012-chevrolet-traverse-slt-3rd/7832825244.html
+Chevy,Silverado,6600,2015,122000,automatic,SUV,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/katonah-2015-chevy-equinox-lt-awd/7832823991.html
+Saab,9-3 Viggen convertible,2250,2008,150000,automatic,SUV,Unknown,6,gas,5S3ET13S982804291,clean,https://newyork.craigslist.org/mnh/cto/d/new-york-2008-saab-7x/7832820510.html
+Ford,EXPLORER XLT LIMITED,7600,2007,117557,automatic,pickup,good,8,gas,Unknown,clean,https://newyork.craigslist.org/fct/cto/d/new-fairfield-2007-k-miles/7832819004.html
+All,cars,120,2016,400000,automatic,Unknown,Unknown,Unknown,electric,Unknown,rebuilt,https://newyork.craigslist.org/brk/cto/d/brooklyn-mr-fix-it-on-the-spot-auto/7832818400.html
+Cars,for sale,175,2014,400000,automatic,Unknown,Unknown,Unknown,electric,Unknown,rebuilt,https://newyork.craigslist.org/que/cto/d/south-ozone-park-fast-fix-mobile-dent/7832818226.html
+Nissan,altima,8500,2015,102056,automatic,van,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/mnh/cto/d/new-york-nissan-nv-miles-just-passed/7832810825.html
+Ford,EXPLORER XLT LIMITED,3950,2011,200000,automatic,van,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2011-ford-250-runs-and-drives/7832802521.html
+Honda,CR-V EX-L,13900,2015,115000,automatic,Unknown,like new,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/rockville-centre-2015-honda-pilot-ex/7832800628.html
+Dodge,challenger r/t,32000,2020,49000,automatic,sedan,excellent,8,gas,Unknown,clean,https://newyork.craigslist.org/mnh/cto/d/new-york-2020-dodge-charger-scat-pack/7832800616.html
+Honda,CR-V EX-L,12500,2014,137000,automatic,Unknown,like new,4,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/hempstead-2014-honda-cr-ex/7832800585.html
+Chevrolet,silverado 1500,3400,2011,140000,automatic,Unknown,new,8,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-chevy-express-2500/7832799700.html
+Toyota,camry se,5500,2005,195600,automatic,SUV,excellent,6,gas,JTEEP21A550078409,clean,https://newyork.craigslist.org/brx/cto/d/bronx-toyota-highlander-limited-4wd/7832789454.html
+Dodge,challenger r/t,61000,2023,700,automatic,sedan,new,8,gas,Unknown,clean,https://newyork.craigslist.org/fct/cto/d/greenwich-2023-dodge-charger-scat-pack/7832780404.html
+Chevy,Silverado,64999,2004,34558,automatic,pickup,excellent,8,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/cos-cob-custom-2004-chevy-silverado/7832777958.html
+Subaru,Forester,6500,2007,68000,automatic,SUV,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2007-subaru-forester-68-miles/7832777856.html
+Oldsmobile,Cutlass Supreme convertible,54999,1972,48392,automatic,convertible,excellent,8,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/stamford-1972-oldsmobile-cutlass/7832777122.html
+Toyota,camry se,12900,2017,162000,automatic,sedan,excellent,4,hybrid,Unknown,clean,https://newyork.craigslist.org/mnh/cto/d/new-york-toyota-camry-se-hybrid-2017-in/7832771548.html
+Hyundai,sonata gls,7500,2017,160000,automatic,sedan,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/mnh/cto/d/new-york-2017-hyundai-sonata/7832765832.html
+Honda,CR-V EX-L,5800,2012,160000,automatic,sedan,new,6,gas,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/new-york-honda-accord/7832758097.html
+Ford,EXPLORER XLT LIMITED,12900,2018,121000,automatic,van,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2018-ford-transit-350-cargo/7832756372.html
+Chevy,Silverado,5000,2007,110000,automatic,SUV,good,6,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2007-chevy-trailblazer/7832753489.html
+Ford,EXPLORER XLT LIMITED,5500,2015,126000,automatic,SUV,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2015-ford-escape-se-awd/7832752378.html
+Toyota,camry se,9300,2014,139101,automatic,hatchback,like new,4,hybrid,JTDKN3DUXE0388855,clean,https://newyork.craigslist.org/que/cto/d/oakland-gardens-2014-toyota-prius/7832752024.html
+Mercedes,benz c300,11000,2011,63737,automatic,convertible,good,6,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2011-mercedes-e350/7832750210.html
+Infiniti,qx50,11000,2014,92000,automatic,sedan,new,6,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2014-infiniti-miles/7832748956.html
+Ford,EXPLORER XLT LIMITED,10000,2012,170000,automatic,bus,like new,10,gas,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/new-york-selling-ford-bus/7832748628.html
+Jeep,Wrangler,8550,2014,70685,automatic,SUV,good,6,gas,1C4RJFAG7EC335958,clean,https://newyork.craigslist.org/que/cto/d/whitestone-jeep-grand-cherokee/7832747004.html
+Toyota,camry se,17424,2011,80000,automatic,SUV,excellent,6,gas,5TDBK3EH3BS063838,clean,https://newyork.craigslist.org/lgi/cto/d/great-neck-2011-toyota-highlander-v6-se/7832745434.html
+Ford,EXPLORER XLT LIMITED,7800,2007,78000,automatic,Unknown,good,8,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/ridgewood-2007-ford-crown-victoria-ffv/7832743850.html
+Toyota,camry se,13229,2011,36000,automatic,sedan,like new,4,gas,4T4BF3EK9BR207342,clean,https://newyork.craigslist.org/lgi/cto/d/great-neck-2011-toyota-camry-le-miles/7832743778.html
+Toyota,camry se,12500,2002,238000,automatic,pickup,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/hampton-bays-2002-toyota-tacoma-sr5/7832740203.html
+Ford,EXPLORER XLT LIMITED,16500,2011,100103,automatic,pickup,excellent,8,diesel,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/hampton-bays-2011-f350-crew-cab-flatbed/7832739619.html
+Chevy,Silverado,9500,2014,202136,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/staten-island-2014/7832730017.html
+Chevy,Silverado,9500,2014,202136,automatic,van,good,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2014-chevy-express-3500/7832728715.html
+Honda,CR-V EX-L,10600,2014,87300,automatic,minivan,like new,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-honda-odyssey/7832724607.html
+Ford,EXPLORER XLT LIMITED,6999,2016,116000,automatic,SUV,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2014-ford-explorer/7832717992.html
+Bmw,x5,13690,2016,81428,automatic,sedan,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/staten-island-2016-bmw-series-328i/7832717246.html
+Plymouth,valiant,3700,1966,70000,automatic,convertible,good,8,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/huntington-vintage-racer-1966-plymouth/7832717169.html
+Honda,CR-V EX-L,9500,2013,92000,automatic,sedan,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2013-honda-accord-ex/7832717018.html
+Dodge,challenger r/t,6500,2017,84000,automatic,minivan,fair,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/brooklyn-2017-dodge-grand-caravan-gt/7832710997.html
+Infiniti,qx50,2800,1996,242000,automatic,coupe,good,6,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/greenvale-infiniti-i30-white-original/7832708709.html
+Nissan,altima,6500,2015,191245,automatic,SUV,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/queens-village-nissan-pathfinder/7832705901.html
+Mercedes,benz c300,Unknown,2007,84000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/fct/cto/d/norwalk-cars-for-sale/7832704634.html
+Nissan,altima,5000,2008,60000,automatic,sedan,good,4,gas,3N1BC13E78L400135,clean,https://newyork.craigslist.org/que/cto/d/queens-village-2008-nissan-versa-miles/7832704339.html
+Lexus,ES,8850,2009,138000,automatic,SUV,excellent,6,gas,2T2HK31UX9C124307,clean,https://newyork.craigslist.org/fct/cto/d/norwalk-super-clean-oneowner-rx350/7832704318.html
+Nissan,altima,5,2004,125000,automatic,minivan,fair,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-nissan-quest-2004-good/7832700509.html
+Jeep,Wrangler,6900,2008,112000,manual,SUV,excellent,6,gas,1J4FA24128L600142,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2008-jeep-wrangler-stick-shift/7832694891.html
+Bmw,x5,6900,2013,131000,automatic,sedan,excellent,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/valley-stream-2013-bmw-328i-drive/7832692900.html
+Lexus,ES,4400,2005,115100,automatic,sedan,excellent,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/valley-stream-2005-lexus-es330/7832692286.html
+Subaru,Forester,4300,2004,123147,automatic,pickup,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/flushing-2004-subaru-baja-pickup-4x4/7832689004.html
+Toyota,camry se,8500,2011,118000,automatic,sedan,excellent,6,gas,4T1BK3DB4BU418620,clean,https://newyork.craigslist.org/lgi/cto/d/baldwin-2011-toyota-avalon-limited-with/7832687808.html
+Mini,Clubman,4600,2010,108900,automatic,hatchback,like new,4,gas,WMWML3C5XATX39083,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2010-mini-clubman-cooper/7832687153.html
+Volkswagen,Jetta S,11800,2019,66000,manual,sedan,excellent,4,gas,3VWN57BU8KM109495,clean,https://newyork.craigslist.org/lgi/cto/d/baldwin-2019-volkswagen-jetta-with-66k/7832687063.html
+Toyota,camry se,300,2015,1000,automatic,sedan,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/long-island-city-tlc-uber-2015-toyota/7832686956.html
+Nissan,altima,13800,2018,62000,automatic,SUV,excellent,4,gas,KNMAT2MV4JP520224,clean,https://newyork.craigslist.org/lgi/cto/d/baldwin-2018-nissan-rogue-awd-with-only/7832684465.html
+Volkswagen,Jetta S,19500,2022,47000,automatic,SUV,excellent,4,gas,3VV3B7AX9NM135818,clean,https://newyork.craigslist.org/lgi/cto/d/baldwin-2022-volkswagen-tiguan-se-with/7832684122.html
+Volkswagen,Jetta S,15800,2021,53000,automatic,sedan,excellent,4,gas,1VWSA7A37MC015376,clean,https://newyork.craigslist.org/lgi/cto/d/baldwin-2021-volkswagen-passat-se-with/7832681843.html
+Porsche,911 carrera,8700,2008,105600,automatic,SUV,good,8,gas,WP1AB29P58LA46653,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-porsche-2008-cayenne/7832679418.html
+Dodge,challenger r/t,4500,2015,160000,automatic,sedan,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/yonkers-dodge-dart-for-sale/7832676138.html
+Bmw,x5,14899,1988,142846,manual,sedan,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/hartsdale-1988-bmw-535i-e28-classic/7832668623.html
+Lincoln,mkt awd,1500,2003,160000,automatic,sedan,fair,8,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/rockaway-park-2003-lincoln-town-car/7832662935.html
+Cadillac,DTS,3100,2012,198000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/jamaica-2012-cadillac-escalade-esv-runs/7832660158.html
+Hyundai,sonata gls,6000,2018,95111,automatic,sedan,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/flushing-2018-hyundai-elantra-95k/7832659740.html
+Honda,CR-V EX-L,2000,2013,76852,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-we-buy-all-cars-cash/7832658295.html
+Ford,EXPLORER XLT LIMITED,7000,2016,158153,automatic,SUV,good,6,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2016-ford-explorer-police/7832656418.html
+Lexus,ES,3000,2001,195100,automatic,sedan,good,6,gas,Unknown,rebuilt,https://newyork.craigslist.org/brk/cto/d/brooklyn-2001-lexus-is300/7832654506.html
+Dodge,challenger r/t,5500,2016,148882,automatic,minivan,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/ozone-park-2016-dodge-grand-caravan-t/7832654151.html
+Subaru,Forester,5900,2013,118000,automatic,sedan,excellent,4,gas,4S3BMBC60D3027115,clean,https://newyork.craigslist.org/wch/cto/d/maryknoll-2013-subaru-legacy-sedan-awd/7832652318.html
+Nissan,altima,2700,2004,90000,automatic,sedan,excellent,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/bayside-2004-nissan-altima/7832651596.html
+Ford,EXPLORER XLT LIMITED,6500,2008,139101,automatic,pickup,like new,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/woodside-ford-ranger/7832646100.html
+Subaru,Forester,5900,2009,108000,automatic,SUV,excellent,4,gas,JF2SH63639H774473,clean,https://newyork.craigslist.org/wch/cto/d/maryknoll-2009-subaru-forester-awd-only/7832642808.html
+Cadillac,DTS,1600,2000,96000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2000-cadillac-deville-dts/7832642485.html
+Land Rover,range rover hse,7000,2011,144000,automatic,SUV,like new,8,gas,Unknown,rebuilt,https://newyork.craigslist.org/que/cto/d/woodside-land-rover-range-rover-hse/7832642167.html
+Toyota,camry se,2600,2005,200000,automatic,sedan,Unknown,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2005-toyota-corolla-le/7832642073.html
+Freightliner,Unknown,39500,2020,505000,automatic,Unknown,excellent,Unknown,diesel,Unknown,clean,https://newyork.craigslist.org/jsy/cto/d/keasbey-2020-freightliner-cascadia/7832640103.html
+Toyota,camry se,8500,2008,96000,automatic,minivan,excellent,6,gas,5TDZK22C78S204498,clean,https://newyork.craigslist.org/lgi/cto/d/valley-stream-2008-toyota-sienna/7832637407.html
+Bmw,x5,10500,1995,102000,manual,sedan,good,6,gas,WBAHD5323SGB39034,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-1995-bmw-e34-525i/7832637362.html
+Ford,EXPLORER XLT LIMITED,7500,2018,10000,automatic,sedan,like new,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/woodside-ford-fuison-2018/7832634509.html
+Mercedes-Benz,GLE350,55000,2022,16000,automatic,SUV,like new,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2022-mercedes-benz-gle-obo/7832634261.html
+Subaru,Forester,3500,2014,207000,automatic,SUV,fair,4,gas,JF2SJAPC1EH525221,clean,https://newyork.craigslist.org/wch/cto/d/white-plains-subaru-forester/7832631407.html
+Volvo,v40,3900,2010,134000,automatic,sedan,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/flushing-2010-volvo-s80/7832622263.html
+Ford,EXPLORER XLT LIMITED,3900,2011,110160,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/elmsford-2011-doers-edge/7832620762.html
+Ford,EXPLORER XLT LIMITED,38995,2020,8232,manual,coupe,like new,8,gas,Unknown,clean,https://newyork.craigslist.org/fct/cto/d/norwalk-2020-mustang-gt-50/7832616181.html
+Mercedes-Benz,GLE350,6000,2009,202000,automatic,SUV,like new,6,diesel,Unknown,clean,https://newyork.craigslist.org/que/cto/d/woodside-mercedes-benz-gl320/7832613080.html
+Toyota,camry se,1000,2010,100000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/new-york-2010-toyota-corolla/7832606440.html
+Chevrolet,silverado 1500,15000,1978,99999,automatic,coupe,excellent,8,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-1978-chevy-malibu/7832601106.html
+Kia,Optima S,10500,2017,102000,automatic,SUV,excellent,4,gas,KNDPNCAC3H7031997,clean,https://newyork.craigslist.org/fct/cto/d/norwalk-2017-kia-sportage-ex-mi-obo/7832594790.html
+Ford,EXPLORER XLT LIMITED,6500,2016,177735,automatic,sedan,like new,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/woodside-ford-fusion-se-2016/7832582831.html
+Ford,EXPLORER XLT LIMITED,5500,2015,185000,automatic,sedan,like new,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/woodside-ford-taurus-limited-2015/7832578755.html
+Toyota,camry se,6500,2015,206671,automatic,sedan,like new,4,hybrid,Unknown,clean,https://newyork.craigslist.org/que/cto/d/woodside-camry-hybrid-le-2015/7832575801.html
+Isuzu,npr,19000,2019,108000,automatic,truck,Unknown,Unknown,other,Unknown,clean,https://newyork.craigslist.org/mnh/cto/d/new-york-2019-isuzu-npr-box-truck/7832573211.html
+Subaru,Forester,2495,2008,153000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/east-elmhurst-2008-subaru-outback-153k/7832572826.html
+Subaru,Forester,9500,2018,133558,automatic,sedan,like new,4,gas,Unknown,rebuilt,https://newyork.craigslist.org/que/cto/d/woodside-subaru-impreza-sport-2018/7832572552.html
+Toyota,camry se,1800,2003,190000,automatic,Unknown,good,6,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2003-toyota-camry-runs/7832572147.html
+Honda,CR-V EX-L,16800,2016,95000,automatic,Unknown,like new,4,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/sea-cliff-2016-honda-crv-lx/7832571416.html
+Mercedes-Benz,GLE350,8500,2005,66000,automatic,convertible,excellent,8,gas,WDBTK75JX5F133272,clean,https://newyork.craigslist.org/wch/cto/d/yonkers-2005-mercedes-benz-clk-500/7832564061.html
+Subaru,Forester,7900,2010,128000,automatic,SUV,like new,4,gas,JF2SH6AC7AH741912,clean,https://newyork.craigslist.org/lgi/cto/d/valley-stream-2010-subaru-all-wheel/7832559917.html
+Honda,CR-V EX-L,22888,2019,58000,automatic,SUV,like new,4,gas,7FARW1H52KE016561,clean,https://newyork.craigslist.org/lgi/cto/d/brightwaters-2015-tlx-2019-honda-crv-ex/7832559642.html
+Toyota,camry se,11500,2013,109000,automatic,minivan,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/forest-hills-2013-toyota-sienna-xle-low/7832559293.html
+Mercedes-Benz,GLE350,29500,1986,78000,automatic,convertible,like new,8,gas,WDBBA48D8GA036266,clean,https://newyork.craigslist.org/wch/cto/d/croton-on-hudson-1986-mercedes-560sl/7832558756.html
+Jaguar,XKE,123000,1967,41200,manual,convertible,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/mnh/cto/d/columbus-1967-jaguar-series-e-type/7832553474.html
+Nissan,altima,5500,2016,144000,automatic,sedan,excellent,4,gas,3N1AB7AP0GY239229,clean,https://newyork.craigslist.org/que/cto/d/springfield-gardens-2016-nissan-sentra/7832552961.html
+Nissan,altima,3800,2012,112000,automatic,sedan,good,4,gas,3N1AB6AP6CL654797,clean,https://newyork.craigslist.org/que/cto/d/astoria-2012-nissan-centra-miles-great/7832550508.html
+Land Rover,range rover hse,78500,2023,11000,automatic,SUV,like new,6,gas,Unknown,lien,https://newyork.craigslist.org/stn/cto/d/staten-island-2023-land-rover-range/7832548653.html
+Nissan,altima,5000,2015,106800,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/brooklyn-2015-nissan-rogue/7832546723.html
+Cars,for sale,175,2014,400000,automatic,Unknown,Unknown,Unknown,electric,Unknown,rebuilt,https://newyork.craigslist.org/que/cto/d/south-ozone-park-fast-fix-mobile-dent/7832543989.html
+All,cars,120,2016,400000,automatic,Unknown,Unknown,Unknown,electric,Unknown,rebuilt,https://newyork.craigslist.org/brk/cto/d/brooklyn-mr-fix-it-on-the-spot-mobile/7832543826.html
+Jeep,Wrangler,8000,2016,51449,automatic,SUV,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-low-miles-wifes-car/7832537021.html
+Nissan,altima,2500,2011,200000,other,sedan,salvage,4,gas,Unknown,rebuilt,https://newyork.craigslist.org/stn/cto/d/staten-island-junk-cars-and-truck-pick/7832535861.html
+Audi,S4,9000,2016,90480,automatic,coupe,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-beautiful-s5/7832535418.html
+Ford,EXPLORER XLT LIMITED,12500,2016,129000,automatic,SUV,good,6,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/mount-vernon-2016-ford-explorer-police/7832534734.html
+C300,Unknown,4700,2014,150000,automatic,sedan,fair,4,gas,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/bronx-2014-300-daily-driver-no-lights/7832532823.html
+Ford,EXPLORER XLT LIMITED,79999,2019,98000,automatic,Unknown,excellent,Unknown,diesel,Unknown,clean,https://newyork.craigslist.org/mnh/cto/d/iselin-2019-ford-550-lariet-wrecker/7832530757.html
+Honda,CR-V EX-L,2795,2008,202000,automatic,sedan,like new,6,gas,1HGCP36838A018796,clean,https://newyork.craigslist.org/brx/cto/d/bronx-2008-honda-accord-ex-v6-202k/7832524094.html
+Infinity,fx35,2500,2005,130000,manual,Unknown,fair,Unknown,gas,Unknown,missing,https://newyork.craigslist.org/brk/cto/d/brooklyn-2005-infinity-fx35/7832511333.html
+Gmc,terrain sle awd,5700,2007,129010,automatic,SUV,good,8,gas,1GKFK66807J371009,clean,https://newyork.craigslist.org/fct/cto/d/bronxville-gmc-yukon-denali-xl/7832510220.html
+Bmw,x5,6500,2014,99000,automatic,SUV,excellent,4,gas,WBAVL1C50EVR93646,clean,https://newyork.craigslist.org/wch/cto/d/bronxville-2014-bmw-x1/7832503580.html
+Bmw,x5,1,2018,100000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/floral-park-cash-on-the-spot-for-your/7832502369.html
+Mercedes-Benz,GLE350,18500,2013,75000,automatic,van,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/oceanside-2013-mercedes-benz-sprinter/7832493306.html
+Gmc,terrain sle awd,19990,2006,80000,automatic,truck,good,Unknown,diesel,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/valley-stream-2006-gmc-c5500-cab-box/7832492057.html
+Audi,S4,3799,2008,126000,automatic,sedan,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/brooklyn-2008-audi-a6-32l-fsi-quattro/7832491246.html
+Gch,Unknown,28000,2021,33000,automatic,SUV,good,6,gas,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/bronx-2021-jeep-grand-cherokee/7832491184.html
+Audi,S4,25000,2018,37300,automatic,hatchback,excellent,6,gas,WAUC4CF5XJA040245,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-audi-s5-sportback-prestige/7832488281.html
+Lincoln,mkt awd,109999,2001,150000,automatic,other,like new,8,gas,1L1FM81W01Y668431,clean,https://newyork.craigslist.org/mnh/cto/d/farmersville-limousine-carriage/7832485641.html
+Tesla,y,40000,2016,106,automatic,SUV,excellent,Unknown,electric,Unknown,rebuilt,https://newyork.craigslist.org/lgi/cto/d/lindenhurst-2016-tesla-model-free/7832479118.html
+Honda,CR-V EX-L,7800,2007,128000,manual,sedan,like new,4,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-honda-accord-for-sale-by/7832476952.html
+Cadillac,DTS,4000,2010,110000,automatic,sedan,good,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2010-cadillac-cts/7832471233.html
+Ford,EXPLORER XLT LIMITED,32999,1988,147555,automatic,truck,good,8,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/pleasantville-food-truck-fully-equipped/7832464322.html
+Gmc,terrain sle awd,3000,2012,190000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/newark-take-it2012-gmc-terrain-sle-v6/7832463442.html
+Infiniti,qx50,15000,2018,80000,automatic,SUV,Unknown,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/forest-hills-infiniti-qx60-awd-black/7832458737.html
+Mini,Clubman,6800,2015,103995,automatic,hatchback,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2015-mini-cooper-hatchback/7832455940.html
+Nissan,altima,5200,2010,111500,automatic,sedan,good,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/jamaica-2010-nissan-maxima-miles/7832452785.html
+Jaguar,XKE,9000,2017,108261,automatic,sedan,good,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2017-jaguar-xf-35-super-charge/7832451685.html
+Toyota,camry se,2900,1999,84000,automatic,sedan,good,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/jackson-heights-toyota-camry-for-sale/7832447619.html
+Mini,Clubman,3500,2010,105000,automatic,coupe,Unknown,4,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/brooklyn-2010-mini-cooper-coupe/7832445961.html
+Porsche,911 carrera,21000,2017,132000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/astoria-2017-porsche-cayenne-gts/7832445655.html
+Nissan,altima,3800,2010,165000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2010-nissan-xterra-off-road/7832445242.html
+Bmw,x5,4800,2014,218000,automatic,SUV,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2014-bmw-x1-xdrive28i-awd-runs/7832444997.html
+Ram,Cargo Van,2200,2014,200000,automatic,minivan,Unknown,4,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2014-ram-tradesman/7832439997.html
+Mercedes-Benz,GLE350,54000,2021,84557,manual,van,Unknown,Unknown,diesel,W1Z4EGHY8MT068581,clean,https://newyork.craigslist.org/que/cto/d/east-elmhurst-mercedes-benz-sprinter/7832437662.html
+Mercedes,benz c300,6800,2007,130000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2007-mercedes-benz-sl550/7832435955.html
+Ford,EXPLORER XLT LIMITED,17000,2010,70100,automatic,SUV,like new,8,gas,1FMEU5D80AUF05386,clean,https://newyork.craigslist.org/que/cto/d/jamaica-2010-ford-explorer-sport-trac/7832433809.html
+Toyota,camry se,6500,2014,188000,automatic,hatchback,excellent,4,hybrid,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/new-rochelle-toyota-prius/7832430203.html
+Acura,mdx,8500,2012,111000,automatic,SUV,excellent,6,gas,2HNYD2H66CH513842,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2012-acura-mdx-navigation/7832428920.html
+Bmw,x5,6900,2013,102992,automatic,coupe,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2013-bmw-328xi-coupe-drives/7832423324.html
+Chevrolet,silverado 1500,4500,2012,132000,automatic,SUV,excellent,6,gas,1GNKVGED0CJ164031,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2012-chevrolet-chevy-traverse/7832422047.html
+Gmc,terrain sle awd,4000,2009,175000,automatic,SUV,good,8,hybrid,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2009-gmc-yukon-hybrid/7832420097.html
+Toyota,camry se,3900,2000,241232,automatic,SUV,good,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2000-toyota-4runner-241k/7832419073.html
+Mercedes,benz c300,7800,2015,168886,automatic,sedan,good,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2015-mercedes-benz-e350-4matic/7832416869.html
+Toyota,camry se,5000,2010,100000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2010-toyota-rav4-base-4wd/7832416344.html
+Mercedes-Benz,GLE350,58000,2018,60000,manual,van,like new,Unknown,diesel,WDZPE8CD7JP632970,clean,https://newyork.craigslist.org/que/cto/d/east-elmhurst-mercedes-benz-sprinter/7832415660.html
+Nissan,altima,6990,2014,110245,automatic,sedan,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/maspeth-2014-nissan-maxima-v6-110k/7832412577.html
+Honda,CR-V EX-L,7990,2008,118557,automatic,SUV,excellent,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/maspeth-2008-honda-cr-ex-4x4-118k-runs/7832412447.html
+Chevrolet,silverado 1500,6990,2003,115491,automatic,van,Unknown,6,gas,1GNEL19X93B138669,clean,https://newyork.craigslist.org/que/cto/d/maspeth-2003-chevrolet-astro-awd-115k/7832412007.html
+Gmc,terrain sle awd,15500,2018,77950,automatic,van,good,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2018-gmc-savana-2500-cargovan/7832410983.html
+Ford,EXPLORER XLT LIMITED,15500,2017,80000,automatic,van,good,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2017-ford-transit-150-van/7832407717.html
+Ram,Cargo Van,9900,2015,80500,automatic,van,good,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2015-ram-promaster-city/7832404460.html
+Mitsubishi,Galant,3200,2009,127000,automatic,sedan,good,6,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/yonkers-2009-mitsubishi-galant/7832404007.html
+Mercedes-Benz,GLE350,12688,2011,145272,automatic,sedan,excellent,8,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/forest-hills-mercedes-class-4matic/7832393329.html
+Lexus,ES,7500,2008,136600,automatic,sedan,good,6,gas,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/bronx-2008-lexus-is-250-awd-6cyl-red/7832392069.html
+Nissan,altima,1000,2009,203543,automatic,sedan,fair,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/brooklyn-2009-nissan-altima-25/7832390634.html
+Toyota,camry se,3800,2014,140000,automatic,sedan,Unknown,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2014-toyota-camry/7832388687.html
+Chevrolet,silverado 1500,2800,2013,121000,automatic,sedan,good,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/jamaica-2013-chevy-cruz-runs-and-drives/7832379172.html
+Mercedes,benz c300,4000,2008,106000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2008-mercedes-e350/7832377055.html
+Nissan,altima,6950,2015,95100,automatic,SUV,excellent,4,gas,JN8AS5MVXFW752400,clean,https://newyork.craigslist.org/que/cto/d/flushing-2015-nissan-rogue-select-awd/7832375580.html
+Nissan,altima,7200,2015,72000,automatic,sedan,excellent,4,gas,1N4AL3AP2FN368769,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2015-nissan-altima/7832374426.html
+Jaguar,XKE,19500,2019,44000,automatic,Unknown,like new,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/white-plains-2019-jaguar-xe-25t/7832374000.html
+Nissan,altima,15900,2017,65443,automatic,SUV,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/jamaica-excellent-running-low-mileage/7832371606.html
+Nissan,altima,5800,2015,153000,automatic,sedan,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/bronx-2015-nissan-altima-all-leather/7832357896.html
+Jeep,Wrangler,7700,2016,154000,automatic,SUV,excellent,6,gas,1C4PJMDS4GW142597,clean,https://newyork.craigslist.org/jsy/cto/d/new-rochelle-2016-jeep-cherokee/7832351510.html
+Mazda,3,23995,2019,31975,automatic,SUV,excellent,4,gas,JM3KFBDM4K0626080,clean,https://newyork.craigslist.org/que/cto/d/long-island-city-2019-mazda-cx-grand/7832351100.html
+Ford,EXPLORER XLT LIMITED,7900,2011,147000,automatic,pickup,excellent,8,gas,1FTFW1EF7BKD27823,clean,https://newyork.craigslist.org/fct/cto/d/new-rochelle-2011-ford-f150-xlt-50/7832350023.html
+Ford,EXPLORER XLT LIMITED,3000,2007,213000,automatic,wagon,good,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-ford/7832349121.html
+Honda,CR-V EX-L,5499,2003,38000,automatic,SUV,like new,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/staten-island-2003-honda-cr-lx-awd/7832332093.html
+Toyota,camry se,1000,2010,100000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/new-york-2010-toyota-corolla/7832330505.html
+Toyota,camry se,22800,2024,25000,automatic,sedan,excellent,4,gas,4T1C11AK4RU204320,clean,https://newyork.craigslist.org/lgi/cto/d/baldwin-2024-toyota-camary-le-25k-miles/7832329749.html
+Kia,Optima S,17800,2021,51000,automatic,SUV,excellent,4,gas,KNDERCAA6M7128681,clean,https://newyork.craigslist.org/lgi/cto/d/baldwin-2021-kia-seltos-ex-51k-miles/7832327285.html
+Dodge,challenger r/t,10800,2018,38000,automatic,SUV,excellent,4,gas,3C4PDCAB6JT311134,clean,https://newyork.craigslist.org/lgi/cto/d/baldwin-2018-dodge-journey-se-with-38k/7832326909.html
+Bmw,x5,87000,2024,23000,automatic,Unknown,like new,6,gas,Unknown,clean,https://newyork.craigslist.org/jsy/cto/d/montvale-2024-bmw-m3-competition-xdrive/7832326800.html
+Nissan,altima,5000,2015,106800,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/brooklyn-2015-nissan-rogue/7832322835.html
+Honda,CR-V EX-L,5200,2010,122000,automatic,sedan,good,4,gas,1HGCP2F39AA173972,clean,https://newyork.craigslist.org/que/cto/d/astoria-2010-honda-accord-lx-sedan/7832320949.html
+Honda,CR-V EX-L,3200,2007,203000,manual,sedan,excellent,4,gas,2HGFA15837H303275,clean,https://newyork.craigslist.org/que/cto/d/astoria-2007-honda-civic-ex-sedan-with/7832320505.html
+Nissan,altima,5000,2015,106800,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2015-nissan-rogue/7832316642.html
+Toyota,camry se,7239,2007,131000,automatic,SUV,like new,8,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-gorgeous-2007-toyota-sequoia/7832311776.html
+Volkswagen,Jetta S,3800,2018,109000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2010-volkswagen-tiguan/7832305644.html
+Bmw,x5,40000,2019,47000,automatic,sedan,excellent,8,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-bmw-m550i/7832302618.html
+Chevy,Silverado,5500,2010,189235,automatic,bus,good,8,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/maryknoll-school-bus-van/7832300100.html
+Honda,CR-V EX-L,7000,2011,92000,automatic,SUV,good,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/elmhurst-honda-crv-2011-for-sale/7832298460.html
+Chrysler,Pacifica RU,4600,2012,205000,automatic,sedan,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2012-chrysler-300c-36/7832298431.html
+Bmw,x5,10500,2012,79000,automatic,wagon,like new,8,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2012-bmw-series-bmw-550xi-gt/7832297494.html
+Isuzu,npr,96,2016,167000,automatic,truck,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/mnh/cto/d/new-york-2016-isuzu-npr-dump-truck/7832286940.html
+Dodge,challenger r/t,18000,2020,38000,automatic,sedan,excellent,6,gas,2C3CDXBG7LH186113,clean,https://newyork.craigslist.org/lgi/cto/d/baldwin-2020-dodge-charger-sxt-white/7832285807.html
+Honda,CR-V EX-L,4750,2009,165000,automatic,SUV,Unknown,6,gas,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/bronx-2009-honda-crv-ex-awd-clean/7832283907.html
+Toyota,camry se,22500,2023,49000,automatic,sedan,Unknown,4,gas,4T1G11AK1PU804873,clean,https://newyork.craigslist.org/lgi/cto/d/baldwin-2023-toyota-camry-se-silver-blk/7832283612.html
+Mercedes-Benz,GLE350,10000,2008,111383,automatic,sedan,excellent,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/astoria-2008-mercedes-s600-for-sale/7832283578.html
+Toyota,camry se,450,2018,150000,automatic,sedan,good,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/astoria-2018-toyota-camry-hybrid-for/7832283345.html
+Toyota,camry se,28500,2016,51389,automatic,SUV,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2016-toyota-4runner-limited/7832282464.html
+Isuzu,npr,85,2016,167000,automatic,truck,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/mnh/cto/d/new-york-2016-isuzu-npr-box-truck/7832280557.html
+Toyota,camry se,1900,2003,190000,automatic,Unknown,good,6,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2003-toyota-camry-runs/7832279996.html
+Ford,EXPLORER XLT LIMITED,1600,2007,147000,automatic,Unknown,good,4,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2007-ford-focus/7832279846.html
+Audi,S4,2000,2008,118000,automatic,wagon,fair,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-as-is-audi-a3-20t-wagon-4d/7832278705.html
+Ford,EXPLORER XLT LIMITED,5500,2014,100000,automatic,hatchback,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/sunnyside-ford-focus-hatchback-100k/7832276172.html
+International,LT,5000,2008,147000,automatic,truck,good,6,diesel,Unknown,clean,https://newyork.craigslist.org/que/cto/d/east-elmhurst-y-international-school/7832272317.html
+Ford,EXPLORER XLT LIMITED,38500,2021,5900,automatic,truck,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/mnh/cto/d/woodside-2021-transit-350-box-truck-for/7832266053.html
+Audi,S4,22150,2019,41715,automatic,sedan,excellent,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/fct/cto/d/new-fairfield-2019-audi-a6-45-tfsi/7832260428.html
+Lexus,ES,8300,2009,110000,automatic,sedan,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/brooklyn-2009-lexus-is-250-awd/7832255817.html
+Jeep,Wrangler,15000,2006,104500,manual,SUV,excellent,6,gas,1J4FA39S76P737669,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-jeep-wrangler-tj-2006/7832248913.html
+All,cars,120,2016,400000,automatic,Unknown,Unknown,Unknown,electric,Unknown,rebuilt,https://newyork.craigslist.org/brk/cto/d/brooklyn-mr-fix-it-on-the-spot-mobile/7832247007.html
+All,cars,175,2015,400000,automatic,Unknown,Unknown,Unknown,electric,Unknown,rebuilt,https://newyork.craigslist.org/que/cto/d/valley-stream-fast-fix-mobile-auto-body/7832246841.html
+Ford,EXPLORER XLT LIMITED,6500,2015,165200,automatic,SUV,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/long-beach-2015-ford-explorer-xlt-awd/7832245542.html
+Chey,Express 2500,3800,2008,200000,automatic,van,good,8,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/saint-albans-2008-chevy-express-2500/7832241319.html
+Nissan,altima,4899,2014,108000,automatic,sedan,like new,6,gas,1N4AA5AP7EC474503,clean,https://newyork.craigslist.org/que/cto/d/glen-oaks-2014-nissan-maxima-sv/7832240125.html
+Chevy,Silverado,18000,2008,14600,automatic,van,like new,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-doge-2008-chevy-express-3500/7832233514.html
+Chevrolet,silverado 1500,7400,2006,135000,automatic,pickup,good,8,gas,1GCEK19V26Z107740,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2006-chevy-silverado-x4/7832226099.html
+Jaguar,XKE,4800,1981,16240,manual,convertible,good,4,gas,Unknown,clean,https://newyork.craigslist.org/fct/cto/d/newtown-1937-jaguar-ss-100-replica-vw/7832222230.html
+Ford,EXPLORER XLT LIMITED,1500,2002,210000,automatic,van,like new,6,gas,Unknown,clean,https://newyork.craigslist.org/mnh/cto/d/new-york-2002-ford-explorer/7832221945.html
+Ford,EXPLORER XLT LIMITED,1800,2002,210000,automatic,SUV,like new,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/new-york-2002-ford-explorer/7832221464.html
+Toyota,camry se,325,2015,1000,automatic,Unknown,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/long-island-city-tlc-uber-2015-toyota/7832213920.html
+Jaguar,XKE,8500,1990,60000,automatic,convertible,good,12,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/roosevelt-1990-jaguar-xj-v12/7832210501.html
+Ford,EXPLORER XLT LIMITED,1300,1999,184000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/fresh-meadows-1999-ford-ranger-supercab/7832207450.html
+Hyundai,sonata gls,2100,2001,145000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/fresh-meadows-2001-hyundai-elantra-gls/7832206934.html
+Toyota,camry se,2300,2004,182000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/fresh-meadows-2004-toyota-camry-xle/7832206399.html
+Ford,EXPLORER XLT LIMITED,5700,2008,79000,automatic,Unknown,Unknown,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/south-ozone-park-2008-ford-escape-4cyl/7832205694.html
+Lexus,ES,10999,2010,104000,automatic,Unknown,new,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/south-ozone-park-2010-lexus-rx-350/7832205030.html
+Ford,EXPLORER XLT LIMITED,5500,2008,120000,automatic,SUV,new,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/south-ozone-park-2008-ford-explorer/7832204672.html
+Toyota,camry se,6700,2007,101000,automatic,Unknown,new,Unknown,hybrid,Unknown,clean,https://newyork.craigslist.org/que/cto/d/south-ozone-park-2007-toyota-prius/7832204542.html
+Nissan,altima,5700,2011,101000,automatic,SUV,new,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/south-ozone-park-2011-nissan-rogue-mint/7832204335.html
+Ford,EXPLORER XLT LIMITED,10500,1971,25000,automatic,coupe,new,8,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/south-ozone-park-1971-ford-ltd-coupe/7832204245.html
+Subaru,Forester,5800,2014,130000,automatic,Unknown,new,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/south-ozone-park-2014-subaru-impreza/7832204139.html
+Honda,CR-V EX-L,11300,2013,108000,automatic,Unknown,new,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/south-ozone-park-2013-honda-pilot-exl/7832204007.html
+Toyota,camry se,16500,2006,115000,automatic,Unknown,new,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/south-ozone-park-2006-toyota-4runner/7832203791.html
+Toyota,camry se,6999,2009,60000,automatic,Unknown,new,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/south-ozone-park-2009-toyota-camry/7832203667.html
+Toyota,camry se,23800,2018,119500,automatic,SUV,Unknown,6,gas,5TDJZRFH7JS812647,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2018-toyota-highlander-se/7832202538.html
+Mercedes-Benz,GLE350,71000,2021,21000,automatic,sedan,excellent,8,gas,Unknown,lien,https://newyork.craigslist.org/jsy/cto/d/teaneck-2021-mercedes-s580-4matic-21k/7832201678.html
+Ford,EXPLORER XLT LIMITED,2500,1998,65352,manual,coupe,salvage,8,gas,Unknown,parts only,https://newyork.craigslist.org/fct/cto/d/stamford-1998-ford-mustang-gt/7832197254.html
+Chevrolet,silverado 1500,4200,1995,115000,automatic,SUV,good,8,gas,Unknown,clean,https://newyork.craigslist.org/fct/cto/d/stamford-1995-chevrolet-suburban/7832195919.html
+Audi,S4,7000,2005,78529,automatic,convertible,excellent,8,gas,Unknown,clean,https://newyork.craigslist.org/fct/cto/d/stamford-2005-audi-s4-cabriolet/7832195412.html
+Mini,Clubman,6500,2012,97000,automatic,Unknown,good,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/flushing-2012-mini-cooper-all4/7832193412.html
+Honda,CR-V EX-L,8999,2006,94000,automatic,SUV,Unknown,4,gas,SHSRD78926U443745,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-must-go-2006-honda-crv-sport/7832188735.html
+Gmc,terrain sle awd,5000,2005,195000,automatic,SUV,good,8,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/ozone-park-2005-gmc-yukon-denali-xl/7832186392.html
+Mercedes-Benz,GLE350,8500,2011,114000,automatic,SUV,good,8,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/jamaica-2011-mercedes-benz-gl-450-4matic/7832181837.html
+Chevrolet,silverado 1500,3200,2012,200000,automatic,sedan,excellent,4,gas,1G1ZC5E05CF368138,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2012-chevrolet-chevy-malibu-lt/7832179973.html
+Bmw,x5,24999,2016,63809,automatic,SUV,like new,6,gas,5UXKR0C54G0S90984,clean,https://newyork.craigslist.org/que/cto/d/jamaica-2016-bmw-x5-sport-fully-loaded/7832177945.html
+Bmw,x5,30500,2016,45001,automatic,sedan,like new,8,gas,WBA7F2C51GG420042,clean,https://newyork.craigslist.org/que/cto/d/jamaica-bmw-750i-drive-sport/7832177667.html
+Acura,mdx,4000,1995,170,automatic,hatchback,good,4,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-95-acura-integra-great-on-gas/7832167410.html
+International,LT,9500,2015,526000,manual,truck,fair,Unknown,diesel,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2015-international-prostar-122/7832142961.html
+Hyundai,sonata gls,8645,2017,107848,automatic,sedan,excellent,4,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/new-york-2017-hyundai-elantra-se/7832138866.html
+Ford,EXPLORER XLT LIMITED,17000,2018,48219,automatic,SUV,good,6,gas,1FM5K8AR2JGC56091,clean,https://newyork.craigslist.org/que/cto/d/flushing-for-sale-2018-ford-explorer/7832138234.html
+Ford,EXPLORER XLT LIMITED,5900,2008,122000,automatic,pickup,excellent,8,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/richmond-hill-ford-150-truck/7832137240.html
+Nissan,altima,45000,1993,31504,manual,coupe,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/new-york-r32-gtr-skyline/7832134777.html
+International,LT,100,2015,1,automatic,truck,excellent,Unknown,diesel,Unknown,clean,https://newyork.craigslist.org/que/cto/d/jamaica-26-foot-boox-truck-for-sale/7832134061.html
+Bmw,x5,4500,2008,111160,automatic,SUV,good,6,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/oceanside-2008-bmw-x3-ed-awd-owner-low/7832133677.html
+Toyota,camry se,4900,2009,157000,automatic,van,good,6,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/valley-stream-sienna-california/7832120466.html
+Kia,Optima S,15500,2015,45000,automatic,SUV,excellent,4,gas,Unknown,rebuilt,https://newyork.craigslist.org/brk/cto/d/brooklyn-up-for-sale-2021-kia-seltos-awd/7832114367.html
+Buick,century limited,6000,2006,119617,automatic,sedan,good,8,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/croton-on-hudson-buick-lucerne-cxl/7832112268.html
+Subaru,Forester,6500,2009,126100,other,hatchback,excellent,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/westbury-2009-subaru-impreza-25i-for/7832110988.html
+Ford,EXPLORER XLT LIMITED,6500,2014,87522,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/jsy/cto/d/west-new-york-2014-ford-fusion-se-sedan/7832106937.html
+Toyota,camry se,10000,2008,103000,manual,SUV,good,4,gas,Unknown,clean,https://newyork.craigslist.org/jsy/cto/d/northvale-toyota-tacoma-sr5-speed/7832105722.html
+Chevrolet,silverado 1500,5700,2013,209820,automatic,SUV,good,8,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/astoria-2013-suburban-chevy-lt/7832102885.html
+Ford,EXPLORER XLT LIMITED,22000,2019,56553,automatic,SUV,excellent,6,gas,1FM5K8AR7KGB24817,clean,https://newyork.craigslist.org/que/cto/d/flushing-for-sale-2019-ford-explorer/7832102844.html
+Nissan,altima,3499,2011,160000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2011-nissan-pathfinder-silver/7832100041.html
+Honda,CR-V EX-L,5500,2012,120000,manual,coupe,excellent,4,gas,1HGCS1A78CA800652,clean,https://newyork.craigslist.org/wch/cto/d/bronx-2012-honda-accord-ex-manual-low/7832095166.html
+Nissan,altima,16000,2016,36675,automatic,sedan,like new,6,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/south-ozone-park-2016-nissan-datsun/7832087765.html
+Jeep,Wrangler,6000,2006,162000,automatic,SUV,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/uniondale-2006-gran-cherokee/7832079733.html
+Dodge,challenger r/t,12000,2017,102000,automatic,minivan,like new,6,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/uniondale-grand-caravan-2017/7832077234.html
+Hyundai,sonata gls,15800,2023,48000,automatic,sedan,excellent,4,gas,KMHLL4AG3PU384751,clean,https://newyork.craigslist.org/lgi/cto/d/baldwin-2023-hyundai-elantra-se-48k/7832074123.html
+Volvo,v40,5000,2012,195250,automatic,SUV,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/lgi/cto/d/hempstead-2012-volvo-xc60-t6/7832072804.html
+Ford,EXPLORER XLT LIMITED,10000,1990,63000,manual,Unknown,Unknown,Unknown,diesel,Unknown,clean,https://newyork.craigslist.org/que/cto/d/hollis-1990-f450-super-duty-rollback/7832071627.html
+Honda,CR-V EX-L,6999,2014,188750,automatic,minivan,new,6,gas,5FNRL5H99EB003499,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2014-honda-odyssey-elite-top/7832055267.html
+Land Rover,range rover hse,17500,2016,102000,automatic,SUV,excellent,8,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/flushing-2016-range-rover-sport-102km/7832054863.html
+Dodge,challenger r/t,3900,2012,143000,automatic,minivan,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/tarrytown-2012-dodge-grand-caravan/7832049782.html
+Dodge,challenger r/t,7700,2019,108000,automatic,Unknown,excellent,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2019-dodge-grand-caravan/7832039472.html
+Freightliner,Unknown,9000,2005,98000,automatic,other,good,8,diesel,Unknown,clean,https://newyork.craigslist.org/que/cto/d/fresh-meadows-food-truck-utility-box/7832037262.html
+Smart,fortwo pure,7100,2018,47300,automatic,Unknown,excellent,Unknown,electric,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-2018-smart-fortwo-electric-low/7832031061.html
+Bmw,x5,14500,2016,129000,automatic,SUV,excellent,8,gas,Unknown,clean,https://newyork.craigslist.org/stn/cto/d/staten-island-2016-bmw-x5-awd-xdrive-50i/7832022854.html
+Nissan,altima,1000,2008,128926,automatic,Unknown,salvage,Unknown,gas,Unknown,clean,https://newyork.craigslist.org/que/cto/d/astoria-car-that-needs-lot-of-fixing/7832005224.html
+Chevy,Silverado,8000,2005,200000,automatic,truck,fair,8,gas,Unknown,clean,https://newyork.craigslist.org/wch/cto/d/yonkers-chevy-2500hd-4x4/7832002575.html
+Mercedes-Benz,GLE350,5000,2007,140000,automatic,sedan,excellent,8,gas,Unknown,clean,https://newyork.craigslist.org/brx/cto/d/west-bridgewater-mercedes-benz-550/7832000660.html
+Toyota,camry se,8600,2006,95600,automatic,minivan,excellent,6,gas,Unknown,clean,https://newyork.craigslist.org/brk/cto/d/brooklyn-toyota-sienna-2006-low-miles/7831993047.html
+Ford,EXPLORER XLT LIMITED,33000,2018,106300,automatic,pickup,excellent,6,diesel,Unknown,clean,https://newyork.craigslist.org/que/cto/d/astoria-2018-power-stroke/7831989693.html
