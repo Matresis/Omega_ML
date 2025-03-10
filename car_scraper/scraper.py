@@ -68,7 +68,7 @@ def fetch_car_details(brand, model):
     return {}
 
 
-def scrape_craigslist(city="losangeles", max_pages=1, max_records=2000):
+def scrape_craigslist(city="losangeles", max_pages=1, max_records=20):
     base_url = f"https://{city}.craigslist.org/search/cta"
     cars = []
     visited_links = set()
@@ -84,7 +84,7 @@ def scrape_craigslist(city="losangeles", max_pages=1, max_records=2000):
         print(f"📄 Scraping page: {url}")
 
         driver.get(url)
-        time.sleep(3)
+        time.sleep(2)
 
         soup = BeautifulSoup(driver.page_source, "html.parser")
         listings = soup.find_all("div", class_="cl-search-result cl-search-view-mode-gallery")
@@ -166,15 +166,6 @@ def scrape_craigslist(city="losangeles", max_pages=1, max_records=2000):
                     continue
                 visited_vins.add(vin)
 
-                # Fetch additional details from API
-                car_api_data = fetch_car_details(brand, model)
-
-                engine_size = car_api_data.get("engine", "Unknown")
-                drivetrain = car_api_data.get("drivetrain", "Unknown")
-                horsepower = car_api_data.get("horsepower", "Unknown")
-                torque = car_api_data.get("torque", "Unknown")
-                fuel_efficiency = car_api_data.get("combined_mpg", "Unknown")
-
                 # Store data
                 cars.append({
                     "Brand": brand,
@@ -192,11 +183,11 @@ def scrape_craigslist(city="losangeles", max_pages=1, max_records=2000):
                     "Link": link
                 })
 
-                print(f"✅ {len(cars)} cars scraped so far...")
+                #print(f"✅ {len(cars)} cars scraped so far...")
 
                 # Return to main page
                 driver.get(current_page)
-                time.sleep(2)
+                time.sleep(1)
 
             except Exception as e:
                 print(f"⚠️ Skipping a listing due to error: {e}")
