@@ -17,11 +17,10 @@ driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), opti
 # Keywords to filter out auction listings
 AUCTION_KEYWORDS = {"auction", "public auction", "auto auction", "dealer auction", "wholesale"}
 
-def scrape_craigslist(city="losangeles", max_pages=1, max_records=5):
+def scrape_craigslist(city="losangeles", max_pages=1, max_records=2000):
     base_url = f"https://{city}.craigslist.org/search/cta"
     cars = []
     visited_links = set()
-    visited_vins = set()  # Track unique VINs
 
     print("🚀 Starting Craigslist Scraper...")
 
@@ -33,7 +32,7 @@ def scrape_craigslist(city="losangeles", max_pages=1, max_records=5):
         print(f"📄 Scraping page: {url}")
 
         driver.get(url)
-        time.sleep(3)
+        time.sleep(1)
 
         soup = BeautifulSoup(driver.page_source, "html.parser")
         listings = soup.find_all("div", class_="cl-search-result cl-search-view-mode-gallery")
@@ -68,7 +67,7 @@ def scrape_craigslist(city="losangeles", max_pages=1, max_records=5):
 
                 # Open details page
                 driver.get(link)
-                time.sleep(2)
+                time.sleep(1)
                 detail_soup = BeautifulSoup(driver.page_source, "html.parser")
 
                 attributes = {}
@@ -127,7 +126,7 @@ def scrape_craigslist(city="losangeles", max_pages=1, max_records=5):
 
                 # Return to main page
                 driver.get(current_page)
-                time.sleep(2)
+                time.sleep(1)
 
             except Exception as e:
                 print(f"⚠️ Skipping a listing due to error: {e}")

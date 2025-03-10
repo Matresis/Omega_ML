@@ -1,9 +1,14 @@
 ﻿import time
 import pandas as pd
+import requests
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from bs4 import BeautifulSoup
 from webdriver_manager.chrome import ChromeDriverManager
+
+# API Key (Replace with your actual API key)
+API_KEY = "S711EBOUek2pf145pTwPug==MbebzFBDWwPqNkZK"
+API_URL = "https://api.api-ninjas.com/v1/cars"
 
 # Configure WebDriver
 options = webdriver.ChromeOptions()
@@ -17,10 +22,57 @@ driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), opti
 # Keywords to filter out auction listings
 AUCTION_KEYWORDS = {"auction", "public auction", "auto auction", "dealer auction", "wholesale"}
 
-def scrape_craigslist(city="losangeles", max_pages=1, max_records=50):
+
+def get_brand_and_model(full_make_model):
+    """Extract the correct brand and model from a Craigslist listing."""
+    words = full_make_model.split()
+
+    # Check from longest to shortest if it's a valid brand
+    for i in range(len(words), 0, -1):
+        possible_brand = " ".join(words[:i]).lower()
+
+        # Check if the brand exists using the API
+        if check_car_make_exists(possible_brand):
+            return possible_brand.title(), " ".join(words[i:]) if len(words) > i else "Unknown"
+
+    # Default to first word as brand if not found
+    return words[0].title(), " ".join(words[1:]) if len(words) > 1 else "Unknown"
+
+
+def check_car_make_exists(brand):
+    """Check if the car make exists in the API."""
+    try:
+        response = requests.get(API_URL, headers={"X-Api-Key": API_KEY}, params={"make": brand})
+        if response.status_code == 200:
+            data = response.json()
+            return bool(data)  # Returns True if the brand exists and data is returned
+    except Exception as e:
+        print(f"⚠️ Error checking brand: {e}")
+    return False
+
+
+def fetch_car_details(brand, model):
+    """Fetch additional car details from the API."""
+    try:
+        response = requests.get(
+            API_URL,
+            headers={"X-Api-Key": API_KEY},
+            params={"make": brand, "model": model}
+        )
+        if response.status_code == 200:
+            data = response.json()
+            if data:
+                return data[0]  # Return the first matching car
+    except Exception as e:
+        print(f"⚠️ API request failed: {e}")
+    return {}
+
+
+def scrape_craigslist(city="losangeles", max_pages=1, max_records=2000):
     base_url = f"https://{city}.craigslist.org/search/cta"
     cars = []
     visited_links = set()
+    visited_vins = set()  # Track unique VINs
 
     print("🚀 Starting Craigslist Scraper...")
 
@@ -32,7 +84,7 @@ def scrape_craigslist(city="losangeles", max_pages=1, max_records=50):
         print(f"📄 Scraping page: {url}")
 
         driver.get(url)
-        time.sleep(1)
+        time.sleep(3)
 
         soup = BeautifulSoup(driver.page_source, "html.parser")
         listings = soup.find_all("div", class_="cl-search-result cl-search-view-mode-gallery")
@@ -42,6 +94,7 @@ def scrape_craigslist(city="losangeles", max_pages=1, max_records=50):
                 break
 
             try:
+                # Extract title
                 title_tag = listing.find("a", class_="cl-app-anchor text-only posting-title")
                 title = title_tag.text.strip().lower() if title_tag else "Unknown"
 
@@ -50,16 +103,18 @@ def scrape_craigslist(city="losangeles", max_pages=1, max_records=50):
                     print(f"⏩ Skipping auction listing: {title}")
                     continue
 
+                # Extract price
                 price_element = listing.find("span", class_="priceinfo")
                 price = price_element.text.strip().replace("$", "").replace(",", "") if price_element else "Unknown"
 
+                # Extract link
                 link_tag = listing.find("a", href=True)
                 link = link_tag["href"] if link_tag else None
 
                 if not link or link in visited_links:
                     continue
-                visited_links.add(link)
 
+                visited_links.add(link)
                 print(f"🚗 Scraping car: {title} ({link})")
 
                 # Save current page before navigating
@@ -67,9 +122,10 @@ def scrape_craigslist(city="losangeles", max_pages=1, max_records=50):
 
                 # Open details page
                 driver.get(link)
-                time.sleep(1)
+                time.sleep(2)
                 detail_soup = BeautifulSoup(driver.page_source, "html.parser")
 
+                # Extract attributes
                 attributes = {}
                 attr_groups = detail_soup.find_all("div", class_="attrgroup")
 
@@ -85,8 +141,7 @@ def scrape_craigslist(city="losangeles", max_pages=1, max_records=50):
                         make_model_link = make_model_tag.find("a")
                         if make_model_link:
                             full_make_model = make_model_link.text.strip()
-                            words = full_make_model.split()
-                            brand, model = words[0].title(), " ".join(words[1:]) if len(words) > 1 else "Unknown"
+                            brand, model = get_brand_and_model(full_make_model)
 
                 for group in attr_groups:
                     for attr in group.find_all("div", class_="attr"):
@@ -104,6 +159,21 @@ def scrape_craigslist(city="losangeles", max_pages=1, max_records=50):
                 transmission = attributes.get("transmission", "Unknown")
                 vin = attributes.get("vin", "Unknown")
                 body_type = attributes.get("type", "Unknown")
+
+                # Skip duplicate VINs
+                if vin != "Unknown" and vin in visited_vins:
+                    print(f"⚠️ Skipping duplicate VIN: {vin}")
+                    continue
+                visited_vins.add(vin)
+
+                # Fetch additional details from API
+                car_api_data = fetch_car_details(brand, model)
+
+                engine_size = car_api_data.get("engine", "Unknown")
+                drivetrain = car_api_data.get("drivetrain", "Unknown")
+                horsepower = car_api_data.get("horsepower", "Unknown")
+                torque = car_api_data.get("torque", "Unknown")
+                fuel_efficiency = car_api_data.get("combined_mpg", "Unknown")
 
                 # Store data
                 cars.append({
@@ -126,7 +196,7 @@ def scrape_craigslist(city="losangeles", max_pages=1, max_records=50):
 
                 # Return to main page
                 driver.get(current_page)
-                time.sleep(1)
+                time.sleep(2)
 
             except Exception as e:
                 print(f"⚠️ Skipping a listing due to error: {e}")
@@ -138,11 +208,11 @@ def scrape_craigslist(city="losangeles", max_pages=1, max_records=50):
 # Run scraper
 cars_data = scrape_craigslist()
 
-# Save raw data
+# Save to CSV
 df = pd.DataFrame(cars_data)
-df.to_csv("data/raw_craigslist_cars.csv", index=False)
+df.to_csv("data/craigslist_cars.csv", index=False)
 
 # Close driver
 driver.quit()
 
-print("✅ Scraping complete! Data saved as raw_craigslist_cars.csv")
+print("✅ Scraping complete! Data saved as craigslist_cars.csv")
