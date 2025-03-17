@@ -61,7 +61,7 @@ def scrape_page():
         return []
 
 
-def scrape_craigslist(city="miami", max_records=2000):
+def scrape_craigslist(city="chicago", max_records=2000):
     base_url = f"https://{city}.craigslist.org/search/cta?purveyor=owner"
     scroll_positions = [0, 250, 500, 750, 1000, 1250, 1500, 1750, 2000, 2250, 2500, 2750, 3000, 3250, 3500, 3750, 4000, 4250, 4500, 4750, 5000, 5250, 5500, 5750, 6000]
     cars = []
@@ -178,7 +178,7 @@ cars_data = scrape_craigslist()
 
 # Final save to CSV
 df = pd.DataFrame(cars_data)
-df.to_csv("data/craigslist_cars_la.csv", index=False)
+df.to_csv("data/craigslist_cars_chi.csv", index=False)
 
 # Close driver
 driver.quit()
