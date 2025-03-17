@@ -68,7 +68,7 @@ def fetch_car_details(brand, model):
     return {}
 
 
-def scrape_craigslist(city="losangeles", max_pages=1, max_records=20):
+def scrape_craigslist(city="chicago", max_pages=1, max_records=20):
     base_url = f"https://{city}.craigslist.org/search/cta"
     cars = []
     visited_links = set()
