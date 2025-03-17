@@ -3,6 +3,9 @@ import pandas as pd
 import requests
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 from webdriver_manager.chrome import ChromeDriverManager
 
@@ -19,116 +22,91 @@ options.add_argument("--window-size=1920,1080")
 
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
 
-# Keywords to filter out auction listings
 AUCTION_KEYWORDS = {"auction", "public auction", "auto auction", "dealer auction", "wholesale"}
+brand_cache = {}
 
 
 def get_brand_and_model(full_make_model):
-    """Extract the correct brand and model from a Craigslist listing."""
     words = full_make_model.split()
-
-    # Check from longest to shortest if it's a valid brand
     for i in range(len(words), 0, -1):
         possible_brand = " ".join(words[:i]).lower()
-
-        # Check if the brand exists using the API
+        if possible_brand in brand_cache:
+            return brand_cache[possible_brand]
         if check_car_make_exists(possible_brand):
-            return possible_brand.title(), " ".join(words[i:]) if len(words) > i else "Unknown"
-
-    # Default to first word as brand if not found
-    return words[0].title(), " ".join(words[1:]) if len(words) > 1 else "Unknown"
+            brand_model = possible_brand.title(), " ".join(words[i:]) if len(words) > i else "Unknown"
+            brand_cache[possible_brand] = brand_model
+            return brand_model
+    brand_model = words[0].title(), " ".join(words[1:]) if len(words) > 1 else "Unknown"
+    brand_cache[words[0].lower()] = brand_model
+    return brand_model
 
 
 def check_car_make_exists(brand):
-    """Check if the car make exists in the API."""
     try:
         response = requests.get(API_URL, headers={"X-Api-Key": API_KEY}, params={"make": brand})
-        if response.status_code == 200:
-            data = response.json()
-            return bool(data)  # Returns True if the brand exists and data is returned
+        return response.status_code == 200 and bool(response.json())
     except Exception as e:
         print(f"⚠️ Error checking brand: {e}")
     return False
 
 
-def fetch_car_details(brand, model):
-    """Fetch additional car details from the API."""
+def scrape_page():
+    """Scrape the currently loaded Craigslist page."""
     try:
-        response = requests.get(
-            API_URL,
-            headers={"X-Api-Key": API_KEY},
-            params={"make": brand, "model": model}
-        )
-        if response.status_code == 200:
-            data = response.json()
-            if data:
-                return data[0]  # Return the first matching car
+        WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "cl-search-result")))
+        soup = BeautifulSoup(driver.page_source, "html.parser")
+        return soup.find_all("div", class_="cl-search-result cl-search-view-mode-gallery")
     except Exception as e:
-        print(f"⚠️ API request failed: {e}")
-    return {}
+        print(f"⚠️ Error scraping page: {e}")
+        return []
 
 
-def scrape_craigslist(city="chicago", max_pages=1, max_records=20):
-    base_url = f"https://{city}.craigslist.org/search/cta"
+def scrape_craigslist(city="sfbay", max_records=2000):
+    base_url = f"https://{city}.craigslist.org/search/cta?purveyor=owner"
+    scroll_positions = [0, 250, 500, 750, 1000, 1250, 1500, 1750, 2000, 2250, 2500, 2750, 3000, 3250, 3500, 3750, 4000, 4250, 4500, 4750, 5000, 5250, 5500, 5750, 6000]
     cars = []
     visited_links = set()
-    visited_vins = set()  # Track unique VINs
+    visited_vins = set()
 
     print("🚀 Starting Craigslist Scraper...")
 
-    for page in range(0, max_pages * 120, 120):
-        if len(cars) >= max_records:
-            break
+    for pos in scroll_positions:
+        driver.get(f"{base_url}#search=2~gallery~{pos}")
+        time.sleep(5)  # Wait for new results
+        listings = scrape_page()
 
-        url = f"{base_url}?s={page}"
-        print(f"📄 Scraping page: {url}")
+        if not listings:
+            print(f"⚠️ No listings found at scroll position {pos}.")
+            continue
 
-        driver.get(url)
-        time.sleep(2)
-
-        soup = BeautifulSoup(driver.page_source, "html.parser")
-        listings = soup.find_all("div", class_="cl-search-result cl-search-view-mode-gallery")
-
-        for listing in listings:
+        for listing_index, listing in enumerate(listings):
             if len(cars) >= max_records:
                 break
 
             try:
-                # Extract title
                 title_tag = listing.find("a", class_="cl-app-anchor text-only posting-title")
                 title = title_tag.text.strip().lower() if title_tag else "Unknown"
-
-                # Skip auction listings
                 if any(keyword in title for keyword in AUCTION_KEYWORDS):
                     print(f"⏩ Skipping auction listing: {title}")
                     continue
 
-                # Extract price
                 price_element = listing.find("span", class_="priceinfo")
                 price = price_element.text.strip().replace("$", "").replace(",", "") if price_element else "Unknown"
 
-                # Extract link
                 link_tag = listing.find("a", href=True)
                 link = link_tag["href"] if link_tag else None
-
                 if not link or link in visited_links:
                     continue
 
                 visited_links.add(link)
-                print(f"🚗 Scraping car: {title} ({link})")
+                print(f"🚗 Scraping car #{len(cars) + 1}: {title} ({link})")
 
-                # Save current page before navigating
-                current_page = driver.current_url
-
-                # Open details page
                 driver.get(link)
-                time.sleep(2)
+                WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, "attrgroup")))
                 detail_soup = BeautifulSoup(driver.page_source, "html.parser")
 
-                # Extract attributes
                 attributes = {}
                 attr_groups = detail_soup.find_all("div", class_="attrgroup")
-
                 brand, model, year = "Unknown", "Unknown", "Unknown"
 
                 for group in attr_groups:
@@ -160,14 +138,12 @@ def scrape_craigslist(city="chicago", max_pages=1, max_records=20):
                 vin = attributes.get("vin", "Unknown")
                 body_type = attributes.get("type", "Unknown")
 
-                # Skip duplicate VINs
                 if vin != "Unknown" and vin in visited_vins:
                     print(f"⚠️ Skipping duplicate VIN: {vin}")
                     continue
                 visited_vins.add(vin)
 
-                # Store data
-                cars.append({
+                car_data = {
                     "Brand": brand,
                     "Model": model,
                     "Price": price,
@@ -181,13 +157,14 @@ def scrape_craigslist(city="chicago", max_pages=1, max_records=20):
                     "VIN": vin,
                     "Title Status": title_status,
                     "Link": link
-                })
+                }
 
-                #print(f"✅ {len(cars)} cars scraped so far...")
+                cars.append(car_data)
 
-                # Return to main page
-                driver.get(current_page)
-                time.sleep(1)
+                # Save data gradually
+                df = pd.DataFrame(cars)
+                df.to_csv("data/craigslist_cars_sfbay.csv", index=False)
+                print(f"📝 Car data saved for {title}")
 
             except Exception as e:
                 print(f"⚠️ Skipping a listing due to error: {e}")
@@ -199,9 +176,9 @@ def scrape_craigslist(city="chicago", max_pages=1, max_records=20):
 # Run scraper
 cars_data = scrape_craigslist()
 
-# Save to CSV
+# Final save to CSV
 df = pd.DataFrame(cars_data)
-df.to_csv("data/craigslist_cars_la.csv", index=False)
+df.to_csv("data/craigslist_cars_sfbay.csv", index=False)
 
 # Close driver
 driver.quit()
