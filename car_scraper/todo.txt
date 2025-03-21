@@ -1,3 +1,0 @@
-vytvořit konfigurační soubor
-přidat do něj údaje ke cars api
-načítat z konfiguračního souboru do scraperu

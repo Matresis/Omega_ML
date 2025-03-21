@@ -1,0 +1,607 @@
+Brand,Model,Price,Year,Mileage,Transmission,Body Type,Condition,Cylinders,Fuel Type,VIN,Title Status,Link
+Nissan,juke sv,3900,2011,151000,automatic,Unknown,good,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2011-nissan-juke-sv/7836464216.html
+Lexus,rx 350,10500,2013,180949,automatic,SUV,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/liberty-hill-2013-lexus-rx350-perfect/7836463417.html
+Subaru,crosstrek sport 2.5l awd,21999,2024,6900,automatic,SUV,good,4,gas,Unknown,rebuilt,https://austin.craigslist.org/cto/d/austin-2024-subaru-crosstrek-awd-6k/7836462506.html
+Acura,tl type s,12900,2013,107894,automatic,sedan,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-sweet-2013-acura-tl/7836457851.html
+Chevrolet,tahoe ls,4500,2003,175000,automatic,SUV,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/san-antonio-2003-chevrolet-tahoe/7836457167.html
+Chevy,express 2500,8000,2010,300000,automatic,van,good,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2010-chevy-express-2500-xl/7836454310.html
+Toyota,camry se,9999,2015,185000,automatic,sedan,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2015-toyota-camry/7836454121.html
+Toyota,camry se,14300,2013,130000,automatic,minivan,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/cedar-park-2013-toyota-sienna-limited/7836452158.html
+Mazda,b2500 b3000 b4000,5200,1998,151000,manual,pickup,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-ford-ranger-mazda-b2500/7836450473.html
+Honda,Accord LX,6000,2009,133000,automatic,sedan,good,4,gas,1HGCP26309A011255,clean,https://austin.craigslist.org/cto/d/kyle-09-honda-accord/7836448438.html
+Honda,Accord LX,10999,2016,172000,automatic,SUV,good,4,gas,Unknown,rebuilt,https://austin.craigslist.org/cto/d/austin-2016-honda-cr/7836446209.html
+Honda,Accord LX,5800,2009,143000,automatic,sedan,like new,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2009-honda-accord/7836442859.html
+Ford,mustang,18500,2011,99000,manual,coupe,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2012-twin-turbo-mustang-gt/7836441563.html
+Ram,1500,11500,2014,216000,automatic,pickup,excellent,6,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2014-dodge-ram-lonestar-x4/7836440566.html
+Ram,1500,7500,2013,170000,automatic,pickup,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/leander-2013-ram-1500-single-cab/7836439627.html
+Honda,Accord LX,8999,2013,207000,automatic,sedan,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2013-honda-accord/7836436884.html
+Ford,mustang,10000,2016,160000,automatic,pickup,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/leander-2016-ford-150-regular-cab-v8/7836434535.html
+Nissan,juke sv,14999,2018,45755,automatic,SUV,like new,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-price-cut-2018-nissan-rogue/7836430575.html
+Subaru,crosstrek sport 2.5l awd,4000,2010,115520,automatic,SUV,fair,4,gas,JF2SH6BC9AH781617,clean,https://austin.craigslist.org/cto/d/austin-2010-subaru-forester-25xs/7836430552.html
+Toyota,camry se,2200,1998,232000,automatic,sedan,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-1998-toyota-camry-le/7836428173.html
+Kia,Forte LX,6500,2018,105000,automatic,sedan,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/leander-2018-kia-forte-lx-sedan-105k/7836426200.html
+Hyudai,sonata,9000,2014,129000,automatic,sedan,like new,4,hybrid,Unknown,clean,https://austin.craigslist.org/cto/d/manor-hyundai-sonata-hybrid/7836424548.html
+Jeep,wrangler,7800,1998,90500,manual,SUV,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/llano-1998-jeep-wrangler/7836423348.html
+Ford,mustang,6100,1992,86315,automatic,pickup,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-1992-ford-ranger/7836418834.html
+Chevy,express 2500,10500,1992,227000,automatic,truck,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/hutto-1992-chevy-silverado-k1500-4x4/7836410009.html
+Infiniti,qx50,12999,2017,90000,automatic,SUV,good,6,gas,Unknown,rebuilt,https://austin.craigslist.org/cto/d/austin-2017-infiniti-qx50-90k-miles/7836409048.html
+Mazda,b2500 b3000 b4000,4700,2010,123000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/cedar-park-2010-mazda-cx7/7836405776.html
+Chevrolet,tahoe ls,6500,2003,175000,automatic,SUV,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/san-antonio-2003-chevrolet-tahoe-2002/7836403682.html
+Toyota,camry se,9600,2012,169000,automatic,SUV,good,4,gas,Unknown,rebuilt,https://austin.craigslist.org/cto/d/austin-2012-toyota-rav4-awd/7836401865.html
+Nissan,juke sv,6900,2018,126551,automatic,sedan,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2018-nissan-sentra/7836397069.html
+Infiniti,qx50,7500,2008,91000,automatic,SUV,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2008-infiniti-ex35/7836394101.html
+Honda,Accord LX,6950,2012,181000,automatic,minivan,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2012-honda-odyssey-ex/7836393451.html
+Kia,Forte LX,3800,2005,164000,automatic,SUV,Unknown,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2005-kia-sorento/7836391282.html
+Mercury,grand marquis,4950,2004,170000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/pflugerville-2004-mercury-grand-marquis/7836390169.html
+Honda,Accord LX,4500,1999,200000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/pflugerville-1999-honda-crv-one-owner/7836387287.html
+Honda,Accord LX,4900,2001,260000,automatic,sedan,fair,4,gas,Unknown,rebuilt,https://austin.craigslist.org/cto/d/austin-2001-honda-civic-high-miles-260k/7836376827.html
+Toyota,camry se,14999,2011,220000,automatic,pickup,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2011-toyota-tacoma/7836364238.html
+Buick,lesabre custom,2750,2004,237000,automatic,sedan,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/elgin-2004-buick-lesabre-custom/7836363061.html
+Honda,Accord LX,6990,2009,150000,automatic,hatchback,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2009-accord-ex-25-liter-miles/7836360962.html
+Bmw,m3 m4 m5 e30 e24 e28 e31 e34 e38 e46,20000,2007,150000,manual,coupe,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-e36-m3-bmw-manual/7836355080.html
+Bmw,m3 m4 m5 e30 e24 e28 e31 e34 e38 e46,12999,1999,138000,automatic,coupe,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-bmw-e36-m3-e46-e39-e30-e24/7836354784.html
+Bmw,m3 m4 m5 e30 e24 e28 e31 e34 e38 e46,15000,1999,91000,manual,convertible,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-e36-bmw-manual-e30-e24-e28-e31/7836354674.html
+Nissan,juke sv,5000,2010,250000,automatic,sedan,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2010-altima-sl-with-250k/7836348006.html
+Ford,mustang,16500,2020,175948,automatic,pickup,like new,8,gas,1FT7W2B6XLEC23048,clean,https://austin.craigslist.org/cto/d/austin-two-owner-accident-free-2020/7836347694.html
+Toyota,camry se,10500,2000,89000,manual,pickup,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/georgetown-2000-toyota-tacoma-x-low/7836343289.html
+Tesla,Model S,47497,2022,23000,automatic,sedan,excellent,Unknown,electric,Unknown,clean,https://austin.craigslist.org/cto/d/leander-2022-tesla-model-rare-perfectly/7836342971.html
+Nissan,juke sv,6800,2017,133000,automatic,SUV,like new,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2017-nissan-rogue-awd/7836342453.html
+Chevrolet,tahoe ls,1,2011,46000,automatic,pickup,like new,8,gas,3GCPKSE38BG324139,clean,https://austin.craigslist.org/cto/d/huntsville-2011-chevy-1500-crew-cab-4x4/7836341973.html
+Dodge,Ram 3500,12995,2003,130206,automatic,pickup,excellent,6,diesel,3D7LA38C73G811116,rebuilt,https://austin.craigslist.org/cto/d/austin-2003-dodge-ram-3500-quad-cab/7836339606.html
+Chevrolet,tahoe ls,4800,2015,110000,automatic,sedan,fair,4,diesel,1G1P75SZ9F7155271,clean,https://austin.craigslist.org/cto/d/austin-owner-2015-chevrolet-cruze/7836338534.html
+Mazda,b2500 b3000 b4000,3900,2008,169000,automatic,sedan,like new,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2008-mazda/7836335521.html
+Chevrolet,tahoe ls,9500,1986,65000,automatic,Unknown,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-1986-corvette/7836335452.html
+Jeep,wrangler,3200,1994,177000,automatic,SUV,good,6,gas,1J4FJ28S4RL194434,clean,https://austin.craigslist.org/cto/d/austin-1994-jeep-cherokee-xj/7836334946.html
+Dodge,Ram 3500,5500,2016,101000,automatic,sedan,Unknown,4,gas,1C3CDFAA4GD728990,clean,https://austin.craigslist.org/cto/d/round-rock-2016-dodge-dart-se/7836334147.html
+Ford,mustang,4500,2014,122000,automatic,hatchback,Unknown,4,gas,1FADP3F22EL288087,clean,https://austin.craigslist.org/cto/d/round-rock-2014-ford-focus-se/7836333920.html
+Ford,mustang,59000,2020,23850,automatic,van,like new,6,gas,1FTYE1Y8XLKB74381,clean,https://austin.craigslist.org/cto/d/austin-2020-ford-transit-150/7836331066.html
+Honda,Accord LX,10900,2011,99600,automatic,SUV,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/salado-honda-crv-exl-2011/7836327122.html
+Toyota,camry se,13200,2014,35000,automatic,sedan,Unknown,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2014-toyota-corolla-le-35k-miles/7836323119.html
+Toyota,camry se,2400,2007,171745,automatic,sedan,excellent,4,hybrid,JTNBB46K573000647,clean,https://austin.craigslist.org/cto/d/austin-2007-toyota-camry-hybrid/7836320531.html
+Jeep,wrangler,5700,2012,160089,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2012-jeep-liberty/7836318935.html
+Lexus,rx 350,6995,2004,114097,automatic,sedan,like new,6,gas,JTHBA30G445041517,clean,https://austin.craigslist.org/cto/d/austin-2004-lexus-es330/7836318272.html
+Ford,mustang,4200,2002,113000,manual,pickup,like new,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2002-ford-ranger/7836312303.html
+Ford,mustang,5950,2018,155143,automatic,sedan,good,4,gas,3FA6P0H79JR278457,clean,https://austin.craigslist.org/cto/d/pflugerville-2018-ford-fusion/7836308583.html
+Nissan,juke sv,7950,2015,105000,automatic,sedan,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2015-sentra-sv-105k-elderly/7836307743.html
+Subaru,crosstrek sport 2.5l awd,10500,2020,143995,automatic,SUV,excellent,4,gas,JF2SKAGC8LH541958,clean,https://austin.craigslist.org/cto/d/pflugerville-2020-subaru-forester/7836307432.html
+Volkswagen,Jetta GLI,11000,2014,55000,manual,sedan,excellent,4,gas,3VW5S7AJ9EM368842,clean,https://austin.craigslist.org/cto/d/pflugerville-2014-volkswagen-jetta-gli/7836307306.html
+Nissan,juke sv,5350,2013,129979,automatic,sedan,good,6,gas,1N4AA5AP6DC811659,clean,https://austin.craigslist.org/cto/d/pflugerville-2013-nissan-maxima/7836307277.html
+Chevrolet,tahoe ls,5995,2001,139900,automatic,SUV,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/leander-2001-chevrolet-suburban-ls/7836305350.html
+Hummer,H2,11800,2006,158000,automatic,SUV,excellent,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/houston-2006-hummer-h2/7836304458.html
+Toyota,camry se,10999,2001,200000,automatic,SUV,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/abilene-2001-toyota-4runner-4x4/7836303304.html
+Ford,mustang,48500,1937,2900,automatic,coupe,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/giddings-1937-ford-coupe/7836296153.html
+Honda,Accord LX,111111,2012,100,automatic,Unknown,Unknown,Unknown,other,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-cars-and-trucks/7836284734.html
+Ford,mustang,18500,2008,118132,automatic,pickup,Unknown,Unknown,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/chappell-hill-f250-4x4/7836283165.html
+Subaru,crosstrek sport 2.5l awd,1700,2009,182500,automatic,SUV,salvage,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/leander-2009-subaru-great-for-parts-or/7836273377.html
+Jeep,wrangler,10000,2000,156695,automatic,SUV,good,6,gas,1J4FA49S3YP758544,clean,https://austin.craigslist.org/cto/d/austin-jeep-wrangler-tj-sport/7836271139.html
+Toyota,camry se,17000,2017,144200,automatic,pickup,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2017-toyota-tacoma-4x4/7836260532.html
+Kia,Forte LX,5200,2016,160000,automatic,hatchback,like new,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2016-kia-soul-plus/7836245157.html
+Chevrolet,tahoe ls,17500,2016,175000,automatic,SUV,good,8,gas,1GNSCCKC0GR287183,clean,https://austin.craigslist.org/cto/d/austin-2016-chevy-tahoe-ltz/7836240031.html
+Subaru,crosstrek sport 2.5l awd,15000,2022,88900,automatic,hatchback,excellent,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/cedar-park-subaru-impreza/7836237518.html
+Bmw,m3 m4 m5 e30 e24 e28 e31 e34 e38 e46,2200,1987,300000,manual,sedan,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-1987-bmw-325e-e30-sedan/7836236304.html
+Mercedes,benz S320,13900,1999,52255,automatic,sedan,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-1999-mercedes-benz-s320/7836235485.html
+Chevrolet,tahoe ls,4500,2003,175000,automatic,SUV,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/san-antonio-2003-chevrolet-tahoe/7836231635.html
+Chrysler,town & country,3500,2002,170000,automatic,minivan,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/san-antonio-2002-chrysler-town-and/7836231146.html
+Honda,Accord LX,2700,2009,200000,automatic,Unknown,Unknown,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2009-honda-civic-ex/7836228444.html
+Toyota,camry se,3800,2004,183000,automatic,pickup,fair,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-toyota-highlander-2004/7836226973.html
+Ford,mustang,85000,2025,500,automatic,Unknown,Unknown,Unknown,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2025-ford-f450-lariat-67-diesel/7836222251.html
+Ford,mustang,17900,2000,88250,automatic,pickup,excellent,8,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/dripping-springs-2000-ford-f250-xlt-73/7836219659.html
+Ford,mustang,4800,2011,109000,automatic,SUV,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/leander-2011-ford-escape-xlt-flex-fuel/7836215818.html
+Honda,Accord LX,9200,2009,49000,automatic,sedan,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2009-honda-civic-lx-49k-actual/7836210720.html
+Ford,mustang,13000,1972,103633,automatic,truck,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/rockdale-1972-ford-100-crown-vic-swap/7836205027.html
+Chevrolet,tahoe ls,2000,1969,54287,automatic,wagon,fair,8,gas,Unknown,missing,https://austin.craigslist.org/cto/d/rockdale-1969-chevrolet-station-wagon/7836204935.html
+International,A-160 Flatbed Truck,4900,1957,37544,manual,truck,fair,8,gas,Unknown,missing,https://austin.craigslist.org/cto/d/rockdale-1957-international-160-flatbed/7836204823.html
+Mg,MGB,2000,1972,54276,manual,convertible,fair,4,gas,Unknown,missing,https://austin.craigslist.org/cto/d/rockdale-1972-mg-mgb-convertible/7836204708.html
+Ford,mustang,4900,1938,45232,manual,truck,good,8,gas,Unknown,missing,https://austin.craigslist.org/cto/d/rockdale-1938-ford-flatbed-truck/7836204579.html
+Gmc,1 1/2,4900,1953,54866,manual,Unknown,fair,6,gas,Unknown,missing,https://austin.craigslist.org/cto/d/rockdale-1953-gmc-ton-flatbed/7836204397.html
+Plymouth,Plaza,3900,1956,16987,manual,sedan,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/rockdale-1956-plymouth-plaza-runs-great/7836204284.html
+Chevrolet,tahoe ls,3900,1965,65388,manual,pickup,fair,8,gas,Unknown,missing,https://austin.craigslist.org/cto/d/rockdale-1965-chevrolet-2-ton-short-bed/7836204159.html
+Tesla,Model S,27000,2020,59300,automatic,SUV,excellent,Unknown,electric,Unknown,clean,https://austin.craigslist.org/cto/d/buda-2020-tesla-model-long-range-awd/7836203990.html
+Chevrolet,tahoe ls,3900,1955,45287,manual,truck,fair,8,gas,Unknown,missing,https://austin.craigslist.org/cto/d/rockdale-1955-chevrolet-apache-3200/7836203772.html
+Nissan,juke sv,4000,2010,187000,automatic,sedan,good,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/kyle-2010-nissan-altima/7836201692.html
+Lincoln,town car signature limit,5550,2005,132000,automatic,sedan,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/llano-lincoln-towncar/7836199974.html
+Honda,Accord LX,2000,2005,224022,automatic,sedan,fair,6,hybrid,Unknown,clean,https://austin.craigslist.org/cto/d/del-valle-2005-honda-accord-hybrid-v6/7836198833.html
+Acura,tl type s,13200,2014,67000,automatic,SUV,Unknown,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2014-acura-rdx-awd-67k-miles/7836193446.html
+Subaru,crosstrek sport 2.5l awd,7999,2012,169000,automatic,SUV,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2012-subaru-outback-awd-limited/7836192111.html
+Nissan,juke sv,2500,2009,102000,automatic,SUV,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2009-nissan-murano/7836186316.html
+Jeep,wrangler,14750,2011,83886,automatic,SUV,Unknown,6,gas,1J4BA5H15BL545056,clean,https://austin.craigslist.org/cto/d/austin-2011-jeep-wrangler-unlimited/7836183985.html
+Mercury,grand marquis,3000,2005,98000,automatic,sedan,fair,6,gas,1MEFM55S65A612466,clean,https://austin.craigslist.org/cto/d/cedar-park-2005-mercury-sable-ls-premium/7836183685.html
+Cadilliac,COMCORSE,6500,1995,172000,automatic,Unknown,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/spicewood-1995-cadillac-comcorse/7836180727.html
+Toyota,camry se,60000,2019,26700,automatic,offroad,like new,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/leander-runner-trd-offroad-premium/7836177562.html
+Toyota,camry se,6500,2004,79939,automatic,hatchback,excellent,4,hybrid,JTDKB22U040108851,clean,https://austin.craigslist.org/cto/d/austin-2004-toyota-prius/7836172944.html
+Hyundai,Tucson,9250,2014,85076,automatic,SUV,like new,4,gas,KM8JT3AF4EU848281,clean,https://austin.craigslist.org/cto/d/austin-2014-hyundai-tucson-gls-85-mile/7836172656.html
+Toyota,camry se,2650,1997,200000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-1997-toyota-corolla/7836171399.html
+Toyota,camry se,1800,2005,142000,automatic,SUV,fair,4,gas,Unknown,missing,https://austin.craigslist.org/cto/d/austin-2005-toyota-rav4-for-import-or/7836164309.html
+Chevy,express 2500,8000,2011,196594,automatic,pickup,Unknown,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/liberty-hill-2011-chevy-x4-with-the-62/7836161513.html
+Dodge,Ram 3500,19500,2008,252100,automatic,pickup,excellent,6,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/blanco-2008-dodge-ram-2500-st-diesel/7836155272.html
+Wbagh8341Ydp17383,Unknown,8500,2000,82423,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-one-owner-2000-bmw-740il-4dr/7836154210.html
+Acura,tl type s,4600,2007,180000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2007-acura-tl/7836154111.html
+Toyota,camry se,14000,2022,80523,automatic,sedan,like new,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2022-toyota-camry/7836152065.html
+Ford,mustang,15000,1915,1000,manual,sedan,good,4,gas,917198,clean,https://austin.craigslist.org/cto/d/austin-ford-1915-model-for-sale/7836147304.html
+Ford,mustang,600,2004,200000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2004-ford-f150/7836143353.html
+Ford,mustang,11000,2009,249297,automatic,Unknown,like new,8,diesel,1FDAF46R19EB25830,clean,https://austin.craigslist.org/cto/d/austin-one-owner-2009-ford-450-super/7836132971.html
+Ford,mustang,6000,2006,212000,automatic,pickup,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2006-f150/7836132437.html
+Ford,mustang,2500,2002,201321,automatic,sedan,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2002-ford-taurus2500/7836130139.html
+Volkswagen,Jetta GLI,9000,2016,96150,automatic,sedan,like new,4,gas,3VW267AJ3GM266768,clean,https://austin.craigslist.org/cto/d/austin-2016-volkswagen-jetta-14t-with/7836129846.html
+Ford,mustang,3000,1999,111112,automatic,pickup,Unknown,Unknown,diesel,Unknown,missing,https://austin.craigslist.org/cto/d/dripping-springs-1999-ford-f350-cab-and/7836126418.html
+Nissan,juke sv,7900,2003,65,manual,pickup,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2003-nissan-fronter/7836124233.html
+Chevrolet,tahoe ls,9500,1967,92000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/dripping-springs-1967-chevrolet-impala/7836123951.html
+Chevrolet,tahoe ls,1300,1979,12345,automatic,van,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/dripping-springs-1979-chevrolet-nomad/7836120653.html
+Lexus,rx 350,4000,2007,200000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/hutto-2007-lexus-rx350-runs-excellent/7836120778.html
+Jeep,wrangler,600,1990,12345,manual,Unknown,Unknown,Unknown,gas,Unknown,missing,https://austin.craigslist.org/cto/d/dripping-springs-1990-mail-jeep-postal/7836119525.html
+Nissan,juke sv,1800,2015,95273,automatic,hatchback,fair,Unknown,electric,1N4AZ0CP5FC302819,clean,https://austin.craigslist.org/cto/d/austin-2015-nissan-leaf-mechanic-special/7836117622.html
+Palm,Beach Motorhome,6000,1975,12345,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/dripping-springs-1975-palm-beach-model/7836113881.html
+Ford,mustang,3500,1972,1233,manual,truck,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/dripping-springs-1972-ford-water-truck/7836111495.html
+Toyota,camry se,10000,2004,198000,automatic,pickup,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-for-trade-2004-toyota-tacoma-reg/7836108890.html
+Audi,A6,14000,2014,99800,automatic,sedan,excellent,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2014-audi-a6-30t-prestige-sedan/7836107953.html
+Chevy,express 2500,3000,2005,260000,automatic,pickup,fair,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/leander-2005-chevy-2500hd/7836105366.html
+Ford,mustang,2500,1976,69000,automatic,van,Unknown,Unknown,gas,Unknown,missing,https://austin.craigslist.org/cto/d/dripping-springs-1976-ford-e250/7836103717.html
+Chrysler,town & country,750,2013,180000,automatic,minivan,fair,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/kingsland-2013-chrysler-town-and-country/7836101643.html
+Toyota,camry se,2000,2001,220000,automatic,coupe,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-01-solara-runs-and-drives-cold/7836100956.html
+Toyota,camry se,2500,1997,201000,automatic,sedan,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-97-toyota-camry-runs-well-cold-ac/7836100128.html
+Ford,mustang,4500,2012,130000,automatic,sedan,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2012-ford-fusion-runs-drives/7836098550.html
+Infiniti,qx50,7200,2011,140000,automatic,SUV,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2011-infiniti-fx35-very-nice-suv/7836097500.html
+Ford,mustang,5000,1929,1234,manual,sedan,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/dripping-springs-1929-ford-model-2dr/7836096874.html
+Ford,mustang,3200,1997,230000,automatic,SUV,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-97-expedition-4wd-only-owners/7836096258.html
+Ford,mustang,1400,1966,1233,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/dripping-springs-1966-ford-thunderbird/7836095700.html
+Honda,Accord LX,3200,2010,201000,automatic,coupe,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2010-honda-civic/7836094802.html
+Lexus,rx 350,4500,2001,182000,automatic,SUV,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2001-lexus-rx300-very-well-keot/7836094696.html
+Plymouth,Plaza,4500,1936,12345,manual,sedan,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/dripping-springs-1936-plymouth-sedan/7836092023.html
+Lexus,rx 350,14995,2015,74000,automatic,sedan,excellent,6,gas,Unknown,rebuilt,https://austin.craigslist.org/cto/d/austin-beautiful-2015-lexus-es350/7836090941.html
+Infiniti,qx50,7000,2010,147000,automatic,convertible,good,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-convertible/7836090116.html
+Toyota,camry se,8999,2009,158000,automatic,sedan,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2009-toyota-avalon-leather/7836086593.html
+Tesla,Model S,18995,2021,24285,automatic,sedan,excellent,Unknown,electric,Unknown,rebuilt,https://austin.craigslist.org/cto/d/austin-2021-tesla-model-standard-range/7836085796.html
+Dodge,Ram 3500,13500,2004,229600,automatic,pickup,good,6,diesel,3D7KU28C24G283760,clean,https://austin.craigslist.org/cto/d/kyle-2004-dodge-ram-2500-diesel-4wd/7835950325.html
+Mercedes,benz S320,5399,2011,190000,automatic,sedan,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2011-mercedes-benz-e350/7836082379.html
+Honda,Accord LX,15800,2015,73000,automatic,SUV,Unknown,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2015-honda-cr-touring-awd-73k/7836081821.html
+Ford,mustang,3000,2004,200000,automatic,pickup,good,8,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/dripping-springs-2004-f250-4x4-lariat/7836078595.html
+Dodge,Ram 3500,2000,2008,244251,automatic,minivan,fair,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2008-dodge-grand-caravan/7836075730.html
+Mini,Hardtop,9250,2016,80105,manual,hatchback,like new,3,gas,WMWXU1C56G2A93718,clean,https://austin.craigslist.org/cto/d/austin-2016-mini-hardtop-door-cooper/7836073150.html
+Toyota,camry se,6000,2007,290000,automatic,sedan,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2007-camry-le-has-miles-orig/7836063672.html
+Cadillac,escalade,5000,2000,222000,automatic,SUV,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/manor-2000-cadillac-escalade/7836059261.html
+Infinity,q35,2000,2002,28900,automatic,Unknown,Unknown,Unknown,gas,Unknown,missing,https://austin.craigslist.org/cto/d/austin-cash-car/7836057294.html
+Kia,Forte LX,6000,2015,149485,automatic,Unknown,like new,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2015-kia-sorento-lx/7836049217.html
+Jeep,wrangler,34900,2024,4000,automatic,SUV,like new,6,gas,1C4PJXDG2RW286522,clean,https://austin.craigslist.org/cto/d/manor-2024-jeep-wrangler-4x4-sport/7836047476.html
+N/A,Unknown,700,1999,1234,automatic,truck,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-we-will-pay-700-more-than-carmax/7836046049.html
+Toyota,camry se,1950,2007,170000,automatic,sedan,good,4,gas,JTNBE46K573009288,missing,https://austin.craigslist.org/cto/d/austin-2007-toyota-camry-le/7836041608.html
+Honda,Accord LX,2800,2008,233000,automatic,SUV,Unknown,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2008-honda-cr/7836039311.html
+Jeep,wrangler,6900,2012,123000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/new-braunfels-2012-jeep-liberty-sport/7836030683.html
+Jeep,wrangler,3000,1965,110000,manual,offroad,fair,4,gas,Unknown,missing,https://austin.craigslist.org/cto/d/cedar-park-rusty-old-jeep-with-no-title/7836026984.html
+Nissan,juke sv,9900,2017,104000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/new-braunfels-2017-nissan-maxima-sr-no/7836026014.html
+Mazda,b2500 b3000 b4000,5500,1999,185000,automatic,pickup,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/marble-falls-99-mazda-b4000/7836023922.html
+Mercedes-Benz,S420,7500,1998,142331,automatic,sedan,good,8,gas,WDBGA43G1WA397506,clean,https://austin.craigslist.org/cto/d/leander-rare-1998-mercedes-benz-s420/7836014335.html
+Honda,Accord LX,19750,2014,89500,automatic,pickup,excellent,6,gas,5FPYK1F5XEB002022,clean,https://austin.craigslist.org/cto/d/austin-2014-honda-ridgeline-rtl-pickup/7836012783.html
+Jeep,wrangler,6950,1969,12345,manual,Unknown,Unknown,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-1969-jeep-jeepster-commando/7836010888.html
+Jeep,wrangler,8975,1992,140000,manual,SUV,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-1992-jeep-wrangler-renegade/7836010768.html
+Ford,mustang,8950,2016,66000,automatic,sedan,like new,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2016-ford-fusion-se-low-miles/7836010659.html
+Jeep,wrangler,14900,2011,125000,manual,offroad,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2011-jeep-wrangler-sahara/7836008160.html
+Jeep,wrangler,4900,1976,1,manual,offroad,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-1976-jeep-cj5/7836008052.html
+Ford,mustang,4200,2005,190000,automatic,pickup,fair,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/bastrop-2005-ford-150-brand-new-extreme/7835987032.html
+Chevy,express 2500,1700,2004,235000,automatic,van,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2004-chevy-express-2500/7835969275.html
+Ford,mustang,11000,2013,190000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2013-f150-lariat-35-v6-ecoboost/7835965886.html
+Audi,A6,7900,2011,63000,automatic,convertible,like new,10,gas,WUAVNAFG1BN002897,clean,https://austin.craigslist.org/cto/d/austin-audi-r8-iron-man-spec/7835963493.html
+Mercedes-Benz,S420,11000,2013,77411,automatic,coupe,like new,6,gas,WDDGJ5HB8DG014133,clean,https://austin.craigslist.org/cto/d/austin-2013-mercedes-benz-class-350-2dr/7835962141.html
+Chevrolet,tahoe ls,7500,2010,169210,automatic,coupe,good,6,gas,2G1FB1EV4A9191937,clean,https://austin.craigslist.org/cto/d/manor-2010-chevy-camaro-rs/7835960999.html
+Ford,mustang,22900,2015,116256,automatic,pickup,like new,6,gas,1FTEW1EG2FFA14679,clean,https://austin.craigslist.org/cto/d/austin-2015-ford-150-lariat-4x4-4dr/7835957717.html
+Porsche,911 Turbo Cabriolet,68000,2008,66349,manual,convertible,excellent,6,gas,WP0CD29928S788620,clean,https://austin.craigslist.org/cto/d/austin-2008-porsche-911-turbo-cabriolet/7835956095.html
+Pontiac,Solstice,10000,2007,56424,automatic,convertible,like new,4,gas,1G2MG35X77Y138428,clean,https://austin.craigslist.org/cto/d/austin-2007-pontiac-solstice-gxp-2dr/7835955699.html
+Kia,Forte LX,4500,2012,165100,automatic,SUV,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/wimberley-kia-sorento-4clndrs/7835948848.html
+Ford,mustang,5000,2002,157000,automatic,van,good,8,gas,1FDRE14W82HB06824,clean,https://austin.craigslist.org/cto/d/pflugerville-ford-150-econoline-van/7835945232.html
+Toyota,camry se,11900,2010,217466,automatic,SUV,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2010-toyota-4runner-sr5/7835934911.html
+Chevrolet,tahoe ls,8950,2011,195000,automatic,pickup,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/kingsland-2011-chevrolet-silverado/7835928690.html
+Ford,mustang,19950,2012,101800,automatic,van,excellent,10,gas,1FBSS3BS4CDA42658,clean,https://austin.craigslist.org/cto/d/cedar-park-15-passenger-ford-econoline/7835927829.html
+Mercedes-Benz,S420,6500,2007,81000,automatic,sedan,Unknown,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/nolanville-2007-mercedes-benz-s550-81k/7835922494.html
+Mercury,grand marquis,4950,2004,170000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/pflugerville-2004-mercury-grand-marquis/7835908725.html
+Nissan,juke sv,10600,2018,123156,automatic,SUV,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2018-nissan-rogue-sport/7835907044.html
+Toyota,camry se,10000,2016,108000,automatic,sedan,Unknown,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/manchaca-2016-toyota-corolla-le-108k/7835903748.html
+Ford,mustang,9400,2015,93300,automatic,SUV,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/pflugerville-2015-ford-escape-titanium/7835889304.html
+Ford,mustang,10000,2010,150999,automatic,pickup,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2010-ford-f150-clean/7835887189.html
+Toyota,camry se,6900,2008,181000,automatic,minivan,good,6,gas,Unknown,rebuilt,https://austin.craigslist.org/cto/d/austin-2008-toyota-sienna/7835885721.html
+Kia,Forte LX,3800,2005,164000,automatic,SUV,Unknown,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2005-kia-sorento/7835880268.html
+Ford,mustang,15000,1939,500,automatic,pickup,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/red-rock-1939-ford-pickup/7835879162.html
+Kia,Forte LX,7500,2012,76000,automatic,sedan,good,4,gas,Unknown,rebuilt,https://austin.craigslist.org/cto/d/austin-2012-kia-rio-76k-miles/7835873466.html
+Ford,mustang,10000,1999,239007,automatic,pickup,good,Unknown,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/bastrop-ford-350-diesel-4x4-1999/7835871242.html
+Honda,Accord LX,11900,2014,134000,automatic,sedan,excellent,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-great-2014-honda-accord/7835861097.html
+Fiat,Pop,800,2010,129000,manual,hatchback,salvage,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/spicewood-fiat-pop-for-parts/7835847049.html
+Toyota,camry se,7800,2010,100620,automatic,sedan,good,4,gas,4T1BF3EK9AU512820,clean,https://austin.craigslist.org/cto/d/austin-toyota-camry-le-2010/7835840526.html
+Honda,Accord LX,13000,2017,165000,automatic,sedan,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2017-honda-accord-sport-special/7835838018.html
+Toyota,camry se,18800,2015,185000,automatic,SUV,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2015-toyota-4runner-limited/7835836977.html
+Honda,Accord LX,18400,2015,40000,automatic,minivan,Unknown,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2015-honda-odyssey-elite-41k/7835834844.html
+Dodge,Ram 3500,14500,2014,75490,automatic,truck,fair,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2014-ram-1500-single-cab/7835823772.html
+Chevrolet,tahoe ls,9500,1986,65000,automatic,Unknown,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-1986-corvette/7835822922.html
+Jeep,wrangler,12599,2014,150000,automatic,offroad,like new,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2014-jeep-wrangler/7835813031.html
+Chevrolet,tahoe ls,15799,2006,117000,manual,convertible,like new,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2006-chevrolet-corvette/7835811872.html
+Subaru,crosstrek sport 2.5l awd,6999,2015,111000,automatic,sedan,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2015-subaru-legacy/7835810859.html
+Honda,Accord LX,7499,2013,129000,automatic,sedan,like new,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2013-honda-accord/7835809683.html
+Toyota,camry se,13000,2016,40000,automatic,sedan,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2016-toyota-corolla-le-40k-miles/7835797600.html
+Chevrolet,tahoe ls,15000,2015,185000,automatic,Unknown,good,8,gas,Unknown,rebuilt,https://austin.craigslist.org/cto/d/austin-chevy-tahoo/7835792522.html
+Toyota,camry se,24200,2019,141700,automatic,truck,like new,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/georgetown-2019-toyota-tundra-sr5/7835791086.html
+Honda,Accord LX,4500,2010,150298,manual,hatchback,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2010-honda-fit-sport-speed/7835780367.html
+Chevrolet,tahoe ls,4500,2004,172180,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2004-chevy-silverado-extended/7835766177.html
+Audi,A6,11990,2015,87343,automatic,sedan,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2015-audi-a3/7835753650.html
+Bmw,m3 m4 m5 e30 e24 e28 e31 e34 e38 e46,9990,2015,120119,automatic,sedan,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2015-bmw-528xi-drive-cylinder/7835750462.html
+Bmw,m3 m4 m5 e30 e24 e28 e31 e34 e38 e46,9750,2011,130357,automatic,sedan,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2011-bmw-335xi-drive-cylinder/7835747910.html
+Buick,lesabre custom,6900,2012,112000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/new-braunfels-2012-buick-enclave-looks/7835744215.html
+Toyota,camry se,1900,2010,215382,automatic,sedan,fair,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-mechanic-special-2010-toyota/7835741095.html
+Gmc,1 1/2,35000,2022,43000,automatic,pickup,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2022-gmc-canyon-at4/7835737537.html
+Honda,Accord LX,5999,2008,200369,automatic,SUV,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2012-honda-crv/7835726335.html
+Chevrolet,tahoe ls,37000,2015,191000,automatic,pickup,excellent,8,diesel,Unknown,rebuilt,https://austin.craigslist.org/cto/d/austin-2015-chevrolet-silverado-3500-hd/7835725991.html
+Subaru,crosstrek sport 2.5l awd,10500,2010,52150,automatic,SUV,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2010-subaru-forester-awd/7835723474.html
+Ford,mustang,5000,2003,218722,automatic,pickup,fair,8,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/bastrop-truck/7835711730.html
+Honda,Accord LX,3150,1998,203423,automatic,sedan,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-1998-honda-accord-ex-v6-ol/7835709576.html
+Kia,Forte LX,10900,2016,37500,automatic,hatchback,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-kia-soul/7835692709.html
+Audi,A6,14000,2016,91301,automatic,sedan,new,4,gas,WAUGFAFC1GN087597,clean,https://austin.craigslist.org/cto/d/austin-2016-audi-a6-20t-quattro-premium/7835681168.html
+Ford,mustang,14000,2000,217000,automatic,Unknown,excellent,8,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/dripping-springs-diesel-excursion/7835676325.html
+Land,rover defender 110,169000,1982,20000,automatic,SUV,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-1982-land-rover-defender-110/7835672235.html
+Volkswagen,Jetta GLI,3000,2013,116375,automatic,hatchback,fair,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2013-volkswagen-gti/7835665444.html
+Studebaker,champion - Bullet Nose,4300,1950,15192,manual,coupe,fair,Unknown,gas,4A08208,clean,https://austin.craigslist.org/cto/d/fischer-1950-bottle-nose-studebaker/7835664241.html
+Lincoln,town car signature limit,16500,2019,63000,automatic,SUV,excellent,4,gas,2LMPJ6L91KBL39506,clean,https://austin.craigslist.org/cto/d/austin-2019-lincoln-nautilus/7835658740.html
+Ram,1500,1,2014,216000,automatic,pickup,excellent,6,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2014-dodge-ram-lonestar-x4/7835656275.html
+Ford,mustang,1,2011,99000,manual,coupe,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2012-twin-turbo-mustang-gt/7835650764.html
+Toyota,camry se,61000,2021,16000,automatic,SUV,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2021-toyota-land-cruiser/7835648093.html
+Chevy,express 2500,5000,1994,90000,automatic,Unknown,like new,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-1994-chevy-cheyenne-50-v8/7835645313.html
+Ford,mustang,13200,2013,163587,automatic,Unknown,excellent,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/liberty-hill-2013-ford-f150-lariat-4x4/7835634056.html
+Freightliner,M Line,75000,2004,122000,automatic,truck,excellent,6,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/lafayette-fully-equipped-food-truck-for/7835633341.html
+Toyota,camry se,14600,2015,56000,automatic,sedan,Unknown,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2015-toyota-camry-se-56k-miles/7835632501.html
+Suburban,Unknown,4475,2009,223827,automatic,SUV,fair,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2009-suburban-z71/7835624304.html
+Dodge,Ram 3500,39500,2017,90059,automatic,pickup,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2017-ram-2500/7835616405.html
+Chevrolet,tahoe ls,17000,1977,98652,automatic,pickup,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/bastrop-1977-chevy-c20-camper-special/7835609536.html
+Chevrolet,tahoe ls,2900,2002,200000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/hutto-2002-chevrolet-tahoe/7835603375.html
+Hyundai,Tucson,3950,2018,150000,automatic,sedan,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2018-hyundai-elantra/7835599094.html
+Infiniti,qx50,5500,2011,167000,automatic,sedan,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/manor-2011-g37-infiniti/7835597780.html
+Cadillac,escalade,6500,2008,189542,automatic,SUV,good,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2008-cadillac-escalade/7835588579.html
+Vw,Tiguan,5500,2014,161498,automatic,SUV,fair,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2014-vw-tiguan/7835581691.html
+Lexus,rx 350,7800,2010,156528,automatic,SUV,good,6,gas,Unknown,salvage,https://austin.craigslist.org/cto/d/round-rock-2010-lexus-rx350-sport/7835578692.html
+Acura,tl type s,8900,1991,95802,automatic,sedan,excellent,6,gas,JH4KA7667MC020775,clean,https://austin.craigslist.org/cto/d/bastrop-acura-legend-1991-classic-gold/7835577720.html
+Polestar,PS2 e-AWD,29999,2022,28000,automatic,hatchback,like new,Unknown,electric,LPSED3KA9NL055899,clean,https://austin.craigslist.org/cto/d/austin-2022-polestar-ev-upgraded-28k/7835559229.html
+Toyota,camry se,9200,2008,113000,automatic,SUV,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2008-toyota-rav4-limited-113k/7835557327.html
+Subaru,crosstrek sport 2.5l awd,5600,2008,137850,automatic,Unknown,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2008-subaru-outback/7835557102.html
+Jeep,wrangler,17900,2019,67000,automatic,SUV,like new,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2019-jeep-grand-cherokee/7835542625.html
+Ford,mustang,9600,2012,125000,automatic,SUV,like new,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2012-ford-expedition-xlt/7835542042.html
+Ford,mustang,8000,2011,133000,automatic,coupe,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2011-ford-mustang-premium-v6/7835536865.html
+Honda,Accord LX,3200,2006,230000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/hutto-2006-honda-acura-rl/7835526621.html
+Mercedes-Benz,S420,2500,2003,200000,automatic,sedan,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2003-mercedes-benz/7835516170.html
+Chevrolet,tahoe ls,9900,2013,154000,automatic,pickup,Unknown,Unknown,gas,Unknown,rebuilt,https://austin.craigslist.org/cto/d/new-braunfels-2013-chev-silverado-ltz/7835478887.html
+Nissan,juke sv,5900,2012,119000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/new-braunfels-2012-nissan-murano-low-mi/7835474917.html
+Bmw,m3 m4 m5 e30 e24 e28 e31 e34 e38 e46,26500,2011,58000,automatic,convertible,excellent,8,gas,WBSDX9C53BE584014,clean,https://austin.craigslist.org/cto/d/austin-2011-bmw-m3-convertible/7835456367.html
+Freightliner,M Line,39000,2013,120000,automatic,truck,Unknown,Unknown,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/valleyford-2013-freightliner-m2-car/7835433137.html
+Mazda,b2500 b3000 b4000,5990,2008,145000,automatic,sedan,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2008-mazda-with-145k-owner/7835427993.html
+Ford,mustang,75000,1946,12345,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/dripping-springs-1946-ford-coe-tuck/7835425252.html
+Honda,Accord LX,15000,2007,137000,manual,coupe,Unknown,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/pflugerville-2007-honda-civic-si-clean/7835421632.html
+Lexus,rx 350,16500,2015,109888,automatic,SUV,like new,6,gas,2T2BK1BA4FC297248,clean,https://austin.craigslist.org/cto/d/austin-2015-lexus-rx350-fully-loaded/7835416711.html
+Toyota,camry se,13995,2019,92127,automatic,hatchback,excellent,4,hybrid,Unknown,rebuilt,https://austin.craigslist.org/cto/d/austin-2019-toyota-prius-le-gas-saver/7835371217.html
+Dodge,Ram 3500,13999,2019,98000,automatic,minivan,excellent,6,gas,2C4RDGEG2KR534832,clean,https://austin.craigslist.org/cto/d/paige-2019-dodge-grand-caravan-gt/7835370265.html
+Chevrolet,tahoe ls,11000,2001,247000,manual,pickup,good,8,diesel,1GCJC33111F171968,clean,https://austin.craigslist.org/cto/d/paige-2001-chevy-silverado-3500hd-turbo/7835369966.html
+Chevrolet,tahoe ls,15500,1982,46167,manual,pickup,good,8,gas,Unknown,lien,https://austin.craigslist.org/cto/d/dripping-springs-1982-chevrolet-c30-for/7835365764.html
+Lexus,rx 350,9499,2008,145000,automatic,SUV,excellent,Unknown,gas,JTJGW31U082010055,clean,https://austin.craigslist.org/cto/d/austin-2008-lexus-rx-400h/7835362476.html
+Honda,Accord LX,5000,2009,237728,manual,Unknown,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/pflugerville-2009-honda-civic-si-fa5/7835355428.html
+Chevy,express 2500,8500,2002,273000,automatic,pickup,fair,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2002-chevy-silverado-2500-hd/7835340555.html
+Hyundai,Tucson,6500,2016,100500,automatic,Unknown,good,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2016-hyundai-elantra-se-reliable/7835324813.html
+Ford,mustang,8900,2012,153000,automatic,van,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2012-ford-transit-connect-camper/7835313465.html
+Buick,lesabre custom,6500,2012,99450,automatic,sedan,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/kyle-2012-buick-verano/7835309294.html
+2014,Unknown,9500,2014,93300,automatic,other,excellent,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/kyle-2014-nissan-versa/7835297605.html
+Chevrolet,tahoe ls,9500,1962,67890,manual,Unknown,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/wimberley-1962-chevrolet-c20-dully/7835294085.html
+Toyota,camry se,30500,1997,261800,automatic,SUV,like new,6,gas,JT3HJ85J9V0165119,clean,https://austin.craigslist.org/cto/d/austin-1997-toyota-land-cruiser-80/7835285805.html
+Chevrolet,tahoe ls,26000,2015,71230,automatic,pickup,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/tustin-2015-chevy-silverado-v8-doors/7835285221.html
+Ford,mustang,6800,2012,190000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/georgetown-2012-ford-f150-xlt-super-crew/7835278762.html
+Bmw,m3 m4 m5 e30 e24 e28 e31 e34 e38 e46,9000,2014,124714,automatic,SUV,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-for-sale-2014-bmw-x1-xdrive28i/7835253688.html
+Dodge,Ram 3500,2700,2006,200000,automatic,pickup,Unknown,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/hutto-2006-dodge-dakota-door-quad-cab/7835249258.html
+Land,rover defender 110,6500,2017,180000,automatic,SUV,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/pflugerville-2017-land-rover-discovery/7835233954.html
+Lexus,rx 350,10750,2012,160724,automatic,Unknown,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/cedar-park-2012-lexus-rx350-awd/7835225664.html
+Gmc,1 1/2,8850,2012,141526,automatic,pickup,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/cedar-park-2012-gmc-sierra-1500/7835225559.html
+Subaru,crosstrek sport 2.5l awd,11950,2016,122001,automatic,SUV,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/cedar-park-2016-subaru-forester-25/7835225447.html
+Ford,mustang,13950,2018,112522,automatic,pickup,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/cedar-park-2018-ford-v8-supercab/7835225312.html
+Audi,A6,10750,2014,112676,automatic,SUV,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/cedar-park-2014-audi-q7-prestige-line/7835225177.html
+Toyota,camry se,12100,2014,193000,automatic,Unknown,Unknown,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2014-toyota-tundra-4x4-black/7835217601.html
+Volvo,s60,9000,2006,109000,automatic,sedan,good,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2008-volvo-s60-25l-in-line5/7835205901.html
+Chevrolet,tahoe ls,5200,2002,338345,automatic,pickup,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/giddings-2002-chevy-avalanche/7835186061.html
+Mercedes-Benz,S420,34999,2022,58500,automatic,sedan,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/el-paso-2022-mercedes-c300-4matic/7835171441.html
+Nissan,juke sv,27500,2021,105000,automatic,van,like new,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2021-nissan-nv200-mobile/7835159684.html
+Nissan,juke sv,4600,2009,155432,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2009-nissa-cube/7835157228.html
+Toyota,camry se,22000,2015,64000,automatic,SUV,excellent,6,gas,5TDYKRFH5FS076737,clean,https://austin.craigslist.org/cto/d/round-rock-2015-toyota-highlander-ltd-v6/7835149995.html
+Audi,A6,22500,2016,41514,automatic,coupe,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-audi-tt-for-sale/7835148226.html
+Dodge,Ram 3500,6500,2018,133800,automatic,SUV,Unknown,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2018-dodge-journey/7835147691.html
+Land,rover defender 110,4000,2012,167000,automatic,SUV,fair,8,gas,SALAK2D43CA601725,clean,https://austin.craigslist.org/cto/d/marble-falls-2012-landrover-lr4/7835145891.html
+Ford,mustang,21500,2013,230000,automatic,pickup,good,8,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/burnet-ford-f250-super-duty-lariat/7835143425.html
+Stud,champ,500,1954,100000,manual,sedan,salvage,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/pflugerville-1954-stud-champ/7835135228.html
+Chevy,express 2500,6000,2006,250000,automatic,pickup,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2006-chevy-2500hd/7835134203.html
+Jeep,wrangler,12500,1999,159500,manual,SUV,Unknown,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/goldthwaite-1999-jeep-tj-wrangler-with/7835134128.html
+Impala,Unknown,7000,1962,100000,automatic,sedan,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-1962-impala/7835131703.html
+Toyota,camry se,10985,2007,156000,automatic,SUV,like new,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/cedar-park-toyota-4runner-2007/7835131178.html
+Chevrolet,tahoe ls,8000,1952,1,manual,pickup,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/manor-1952-chevrolet-pickup/7835130387.html
+Honda,Accord LX,6900,1998,121000,manual,SUV,fair,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-honda-cr-manual-5speed-awd/7835116728.html
+Mitsubishi,Unknown,6000,2007,170000,automatic,Unknown,good,Unknown,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/cedar-creek-mitsubishi-sterling-same/7835105792.html
+Tesla,Model S,22000,2017,99200,automatic,sedan,like new,Unknown,electric,Unknown,clean,https://austin.craigslist.org/cto/d/leander-2017-tesla-model-mint-fsd/7835099095.html
+Dodge,Ram 3500,22500,2019,129000,automatic,pickup,excellent,6,gas,1C6SRFFT4KN715265,clean,https://austin.craigslist.org/cto/d/spicewood-2019-dodge-ram-x4-hemi/7835098142.html
+Chevy,express 2500,1500,1999,175000,automatic,Unknown,Unknown,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-1999-chevy-c1500-cheyenne/7835097163.html
+Bmw,m3 m4 m5 e30 e24 e28 e31 e34 e38 e46,4800,2004,144000,manual,sedan,Unknown,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/manor-2004-bmw-330xi-e46/7835084923.html
+Ford,mustang,27500,1990,500,automatic,SUV,like new,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-restored-white-1990-ford-bronco/7835073530.html
+Mitsubishi,Unknown,5000,2006,255700,automatic,pickup,good,6,gas,1Z7HC28KX6S554756,clean,https://austin.craigslist.org/cto/d/spicewood-2006-mitsubishi-raider-dodge/7835069469.html
+Chevrolet,tahoe ls,35500,2015,123543,automatic,pickup,excellent,8,diesel,1GC4K0E85FF538838,clean,https://austin.craigslist.org/cto/d/austin-2015-chevrolet-silverado-duramax/7835065693.html
+Mitsubishi,Unknown,6000,2006,170000,automatic,pickup,excellent,6,gas,1Z7HT28K96S540590,clean,https://austin.craigslist.org/cto/d/spicewood-2006-mitsubishi-raider-dodge/7835062611.html
+F450,Unknown,5500,2006,230,automatic,Unknown,Unknown,Unknown,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2006-f450/7835059074.html
+Volkswagen,Jetta GLI,13000,1977,24263,manual,convertible,good,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-1977-volkswagen-beetle/7835054337.html
+Honda,Accord LX,2995,2001,199500,automatic,sedan,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2001-honda-accord-v6/7835053919.html
+Dodge,Ram 3500,33000,2012,127000,automatic,pickup,excellent,6,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/liberty-hill-2012-ram-2500-laramie/7835041927.html
+Dodge,Ram 3500,3300,2013,200200,automatic,minivan,good,6,gas,Unknown,salvage,https://austin.craigslist.org/cto/d/round-rock-2013-dodge-grand-caravan/7835038450.html
+Subaru,crosstrek sport 2.5l awd,6500,2012,154468,manual,SUV,excellent,4,gas,JF2SHBDC5CG430993,clean,https://austin.craigslist.org/cto/d/leander-2012-subaru-forester-25x/7835033315.html
+Toyota,camry se,19900,2016,150000,automatic,SUV,excellent,6,gas,JTEZU5JRXG5124467,clean,https://austin.craigslist.org/cto/d/pflugerville-2016-toyota-4runner-sr5/7835030701.html
+Nissan,juke sv,5600,2010,167000,automatic,sedan,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-fun-clean-fuel-effecient-nissan/7835030022.html
+Dodge,Ram 3500,4250,1994,126864,automatic,hatchback,excellent,6,gas,JB3AM44H1RY000704,clean,https://austin.craigslist.org/cto/d/austin-94-dodge-stealth-low-miles-one/7835027449.html
+Ford,mustang,9900,2008,128503,automatic,pickup,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/cedar-park-2008-150-lariat-4wd-one-owner/7835025081.html
+Ford,mustang,26500,2017,233898,automatic,pickup,excellent,8,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/liberty-hill-2017-ford-f250-super-duty/7835013593.html
+Toyota,camry se,3000,2007,140000,automatic,hatchback,Unknown,Unknown,hybrid,Unknown,clean,https://austin.craigslist.org/cto/d/hutto-2007-toyota-prius-runs-excellent/7835006980.html
+Mitsubishi,Unknown,5500,2004,161000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/georgetown-2004-mitsubishi-limited/7835006656.html
+Kia,Forte LX,3800,2005,164000,automatic,SUV,Unknown,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2005-kia-sorento/7834998987.html
+Ford,mustang,21500,2003,90000,automatic,truck,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/mc-gregor-2003-ford-harley-davidson/7834996489.html
+Ford,mustang,6850,1993,78136,automatic,van,good,8,gas,1FBJS31H7PHA69630,clean,https://austin.craigslist.org/cto/d/rockdale-1993-ford-passenger-van-350-v8/7834983983.html
+Chevrolet,tahoe ls,5500,2011,135000,automatic,sedan,Unknown,4,gas,1G1PG5S98B7144885,clean,https://austin.craigslist.org/cto/d/austin-2011-chevy-cruze-for-ale/7834981243.html
+Ford,mustang,3800,2011,335000,automatic,pickup,good,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/del-valle-2011-ford-ranger/7834978409.html
+Nissan,juke sv,3900,2011,151000,automatic,Unknown,good,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2011-nissan-juke-sv/7834975298.html
+Nissan,juke sv,14999,2018,45755,automatic,SUV,like new,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-price-cut-2018-nissan-rogue/7834969901.html
+Mini,Hardtop,15000,2017,42318,automatic,SUV,like new,4,gas,WMZYT3C35H3D98899,clean,https://austin.craigslist.org/cto/d/austin-two-owner-2017-mini-cooper/7834933119.html
+Dodge,Ram 3500,3500,2014,140821,automatic,Unknown,fair,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2014-dodge-avenger-se/7834932280.html
+Toyota,camry se,10500,2010,61355,automatic,hatchback,like new,4,hybrid,JTDKN3DU4A0204536,clean,https://austin.craigslist.org/cto/d/austin-2010-toyota-prius-ii-4dr/7834931846.html
+Chevrolet,tahoe ls,10750,2016,112304,automatic,van,like new,8,gas,1GCWGAFF0G1238779,rebuilt,https://austin.craigslist.org/cto/d/austin-2016-chevrolet-express-dr-cargo/7834931622.html
+Ford,mustang,9000,2008,150684,automatic,coupe,like new,8,gas,1ZVHT82H485138955,clean,https://austin.craigslist.org/cto/d/austin-2008-ford-mustang-gt-premium-gt/7834929369.html
+Volvo,s60,8500,2013,88601,automatic,SUV,like new,6,gas,YV4952CZ7D1652402,clean,https://austin.craigslist.org/cto/d/2013-volvo-xc90-32-all-wheel-drive/7834926146.html
+F350,king ranch 6.7 diesel.,23000,2012,195000,automatic,pickup,good,8,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/cedar-park-2012-king-ranch-f350/7834926080.html
+Toyota,camry se,1700,2002,234674,automatic,sedan,fair,4,gas,JTDBE32K420041227,clean,https://austin.craigslist.org/cto/d/austin-2002-toyota-camry-se-no-runner/7834925558.html
+Toyota,camry se,14250,2015,116645,automatic,SUV,like new,4,gas,2T3RFREV2FW304398,clean,https://austin.craigslist.org/cto/d/austin-2015-toyota-rav4-xle-116-mile/7834924904.html
+Ford,mustang,19500,2016,91109,automatic,pickup,like new,8,gas,1FT7X2B62GEC30580,rebuilt,https://austin.craigslist.org/cto/d/austin-2016-ford-250-super-duty-xlt-4x4/7834923573.html
+Hyundai,Tucson,6500,2013,85811,automatic,hatchback,like new,4,gas,KMHCU5AE1DU075115,clean,https://austin.craigslist.org/cto/d/austin-2013-hyundai-accent-85-mile-se/7834923233.html
+Nissan,juke sv,14000,2018,76120,automatic,SUV,like new,4,gas,5N1AT2MV4JC715260,clean,https://austin.craigslist.org/cto/d/austin-2018-nissan-rogue-sv-awd-4dr/7834922727.html
+Toyota,camry se,50000,2021,23797,automatic,coupe,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2021-toyota-gr-supra/7834910794.html
+Toyota,camry se,3900,1998,190234,manual,sedan,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/wimberley-toyota-celica-mint-condition/7834898476.html
+Cadillac,escalade,7500,1983,110000,automatic,sedan,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-1983-cadillac-deville/7834875000.html
+Hyundai,Tucson,5500,2015,150800,automatic,sedan,excellent,4,gas,5NPDH4AE0FH619706,clean,https://austin.craigslist.org/cto/d/kyle-2015-hyundai-elantra-excellent/7834874148.html
+Ford,mustang,8900,2004,141000,automatic,convertible,excellent,8,gas,1FAHP60A74Y104234,clean,https://austin.craigslist.org/cto/d/leander-2004-ford-thunderbird-owner/7834866830.html
+Kia,Forte LX,6500,2010,61000,automatic,hatchback,Unknown,Unknown,gas,Unknown,rebuilt,https://austin.craigslist.org/cto/d/austin-2010-kia-soul/7834848589.html
+Honda,Accord LX,7200,2008,126000,automatic,minivan,Unknown,Unknown,gas,Unknown,rebuilt,https://austin.craigslist.org/cto/d/austin-2008-honda-odyssey/7834848303.html
+Bmw,m3 m4 m5 e30 e24 e28 e31 e34 e38 e46,9500,2009,87000,automatic,sedan,like new,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2009-bmw-335i/7834845181.html
+Volkswagen,Jetta GLI,13500,2020,62000,automatic,sedan,Unknown,Unknown,gas,Unknown,rebuilt,https://austin.craigslist.org/cto/d/austin-2020-volkswagen-passat/7834832316.html
+Volkswagen,Jetta GLI,12800,2019,89000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2019-volkswagen-jetta-line/7834832011.html
+Chevrolet,tahoe ls,18500,2015,150000,automatic,pickup,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2015-chevrolet-silverado-ltz/7834831566.html
+Nissan,juke sv,4350,2012,179000,automatic,SUV,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/georgetown-2012-nissan-marano-v6-35l/7834829529.html
+Honda,Accord LX,11999,2016,172000,automatic,SUV,good,4,gas,Unknown,rebuilt,https://austin.craigslist.org/cto/d/austin-2016-honda-cr/7834828611.html
+Ford,mustang,4900,2013,138553,automatic,sedan,good,4,gas,3FA6P0G77DR296431,clean,https://austin.craigslist.org/cto/d/pflugerville-2013-ford-fusion/7834824389.html
+Mitsubishi,Unknown,6200,2014,131700,automatic,SUV,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-mitsubishi-outlander-sel-2014/7834824038.html
+Thomas,school bus,5000,2005,230000,automatic,bus,fair,Unknown,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2005-freightliner-cowl-chassis/7834824001.html
+Ford,mustang,1900,2000,200000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/hye-2000-ford-explorer/7834823384.html
+Chevrolet,tahoe ls,38000,1966,73000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/grants-pass-1966-chevrolet-impala/7834822532.html
+Mazda,b2500 b3000 b4000,4500,2010,186000,manual,minivan,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/driftwood-2010-mazda-speed-minivan/7834819754.html
+Tesla,Model S,23499,2018,51700,automatic,sedan,good,Unknown,electric,5YJ3E1EA1JF052357,clean,https://austin.craigslist.org/cto/d/austin-tesla-long-range-awd-2018/7834819714.html
+Mazda,b2500 b3000 b4000,5900,2012,152900,manual,sedan,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/liberty-hill-2012-mazda-i-touring-sedan/7834819604.html
+Willys,Jeep CJ-2A,7500,1946,46,manual,Unknown,fair,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-1946-willys-jeep-cj-2a/7834818006.html
+Nissan,juke sv,4995,2010,115480,automatic,sedan,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2010-nissan-sentra-sr/7834813519.html
+Tesla,Model S,31499,2023,14425,automatic,SUV,excellent,Unknown,electric,7SAYGDEE3PA029420,clean,https://austin.craigslist.org/cto/d/austin-2023-tesla-long-range/7834810620.html
+Gmc,1 1/2,7500,2007,180000,automatic,pickup,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2007-gmc-sierra-1500/7834807941.html
+Volkswagen,Jetta GLI,6999,2014,112000,automatic,sedan,good,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2014-volkswagen-passat/7834804665.html
+Jeep,wrangler,15000,2017,75000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2017-jeep-grand-cherokee/7834803964.html
+Ford,mustang,9350,2008,127000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2008-ford-th-anniversary/7834802822.html
+Ford,mustang,26000,2021,40000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2021-ford-explorer-xlt/7834792571.html
+Ford,mustang,6300,1998,200000,manual,pickup,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-1998-ford-ranger-xlt/7834786131.html
+Chevy,express 2500,350,1974,1000,automatic,Unknown,good,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-vintage-steel-lug-wheels/7834776255.html
+Toyota,camry se,16000,2018,70000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2018-toyota-camry-se/7834773428.html
+Volkswagen,Jetta GLI,10000,2007,45000,automatic,Unknown,Unknown,Unknown,gas,Unknown,rebuilt,https://austin.craigslist.org/cto/d/austin-2007-volkswagen-gti-fahrenheit/7834772536.html
+Jeep,wrangler,15500,2004,72000,automatic,SUV,Unknown,6,gas,1J4FA59S34P730128,clean,https://austin.craigslist.org/cto/d/round-rock-2004-jeep-wrangler-sahara-40/7834768565.html
+Ford,mustang,35000,2019,81000,automatic,pickup,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2019-f150-lariat/7834764845.html
+Toyota,camry se,20500,2016,151720,automatic,pickup,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/liberty-hill-2016-toyota-tundra-4x4-sr5/7834757830.html
+Toyota,camry se,2699,2005,190077,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/buda-2007-toyota-corolla/7834755270.html
+Nissan,juke sv,9500,2007,116000,manual,convertible,excellent,6,gas,JN1BZ36A17M653782,clean,https://austin.craigslist.org/cto/d/austin-2007-nissan-350z-roadster/7834754928.html
+Toyota,camry se,42000,2020,26100,automatic,SUV,like new,6,gas,JTEBU5JR7L5766835,clean,https://austin.craigslist.org/cto/d/austin-runner-4x4-nightshade-trim/7834752728.html
+Fiesta,SE,4400,2012,148000,automatic,sedan,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/hutto-2012-ford-fiesta-se-4d-sedan/7834747513.html
+Kia,Forte LX,3800,2005,164000,automatic,SUV,Unknown,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2005-kia-sorento/7834745837.html
+Nissan,juke sv,14999,2018,45755,automatic,SUV,like new,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-price-cut-2018-nissan-rogue/7834741766.html
+Acura,tl type s,1500,2001,234000,automatic,sedan,fair,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-acura-2001-project-car-runs-and/7834726940.html
+Ford,mustang,26500,2015,92000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2015-f250-hd/7834724677.html
+Toyota,camry se,11000,2000,197000,manual,truck,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-dependable-2000-tacoma-sr5/7834718939.html
+Chevrolet,tahoe ls,24500,2011,108000,automatic,pickup,Unknown,8,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2011-chevrolet-silverado-2500-hd/7834710752.html
+Tesla,Model S,32000,2024,13500,automatic,other,like new,Unknown,electric,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2024-tesla-model/7834707127.html
+Toyota,camry se,28000,2014,128000,automatic,truck,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/georgetown-2014-toyota-tacoma-sport-4x4/7834701299.html
+Ford,mustang,5400,2013,93237,automatic,sedan,like new,4,gas,3FADP4BJ8DM146892,clean,https://austin.craigslist.org/cto/d/austin-2013-ford-fiesta-se-clean-title/7834688257.html
+Toyota,camry se,4500,2012,180000,manual,hatchback,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2012-toyota-scion-xb-manual/7834680235.html
+Honda,Accord LX,4500,2008,240412,automatic,SUV,good,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/elgin-2008-honda-crv/7834679506.html
+Nissan,juke sv,78500,2009,28000,automatic,coupe,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/georgetown-gtr-r35-for-sale-by-one-and/7834672339.html
+Chevrolet,tahoe ls,11000,2005,96000,automatic,truck,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2005-chevy-silverado-2500/7834672212.html
+Chevy,express 2500,4000,1939,200000,other,pickup,good,Unknown,other,Unknown,missing,https://austin.craigslist.org/cto/d/elgin-1939-chevy-pickup-fixer/7834660521.html
+Toyota,camry se,17500,2016,146000,automatic,SUV,Unknown,6,gas,JTEZU5JR7G5117895,clean,https://austin.craigslist.org/cto/d/austin-2016-toyota-runner/7834654545.html
+Bmw,m3 m4 m5 e30 e24 e28 e31 e34 e38 e46,8499,2013,99000,automatic,sedan,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2013-bmw-535i-low-miles/7834654435.html
+Volvo,s60,6500,2016,212000,automatic,SUV,good,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/liberty-hill-great-car-extremly-safe/7834652660.html
+Toyota,camry se,7000,1985,197452,manual,pickup,good,4,gas,JT4RN55R0F0159977,clean,https://austin.craigslist.org/cto/d/austin-1985-toyota-pickup/7834650686.html
+Ford,mustang,9499,2017,146564,automatic,SUV,good,6,gas,1FM5K8AR3HGA48845,clean,https://austin.craigslist.org/cto/d/austin-2017-ford-explorer-police-trim/7834643581.html
+Honda,Accord LX,4500,2009,219000,automatic,SUV,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/luling-2009-honda-pilot/7834640593.html
+Mercedes-Benz,S420,2800,2003,300000,automatic,Unknown,good,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/burnet-2003-mercedes-benz/7834640422.html
+Toyota,camry se,3999,2001,257000,automatic,SUV,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2001-toyota-4runner/7834638130.html
+Saab,9-3,2750,2009,150000,automatic,sedan,fair,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/lockhart-2009-saab-3-project/7834630493.html
+Acura,tl type s,4000,2006,200706,automatic,sedan,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-acura-tl-2006/7834620407.html
+Chrysler,town & country,3000,2007,200000,automatic,minivan,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2007-chrysler-pacifica/7834616004.html
+Mazda,b2500 b3000 b4000,6000,1999,148434,manual,convertible,excellent,4,gas,JM1NB3536X0120190,clean,https://austin.craigslist.org/cto/d/austin-1999-mazda-mx-miata-convertible/7834611044.html
+Mercedes,benz S320,3850,2011,142000,automatic,coupe,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2011-mercedes-c300/7834608388.html
+Ford,mustang,3950,2004,208000,automatic,SUV,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2004-ford-expedition-eddie/7834608236.html
+Nissan,juke sv,14999,2018,45755,automatic,SUV,like new,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-price-cut-2018-nissan-rogue/7834603114.html
+Toyota,camry se,14999,2011,220000,automatic,pickup,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2011-toyota-tacoma/7834600863.html
+Pontiac,Solstice,12000,1967,1111,automatic,Unknown,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-67-firebird-project-car/7834596529.html
+Jeep,wrangler,9800,2015,142500,automatic,SUV,fair,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2015-jeep-grand-cherokee-summit/7834595215.html
+Kia,Forte LX,3500,2017,147800,automatic,sedan,fair,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2017-kia-forte-lx/7834592527.html
+Infiniti,qx50,7500,2008,91000,automatic,SUV,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2008-infiniti-ex35/7834590809.html
+Kia,Forte LX,7500,2014,102339,automatic,Unknown,good,4,gas,KNDJP3A52E7713640,clean,https://austin.craigslist.org/cto/d/austin-2014-kia-soul-102-mile/7834589153.html
+Porsche,911 Turbo Cabriolet,45000,2012,81400,automatic,convertible,good,6,gas,WP0CA2A91CS793188,clean,https://austin.craigslist.org/cto/d/austin-2012-porsche-911-carrera/7834588537.html
+Toyota,camry se,8999,2009,158000,automatic,sedan,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2009-toyota-avalon-leather/7834581806.html
+Gmc,1 1/2,18000,2018,87998,automatic,pickup,excellent,6,gas,1GTG5CEN1J1182194,clean,https://austin.craigslist.org/cto/d/austin-2018-gmc-canyon-sle-crew-cab/7834579428.html
+Toyota,camry se,6900,2008,181000,automatic,minivan,good,6,gas,Unknown,rebuilt,https://austin.craigslist.org/cto/d/austin-2008-toyota-sienna/7834577662.html
+Chevy,express 2500,8500,2008,224137,automatic,pickup,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/driftwood-2008-chevy-silverado-1500/7834565831.html
+Tesla,Model S,17000,2020,68787,automatic,sedan,like new,Unknown,electric,5YJ3E1EAXLF643855,rebuilt,https://austin.craigslist.org/cto/d/bastrop-2020-tesla-model-68k/7834562184.html
+Scion,XA,4900,2006,126200,automatic,sedan,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/manor-2006-scion-toyata-xa-low-mileage/7834555755.html
+Jeep,wrangler,30000,2022,26283,automatic,pickup,excellent,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2022-jeep-gladiator-sport-pickup/7834554771.html
+Ford,mustang,20999,2016,300000,automatic,pickup,good,8,diesel,1FT8W3BT1GEA02475,clean,https://austin.craigslist.org/cto/d/cedar-park-king-ranch-2016-350-mint/7834553716.html
+Chevrolet,tahoe ls,4000,2012,190000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2012-chevrolet-malibu/7834549585.html
+Toyota,camry se,3200,2002,212000,automatic,sedan,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/pflugerville-2002-toyota-camry/7834536973.html
+Chevy,express 2500,20500,1980,100959,manual,coupe,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/buda-1980-corvette-great-condition/7834535043.html
+Toyota,camry se,5375,2010,166000,automatic,sedan,good,4,gas,2T1BU4EE3AC392617,clean,https://austin.craigslist.org/cto/d/austin-2010-toyota-corolla/7834534949.html
+Mitsubishi,Unknown,6400,2020,100900,automatic,sedan,like new,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2020-mitsubishi-mirage/7834525416.html
+Honda,Accord LX,7200,2015,148000,automatic,minivan,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2015-honda-odyssey/7834514360.html
+Ford,mustang,34500,2019,12800,automatic,van,like new,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/leander-fully-equipped-custom-mobile/7834509295.html
+Doge,Ram 2500,16000,2004,350000,automatic,pickup,excellent,6,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/dripping-springs-2004-dodge-ram-2500/7834502793.html
+Subaru,crosstrek sport 2.5l awd,12000,2015,99777,automatic,SUV,like new,4,gas,JF2GPAMC9F8236856,clean,https://austin.craigslist.org/cto/d/austin-2015-subaru-xv-crosstrek-20i/7834492794.html
+Subaru,crosstrek sport 2.5l awd,8900,2015,132000,automatic,SUV,excellent,4,gas,JF2SJADC5FH581894,clean,https://austin.craigslist.org/cto/d/austin-2015-subaru-forester-25i-premium/7834485996.html
+Lincoln,town car signature limit,5550,2005,132000,automatic,sedan,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/llano-lincoln-towncar/7834485824.html
+Toyota,camry se,7800,2016,160990,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2016-toyota-corola/7834482396.html
+Mercedes-Benz,S420,125000,2023,8500,automatic,van,like new,4,diesel,Unknown,lien,https://austin.craigslist.org/cto/d/austin-2023-mercedes-benz-sprinter/7834478050.html
+Gmc,1 1/2,6000,2014,180000,automatic,truck,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2014-gmc-savana-2500-cargo/7834475101.html
+Chevrolet,tahoe ls,25500,2002,10750,automatic,coupe,new,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/dripping-springs-th-anniversary-camaro/7834453902.html
+Nissan,juke sv,13200,2019,104000,automatic,sedan,Unknown,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/manchaca-2019-nissan-altima-sr-104k/7834449813.html
+Nissan,juke sv,17500,2014,54372,automatic,coupe,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2014-nissan-370z-coupe-2d/7834447189.html
+Mazda,b2500 b3000 b4000,2200,1992,161445,manual,pickup,Unknown,4,gas,JM2UF1139N0258504,clean,https://austin.craigslist.org/cto/d/austin-1992-mazda-b2200/7834443544.html
+Chrysler,town & country,2800,2010,143334,automatic,Unknown,fair,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/georgetown-2010-pt-cruiser-2800/7834430406.html
+Honda,Accord LX,6000,2007,190000,automatic,sedan,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/spicewood-2007-honda-accord-ex-sedan/7834388548.html
+Volkswagen,Jetta GLI,4200,2010,122000,automatic,sedan,good,5,gas,Unknown,clean,https://austin.craigslist.org/cto/d/dripping-springs-2010-volkswagen-jetta/7834387241.html
+Mercedes-Benz,S420,5000,2008,134121,automatic,coupe,good,6,gas,WDBTJ56HX8F240782,clean,https://austin.craigslist.org/cto/d/wimberley-2008-mercedes-clk350/7834377563.html
+Ford,mustang,9800,2014,134438,automatic,SUV,good,6,gas,1FM5K7F86EGB51828,clean,https://austin.craigslist.org/cto/d/austin-2014-ford-explorer-limited-full/7834374081.html
+Vw,Tiguan,8500,2010,26000,automatic,hatchback,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2010-vw-beatle-only-26k-miles/7834370334.html
+Mercedes,benz S320,2000,2003,115000,automatic,SUV,fair,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/leander-2003-mercedes-mlk-500/7834362810.html
+Ford,mustang,22500,2020,114500,automatic,SUV,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/la-grange-2020-expedition/7834362614.html
+Jeep,wrangler,17000,2015,98000,manual,SUV,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/buda-2015-jeep-wrangler-rubicon/7834346022.html
+Nissan,juke sv,6500,2012,126890,automatic,sedan,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-nissan-altima-2012/7834338407.html
+Chevrolet,tahoe ls,7500,2007,205076,automatic,pickup,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2007-chevy-2500-hd/7834331660.html
+Honda,Accord LX,12000,2010,116000,automatic,minivan,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/frisco-honda-odyssey-2010-ex-with-braun/7834330056.html
+Lexus,rx 350,7999,2005,156000,automatic,sedan,good,6,gas,Unknown,rebuilt,https://austin.craigslist.org/cto/d/austin-2005-lexus-es330/7834323866.html
+Toyota,camry se,11999,2012,169000,automatic,SUV,good,4,gas,Unknown,rebuilt,https://austin.craigslist.org/cto/d/austin-2012-toyota-rav4-awd/7834315250.html
+Jeep,wrangler,14800,1997,127000,manual,offroad,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-jeep-wrangler-1997-tj-wheel/7834310542.html
+Chevy,express 2500,1100,2011,180000,automatic,wagon,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2011-chevy-hhr/7834307480.html
+Nissan,juke sv,4000,2014,154000,automatic,sedan,fair,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2014-nissan-altima-4cylinder/7834304908.html
+Ford,mustang,7000,2010,170000,automatic,truck,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/giddings-2010-f150-lariat-4x4/7834303597.html
+Infiniti,qx50,14999,2017,90000,automatic,SUV,good,6,gas,Unknown,rebuilt,https://austin.craigslist.org/cto/d/austin-2017-infiniti-qx50-90k-miles/7834298527.html
+Ford,mustang,7500,2008,203000,automatic,pickup,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2008-black-lariat-150/7834283455.html
+Nissan,juke sv,11000,2018,69238,automatic,hatchback,excellent,Unknown,electric,1N4AZ1CP9JC312073,clean,https://austin.craigslist.org/cto/d/austin-2018-nissan-leaf-sv-new-battery/7834277691.html
+Mercedes,benz S320,5750,1990,68444,automatic,convertible,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/pflugerville-1990-mercedes-benz-sl500/7834261019.html
+Chevy,express 2500,10000,2025,25,automatic,Unknown,new,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-new-used-cars-for-sale-best/7834260540.html
+Audi,A6,35500,2021,51363,automatic,SUV,like new,4,hybrid,WA1F2AFY2M2046456,clean,https://austin.craigslist.org/cto/d/liberty-hill-2021-audi-q5-quattro/7834258723.html
+Dodge,Ram 3500,4800,2006,229657,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/giddings-2006-dodge-ram-x4-price-reduced/7834229020.html
+Ram,1500,55000,2023,15800,automatic,van,like new,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2023-ram-promaster-3500-extended/7834221183.html
+Gmc,1 1/2,26000,2021,75000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2021-gmc-sierra-1500-at4/7834216818.html
+Freightliner,M Line,47500,2011,96000,automatic,truck,like new,Unknown,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/georgetown-2011-freightliner-m2-106/7834215919.html
+Mercedes-Benz,S420,12000,2013,136000,manual,sedan,like new,4,gas,WDDGF4HB1DA859999,clean,https://austin.craigslist.org/cto/d/buda-mercedes-benz/7834212691.html
+Dodge,Ram 3500,7900,1988,136000,automatic,pickup,good,8,gas,1B7FD14Y9JS668874,clean,https://austin.craigslist.org/cto/d/austin-1988-dodge-d150/7834208031.html
+Gmc,1 1/2,32500,2023,66000,automatic,pickup,Unknown,Unknown,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2023-gmc-sierra-2500hd-at4/7834207132.html
+Lotus,Europa,3600,1967,20000,manual,coupe,fair,4,gas,460595,clean,https://austin.craigslist.org/cto/d/austin-1967-lotus-europa/7834203110.html
+Kelmark,Unknown,4500,1981,100000,manual,coupe,fair,4,gas,M1CH812004,clean,https://austin.craigslist.org/cto/d/austin-1981-kelmark-gt/7834197205.html
+Ford,mustang,10850,2012,106456,automatic,van,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/rockdale-2012-ford-transit-connect/7834192223.html
+Toyota,camry se,8490,2010,148000,automatic,SUV,Unknown,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/pflugerville-2010-toyota-rav4/7834178257.html
+Ford,mustang,3500,2004,233766,automatic,Unknown,fair,8,gas,Unknown,salvage,https://austin.craigslist.org/cto/d/round-rock-04-expedition/7834173889.html
+Jeep,wrangler,5950,2012,160988,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2012-jeep-liberty/7834169309.html
+Ford,mustang,9500,2000,131639,automatic,pickup,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2000-ford-ranger-xlt/7834164360.html
+Chevrolet,tahoe ls,3000,2007,147514,automatic,minivan,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2007-chevrolet-uplander-ls/7834161464.html
+Ford,mustang,12000,1950,1000000,automatic,Unknown,fair,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-1950-ford-custom/7834159614.html
+Honda,Accord LX,2300,2009,266180,automatic,coupe,good,4,gas,2HGFG12999H511515,clean,https://austin.craigslist.org/cto/d/kyle-09-honda-civic-for-sale/7834144771.html
+Infiniti,qx50,7300,2011,184000,automatic,sedan,good,6,gas,Unknown,rebuilt,https://austin.craigslist.org/cto/d/austin-2011-infiniti-m37-obo/7834136590.html
+Buick,lesabre custom,2000,1997,65000,automatic,sedan,fair,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-1997-buick-century/7834119455.html
+Freightliner,M Line,38000,2014,150000,automatic,truck,Unknown,Unknown,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/houston-2014-freightliner-door-crew-cab/7834113361.html
+Honda,Accord LX,6500,2013,196000,automatic,SUV,good,4,gas,3CZRM3H37DG700556,clean,https://austin.craigslist.org/cto/d/pflugerville-honda-cr/7834105203.html
+Scion,XA,4500,2006,94281,manual,hatchback,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-06-toyota-iconic-scion-xb-low/7834056294.html
+Chevrolet,tahoe ls,15999,2006,116500,manual,convertible,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2006-chevy-corvette/7834044142.html
+Vw,Tiguan,4500,1968,150000,manual,Unknown,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-1968-volkswagen-karmann-ghia/7834042113.html
+Chevrolet,tahoe ls,9500,2011,119000,automatic,coupe,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2011-rs-camaro-lt1-coupe/7834029543.html
+Jeep,wrangler,40000,2024,15000,automatic,SUV,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/liberty-hill-2024-jeep-wrangler-rhd/7834027856.html
+Toyota,camry se,10995,2013,186532,automatic,SUV,excellent,6,hybrid,Unknown,clean,https://austin.craigslist.org/cto/d/cedar-park-2013-toyota-highlander/7834022417.html
+Kia,Forte LX,19500,2023,7453,automatic,hatchback,like new,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2023-kia-rio-hatchback-5d/7833997584.html
+Dodge,Ram 3500,14900,2013,155000,automatic,coupe,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2013-dodge-challenger-rts-v8/7833993811.html
+Ford,mustang,6500,2005,268000,automatic,pickup,fair,8,diesel,1FTSW21P85EA05228,clean,https://austin.craigslist.org/cto/d/austin-2005-ford-f250-4x4/7833993401.html
+Datsun,240z,10000,1972,,manual,Unknown,fair,6,gas,HLS3070241,clean,https://austin.craigslist.org/cto/d/austin-1972-datsun-240z-project-car/7833989196.html
+Toyota,camry se,32449,2020,113309,automatic,SUV,excellent,6,gas,JTEBU5JR2L5763891,lien,https://austin.craigslist.org/cto/d/wimberley-2020-toyota-4runner-srd/7833986732.html
+Jeep,wrangler,18000,2005,24500,manual,SUV,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2005-wrangler-with-25k-original/7833984466.html
+Nissan,juke sv,9500,2016,61908,automatic,hatchback,excellent,Unknown,electric,1N4BZ0CPXGC304815,clean,https://austin.craigslist.org/cto/d/austin-2016-nissan-leaf-sv-new-battery/7833980287.html
+Toyota,camry se,6400,2004,193000,automatic,SUV,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2004-toyota-highlander/7833979290.html
+Toyota,camry se,14999,2011,220000,automatic,pickup,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2011-toyota-tacoma/7833978917.html
+Kia,Forte LX,4500,2004,180000,automatic,SUV,fair,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-sale-kia-sorento-2004/7833975341.html
+Nissan,juke sv,15000,2019,93938,automatic,SUV,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-nissan-morano-2019/7833973518.html
+Ford,mustang,9990,2014,178000,automatic,Unknown,Unknown,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/pflugerville-2014-ford-350-xlt/7833958468.html
+Volkswagen,Jetta GLI,22850,2023,14200,automatic,SUV,like new,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2023-volkswagen-taos-sport/7833946650.html
+Mini,Hardtop,6000,2012,111000,automatic,hatchback,good,4,gas,WMWSV3C55CT387390,clean,https://austin.craigslist.org/cto/d/austin-2012-mini-cooper-turbocharged/7833934077.html
+Chevy,express 2500,15000,2015,150000,automatic,van,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2015-chevy-express-2500/7833910188.html
+Volvo,s60,11950,1965,37679,manual,coupe,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/bastrop-volvo-pv-544/7833905098.html
+Ford,mustang,12500,1996,114400,manual,pickup,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/burnet-1996-ford-f150xl/7833885605.html
+Dodge,Ram 3500,15000,2021,82000,automatic,sedan,Unknown,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2021-dodge-charger-fully-loaded/7833863230.html
+Ford,mustang,5900,2009,54510,automatic,sedan,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2009-ford-fusion-se-low-mileage/7833850488.html
+Cadillac,escalade,7000,2008,189542,automatic,SUV,good,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2008-cadillac-escalade/7833845758.html
+Bmw,m3 m4 m5 e30 e24 e28 e31 e34 e38 e46,1500,2008,148000,automatic,Unknown,Unknown,Unknown,gas,Unknown,salvage,https://austin.craigslist.org/cto/d/round-rock/7833831918.html
+Dodge,Ram 3500,14950,2013,120000,automatic,pickup,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/pflugerville-2013-dodge-ram-1500-big/7833826799.html
+Nissan,juke sv,9000,2017,128000,automatic,sedan,like new,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/hutto-2017-nissan-ultima-leather-new/7833820265.html
+Chevy,express 2500,6000,2008,185000,automatic,pickup,fair,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/elgin-2008-silverado-ext-cab/7833811504.html
+Chevy,express 2500,3600,2005,166450,automatic,SUV,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/liberty-hill-2005-chevy-trailblazer/7833809078.html
+Toyota,camry se,7999,2003,175000,automatic,sedan,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2003-toyota-corolla/7833792171.html
+Mercedes-Benz,S420,31500,2022,33358,automatic,SUV,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/pflugerville-2022-mercedes-benz-glb250/7833787974.html
+Lexus,rx 350,38950,2021,10393,automatic,sedan,like new,4,hybrid,58ADA1C1XMU004505,clean,https://austin.craigslist.org/cto/d/leander-2021-lexus-es300h/7833786526.html
+Nissan,juke sv,14950,2019,87203,automatic,SUV,like new,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/pflugerville-2019-nissan-rogue-sport/7833781592.html
+Toyota,camry se,10999,2014,174000,automatic,sedan,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2014-toyota-corolla-le/7833781439.html
+Honda,Accord LX,9999,2013,207000,automatic,sedan,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2013-honda-accord/7833777952.html
+Gmc,1 1/2,8900,1996,307385,automatic,SUV,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-gmc-x4-suburban-1996/7833776088.html
+Honda,Accord LX,11999,2016,172000,automatic,SUV,good,4,gas,Unknown,rebuilt,https://austin.craigslist.org/cto/d/austin-2016-honda-cr/7833771467.html
+Chevrolet,tahoe ls,10000,1970,111111,automatic,Unknown,good,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/leander-1970-chevy-2-ton/7833758222.html
+Infiniti,qx50,7500,2008,91000,automatic,SUV,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2008-infiniti-ex35/7833744085.html
+Mazda,b2500 b3000 b4000,20499,1988,46500,manual,convertible,excellent,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/leander-1988-mazda-rx7-speed/7833709027.html
+Nissan,juke sv,1000,2013,109000,automatic,hatchback,fair,Unknown,electric,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2013-nissan-leaf-ev/7833703482.html
+Toyota,camry se,4500,2005,156000,automatic,sedan,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/georgetown-2005-toyota-camry-le/7833690398.html
+Nissan,juke sv,9490,2014,78185,automatic,SUV,Unknown,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/pflugerville-2014-nissan-pathfinder-78k/7833660384.html
+Lexus,rx 350,10250,2004,210000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2004-lexus-ls-430/7833646335.html
+Mercedes,benz S320,4950,1997,160000,automatic,sedan,good,8,gas,WDBGA43G1VA362382,clean,https://austin.craigslist.org/cto/d/cedar-park-s420-mercedes-benz-door/7833628702.html
+Chevrolet,tahoe ls,4000,2014,370800,automatic,SUV,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2014-chevrolet-suburban/7833628430.html
+Dodge,Ram 3500,4580,2014,224855,automatic,SUV,good,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/lockhart-dodge-journey/7833625426.html
+Lincoln,town car signature limit,3000,1997,109000,automatic,Unknown,good,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-lincoln-towncar/7833590057.html
+Bentley,Continental GT Speed AWD,75000,2014,24000,automatic,sedan,like new,12,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2014-bentley-continental-gt/7833578025.html
+Ford,mustang,6000,1998,352000,automatic,truck,good,8,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/austin-16ft-box-truck/7833563893.html
+Ford,mustang,4500,2006,280000,automatic,Unknown,good,Unknown,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2006-ford-350/7833558546.html
+Chevrolet,tahoe ls,42000,2007,300000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/spicewood-clean/7833555569.html
+Chevy,express 2500,18490,2019,120000,automatic,pickup,like new,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/pflugerville-2019-chevy-silverado-1500/7833551618.html
+Volkswagen,Jetta GLI,28000,2023,22500,automatic,SUV,like new,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-volkswagen-tiguan-suv-2023-with/7833547058.html
+Mazda,b2500 b3000 b4000,9995,2007,77116,automatic,Unknown,Unknown,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/cedar-park-2007-mazda-miata-gt-hard-top/7833541120.html
+Subaru,crosstrek sport 2.5l awd,11500,2014,80000,automatic,SUV,excellent,4,gas,JF2SJADC5EH401778,clean,https://austin.craigslist.org/cto/d/austin-2014-subaru-forester-premium-80k/7833537780.html
+Ford,mustang,188700,2024,200,automatic,pickup,like new,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/buda-2024-ford-raptor/7833528317.html
+Toyota,camry se,10500,2014,91000,automatic,hatchback,excellent,4,hybrid,JTDKN3DU7E1777608,clean,https://austin.craigslist.org/cto/d/round-rock-2014-toyota-prius-three/7833527843.html
+Mini,Hardtop,6500,2012,112000,manual,Unknown,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2012-mini-cooper-manual/7833525882.html
+Honda,Accord LX,7400,2014,128000,automatic,sedan,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2014-honda-accord-sport/7833524752.html
+Mercedes-Benz,S420,10600,2012,77000,automatic,convertible,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2012-mersedes-benz-e350-amg/7833523770.html
+Chevorlet,silverado,9000,2009,193800,automatic,pickup,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-09-chevorlet-silverado-1500/7833523257.html
+Subaru,crosstrek sport 2.5l awd,6800,2015,110900,automatic,sedan,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/round-rock-2015-subaru-legacy-awd/7833519546.html
+Toyota,camry se,7250,2000,197000,automatic,truck,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/liberty-hill-2000-toyota-tundra-sr5/7833510013.html
+Chevrolet,tahoe ls,26000,1994,44710,automatic,truck,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/georgetown-1994-chevrolet-k3500/7833508540.html
+Subaru,crosstrek sport 2.5l awd,13000,2017,76425,automatic,hatchback,good,Unknown,hybrid,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2017-subaru-impreza/7833502371.html
+Chevrolet,tahoe ls,5800,2012,143000,automatic,SUV,Unknown,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2012-chevrolet-equinox-ltz/7833498466.html
+Mercedes,benz S320,27500,2018,80450,automatic,van,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2018-mercedes-metris-with-camper/7833486153.html
+Ford,mustang,17999,2011,53359,manual,van,excellent,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/georgetown-2011-ford-150/7833475727.html
+Chevy,express 2500,8900,2018,118000,automatic,sedan,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/leander-2018-chevrolet-impala-lt/7833472268.html
+Hyundai,Tucson,9950,2019,30783,automatic,coupe,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/liberty-hill-2019-hyundai-veloster/7833461345.html
+Ford,mustang,27000,1965,123456,automatic,convertible,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-1965-ford-falcon-convertible-v8/7833457206.html
+Infiniti,qx50,7999,2012,220000,automatic,SUV,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2012-infiniti-fx35-limited/7833449297.html
+Ford,mustang,1500,1999,355000,automatic,sedan,fair,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/bastrop-ford-torus-1999/7833448395.html
+Honda,Accord LX,8995,2008,131169,automatic,SUV,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/cedar-park-2008-honda-cr-ex/7833440024.html
+Kia,Forte LX,15000,2022,60000,manual,sedan,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2022-kia-forte/7833439063.html
+Ford,mustang,17500,2005,65980,automatic,convertible,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/wimberley-2005-ford-thunderbird/7833438515.html
+Ford,mustang,4200,2004,227000,automatic,SUV,good,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2004-ford-expedition/7833432987.html
+Toyota,camry se,20500,2016,151720,automatic,pickup,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/liberty-hill-2016-toyota-tundra-4x4-sr5/7833422318.html
+Ford,mustang,25950,2017,233898,automatic,pickup,excellent,8,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/liberty-hill-2017-ford-f250-super-duty/7833422219.html
+Subaru,crosstrek sport 2.5l awd,5500,2004,133112,automatic,SUV,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/hutto-2004-subaru-forester/7833415432.html
+Volkswagen,Jetta GLI,4300,2008,178000,automatic,sedan,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2008-volkswagen-jetta-se/7833412157.html
+Mazda,b2500 b3000 b4000,2000,2008,165000,manual,hatchback,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/pflugerville-cash-motorcycles-and/7833399100.html
+Chevy,express 2500,4000,2012,163246,automatic,SUV,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/pflugerville-2012-chevy-equinox/7833395536.html
+Subaru,crosstrek sport 2.5l awd,8500,2009,95000,automatic,SUV,excellent,4,gas,JF2SH646X9H728542,clean,https://austin.craigslist.org/cto/d/austin-2009-subaru-forester-25x-limited/7833389899.html
+Honda,Accord LX,1500,2005,999999,automatic,sedan,salvage,4,gas,Unknown,rebuilt,https://austin.craigslist.org/cto/d/pflugerville-2005-honda-accord/7833385365.html
+Nissan,juke sv,4200,2003,221000,manual,SUV,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-03-xterra-equipped-for-driveaway/7833381520.html
+Subaru,crosstrek sport 2.5l awd,6100,2004,133112,automatic,SUV,good,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/hutto-2004-subaru-forester/7833380117.html
+Bmw,m3 m4 m5 e30 e24 e28 e31 e34 e38 e46,15000,2018,74500,automatic,sedan,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/pflugerville-2018-bmw/7833372131.html
+Toyota,camry se,5000,2005,222000,automatic,sedan,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2005-toyota-camry-xle-v6/7833370636.html
+Honda,Accord LX,4275,2009,154000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/horseshoe-bay-2009-honda-accord/7833365138.html
+Subaru,crosstrek sport 2.5l awd,22000,2022,55000,automatic,sedan,excellent,4,gas,Unknown,rebuilt,https://austin.craigslist.org/cto/d/austin-2022-subaru-wrx-premium-awd-4d/7833362925.html
+Honda,Accord LX,1,2015,150000,other,Unknown,Unknown,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-buy-vehicles/7833360159.html
+Bmw,m3 m4 m5 e30 e24 e28 e31 e34 e38 e46,22500,2018,80000,automatic,Unknown,excellent,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-bmw-540i/7833356003.html
+Chevy,express 2500,60000,1998,30510,automatic,truck,excellent,8,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/dripping-springs-1988-70-chevy-truck/7833351014.html
+Gmc,1 1/2,11500,1997,230000,automatic,SUV,excellent,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/dripping-springs-1997-gmc-yukon-4x4/7833350707.html
+Toyota,camry se,13500,2012,175000,automatic,SUV,excellent,8,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2012-toyota-sequoia-sr5/7833350607.html
+Land,rover defender 110,11200,2014,165900,automatic,SUV,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2014-range-rover-sport-hse/7833325456.html
+Toyota,camry se,11250,2001,87500,manual,convertible,excellent,4,gas,Unknown,clean,https://austin.craigslist.org/cto/d/cedar-park-owner-2001-toyota-mr2-spyder/7833321444.html
+International,A-160 Flatbed Truck,10000,1993,70000,automatic,Unknown,good,Unknown,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/austin-1993-international-73l/7833321058.html
+Dodge,Ram 3500,7500,2013,189000,automatic,Unknown,good,Unknown,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-car-for-sale/7833315560.html
+Ford,mustang,10000,1996,200000,automatic,Unknown,good,Unknown,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/austin-1996-ford-l-turbo/7833314011.html
+Jeep,wrangler,5000,1993,226000,automatic,Unknown,good,6,gas,Unknown,clean,https://austin.craigslist.org/cto/d/austin-1993-jeep-cherokee-xl-v6/7833312555.html
+Ford,mustang,12000,1998,,automatic,Unknown,excellent,Unknown,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/austin-1998-ford-l-diesel-engine/7833309930.html
+International,A-160 Flatbed Truck,50000,2000,20000,automatic,Unknown,excellent,Unknown,diesel,Unknown,clean,https://austin.craigslist.org/cto/d/austin-2000-international-4800-tdt466/7833308890.html
