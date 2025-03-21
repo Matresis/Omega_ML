@@ -1,0 +1,609 @@
+Brand,Model,Price,Year,Mileage,Transmission,Body Type,Condition,Cylinders,Fuel Type,VIN,Title Status,Link
+Jeep,wrangler,29750,2023,13000,automatic,SUV,Unknown,Unknown,hybrid,Unknown,salvage,https://phoenix.craigslist.org/cph/cto/d/phoenix-2023-jeep-wrangler-4xe/7836391698.html
+Hyundai,Elantra,7500,2010,54352,automatic,sedan,like new,4,gas,KMHDU4AD2AU184233,rebuilt,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2010-hyundai-elantra-54k/7836391397.html
+Ford,Unknown,50000,1929,8800,automatic,Unknown,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-1929-ford-hot-rod/7836391303.html
+Jeep,wrangler,6900,2010,129000,automatic,SUV,like new,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-suv-truck-jeep-liberty-4x4/7836390570.html
+Acura,TL SH-AWD Sport Tech Pkg,8500,2012,159000,automatic,sedan,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/chandler-2012-acura-tl-sh-awdsporttech/7836390387.html
+Honda,CR-V EX-L,6900,2012,204000,automatic,SUV,excellent,4,gas,5J6RM3H76CL038554,clean,https://phoenix.craigslist.org/wvl/cto/d/luke-air-force-base-2012-honda-crv-exl/7836389977.html
+Ford,Unknown,8700,2016,150000,automatic,SUV,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/payson-2016-ford-expedition-max-el-8700/7836389948.html
+Jeep,wrangler,7500,2015,116800,automatic,SUV,excellent,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/scottsdale-2015-jeep-cherokee-latitude/7836389269.html
+Toyota,camry,7700,2009,85000,automatic,sedan,good,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/scottsdale-2009-toyota-camry-le-85k/7836388317.html
+Ford,Unknown,22950,2014,52500,automatic,pickup,excellent,8,gas,1FTFW1EF9EKE84550,clean,https://phoenix.craigslist.org/evl/cto/d/chandler-2014-f150-4x4-truck-owner-53/7836388238.html
+Ford,Unknown,28700,2022,122000,automatic,van,excellent,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2022-ford-transit-350-xlt-12/7836387956.html
+Toyota,camry,30600,2024,48000,automatic,sedan,like new,4,hybrid,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/chandler-2024-toyota-camry-hybrid-se/7836387070.html
+Toyota,camry,8700,2007,257800,automatic,SUV,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/sun-city-2007-toyota-fj-cruiser-sport/7836386407.html
+Ford,Unknown,8900,2016,138000,automatic,SUV,Unknown,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2016-ford-explorer/7836386007.html
+Hyundai,Elantra,5500,2017,133758,automatic,sedan,excellent,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2017-hyundai-sonata/7836385210.html
+Bmw,645ci convertible,6800,2005,89000,automatic,convertible,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-bmw-645ci-convertible-black/7836384238.html
+Dodge,Unknown,3500,1985,123456,automatic,pickup,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-st-gen-dodge-power-ram-project/7836383680.html
+Gmc,sierra 1500,39500,2023,4100,automatic,pickup,like new,Unknown,gas,3GTNHAEK7PG313244,clean,https://phoenix.craigslist.org/evl/cto/d/scottsdale-2023-gmc-sierra-1500-pro/7836383277.html
+Buick,lacrosse,3700,2010,120000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/chandler-2010-buick-lacrosse-door/7836383284.html
+Nissan,rogue sport,5200,2015,120000,automatic,SUV,excellent,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/surprise-nissan-rogue-sport-new-low/7836383103.html
+Ford,Unknown,4700,2013,90200,automatic,sedan,excellent,4,gas,Unknown,rebuilt,https://phoenix.craigslist.org/wvl/cto/d/phoenix-ford-fiesta-2013/7836383005.html
+Dodge,Unknown,9900,1979,1000000,automatic,truck,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-1979-dodge-macho-powerwagon-ram-150/7836382446.html
+Dodge,Unknown,17500,1995,149285,automatic,truck,excellent,6,diesel,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/buckeye-1995-cummins-turbo-diesel/7836382433.html
+Ford,Unknown,6800,2009,92000,automatic,SUV,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/tempe-2009-ford-escape-excellent/7836382341.html
+Chevy,cruze lt,6800,2014,111000,automatic,sedan,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/tempe-2014-chevy-cruze-lt-sport/7836382120.html
+Hyundai,Elantra,7200,2016,120000,automatic,sedan,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/tempe-2016-hyundai-elantra-excellent/7836381919.html
+Ford,Unknown,5800,2010,160000,automatic,SUV,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/tempe-2010-ford-edge-excellent-condition/7836381354.html
+Mazda,cx9,8000,2015,108000,automatic,SUV,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/tempe-2015-mazda-cx/7836381194.html
+Chevy,cruze lt,3600,1999,207000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/chandler-1999-chevy-tahoe-2wd-at-v8-ac/7836380790.html
+Jeep,wrangler,22500,2005,16320,automatic,offroad,like new,6,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/buckeye-2005-jeep-wrangler-16k-miles/7836380324.html
+Chevy,cruze lt,24000,2022,34000,automatic,pickup,like new,4,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2022-chevy-colorado-51-thomas/7836380207.html
+Land,rover lr4,19990,2010,175000,automatic,SUV,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2010-land-rover-lr4-overland-rig/7836380164.html
+Honda,CR-V EX-L,4800,2009,170000,automatic,minivan,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2009-honda-odyssey/7836379998.html
+Pickup,Dodge Dakota,2000,1998,135000,automatic,pickup,fair,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/bouse-dodge-dakota-sport/7836379523.html
+Nissan,rogue sport,6700,2009,112000,automatic,sedan,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/chandler-2009-nissan-maximasvlow/7836379333.html
+Kia,spectra5,3900,2005,156000,manual,hatchback,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/apache-junction-2005-kia-spectra-manual/7836378848.html
+Ford,Unknown,6500,2015,127000,automatic,sedan,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/chandler-2015-ford-fusion-sesun/7836377776.html
+Nissan,rogue sport,2600,2003,133000,automatic,SUV,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2003-nissan-xterra/7836362139.html
+Honda,CR-V EX-L,5600,2009,155000,automatic,minivan,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/tempe-2009-honda-odyssey-ex-lruns/7836376319.html
+Toyota,camry,36500,2022,17000,automatic,SUV,like new,6,gas,5TDBZRBH0NS575094,clean,https://phoenix.craigslist.org/wvl/cto/d/sun-city-2022-toyota-highlander-3rd/7836376121.html
+Mercedes-Benz,sl500,13500,2004,65000,automatic,convertible,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/scottsdale-2004-mercedes-benz-sl-500/7836375118.html
+Nissan,rogue sport,5900,2012,171000,automatic,SUV,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/apache-junction-2012-nissan-armada/7836374887.html
+Gmc,sierra 1500,8000,2011,184000,automatic,SUV,good,8,gas,1GKS2MEF1BR186724,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-yukon-denali-2011-xl/7836374861.html
+Buick,lacrosse,3900,2009,167000,automatic,sedan,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/apache-junction-2009-buick-lucerne-cxl/7836374571.html
+Chevy,cruze lt,6500,2018,114000,automatic,Unknown,excellent,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2018-chevy-sonic-hatchback-lt/7836374488.html
+Jeep,wrangler,11500,2013,126000,automatic,offroad,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2013-jeep-grand-cherokee/7836373223.html
+Toyota,camry,19800,2006,170000,automatic,pickup,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-lifted-toyota-tacoma-prerunner/7836372751.html
+Dodge,Unknown,6900,2005,183000,automatic,pickup,Unknown,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2005-dodge-ram-quad-cab-2500/7836369715.html
+Honda,CR-V EX-L,1500,2001,99000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2001-honda-accord/7836369529.html
+Honda,CR-V EX-L,7600,2011,150000,automatic,coupe,excellent,6,gas,1HGCS2B8XBA006523,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-2011-honda-accord-ex-coupe/7836369329.html
+Hyundai,Elantra,8800,2015,99300,automatic,SUV,good,4,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/scottsdale-2015-hyundai-tucson/7836367879.html
+Mercedes-Benz,sl500,74000,2020,34750,automatic,coupe,excellent,8,gas,WDDYJ7HA5LA025292,clean,https://phoenix.craigslist.org/wvl/cto/d/solana-beach-2020-mbz-amg-gt-coupe/7836364194.html
+Buick,lacrosse,8300,2015,87000,automatic,sedan,excellent,4,gas,1G4PS5SK9F4167412,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-2015-buick-verano-only-87k/7836362986.html
+Chevrolet,sonic ls,5700,2018,93000,automatic,sedan,good,4,gas,1G1JB5SH1J4113585,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2018-chevrolet-sonic-ls/7836361521.html
+Toyota,camry,8500,2006,191000,automatic,SUV,excellent,8,gas,5TDZT34A36S282935,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-2006-toyota-sequoia-one-owner/7836361132.html
+Ford,Unknown,3500,2013,147000,automatic,coupe,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2013-ford-focus-se/7836361050.html
+Chevrolet,sonic ls,5900,2013,136000,automatic,sedan,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/apache-junction-2013-chevrolet-impala-lt/7836360612.html
+Ford,Unknown,4900,2013,131000,automatic,hatchback,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/apache-junction-2013-ford-focus-se/7836360511.html
+Dodge,Unknown,35000,2006,64000,automatic,truck,excellent,6,diesel,3D7LX39C86G234355,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-2006-dodge-ram-2500-mega-cab/7836360381.html
+Dodge,Unknown,6500,2014,145000,automatic,minivan,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-2014-dodge-grand-caravan-30/7836360375.html
+Nissan,rogue sport,7700,2017,159000,automatic,sedan,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2017-nissan-altima-25-sl-in/7836360228.html
+Jeep,wrangler,6000,1999,216482,automatic,SUV,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/surprise-1999-jeep-grand-cherokee/7836360132.html
+Ford,Unknown,5500,1987,152000,manual,Unknown,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/goodyear-1987-bronco-ii-bronco-obs/7836357194.html
+Chevy,cruze lt,12500,2014,165000,automatic,pickup,Unknown,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2014-chevy-silverado-double-cab/7836357153.html
+Toyota,camry,4500,2004,138000,automatic,hatchback,good,4,hybrid,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/scottsdale-2004-toyota-prius-miles/7836357008.html
+Honda,CR-V EX-L,19750,2019,45248,automatic,sedan,excellent,4,gas,JHMFC1F36KX011182,clean,https://phoenix.craigslist.org/evl/cto/d/chandler-2019-honda-civic-ex/7836355522.html
+Jeep,wrangler,8700,2014,149000,automatic,SUV,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-2014-jeep-grand-cherokee-4wd-v6/7836353410.html
+Toyota,camry,5500,2008,224000,automatic,Unknown,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2008-rav/7836352657.html
+Dodge,Unknown,4900,2006,171000,automatic,pickup,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/apache-junction-2006-dodge-dakota-slt/7836352041.html
+Toyota,camry,28000,2007,125000,automatic,offroad,like new,6,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/fountain-hills-2007-toyota-fj-cruiser/7836351909.html
+Accent,corolla camry civic,8300,2017,89720,automatic,sedan,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/scottsdale-2017-hyundai-accent-value/7836351823.html
+Ford,Unknown,21500,2024,13000,automatic,SUV,excellent,3,gas,Unknown,rebuilt,https://phoenix.craigslist.org/cph/cto/d/tempe-2024-ford-escape-st-line/7836351545.html
+Dodge,Unknown,16500,2012,143000,automatic,truck,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/scottsdale-2012-ram-x4-new-top-end-motor/7836350922.html
+Porsche,speedster,350000,1957,16413,manual,convertible,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/scottsdale-porsche-1957-speedster-yep/7836347898.html
+Mercedes-Benz,sl500,7800,2020,102000,automatic,sedan,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-2010-mercedes-benz-c300-only/7836347156.html
+Volvo,c30 rdesign 2dr hatchback,13500,2013,129157,manual,hatchback,excellent,5,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/glendale-2013-volvo-c3o-design-speed/7836345012.html
+Jeep,wrangler,14500,2008,79000,automatic,SUV,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-lifted-jeep-wrangler-unlimited/7836344625.html
+Ford,Unknown,4500,2009,197200,automatic,pickup,Unknown,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2009-ford-150-xl-mechanic/7836344384.html
+Honda,CR-V EX-L,6500,2007,138000,automatic,minivan,excellent,6,gas,Unknown,rebuilt,https://phoenix.craigslist.org/evl/cto/d/gilbert-2007-honda-odyssey-touring/7836343097.html
+Firetruck,Unknown,15500,1948,12345,manual,truck,fair,4,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/scottsdale-1948-crosley-fire-truck/7836342992.html
+Ford,Unknown,9800,2000,250000,automatic,truck,excellent,8,diesel,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/surprise-2000-ford-l-diesel/7836342608.html
+Mazda,cx9,4950,2011,180000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2011-mazda-cx9-touring/7836342415.html
+Ford,Unknown,37500,1939,1500,manual,coupe,like new,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/scottsdale-1939-ford-coupe/7836342176.html
+Honda,CR-V EX-L,5900,2003,189800,manual,hatchback,excellent,4,gas,SHHEP33533U406837,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2008-acura-tl/7836341811.html
+Chevy,cruze lt,12500,1950,80000,manual,Unknown,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/scottsdale-1950-chevrolet/7836341804.html
+Chevy,cruze lt,27500,1969,43663,manual,Unknown,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/cave-creek-1969-camaro-x11-big-block/7836341789.html
+68,Mustang coupe,18500,1968,125000,automatic,coupe,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/tempe-1968-mustang/7836341373.html
+Chev,2500hd duramax,8500,2001,151600,automatic,pickup,excellent,8,diesel,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/gilbert-2001-chev-2500-diesel/7836340788.html
+Nissan,rogue sport,4900,2011,103000,other,SUV,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-2011-nissan-rogue-low-miles/7836339016.html
+Toyota,camry,7950,2010,111000,automatic,SUV,good,4,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2010-toyota-rav4/7836338644.html
+Chevrolet,sonic ls,14995,2019,90000,automatic,pickup,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2019-chevrolet-colorado/7836335538.html
+Chevrolet,sonic ls,7995,2016,231000,automatic,van,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2016-chevrolet-express-2500/7836335012.html
+Toyota,camry,11500,2007,113000,automatic,SUV,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/peoria-2007-toyota-sequoia-113k-miles/7836334991.html
+Ford,Unknown,21900,2013,89000,automatic,pickup,excellent,8,diesel,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2013-ford-250-f250-service/7836334785.html
+Ford,Unknown,5000,1996,92000,automatic,SUV,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-1996-ford-explorer/7836333885.html
+Bmw,645ci convertible,10800,2016,99000,automatic,sedan,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/scottsdale-2016-bmw-328i-sport/7836333183.html
+Bmw,645ci convertible,4900,2009,180000,automatic,convertible,excellent,6,gas,WBAUN13549VH81296,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2009-bmw-128i-convertible/7836331281.html
+Mercedes,benz sl500,8500,2000,107000,automatic,sedan,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-mercedes-benz-sl-miles-clean/7836331116.html
+Porsche,speedster,42000,1977,9000,manual,other,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/tucson-1977-porsche-911s-targa/7836331027.html
+Mercedes-Benz,sl500,8500,2000,107000,automatic,convertible,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/phoenix-pristine-classic-mercedes-benz/7836330887.html
+Chevy,cruze lt,9990,2013,181000,automatic,SUV,Unknown,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/phoenix-2013-chevy-suburban-ltz-clean/7836330592.html
+Chevy,cruze lt,9990,2013,181000,automatic,SUV,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-mint-2013-pearl-white-chevy/7836330150.html
+Chevrolet,sonic ls,13995,2020,65000,automatic,SUV,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2020-chevrolet-equinox/7836330007.html
+Toyota,camry,17900,2001,236000,automatic,SUV,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-4x4-toyota-4runner-34-5vz-fe/7836327826.html
+Hyundai,Elantra,13999,2021,66000,automatic,SUV,like new,4,gas,Unknown,rebuilt,https://phoenix.craigslist.org/wvl/cto/d/phoenix-hyundai-tucson-2021/7836327534.html
+Chevy,cruze lt,22500,2021,30000,automatic,pickup,like new,6,gas,Unknown,rebuilt,https://phoenix.craigslist.org/wvl/cto/d/phoenix-chevrolet-colorado-2021/7836327247.html
+Nissan,rogue sport,6700,2015,140000,automatic,sedan,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2015-nissan-altima/7836326993.html
+Dodge,Unknown,5900,2000,93000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/glendale-2000-dodge-ram-laramie-slt/7836326856.html
+Toyota,camry,13500,1995,151000,manual,Unknown,Unknown,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-rare-1995-toyota-4runner-4x4/7836326666.html
+Ford,Unknown,23000,2021,49000,automatic,SUV,excellent,4,gas,1FMSK7BH2MGC31277,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2021-ford-explorer-suv/7836326543.html
+Ford,Unknown,14995,2012,140000,automatic,truck,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2012-ford-f150-4x4-lift-kit/7836325334.html
+Toyota/Yaris,Unknown,4500,2015,160000,automatic,hatchback,good,4,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/rio-verde-2015-toyota-yaris-4d/7836323592.html
+Jeep,wrangler,7500,2009,141029,automatic,SUV,like new,6,gas,1J8GN58K09W552636,clean,https://phoenix.craigslist.org/wvl/cto/d/sun-city-2009-jeep-liberty-4x4-clean/7836322823.html
+Ford,Unknown,13900,2018,106900,automatic,pickup,Unknown,6,gas,1FTMF1CP3JKD99622,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-2018-ford-f150-xlt-sport-long/7836320744.html
+Ford,Unknown,17000,1968,82000,automatic,pickup,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/casa-grande-1968-ford-ranger-f100/7836320655.html
+Toyota,camry,49000,2016,112000,automatic,pickup,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/san-diego-2016-toyota-tundra-trd-off/7836318173.html
+Chevy,cruze lt,4575,1989,134000,automatic,Unknown,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/cave-creek-1989-chevy-suburban/7836316988.html
+Chevrolet,sonic ls,12000,2011,169396,automatic,pickup,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2011-chevrolet-4x4-z71/7836315758.html
+Buick,lacrosse,1000,1963,60000,automatic,Unknown,fair,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/tempe-1963-buick-wildcat/7836315086.html
+Toyota,camry,2750,1998,198000,automatic,sedan,good,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/gilbert-1998-toyota-camry-four-door-v6/7836314754.html
+Buick,lacrosse,12900,2021,53000,automatic,Unknown,excellent,Unknown,gas,Unknown,salvage,https://phoenix.craigslist.org/evl/cto/d/gilbert-2021-buick-encore/7836313798.html
+Hyundai,Elantra,9855,2012,67000,automatic,sedan,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/tucson-2012-hyundai-elantra-limited-67k/7836313722.html
+Lexus,rx400h awd hybrid,3500,2008,240000,automatic,Unknown,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-lexus-rx-400h-awd-hybrid/7836313620.html
+Ford,Unknown,14500,2006,93499,automatic,truck,excellent,Unknown,diesel,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2006-ford-550/7836313610.html
+Ford,Unknown,31000,2017,88300,automatic,pickup,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/gilbert-2017-ford-f150-black-widow/7836313484.html
+Land,rover lr4,2900,2003,118500,automatic,SUV,Unknown,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2003-range-rover-hse-mechanics/7836313120.html
+Mitsubishi,Unknown,3850,2001,11111,manual,Unknown,good,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/gilbert-2001-mitsubishi-gt-v6-manual/7836312918.html
+Mercedes-Benz,sl500,5700,2006,115998,automatic,sedan,like new,6,gas,WDBUF56JX6A953605,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2006-mercedes-e350-low-miles/7836312532.html
+Hyundai,Elantra,5300,2007,107000,automatic,Unknown,Unknown,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2006-hyundai-sante-fe-gls/7836311563.html
+Honda,CR-V EX-L,7200,2010,143000,automatic,Unknown,Unknown,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2010-honda-civic-ex/7836311394.html
+Honda,CR-V EX-L,21500,2019,51800,automatic,SUV,excellent,6,gas,5FNYF7H2XKB009826,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2019-honda-passport-sport-for/7836311059.html
+Ford,Unknown,16500,1996,285764,automatic,pickup,good,8,diesel,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/cornville-1996-ford-350-4x4-73/7836310842.html
+Pontiac,Vibe GT,2950,2003,272000,manual,hatchback,good,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/scottsdale-2003-pontiac-vibe-gt-toyota/7836310815.html
+Tesla,3,30500,2020,19000,automatic,sedan,like new,Unknown,electric,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/paradise-valley-2020-tesla-model-only/7836310536.html
+Ford,Unknown,7995,2013,120000,automatic,truck,fair,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2013-f150-4x4-xl/7836310140.html
+Buick,lacrosse,10200,2020,45000,automatic,Unknown,excellent,4,gas,Unknown,rebuilt,https://phoenix.craigslist.org/evl/cto/d/chandler-2020-buick-encore-preferred/7836308108.html
+Chevrolet,sonic ls,11200,2022,17000,automatic,Unknown,excellent,4,gas,Unknown,rebuilt,https://phoenix.craigslist.org/evl/cto/d/gilbert-2022-chevrolet-chevy-trax-awd/7836307411.html
+Chrysler,town and country,5000,2005,133000,automatic,minivan,Unknown,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2005-chrysler-town-and-country/7836307223.html
+Toyota,camry,4500,2006,175000,automatic,hatchback,Unknown,4,hybrid,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2006-toyota-prius-hybrid40-45mpg/7836307060.html
+Chrysler,town and country,4900,2006,66845,automatic,SUV,like new,4,gas,3A4FY48B36T353547,clean,https://phoenix.craigslist.org/wvl/cto/d/sun-city-2006-chrysler-pt-cruiser-clean/7836306854.html
+Jeep,wrangler,8200,2008,97000,automatic,SUV,good,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/mesa-2008-jeep-grand-cherokee-limited/7836306643.html
+Mercury,2 dr hard top,22500,1953,12500,automatic,coupe,like new,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/prescott-valley-1953-mercury/7836306262.html
+Volkswagen,tiguan,13000,2020,68000,automatic,SUV,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/tempe-2020-vw-tiguan/7836304424.html
+Chrysler,town and country,13000,2021,100000,automatic,minivan,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/phoenix-2021-chrysler-voyager-clean/7836304263.html
+Chevrolet,sonic ls,4900,2014,151000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/queen-creek-the-2014-chevrolet-cruze-lt/7836303576.html
+Ford,Unknown,10700,1937,500,manual,truck,like new,8,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-37-ford-rat-rod-truck-283-chevy/7836299833.html
+Toyota,camry,7400,2012,210000,automatic,SUV,Unknown,4,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-toyota-rav4-sport/7836299699.html
+Jeep,wrangler,10900,2004,143000,automatic,SUV,good,6,gas,Unknown,salvage,https://phoenix.craigslist.org/cph/cto/d/eloy-2004-jeep-wrangler-unlimited/7836298615.html
+Gmc,sierra 1500,19750,2019,60000,automatic,SUV,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/surprise-2019-gmc-terrain-slt-sport-low/7836297234.html
+Chevy,cruze lt,7950,2014,125256,automatic,SUV,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-2014-chevrolet-tahoe/7836295888.html
+Bugatti,Speedster,2500,1927,1234,manual,Unknown,excellent,6,gas,Unknown,missing,https://phoenix.craigslist.org/evl/cto/d/chandler-1927-bugatti-speedster-type-35b/7836295885.html
+Toyota,camry,6950,2007,103500,automatic,hatchback,good,4,hybrid,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-toyota-prius-low-miles/7836295717.html
+Ford,Unknown,41700,2021,38916,automatic,coupe,excellent,8,gas,Unknown,lien,https://phoenix.craigslist.org/cph/cto/d/phoenix-2021-ford-mustang-gt/7836295623.html
+Ford,Unknown,6750,2009,105150,automatic,SUV,excellent,4,hybrid,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-2009-ford-escape-hybrid-owner/7836295600.html
+Dodge,Unknown,4500,1995,196000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/chandler-1995-dodge-dakota-extra-cab/7836293809.html
+Volvo,c30 rdesign 2dr hatchback,3200,2008,120000,automatic,sedan,excellent,5,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2008-volvo-s60-t5/7836292078.html
+Franklin,Roadster Pickup,10500,1927,1234,automatic,pickup,new,8,gas,Unknown,missing,https://phoenix.craigslist.org/evl/cto/d/chandler-1924-franklin-roadster-pickup/7836291879.html
+Chevrolet,sonic ls,15995,2009,73500,automatic,van,good,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/palo-verde-chevy-g3500-conversion-van/7836287423.html
+Toyota,camry,6900,2010,227500,automatic,SUV,like new,6,gas,5TDBK3EH8AS025472,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-2010-toyota-highlander-sport/7836286763.html
+Ford,Unknown,27500,2021,56000,automatic,truck,Unknown,6,gas,Unknown,rebuilt,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2021-ford-x4/7836286561.html
+2010,Unknown,4000,2010,221878,automatic,SUV,good,4,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/glendale-2010-chevy-equinox-ls/7836286552.html
+Dodge,Unknown,9500,1954,49000,manual,wagon,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/san-tan-valley-1954-mk-37-dodge-power/7836286060.html
+Chevrolet,sonic ls,19500,2003,48000,automatic,convertible,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/scottsdale-2003-chevrolet-corvette/7836285930.html
+Alfa,Romeo Stelvio Q4,13200,2018,91000,automatic,SUV,excellent,4,gas,ZASFAKAN4J7B85652,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2018-alfa-romero-stelvio-20/7836283611.html
+Dodge,Unknown,22995,2016,116100,automatic,pickup,like new,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/scottsdale-2016-dodge-tradesman-2500/7836283552.html
+Dodge,Unknown,22995,2016,116100,automatic,pickup,like new,8,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/scottsdale-2016-dodge-tradesman-x4-crew/7836283431.html
+Toyota,camry,8900,2012,91200,automatic,hatchback,Unknown,4,gas,JTKJF5C73C3029237,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-2012-scion-tc-release-series-70/7836283427.html
+Jeep,wrangler,8900,2017,105290,automatic,SUV,Unknown,4,gas,ZACCJABB7HPF45763,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-2017-jeep-renegade-latitude-one/7836283124.html
+Bmw,645ci convertible,12000,2016,128000,automatic,coupe,good,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/gilbert-2016-bmw-640i-gran-coupe-sport/7836282379.html
+Acura,TL SH-AWD Sport Tech Pkg,5500,2006,135000,automatic,sedan,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-low-miles-like-new-5500/7836281516.html
+Bmw,645ci convertible,3000,2004,119000,automatic,sedan,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-passed-emissions-low-miles-3000/7836280517.html
+Toyota,camry,2675,2001,245700,automatic,SUV,good,4,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/flagstaff-2001-toyota-rav-4wd/7836275117.html
+Bmw,645ci convertible,23795,2019,60000,automatic,SUV,like new,4,gas,5UXTR9C57KLP89259,clean,https://phoenix.craigslist.org/evl/cto/d/scottsdale-2019-bmw-x3-xdrive30i-sport/7836274771.html
+Pontiac,Vibe GT,42500,1965,115000,automatic,coupe,like new,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/peoria-1965-pontiac-gto-well-preserved/7836266784.html
+Hyundai,Elantra,1500,2008,146388,automatic,sedan,salvage,4,gas,Unknown,rebuilt,https://phoenix.craigslist.org/wvl/cto/d/glendale-hyundai-elantra-glx-2008/7836264841.html
+Mercedes-Benz,sl500,9500,2005,59000,automatic,coupe,Unknown,6,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/peoria-2005-mercedes-slk-350-coupe-only/7836260952.html
+Chevy,cruze lt,Unknown,1954,99999,manual,truck,fair,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-1954-chevy-3100-shortbed-original/7836260654.html
+Jeep,wrangler,32000,2017,32000,automatic,Unknown,like new,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2017-jeep-willy/7836256542.html
+Lexus,rx400h awd hybrid,11500,2011,130000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2011-lexus-330-great-condition/7836256512.html
+Huyndai,Tuscon,5850,2012,183203,automatic,Unknown,fair,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2012-hyundai-tucson/7836256491.html
+Kia,spectra5,6000,2014,107000,automatic,coupe,salvage,4,gas,KNAFX6A81E5219702,salvage,https://phoenix.craigslist.org/evl/cto/d/mesa-kia-forte-2014-ex2d/7836254886.html
+Rolls-Royce,Unknown,115000,2006,10756,automatic,sedan,like new,12,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2006-rolls-royce-phantom-low/7836254048.html
+Gmc,sierra 1500,4000,2004,138000,automatic,SUV,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/glendale-gmc-envoy-2004/7836252534.html
+Ford,Unknown,28500,1995,148000,automatic,Unknown,excellent,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/scottsdale-cleanest-1995-bronco/7836252246.html
+Tesla,3,22500,2015,59000,automatic,sedan,excellent,Unknown,electric,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/scottsdale-tesla-model-85d/7836252200.html
+Mazda,cx9,6000,2007,145000,manual,convertible,good,4,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-miata-mx5-touring-convertible/7836250689.html
+Chevrolet,sonic ls,15250,2008,261541,automatic,pickup,good,8,diesel,1GCHK23608F128126,clean,https://phoenix.craigslist.org/evl/cto/d/scottsdale-2008-chevy-silverado-ltz/7836250476.html
+Ford,Unknown,6500,1965,29000,automatic,sedan,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/peoria-1965-ford-fairlane/7836249089.html
+Bmw,645ci convertible,13500,2010,103150,automatic,sedan,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/gilbert-bmw-750li/7836249065.html
+Mini,cooper s,2950,2005,85100,automatic,Unknown,good,Unknown,gas,Unknown,salvage,https://phoenix.craigslist.org/cph/cto/d/surprise-2005-mini-cooper/7836248839.html
+Chevrolet,sonic ls,13500,2015,222000,automatic,pickup,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/glendale-2015-chevrolet-silverado/7836248692.html
+Chevrolet,sonic ls,11500,2015,242000,automatic,pickup,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/glendale-2015-chevrolet-silverado-2500hd/7836248303.html
+Ford,Unknown,7950,2016,380000,automatic,pickup,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2016-ford-150-4x4/7836247961.html
+Ford,Unknown,7850,2013,210000,automatic,pickup,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-2013-ford-150-4x4/7836247700.html
+Gmc,sierra 1500,31500,2021,76000,automatic,pickup,excellent,6,diesel,Unknown,rebuilt,https://phoenix.craigslist.org/wvl/cto/d/glendale-2021-gmc-sierra-1500/7836247449.html
+Mercedes-Benz,sl500,6000,2010,114570,automatic,sedan,excellent,6,gas,Unknown,salvage,https://phoenix.craigslist.org/nph/cto/d/phoenix-2010-mercedes-benz-c300-4matic/7836246963.html
+Ford,Unknown,3995,2014,141250,automatic,hatchback,good,4,gas,1FADP3K26EL363587,clean,https://phoenix.craigslist.org/evl/cto/d/san-tan-valley-2014-ford-focus-se/7836246955.html
+Chevrolet,sonic ls,49000,2013,16242,automatic,coupe,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/scottsdale-camaro-zl1/7836246154.html
+Acura,TL SH-AWD Sport Tech Pkg,8400,2012,159000,automatic,sedan,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/chandler-2012-acura-tl-sh-awdsporttech/7836246114.html
+Gmc,sierra 1500,6995,2012,169253,automatic,SUV,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2012-gmc-acadia-denali-awd/7836246016.html
+Toyota,camry,8500,2014,163000,automatic,sedan,excellent,4,gas,Unknown,rebuilt,https://phoenix.craigslist.org/evl/cto/d/mesa-2014-toyota-camry/7836245714.html
+Subaru,outback,22500,2021,55500,manual,SUV,excellent,Unknown,gas,Unknown,rebuilt,https://phoenix.craigslist.org/nph/cto/d/glendale-subaru-outback-2021/7836245252.html
+2500Hd,Unknown,28900,2005,65000,automatic,pickup,excellent,Unknown,diesel,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/peoria-2005-chevrolet-2500hd-crew-cab/7836245168.html
+Toyota,camry,15950,2019,24000,automatic,pickup,good,4,gas,Unknown,rebuilt,https://phoenix.craigslist.org/evl/cto/d/mesa-2019-toyota-tacoma-access-cab/7836245126.html
+Chevy,cruze lt,27500,1951,2500,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/surprise-road-race-style-51-chevy/7836243996.html
+Chevy,cruze lt,27500,1951,2500,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/surprise-51-chevy-road-racer-trades/7836243958.html
+Cadillac,escalade luxury,80000,2023,10000,automatic,Unknown,like new,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/scottsdale-2023-cadillac-escalade-esv/7836243371.html
+Gmc,sierra 1500,15000,1974,100000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/palo-verde-74-k5-blazer/7836242856.html
+Toyota,camry,100,2006,1000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-looking-for-corolla-that-needs/7836242565.html
+Nissan,rogue sport,14,2011,1,automatic,convertible,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/casa-grande-2011-murano-cross-cabriolet/7836241249.html
+Chevrolet,sonic ls,27500,1981,90000,automatic,pickup,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/fountain-hills-1981-chevrolet-short-bed/7836240703.html
+Jeep,wrangler,6500,1986,114800,manual,SUV,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/gilbert-1986-jeep-wrangler-sahara/7836240124.html
+Toyota,camry,3200,2004,192000,automatic,sedan,fair,4,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-toyota-camry-2004/7836239597.html
+Amc,Jeep CJ-7,11500,1979,103000,manual,offroad,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-1979-jeep-cj-v8-unrestored/7836238765.html
+Chevy,cruze lt,19800,2015,103000,automatic,SUV,like new,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/litchfield-park-2015-chevy-tahoe-ls-2wd/7836238062.html
+Dodge,Unknown,11500,1954,49000,manual,wagon,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/san-tan-valley-1954-mk-37-dodge-power/7836237516.html
+M35A2,Unknown,22500,1966,6622,manual,truck,Unknown,Unknown,diesel,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/glendale-bobbed-deuce-diesel-truck-4x4/7836237503.html
+Honda,CR-V EX-L,5600,2009,155000,automatic,minivan,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/tempe-2009-honda-odyssey-ex-lruns/7836237499.html
+Chevy,cruze lt,18500,2024,5500,automatic,SUV,Unknown,4,gas,Unknown,rebuilt,https://phoenix.craigslist.org/wvl/cto/d/peoria-2024-chevy-equinox-lt-sport/7836235289.html
+Toyota,camry,17900,2001,236000,automatic,SUV,Unknown,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/phoenix-2001-toyota-4runner-4x4-34v6/7836234830.html
+Bmw,645ci convertible,40000,2017,98000,automatic,coupe,new,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2017-bmw-m4-competition/7836233774.html
+Audi,q5,7700,2011,180000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2011-audi-q5-4wd-awd-suv/7836232934.html
+Bmw,645ci convertible,10500,2008,95000,automatic,coupe,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/goodyear-bmw-650i-convertable-2008/7836232889.html
+Vw,Jetta SPORTWAGEN TDI diesel,7700,2011,167000,automatic,wagon,Unknown,Unknown,diesel,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-diesel-sportwagen-2011/7836232767.html
+Audi,q5,13900,2018,130000,automatic,SUV,excellent,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2018-audi-q5-premium/7836232467.html
+Lexus,rx400h awd hybrid,10900,2013,160000,automatic,sedan,excellent,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2013-lexus-gs-350-awd/7836231913.html
+Honda,CR-V EX-L,10500,2007,90000,automatic,sedan,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/honda-accord-exl-v6-low-90k-miles-owner/7836231603.html
+Bugatti,Speedster,2500,1927,1234,manual,Unknown,excellent,6,gas,Unknown,missing,https://phoenix.craigslist.org/evl/cto/d/chandler-1927-bugatti-speedster-type-35b/7836228921.html
+Gmc,sierra 1500,8500,2011,168000,automatic,truck,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/queen-creek-2011-gmc-savanna-2500hd-10/7836228545.html
+Ram,1500,19500,2019,115931,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-2019-ram-1500-classic-4x4/7836226375.html
+Toyota,camry,4900,2009,199000,automatic,sedan,good,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/chandler-2009-toyota-camry-leruns/7836225946.html
+Chrysler,town and country,3500,2007,160000,automatic,hatchback,like new,4,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2007-chrysler-pt-cruiser/7836225841.html
+Dodge,Unknown,4900,2014,140000,automatic,minivan,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-2014-dodge-grand-caravan/7836224391.html
+Dodge,Unknown,4500,1995,196000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/chandler-1995-dodge-dakota-extra-cab/7836223410.html
+Dodge,Unknown,4900,2008,180000,automatic,truck,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2008-dodge-ram/7836221029.html
+Ford,Unknown,6900,2003,300000,automatic,Unknown,good,Unknown,diesel,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/peoria-2003-ford-excursion-73-diesel-x/7836220140.html
+Oldsmobile,silhouette,3000,2000,120000,automatic,van,excellent,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/casa-grande-2000-oldsmobile-van/7836219979.html
+Kia,spectra5,37900,2024,11279,automatic,SUV,like new,4,hybrid,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/scottsdale-2024-kia-sportage-line-plug/7836219647.html
+Ford,Unknown,14800,2013,133500,automatic,pickup,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2013-150-4x4-like-new-133k-miles/7836217820.html
+Toyota,camry,3999,2003,173000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-2003-toyota-rav4/7836216817.html
+Ford,Unknown,2400,2014,168000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/glendale-2014-ford-escape/7836214670.html
+Chrysler,town and country,3850,2006,120000,automatic,convertible,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/surprise-2006-chrysler-seabreeze-limited/7836214456.html
+Ford,Unknown,8500,2004,137000,automatic,van,like new,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-ford-econoline/7836214157.html
+Toyota,camry,28000,2007,125000,automatic,offroad,like new,6,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/fountain-hills-2007-toyota-fj-cruiser/7836214144.html
+Toyota,camry,10800,2009,90000,automatic,Unknown,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-toyota-venza-2009/7836213772.html
+Acura,TL SH-AWD Sport Tech Pkg,14950,2014,62500,automatic,SUV,excellent,6,gas,5J8TB4H50EL007780,clean,https://phoenix.craigslist.org/evl/cto/d/chandler-2014-acura-rdx-awd/7836212618.html
+Toyota,camry,13800,2013,90000,automatic,van,like new,6,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2013-toyota-sienna/7836212403.html
+Chevy,cruze lt,32500,1963,1,manual,coupe,excellent,8,gas,31849J322223,clean,https://phoenix.craigslist.org/wvl/cto/d/el-mirage-1963-chevy-impala/7836211663.html
+Nissan,rogue sport,6700,2009,112000,automatic,sedan,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/chandler-2009-nissan-maximasvlow/7836207335.html
+Jeep,wrangler,7900,1998,180000,manual,SUV,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/wickenburg-1998-jeep-wrangler/7836206311.html
+Kia,spectra5,4900,2016,80000,manual,sedan,like new,4,gas,Unknown,rebuilt,https://phoenix.craigslist.org/nph/cto/d/phoenix-2016-kia-soul-miles-like-new/7836203999.html
+Chevy,cruze lt,6500,2018,114000,automatic,hatchback,excellent,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2018-chevy-sonic-hatchback-lt/7836203128.html
+Subaru,outback,7800,2016,125368,manual,hatchback,good,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/waddell-2016-subaru-impreza-sport/7836202882.html
+Jeep,wrangler,28500,2003,45345,automatic,offroad,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/buckeye-2003-jeep-rubicon-trade/7836199821.html
+Jeep,wrangler,20000,1972,60550,manual,offroad,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-1972-jeep-commando-4wd/7836199478.html
+Ford,Unknown,6000,2003,150000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/mesa-2003-ford-150-4x4-clean-title-many/7836198287.html
+Chevrolet,sonic ls,44000,2022,77000,automatic,SUV,like new,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/glendale-2022-chevrolet-suburban-2wd-ls/7836197610.html
+Toyota,camry,9980,2017,140000,automatic,sedan,excellent,4,gas,5YFBURHE5HP713169,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2017-toyota-corolla-le/7836197208.html
+Nissan,rogue sport,5300,2000,117425,manual,pickup,good,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2000-nissan-frontier/7836196897.html
+Chevy,cruze lt,7500,2005,130000,automatic,pickup,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/cashion-2005-chevy-silverado/7836195361.html
+Chevy,cruze lt,10500,1988,58000,automatic,coupe,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-1988-camaro-50/7836194695.html
+Audi,q5,3500,2008,152000,automatic,sedan,good,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2008-audi-a4-quattro/7836194243.html
+Vw,Jetta SPORTWAGEN TDI diesel,7000,2007,85000,automatic,convertible,good,5,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2007-vw-new-beetle-convertible/7836193104.html
+Mercedes-Benz,sl500,16600,2007,19225,automatic,sedan,excellent,8,gas,WDDDJ72X67A092811,clean,https://phoenix.craigslist.org/nph/cto/d/peoria-mercedes-cls550-super-low-miles/7836191273.html
+Toyota,camry,3800,2012,174926,automatic,sedan,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-2012-toyota-camry/7836189254.html
+Ram,1500,29500,2017,107000,automatic,Unknown,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/carefree-2017-ram-limited-crew-cab/7836188176.html
+Chrysler,town and country,7200,2013,105000,automatic,convertible,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/scottsdale-chrysler-200-convertible/7836187768.html
+Ford,Unknown,27500,2018,85924,automatic,pickup,excellent,6,gas,1FTFW1EG6JKF60079,clean,https://phoenix.craigslist.org/wvl/cto/d/litchfield-park-2018-f150-xlt-sport-4wd/7836187728.html
+Ford,Unknown,28900,2015,41800,automatic,convertible,like new,8,gas,1FATP8FF6F5332965,clean,https://phoenix.craigslist.org/wvl/cto/d/surprise-2015-ford-mustang-gt/7836187708.html
+Mercedes,benz sl500,6900,1974,130000,automatic,sedan,good,4,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-1974-mercedes-230/7836187352.html
+Toyota,camry,6500,2000,190000,automatic,SUV,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/payson-2000-toyota-4runner/7836186354.html
+Jeep,wrangler,26900,2015,85775,automatic,SUV,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/goodyear-2015-jeep-wrangler-unlimited/7836185030.html
+Jeep,wrangler,14500,1945,1400,automatic,Unknown,Unknown,6,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/tyrone-1945-jeep-custom-willys-classic/7836184634.html
+Gmc,sierra 1500,22500,2020,100150,automatic,SUV,excellent,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2020-gmc-arcadia-denali/7836182903.html
+Dodge,Unknown,1500,2012,239439,automatic,van,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/buckeye-ram-v-work-van/7836182871.html
+Honda,CR-V EX-L,20900,2024,8600,automatic,wagon,like new,4,gas,Unknown,rebuilt,https://phoenix.craigslist.org/wvl/cto/d/tolleson-honda-hr-sport-2024/7836182826.html
+Nissan,rogue sport,14900,2024,7000,automatic,sedan,like new,4,gas,Unknown,rebuilt,https://phoenix.craigslist.org/wvl/cto/d/tolleson-nissan-sentra-2024/7836182650.html
+Toyota,camry,5850,2006,350000,automatic,pickup,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-2006-toyota-tacoma-4x4/7836181461.html
+Bmw,645ci convertible,5500,2011,171000,automatic,sedan,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2011-bmw-528i/7836181057.html
+Ford,Unknown,8950,2009,13285,automatic,sedan,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-13k-mile-2009-crown-victoria/7836180744.html
+Nissan,rogue sport,100,2018,80000,automatic,sedan,salvage,Unknown,gas,Unknown,parts only,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2018-nissan-altima/7836180656.html
+Jeep,wrangler,9200,2004,101000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/surprise-2004-jeep-wrangler-wd/7836178975.html
+Toyota,camry,5700,2007,140555,automatic,SUV,good,6,hybrid,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2007-toyota-highlander-hybrid/7836176699.html
+Ford,Unknown,6495,2010,134000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2010-ford-explorer-xlt-4x4/7836172604.html
+Gmc,sierra 1500,5500,2008,128123,automatic,SUV,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2008-gmc-envoy-tow-package-owner/7836171183.html
+Ram,1500,16000,2014,109000,automatic,pickup,good,8,gas,3C6MR4AJ8EG295350,clean,https://phoenix.craigslist.org/evl/cto/d/tempe-2014-ram-hemi-109k-miles/7836170667.html
+Hummer,h2,9000,2003,150000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2003-hummer-h2/7836169950.html
+Toyota,camry,16800,2021,58000,automatic,sedan,like new,4,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/avondale-2021-toyota-corolla-le/7836169931.html
+Am,general humvee,35000,1999,21000,automatic,Unknown,Unknown,Unknown,diesel,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/patton-1999-m1123-humvee/7836168688.html
+Gmc,sierra 1500,5000,2009,113000,automatic,SUV,Unknown,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-2009-gmc-yukon-xl-denali-x-113k/7836167882.html
+Tesla,3,13500,2014,123456,automatic,sedan,excellent,Unknown,electric,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2014-tesla-model-85/7836167647.html
+Ford,Unknown,8400,2007,196000,automatic,truck,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-07-250-flatbed-work-trucksuper/7836167445.html
+Ram,1500,25900,2022,38000,automatic,pickup,Unknown,Unknown,gas,Unknown,salvage,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2022-dodge-ram-1500/7836167249.html
+Mazda,cx9,7900,2015,130000,automatic,sedan,Unknown,Unknown,gas,Unknown,salvage,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2015-mazda/7836167121.html
+Dodge,Unknown,23900,2021,30000,automatic,pickup,Unknown,Unknown,gas,Unknown,salvage,https://phoenix.craigslist.org/cph/cto/d/phoenix-2021-dodge-ram-1500/7836166861.html
+Mercedes,benz sl500,20900,2019,33000,automatic,SUV,Unknown,Unknown,diesel,Unknown,salvage,https://phoenix.craigslist.org/cph/cto/d/phoenix-2019-mercedes-gla250-gla/7836166564.html
+Ford,Unknown,14900,2018,139000,automatic,SUV,fair,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2018-ford-expedition-4x4-clean/7836166433.html
+Infiniti,g37x,7500,2009,169000,automatic,coupe,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/glendale-2009-infiniti-g37-black/7836165379.html
+Dodge,Unknown,3500,2004,255800,automatic,pickup,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2004-dodge-ram-x4-lb-rack/7836165285.html
+Studebaker,Daytona 2 dr,27500,1964,2000,automatic,coupe,excellent,8,gas,Unknown,rebuilt,https://phoenix.craigslist.org/wvl/cto/d/peoria-1964-studebaker-supercharged/7836164952.html
+Dodge,Unknown,10500,2013,83000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2013-dodge-charger-t-hemi/7836164564.html
+Scion,xb,8300,2012,115000,automatic,hatchback,good,4,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2012-scion-xb/7836164466.html
+Jeep,wrangler,4500,1998,176000,automatic,SUV,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-1998-grand-cherokee-zj-59-laredo/7836163617.html
+Chevrolet,sonic ls,16800,2014,104450,automatic,pickup,like new,8,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-chevrolet-silverado-1500/7836163572.html
+Gmc,sierra 1500,15800,2015,100000,automatic,truck,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/scottsdale-2015-gmc-sierra-1500-slt/7836163543.html
+Lexus,rx400h awd hybrid,15950,2013,71000,automatic,sedan,excellent,4,hybrid,JTHBW1GG5D2006160,clean,https://phoenix.craigslist.org/nph/cto/d/scottsdale-2013-lexus-es-300h/7836163456.html
+Lexus,rx400h awd hybrid,12950,2015,110549,automatic,hatchback,excellent,Unknown,hybrid,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/scottsdale-2015-lexus-ct-200h-hybrid/7836163131.html
+Chevy,cruze lt,35000,1984,2000,automatic,pickup,like new,8,diesel,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/coachella-1984-c10-silverado-short-bed/7836162889.html
+Hyundai,Elantra,12000,2016,112000,automatic,SUV,excellent,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2016-hyundai-santa-fe-ultimate/7836162855.html
+Chevrolet,sonic ls,7800,2016,123880,automatic,SUV,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/sun-city-2016-chevrolet-traverse-ltz/7836160077.html
+Toyota,camry,46500,2020,57000,automatic,SUV,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/scottsdale-2020-toyota-4runner-sr5/7836159985.html
+Dodge,Unknown,6900,2006,160000,automatic,pickup,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/avondale-2006-dodge-ram-1500-long-bed/7836159888.html
+Alfa,Romeo Stelvio Q4,29500,2023,19000,automatic,SUV,excellent,4,gas,ZASPAKANXP7D50939,clean,https://phoenix.craigslist.org/nph/cto/d/las-vegas-2023-alfa-romeo-stelvio/7836158663.html
+Buick,lacrosse,4300,2013,192000,automatic,sedan,excellent,6,gas,1G4GC5E34DF289789,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2013-buick-lacrosse/7836158134.html
+Plymouth,barracuda,8500,1966,125000,automatic,sedan,Unknown,6,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/goodyear-1966-barracuda/7836156284.html
+Gmc,sierra 1500,7700,2012,177200,automatic,SUV,good,4,gas,2GKALUEK1C6320666,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2012-gmc-terrain-slt-suv/7836155683.html
+Chrysler,town and country,7795,2014,189800,automatic,minivan,good,6,gas,2C4RC1BG5ER348615,clean,https://phoenix.craigslist.org/evl/cto/d/phoenix-2014-chrysler-town-country/7836155417.html
+F250,Unknown,20000,1983,37000,manual,truck,good,Unknown,diesel,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/goodyear-1983-f250-single-cab-long-bed/7836154594.html
+Ram,1500,13500,2016,182000,automatic,pickup,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-2016-ram-1500/7836153341.html
+Chevy,cruze lt,6900,2013,191000,automatic,pickup,Unknown,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2013-chevy-silverado-1500-v8/7836143978.html
+Ford,Unknown,18900,2021,120900,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/gilbert-2021-ford-f250-extended-cab/7836143912.html
+Chevrolet,sonic ls,32500,2015,138100,automatic,pickup,excellent,8,diesel,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2015-chevrolet-duramax-4x4/7836143320.html
+Ford,Unknown,14900,1966,100000,manual,coupe,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/peoria-1966-mustang/7836143180.html
+Ford,Unknown,42000,2022,37013,automatic,pickup,Unknown,Unknown,gas,Unknown,salvage,https://phoenix.craigslist.org/cph/cto/d/phoenix-2022-ford-150-platinum-50-v8/7836138034.html
+Chevrolet,sonic ls,28500,2021,64000,automatic,pickup,Unknown,Unknown,gas,Unknown,salvage,https://phoenix.craigslist.org/cph/cto/d/phoenix-2021-chevrolet-silverado1500/7836137671.html
+Nissan,rogue sport,9000,2008,167,automatic,truck,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2008-titan-se-v8-56-ltr/7836136186.html
+Buick,lacrosse,8750,2009,60000,automatic,sedan,like new,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/surprise-2009-buick-lucerne-cxl/7836135449.html
+Hyundai,Elantra,7250,2016,116000,automatic,sedan,good,4,gas,KMHDH4AE5GU640067,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2016-hyundai-elantra-se/7836135383.html
+Chevy,cruze lt,6500,2009,163000,automatic,truck,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2009-gmc-box-truck/7836133583.html
+Chevrolet,sonic ls,12000,1995,221000,automatic,truck,good,6,diesel,1GBE6H1J0SJ106511,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-1995-chevy-kodiak-diesel/7836133580.html
+Toyota,camry,11900,2015,218200,automatic,pickup,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/tolleson-2015-toyota-tacoma-cyl-auto/7836131532.html
+Chevrolet,sonic ls,6900,1997,97000,automatic,van,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/waddell-1997-chevrolet-g3500-box-van/7836130829.html
+Ford,Unknown,9500,2003,5000,automatic,truck,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-ford-truck/7836129024.html
+Nissan,rogue sport,4300,2010,210000,automatic,sedan,excellent,6,gas,1N4AA5AP6AC807476,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2010-nissan-maxima/7836128508.html
+Ford,Unknown,10500,2006,136000,automatic,pickup,good,8,gas,1FDWF36586EC80920,clean,https://phoenix.craigslist.org/evl/cto/d/scottsdale-2006-ford-f350-super-duty/7836127728.html
+Subaru,outback,14777,2017,74000,automatic,SUV,excellent,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/tempe-2017-subaru-outback-miles-great/7836127472.html
+Ford,Unknown,15000,2019,141000,automatic,van,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2019-ford-transit-150/7836126294.html
+Lexus,rx400h awd hybrid,4900,2004,179000,automatic,SUV,good,6,gas,Unknown,rebuilt,https://phoenix.craigslist.org/nph/cto/d/carefree-2004-lexus-rx330/7836126259.html
+Chevrolet,sonic ls,50000,1966,3500,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/tucson-1966-chevy-ii-super-sport-door/7836125466.html
+Gmc,sierra 1500,9400,2001,108200,automatic,truck,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/tempe-2001-gmc-sierra-1500/7836124042.html
+Jeep,wrangler,19000,2018,51009,automatic,SUV,good,6,gas,Unknown,rebuilt,https://phoenix.craigslist.org/nph/cto/d/carefree-2018-jeep-wrangler-sport/7836121733.html
+Ford,Unknown,5500,2013,169000,automatic,SUV,excellent,4,gas,1FMCU9H98DUB62011,clean,https://phoenix.craigslist.org/evl/cto/d/gilbert-2013-ford-escape-awd/7836121376.html
+Ford,Unknown,6900,2006,179000,automatic,pickup,good,8,gas,1FTWW30586EC85208,clean,https://phoenix.craigslist.org/evl/cto/d/scottsdale-2006-ford-f350-super-duty/7836120906.html
+Chevrolet,sonic ls,65000,2013,40000,manual,coupe,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/el-mirage-2013-chevrolet-corvette-grand/7836120811.html
+Chevy,cruze lt,11900,2006,181000,automatic,pickup,good,8,gas,Unknown,rebuilt,https://phoenix.craigslist.org/nph/cto/d/carefree-2006-chevrolet-silverado-k1500/7836120729.html
+Ford,Unknown,7200,2014,114000,automatic,sedan,excellent,4,gas,3FA6P0HD7ER185562,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2014-ford-fusion-se/7836120386.html
+Jeep,wrangler,9000,2006,62000,automatic,offroad,good,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/gilbert-jeep-wrangler-2006/7836119453.html
+Lexus,rx400h awd hybrid,13950,2011,93900,automatic,SUV,excellent,6,gas,2T2ZK1BA7BC045499,clean,https://phoenix.craigslist.org/evl/cto/d/chandler-2011-lexus-rx-350/7836119373.html
+Nissan,rogue sport,8975,2018,98000,automatic,sedan,good,4,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-2018-nissan-altima/7836119192.html
+Bmw,645ci convertible,10000,2013,107000,automatic,sedan,excellent,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/gilbert-bmw-528i-sport-excellent/7836118672.html
+Toyota,camry,14900,2010,191000,automatic,SUV,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/scottsdale-2010-toyota-4runner-sr5-sport/7836118299.html
+Jeep,wrangler,15900,2019,56000,automatic,SUV,excellent,4,gas,1C4PJLDB3KD196052,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2019-jeep-cherokee-limited/7836118019.html
+Toyota,camry,3900,2007,188000,automatic,SUV,good,4,gas,JTMBD35V275106725,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2007-toyota-rav4/7836117113.html
+Toyota,camry,15700,2003,103000,automatic,SUV,like new,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-toyota-4runner-4x4-one-owner-low/7836115682.html
+Bmw,645ci convertible,22500,2008,71430,manual,coupe,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/san-miguel-2008-bmw-135i-msport/7836114054.html
+Toyota,camry,9900,2011,159000,automatic,sedan,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2011-toyota-avalon-limited/7836112996.html
+Toyota,camry,15900,2010,207090,automatic,pickup,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/carefree-2010-toyota-tacoma-trd-4x4/7836109599.html
+Golf,and country by western,650,2000,1,automatic,Unknown,Unknown,Unknown,electric,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/sun-city-west-2000-golf-and-country-by/7836109568.html
+Ford,Unknown,5900,2005,250000,automatic,other,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2005-ford-econoline-utility/7836107856.html
+Chevy,cruze lt,6000,1980,1234,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-1980-chevy-k-stepside/7836107155.html
+Ford,Unknown,2300,2006,135000,automatic,Unknown,excellent,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/phoenix-2006-ford-five-hundred/7836106882.html
+Chevy,cruze lt,18000,2014,60000,manual,coupe,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/gilbert-2014-chevy-camaro-ss-1le-low/7836106856.html
+Chevrolet,sonic ls,95000,1970,10000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-1970-chevrolet-k10-original/7836105789.html
+Ford,Unknown,12500,2017,220454,automatic,pickup,Unknown,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/goodyear-ford-f150-4x4/7836105445.html
+Ford,Unknown,9700,1997,106261,automatic,truck,good,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/tempe-1997-ford-f350-xl-mechanic/7836105102.html
+Chavie,malibu,3500,2014,110000,automatic,sedan,good,4,gas,Unknown,salvage,https://phoenix.craigslist.org/nph/cto/d/peoria-2014-malibu/7836103949.html
+Toyota,camry,7000,2012,163000,automatic,sedan,excellent,4,gas,4T4BF1FKXCR215681,clean,https://phoenix.craigslist.org/evl/cto/d/tempe-2012-toyota-camry/7836103475.html
+Ford,Unknown,15000,2012,206862,automatic,pickup,fair,Unknown,diesel,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2012-ford-f350-diesel/7836102971.html
+Chevrolet,sonic ls,6500,1967,123456,automatic,truck,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/tucson-1967-chevrolet-k10-long-bed-4wd/7836101633.html
+Ford,Unknown,13500,2013,90000,automatic,pickup,good,8,gas,1FDRF3E6XDEB90124,clean,https://phoenix.craigslist.org/evl/cto/d/scottsdale-2013-ford-f350-super-duty/7836100991.html
+Buick,lacrosse,40000,1968,10000,automatic,convertible,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/arizona-city-1968-buick-gran-sport/7836099676.html
+Chevrolet,sonic ls,4800,2005,232000,automatic,truck,excellent,8,gas,3GNEC12Z15G291228,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2005-chevrolet-avalancha/7836099637.html
+Chevy,cruze lt,4900,2017,87000,automatic,sedan,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/tempe-2017-chevy-cruze-lt/7836099076.html
+Honda,CR-V EX-L,6000,2011,170000,automatic,Unknown,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/tempe-2011-honda-civic-lx/7836098384.html
+Subaru,outback,16200,2019,23000,automatic,SUV,excellent,4,gas,Unknown,rebuilt,https://phoenix.craigslist.org/nph/cto/d/glendale-2019-subaru-crosstrek-limited/7836097295.html
+Dodge,Unknown,49500,2022,31000,automatic,pickup,Unknown,8,diesel,Unknown,rebuilt,https://phoenix.craigslist.org/nph/cto/d/glendale-2022-dodge-ram-2500-laramie/7836097150.html
+Chevy,cruze lt,11900,2014,135000,automatic,pickup,Unknown,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2014-chevy-silverado-1500/7836097022.html
+Jeep,wrangler,29500,2023,5500,automatic,pickup,like new,6,gas,1C6HJTAG5PL549755,rebuilt,https://phoenix.craigslist.org/nph/cto/d/glendale-2023-jeep-gladiator-sport-4x4/7836096956.html
+Toyota,camry,10900,2018,188000,automatic,pickup,fair,8,gas,5TFCW5F17JX023115,clean,https://phoenix.craigslist.org/evl/cto/d/scottsdale-2018-toyota-tundra-double/7836094600.html
+Mercedes-Benz,sl500,8300,2012,90000,automatic,sedan,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/phoenix-2012-mercedes-benz-c250-sport/7836091762.html
+Bmw,645ci convertible,12000,2016,97000,automatic,coupe,like new,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/scottsdale-2016-bmw-428i-coupe-sport/7836090529.html
+Ford,Unknown,8900,2011,73500,automatic,sedan,good,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2011-ford-taurus-73k-miles/7836089530.html
+Honda,CR-V EX-L,4500,2004,87104,automatic,sedan,excellent,4,other,1HGEN26524L000447,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-honda-civic-natural-gas/7836089520.html
+Bmw,645ci convertible,3600,2006,280000,automatic,SUV,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/phoenix-bmw-x3-2006/7836088812.html
+Chevy,cruze lt,2500,2009,250000,automatic,SUV,fair,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/gilbert-2009-chevy-tahoe/7836088778.html
+Mercedes-Benz,sl500,8500,2005,141000,automatic,coupe,excellent,8,gas,WDBRF76J95F594184,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2005-mercedes-benz-c55-amg-like/7836088269.html
+Tesla,3,5000,2018,80000,automatic,Unknown,excellent,Unknown,electric,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/chandler-tesla/7836087292.html
+Gmc,sierra 1500,42500,2021,55725,automatic,pickup,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2021-gmc-sierra-1500-slt-texas/7836087046.html
+Dodge,Unknown,1200,1995,72847,automatic,van,Unknown,5,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/apache-junction-1995-dodge-conversion/7836086492.html
+Jeep,wrangler,6500,2007,127000,automatic,SUV,like new,6,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/fountain-hills-2007-jeep-liberty-v6/7836085016.html
+Chevrolet,sonic ls,1,1990,122000,automatic,Unknown,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-1990-suburban/7836084774.html
+Trade,Unknown,1,1990,1023,automatic,Unknown,good,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-trade/7836084547.html
+Chevrolet,sonic ls,1,1990,166000,automatic,Unknown,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-1990-squarebody-suburban/7836084216.html
+Dodge,Unknown,4000,1998,275000,automatic,pickup,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-dodge-dakota-club-cab-slt-great/7836083779.html
+Toyota,camry,9000,2015,144000,automatic,hatchback,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/glendale-2015-prius/7836083721.html
+Chevy,cruze lt,12500,2017,148000,automatic,SUV,Unknown,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2017-chevy-tahoe-4x4/7836082863.html
+Toyota,camry,4200,2004,192000,automatic,sedan,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/surprise-2004-toyota-corolla-le-clean/7836082766.html
+Ford,Unknown,11500,2014,148650,automatic,truck,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2014-ford-250-work-truck-for/7836081894.html
+Volvo,c30 rdesign 2dr hatchback,4900,2006,159000,automatic,wagon,like new,4,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-volvo-wagon-like-new-low/7836080742.html
+Nissan,rogue sport,8995,2005,92000,automatic,pickup,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/scottsdale-2005-nissan-titan-king-cab/7836079330.html
+Mazda,cx9,9350,2015,122000,automatic,SUV,good,4,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/surprise-2015-mazda-cx-awd-grand-touring/7836078738.html
+Ford,Unknown,64250,2023,11250,automatic,pickup,excellent,6,hybrid,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/tempe-2023-f150-platinum/7836078606.html
+Chevrolet,sonic ls,8900,2013,128000,automatic,SUV,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-2013-chevrolet-avalanche-black/7836077613.html
+Dodge,Unknown,26900,2012,40000,automatic,pickup,like new,8,gas,3C6JD6AT3CG278029,clean,https://phoenix.craigslist.org/evl/cto/d/san-tan-valley-2012-ram-owner-40k-miles/7836076117.html
+Nissan,rogue sport,3900,2011,123000,automatic,sedan,good,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/chandler-2011-nissan-sentra-slow/7836075639.html
+Ford,Unknown,5500,1974,31915,automatic,coupe,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-1974-gran-torino/7836075633.html
+Chevrolet,sonic ls,16500,2004,97200,manual,coupe,good,8,gas,1G1YY12S845126902,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2004-chevrolet-corvette-z06/7836074201.html
+Ford,Unknown,7300,2010,132000,automatic,coupe,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/tempe-2010-mustang-gt-one-owner/7836073200.html
+Toyota,camry,4200,2015,221000,automatic,sedan,Unknown,Unknown,hybrid,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-2015-toyota-camry-hybrid/7836070511.html
+Dodge,Unknown,18800,2021,38200,automatic,Unknown,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/glendale-2021-dodge-charger-police/7836069620.html
+Lexus,rx400h awd hybrid,8500,2002,168000,automatic,sedan,Unknown,8,gas,JTHBN30F120073945,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2002-lexus-ls-430/7836066130.html
+Am,general humvee,23000,2009,8700,automatic,Unknown,excellent,8,diesel,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/glendale-2009-am-general-hmmwv-m1123/7836063724.html
+Chevrolet,sonic ls,7000,2007,219000,automatic,SUV,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/palo-verde-2007-chevy-suburban-ltz/7836061303.html
+Gmc,sierra 1500,8500,2008,305000,automatic,pickup,fair,8,diesel,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2008-gmc-sierra-2500-hd-diesel-4x4/7836061244.html
+Bronco,Unknown,46000,2021,15700,automatic,SUV,like new,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2021-ford-bronco-badlands/7836061201.html
+Chevy,cruze lt,9900,2010,122000,automatic,coupe,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2010-chevy-camaro-coupe/7836061137.html
+Cadillac,escalade luxury,13500,2017,42000,automatic,sedan,good,6,gas,2G61M5S36H9155668,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2017-cadillac-xts-luxury/7836060814.html
+Dodge,Unknown,6500,2014,145000,automatic,minivan,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-2014-dodge-grand-caravan-30/7836059313.html
+Toyota,camry,16000,2007,129000,automatic,pickup,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/scottsdale-2007-toyota-tundra-4x4-with/7836058950.html
+Cadillac,escalade luxury,8500,2008,99999,automatic,SUV,like new,6,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/fountain-hills-2008-cadillac-srx-1owner/7836058543.html
+Chevy,cruze lt,6500,2003,194000,automatic,SUV,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/gilbert-2003-chevy-tahoe-ls-3rd-row/7836058463.html
+Mercedes,benz sl500,7900,2013,99580,automatic,sedan,like new,6,gas,Unknown,rebuilt,https://phoenix.craigslist.org/cph/cto/d/phoenix-mercedes-benz-350-amg-2013/7836057897.html
+Jeep,wrangler,13000,2008,149000,automatic,SUV,Unknown,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-lifted-jeep-wrangler-unlimited/7836057477.html
+Ford,Unknown,10600,2017,95000,automatic,Unknown,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/glendale-2017-ford-explorer-awd-police/7836057292.html
+Chevy,cruze lt,3800,2005,153000,automatic,SUV,Unknown,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2005-chevrolet-trailblazer-ls/7836057287.html
+Jeep,wrangler,11900,2010,159000,manual,SUV,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2010-lifted-jeep-wrangler/7836057004.html
+Ford,Unknown,12000,2016,150000,automatic,van,Unknown,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2016-ford-transit-250-van/7836056106.html
+Ford,Unknown,6500,2012,116050,automatic,sedan,good,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/chandler-ford-fusion-2012-silver/7836054431.html
+Acura,TL SH-AWD Sport Tech Pkg,6900,2008,125000,automatic,Unknown,Unknown,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2008-acura-rl-sh-awd-tech/7836053199.html
+Tesla,3,21950,2020,67500,automatic,sedan,excellent,Unknown,electric,5YJ3E1EB0LF651942,clean,https://phoenix.craigslist.org/nph/cto/d/scottsdale-2020-tesla-long-range/7836052851.html
+Subaru,outback,3400,2002,189000,automatic,SUV,like new,4,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-subaru-outback-25-awd-super/7836049134.html
+Subaru,outback,6200,2009,125000,automatic,SUV,Unknown,4,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2009-subaru-forester-25-awd/7836048892.html
+Dodge,Unknown,23500,2012,30000,manual,coupe,like new,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-scat-pack-dodge-challenger-srt8/7836048663.html
+Honda,CR-V EX-L,1,1998,199,automatic,SUV,Unknown,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/tempe-honda-crv-4x4-awd-suv-with-low/7836047116.html
+Dodge,Unknown,5500,2024,50000,manual,Unknown,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/goodyear-air-boss-300-seal-coating/7836046395.html
+Mercedes,benz sl500,5900,2008,149500,automatic,sedan,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/scottsdale-2008-mercedes-benz-class/7836045726.html
+Gmc,sierra 1500,4800,1999,197000,automatic,pickup,good,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-1999-gmc-sierra-4x-obo-194k/7836042783.html
+Toyota,camry,11500,2015,147000,automatic,Unknown,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/phoenix-2015-toyota-venza-xle/7836041192.html
+Pontiac,Vibe GT,16000,1963,9260,automatic,coupe,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/gilbert-1963-pontiac-lemans/7836036198.html
+Chrysler,town and country,31500,2012,41000,automatic,sedan,like new,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-rare-2012-chysler-300c-srt8/7836032322.html
+Ram,1500,10500,2019,92000,automatic,van,good,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2019-ram-promaster-city-92k/7836031824.html
+Mazda,cx9,8900,2017,59000,automatic,sedan,excellent,4,gas,Unknown,rebuilt,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2017-mazda-grand-touring/7836031476.html
+Chevy,cruze lt,29500,2022,16000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/palo-verde-2022-chevy-colorado-crew-cab/7836030213.html
+Jeep,wrangler,18700,2015,80000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/surprise-jeep-wrangler/7836026789.html
+Chevrolet,sonic ls,16000,2014,91000,automatic,pickup,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/surprise-2014-chevy-silverado/7836024486.html
+Toyota,camry,16500,2011,153000,automatic,pickup,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/surprise-2011-toyota-tundra-crew-max/7836024001.html
+Toyota,camry,14000,2005,167245,automatic,pickup,Unknown,6,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/surprise-2005-toyota-tacoma-trd-pkg/7836023105.html
+Lincoln,MKC LS,12500,2015,81000,automatic,SUV,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/arizona-city-2015-lincoln-mkc/7836022843.html
+Ram,1500,21000,2008,157400,automatic,truck,good,Unknown,diesel,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/taylor-2008-ram-bighorn-diesel-4x4/7836021585.html
+Ford,Unknown,29500,1989,13000,manual,convertible,like new,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/queen-creek-almost-new-1989-ford/7836021034.html
+Nissan,rogue sport,5200,2012,108000,automatic,sedan,excellent,4,gas,Unknown,salvage,https://phoenix.craigslist.org/cph/cto/d/phoenix-2012-nissan-altima-low-miles/7836020809.html
+Toyota,camry,4500,2004,138000,automatic,hatchback,good,4,hybrid,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/scottsdale-2004-toyota-prius-miles/7836017638.html
+Acura,TL SH-AWD Sport Tech Pkg,9500,2014,135000,automatic,SUV,good,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/gilbert-2014-acura-mdx-with-tech/7836015623.html
+Ford,Unknown,10800,2007,68903,automatic,van,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/scottsdale-2007-150-passenger-van/7836013166.html
+Ford,Unknown,17500,2021,27000,automatic,SUV,like new,3,gas,Unknown,rebuilt,https://phoenix.craigslist.org/evl/cto/d/gilbert-2021-ford-bronco-sport-big-bend/7836009158.html
+Toyota,camry,2650,2002,198000,automatic,coupe,good,4,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2002-toyota-celica-gt/7836007523.html
+Jaguar,xkr,20000,2014,66300,automatic,sedan,like new,8,gas,Unknown,rebuilt,https://phoenix.craigslist.org/nph/cto/d/phoenix-2014-jaguar-xkr-600-horsepower/7835996295.html
+Dodge,Unknown,500,2018,63000,automatic,pickup,good,6,diesel,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-2018-ram-3500-full-part-out/7835985649.html
+Dodge,Unknown,1000,2009,110000,manual,pickup,good,6,diesel,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-2009-dodge-ram-3500-drw-g56/7835985347.html
+Ford,Unknown,1000,2019,40000,automatic,pickup,like new,8,diesel,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-2019-ford-powerstroke-cab-f250/7835985092.html
+F550,Unknown,1000,2006,92000,automatic,pickup,excellent,8,diesel,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-2006-f550-f250-powerstroke/7835984608.html
+Ford,Unknown,18000,2013,95000,manual,coupe,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/peoria-2013-ford-mustang-gt-track-pack/7835982085.html
+Chevy,cruze lt,15000,1997,104000,automatic,Unknown,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-1997-chevy-silverado-lower/7835980939.html
+Chevrolet,sonic ls,36500,2022,24600,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-2022-chevrolet-silverado-1500/7835980576.html
+Chevrolet,sonic ls,27500,2024,9900,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-2024-chevrolet-equinox-lt/7835980549.html
+Ford,Unknown,28500,2018,103000,automatic,pickup,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-2018-ford-350-service-truck/7835980527.html
+Chevy,cruze lt,17500,2005,176662,automatic,pickup,excellent,8,diesel,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-2005-chevrolet-silverado/7835980509.html
+Ford,Unknown,27500,2019,109000,automatic,pickup,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/peoria-2019-ford-f350-4x4/7835979869.html
+Dodge,Unknown,25500,2019,50000,automatic,Unknown,like new,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-2019-dodge-ram-1500-classic-slt/7835979823.html
+2021,Unknown,49999,2021,27500,automatic,pickup,Unknown,Unknown,diesel,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-2021-gmc-sierra-sle-2500/7835979791.html
+Chevrolet,sonic ls,27500,2024,9994,automatic,SUV,like new,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/peoria-2024-chevrolet-equinox-awd/7835979768.html
+Acura,TL SH-AWD Sport Tech Pkg,1500,2013,131400,automatic,sedan,Unknown,Unknown,gas,Unknown,parts only,https://phoenix.craigslist.org/cph/cto/d/glendale-2013-acura-ilx/7835978325.html
+Tesla,3,26000,2018,108000,automatic,sedan,like new,Unknown,electric,5YJSA1E26JF260198,clean,https://phoenix.craigslist.org/nph/cto/d/scottsdale-tesla-model-2018/7835978277.html
+Volkswagen,tiguan,28000,1966,90000,manual,Unknown,like new,4,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-vw-bug-great-condition/7835978211.html
+Jeep,wrangler,27000,2020,55000,automatic,SUV,like new,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/fountain-hills-2020-jeep-wrangler-sport/7835976771.html
+Jeep,wrangler,15500,2013,137400,manual,SUV,excellent,6,gas,1C4BJWEG0DL581468,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2013-jeep-sahara-wrangler/7835970711.html
+Ford,Unknown,13900,2007,71812,automatic,pickup,excellent,8,diesel,1FDSF20P27EB42956,clean,https://phoenix.craigslist.org/wvl/cto/d/goodyear-2007-ford-250-t-60-diesel-71k/7835968032.html
+Ford,Unknown,8500,2005,142801,automatic,truck,good,8,diesel,1FDAF56P55EB96804,clean,https://phoenix.craigslist.org/wvl/cto/d/goodyear-2005-ford-550-service-truck/7835967996.html
+Chevrolet,sonic ls,19500,2019,107750,automatic,SUV,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-2019-chevrolet-traverse-lt/7835967384.html
+Ford,Unknown,22500,2023,13885,automatic,van,Unknown,Unknown,gas,Unknown,salvage,https://phoenix.craigslist.org/nph/cto/d/phoenix-2023-ford-transit-250/7835967334.html
+Westinghouse,436E,4800,1967,1,automatic,other,Unknown,Unknown,electric,Unknown,missing,https://phoenix.craigslist.org/nph/cto/d/scottsdale-westinghouse-all-steel-golf/7835967303.html
+Nissan,rogue sport,6000,2014,51000,automatic,hatchback,excellent,Unknown,electric,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/scottsdale-2014-nissan-leaf/7835967196.html
+Dodge,Unknown,4500,2009,180000,automatic,truck,good,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2009-dodge-ram-1500-crew-cab/7835967164.html
+Toyota,camry,29000,2016,81000,automatic,pickup,like new,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2016-toyota-tacoma-trd-sport/7835967107.html
+Toyota,camry,6000,2004,169967,automatic,pickup,Unknown,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-toyota-tacoma-2004/7835966781.html
+Ford,Unknown,16900,2015,150000,automatic,pickup,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2015-ford-f150-4x4-150-flawless/7835966274.html
+Mercedes,benz sl500,5999,2009,141000,automatic,sedan,like new,6,diesel,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-lower-price-mercedes-320/7835966251.html
+Gmc,sierra 1500,32000,2018,48000,automatic,truck,excellent,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/scottsdale-2018-gmc-sierra-sle-4x4/7835964437.html
+Mercedes,benz sl500,49850,2018,8200,automatic,convertible,like new,8,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-2018-mercedes-c63-amg/7835964045.html
+Chevrolet,sonic ls,5900,2013,89000,automatic,hatchback,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2013-chevy-spark-lt-89k-miles/7835963621.html
+Chevy,cruze lt,12500,2018,94000,automatic,Unknown,excellent,6,gas,Unknown,rebuilt,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2018-chevy-traverse-lt/7835962898.html
+Toyota,camry,16500,2021,36000,automatic,sedan,like new,4,gas,Unknown,rebuilt,https://phoenix.craigslist.org/nph/cto/d/phoenix-2021-toyota-camry-le-awd/7835962647.html
+Chevy,cruze lt,7100,2008,201000,automatic,truck,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2008-chevy/7835962516.html
+Lincoln,MKC LS,23500,1958,78000,automatic,sedan,like new,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-1958-lincoln-premier/7835962253.html
+Chevy,cruze lt,75000,1956,66000,manual,convertible,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-1956-corvette/7835962079.html
+Bmw,645ci convertible,4800,2003,154000,automatic,sedan,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/gilbert-2003-bmw-525i/7835961695.html
+Mercedes-Benz,sl500,15750,2014,137000,automatic,sedan,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-mercedes-benz-cls-clean-loaded/7835960084.html
+Toyota,camry,9950,2009,113000,automatic,Unknown,like new,6,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/luke-air-force-base-2009-toyota-venza/7835959787.html
+Honda,CR-V EX-L,7700,2010,110000,automatic,hatchback,excellent,4,gas,JHMGE8H27AC009782,clean,https://phoenix.craigslist.org/cph/cto/d/scottsdale-honda-fit/7835958861.html
+Ford,Unknown,13500,2017,190000,automatic,pickup,excellent,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2017-ford-f150-xlt/7835958628.html
+Nissan,rogue sport,5200,2010,60000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/glendale-nissan-versa-2010/7835957732.html
+Honda,CR-V EX-L,21850,2024,180,automatic,sedan,new,4,gas,Unknown,rebuilt,https://phoenix.craigslist.org/nph/cto/d/phoenix-2024-honda-accord-ex-brand-new/7835954265.html
+Ford,Unknown,17898,2003,60000,automatic,other,like new,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/el-mirage-2003-thunderbird-hardtop/7835953839.html
+Porsche,speedster,19750,2007,103000,automatic,coupe,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/surprise-2007-porsche-cayman-reduced/7835953581.html
+Ford,Unknown,10500,2011,142000,manual,coupe,good,8,gas,1ZVBP8CF2B5107606,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-mustang-gt-california-special/7835953134.html
+Fiat,500c,13999,2012,29000,automatic,convertible,excellent,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/scottsdale-gucci-fiat-500c/7835952817.html
+Chevrolet,sonic ls,4600,1963,333333,manual,sedan,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/ogden-1962-chevrolet-100-nova-door-sedan/7835952732.html
+Lexus,rx400h awd hybrid,9500,2009,81000,automatic,sedan,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/scottsdale-2009-lexus-es-350/7835951277.html
+Bmw,645ci convertible,500,1994,100000,automatic,convertible,Unknown,6,gas,WBABJ6329RJD35142,missing,https://phoenix.craigslist.org/wvl/cto/d/surprise-mechanic-special/7835951265.html
+Ford,Unknown,22500,2015,113000,automatic,Unknown,Unknown,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2015-ford-e350-utility-cutaway/7835951187.html
+Subaru,outback,16450,2019,53550,automatic,Unknown,excellent,6,gas,Unknown,rebuilt,https://phoenix.craigslist.org/nph/cto/d/phoenix-2019-subaru-outback-36r-limited/7835950754.html
+Ford,Unknown,6100,2000,77977,manual,coupe,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2000-ford-mustang-with-low-miles/7835948536.html
+Nissan,rogue sport,11500,2015,115256,automatic,SUV,excellent,4,gas,5N1AT2MV2FC861163,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2015-nissan-rug-all-wheel-drive/7835947593.html
+Lexus,rx400h awd hybrid,12000,2006,213000,automatic,SUV,like new,8,gas,JTJBT20XX60117745,clean,https://phoenix.craigslist.org/nph/cto/d/peoria-2006-lexus-gx-470/7835946143.html
+Chevrolet,sonic ls,15000,1998,55000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/san-gabriel-1998-chevrolet-3500-dually/7835946138.html
+Chevrolet,sonic ls,6500,1954,1,other,Unknown,excellent,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/goodyear-1954-bel-air/7835945803.html
+Kia,spectra5,14900,2021,47000,automatic,sedan,like new,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/chandler-2021-kia-forte-fe/7835945248.html
+Gmc,sierra 1500,7950,2009,213000,automatic,truck,like new,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2009-gmc-sierra-sle-4x4-door/7835944247.html
+Ford,Unknown,26000,2023,10000,automatic,other,like new,3,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/tempe-ford-escape-active-2023/7835943147.html
+Ford,Unknown,6850,2007,143000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-super-clean-ford-f150/7835942838.html
+Dodge,Unknown,39500,1996,18718,manual,convertible,excellent,10,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-dodge-viper-rt-10-roadster/7835941493.html
+Ford,Unknown,16500,1999,195000,manual,coupe,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/florence-1999-ford-mustang-svt-cobra/7835941160.html
+Mercury,2 dr hard top,28999,1950,8619,manual,coupe,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/twin-falls-1950-mercury-monterey/7835940498.html
+Lexus,rx400h awd hybrid,7900,2007,166000,automatic,Unknown,excellent,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/mesa-2007-lexus-rx-miles-in-great/7835939564.html
+Camaro.Mustang.Chevelle.C10.Nova.Impala.Gto,Unknown,19500,1966,50955,manual,Unknown,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/gold-canyon-1966-chevy-el-camino/7835939137.html
+Subaru,outback,17250,2017,74250,automatic,SUV,good,4,gas,JF2GPADC3HH231719,clean,https://phoenix.craigslist.org/evl/cto/d/rio-verde-2017-subaru-crosstrek/7835939103.html
+Bmw,645ci convertible,13900,2016,98200,automatic,SUV,like new,6,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-2016-bmw-x5/7835934990.html
+Mercedes,benz sl500,19000,2007,5000,automatic,convertible,good,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/surprise-2007-mercedes-benz-sl550/7835934817.html
+Jeep,wrangler,9700,2002,125000,automatic,SUV,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/surprise-2002-jeep-wrangler-tj-sport-40/7835934785.html
+Ford,Unknown,23900,2018,53600,automatic,van,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/bapchule-2018-ford-transit-250-mid-roof/7835934537.html
+Nissan,rogue sport,15700,2022,43000,automatic,sedan,excellent,4,gas,Unknown,rebuilt,https://phoenix.craigslist.org/cph/cto/d/tempe-2022-nissan-altima-sv-awd/7835934430.html
+Chevy,cruze lt,4500,2008,118123,automatic,sedan,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2006-chevy-impala-ls/7835932651.html
+Kia,spectra5,7900,2014,100300,automatic,sedan,like new,4,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-2014-kia-optima/7835932379.html
+Toyota,camry,4995,2007,227000,automatic,sedan,excellent,4,hybrid,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/scottsdale-2007-toyota-camry-hybrid-in/7835931536.html
+Ram,1500,4500,2002,198000,automatic,truck,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/tolleson-2002-ram-v6/7835930790.html
+Chevy,cruze lt,24000,1972,300,automatic,pickup,like new,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/laveen-1972-20-crew-cab/7835930250.html
+Ford,Unknown,6800,2005,120900,automatic,SUV,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/scottsdale-2005-ford-escape-xlt-awd/7835926912.html
+Chevrolet,sonic ls,7200,2011,218447,automatic,SUV,excellent,8,gas,1GNSCAE04BR360084,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2011-chevrolet-tahoe/7835926827.html
+Dodge,Unknown,7500,2007,191000,automatic,minivan,good,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/coolidge-2007-dodge-caravan-wheel-chair/7835923101.html
+Ford,Unknown,23900,1930,5000,automatic,Unknown,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/scottsdale-1930-ford-gangster-roadster/7835922760.html
+Ford,Unknown,3000,2002,233000,automatic,pickup,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2002-ford-150/7835922343.html
+Dodge,Unknown,38999,2020,38041,automatic,coupe,like new,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/laveen-widebody-scat-pack-challenger/7835922037.html
+Subaru,outback,7500,2018,120000,automatic,hatchback,Unknown,4,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2018-subaru-impreza-limited/7835920360.html
+Ford,Unknown,16500,2018,91000,automatic,pickup,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2018-ford-150-xl-utility-camper/7835920260.html
+Chevy,cruze lt,5200,2000,203139,automatic,SUV,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/glendale-2000-tahoe/7835919989.html
+Ford,Unknown,65000,1972,65,automatic,pickup,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/glendale-1972-f250-f100-frame-off/7835919725.html
+Toyota,camry,5800,2006,192000,automatic,hatchback,good,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/san-tan-valley-2006-toyota-matrix-xr/7835918777.html
+Chevy,cruze lt,10000,1980,99430,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/san-jose-1980-chevy-el-camino/7835918568.html
+Ford,Unknown,70000,2022,7855,automatic,pickup,new,8,gas,1FT7W2BN1NEF11535,clean,https://phoenix.craigslist.org/wvl/cto/d/buckeye-2022-ford-f250-super-duty/7835918508.html
+Chevrolet,sonic ls,19700,2020,150000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/mayer-2020-chevrolet-crewcab-4x4/7835917906.html
+Jeep,wrangler,12500,2007,102000,automatic,SUV,excellent,6,gas,1J4GB591X7L220346,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-jeep-wrangler-2007/7835917638.html
+Porsche,speedster,29995,2008,46192,automatic,Unknown,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/tucson-stunning-2008-porsche-cayman-46k/7835917512.html
+Ford,Unknown,13750,2000,71000,manual,Unknown,Unknown,Unknown,diesel,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/scottsdale-2000-ford-turbo-diesel/7835915945.html
+Bmw,645ci convertible,11500,2017,86000,automatic,Unknown,Unknown,Unknown,hybrid,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/peoria-bmw-hybird/7835915449.html
+Chrysler,town and country,9800,2019,78000,automatic,sedan,Unknown,6,gas,Unknown,rebuilt,https://phoenix.craigslist.org/cph/cto/d/laveen-2019-chrysler-300-touring/7835915275.html
+Jeep,wrangler,7950,2016,135000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2016-jeep-cherokee-sport/7835914482.html
+Freightliner,cascadia,14995,2013,644313,manual,truck,Unknown,Unknown,diesel,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/coachella-2013-freightliner-cascadia/7835912792.html
+Chevy,cruze lt,5900,2011,169000,automatic,SUV,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/apache-junction-2011-chevrolet-equinox/7835912009.html
+Dodge,Unknown,11000,1980,84000,manual,hatchback,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/prescott-1980-dodge-colt/7835911644.html
+Nissan,rogue sport,2800,2007,263400,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2007-nissan-altima-25/7835908900.html
+Ford,Unknown,3000,2013,129900,automatic,pickup,good,6,gas,1FTFW1ET1DFD26586,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-ford-f150-fx4/7835907088.html
+Chrysler,town and country,2450,2000,117000,automatic,sedan,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-2000-chrysler-cirrus-lxi-117k/7835906835.html
+Ford,Unknown,62500,2017,133605,automatic,truck,good,8,diesel,1FD0X5HT3HEF01126,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-2017-ford-f550-4x4-mechanics/7835906822.html
+Maserati,ghibli,13500,2014,65000,automatic,sedan,Unknown,6,gas,Unknown,rebuilt,https://phoenix.craigslist.org/nph/cto/d/peoria-maserati-ghibli/7835904275.html
+Toyota,camry,11988,2011,119000,automatic,SUV,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2011-toyota-highlander-sport/7835903612.html
+Volkswagen,tiguan,9500,2017,127000,automatic,Unknown,Unknown,Unknown,gas,Unknown,rebuilt,https://phoenix.craigslist.org/nph/cto/d/phoenix-2017-volkswagen-golf-alltrack/7835902750.html
+Dodge,Unknown,3500,2005,110000,automatic,minivan,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2005-dodge-grand-caravan/7835902327.html
+Nissan,rogue sport,8950,2018,108000,automatic,sedan,good,4,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-2018-nissan-altima/7835901911.html
+Ford,Unknown,40000,2022,3000,automatic,pickup,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2022-f350-4x4-super-duty-3000-mi/7835901671.html
+Bmw,645ci convertible,3875,2006,139000,automatic,coupe,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/scottsdale-bmw-650-coupe/7835899858.html
+Cadillac,escalade luxury,3900,2002,138000,automatic,sedan,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/apache-junction-2002-cadillac-deville/7835899699.html
+Dodge,Unknown,5900,2016,149000,automatic,minivan,good,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/apache-junction-2016-dodge-grand/7835899548.html
+Jeep,wrangler,6900,1997,197400,manual,SUV,good,6,gas,1J4FY19S0VP498710,clean,https://phoenix.craigslist.org/wvl/cto/d/wickenburg-1997-jeep-wrangler-tj-6900/7835899002.html
+Bmw,645ci convertible,3900,2005,159000,automatic,SUV,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/apache-junction-2005-bmw-x5/7835898999.html
+Ford,Unknown,6900,2005,214000,automatic,pickup,good,8,diesel,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/apache-junction-2005-ford-f250-super/7835898236.html
+Chrysler,town and country,4900,2013,139000,automatic,sedan,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/apache-junction-2013-chrysler-200/7835898064.html
+Ford,Unknown,3900,2000,119000,automatic,wagon,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/apache-junction-2000-ford-focus-se-wagon/7835897963.html
+Subaru,outback,5900,2009,134000,automatic,SUV,excellent,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/apache-junction-2009-subaru-forester/7835897660.html
+Toyota,camry,5000,2008,184915,automatic,SUV,fair,6,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/glendale-2008-toyota-highlander-sport/7835895583.html
+Lexus,rx400h awd hybrid,31000,2015,119000,automatic,SUV,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/chandler-lexus-lx570/7835895247.html
+Ram,1500,13500,2019,109500,automatic,van,good,4,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2019-ram-promaster-city-cargo/7835895034.html
+Lexus,rx400h awd hybrid,9900,2006,85000,automatic,sedan,Unknown,6,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2006-lexus-is250-sedan-with/7835894662.html
+Land,rover lr4,18880,2014,70000,automatic,SUV,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2014-land-rover-range-rover/7835894565.html
+Chevrolet,sonic ls,10500,1994,114000,automatic,pickup,good,8,gas,1GCFK29K0RE271662,clean,https://phoenix.craigslist.org/evl/cto/d/gilbert-1994-chevrolet-extended-cab/7835893350.html
+Honda,CR-V EX-L,7600,2008,78000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/glendale-2008-honda-civic-lx/7835893327.html
+Ford,Unknown,23800,2021,39000,automatic,pickup,Unknown,Unknown,gas,Unknown,rebuilt,https://phoenix.craigslist.org/evl/cto/d/chandler-2021-ford-f150/7835891443.html
+Bmw,645ci convertible,22500,2002,100,automatic,sedan,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/glendale-2002-bmw-325ci-prostreet-ready/7835891165.html
+Toyota,camry,11999,2016,126000,automatic,sedan,excellent,4,gas,4T4BF1FK3GR525242,clean,https://phoenix.craigslist.org/nph/cto/d/glendale-2016-toyota-camry-le/7835888724.html
+Buick,lacrosse,1800,2001,100000,automatic,sedan,excellent,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-mechanics-special-needs-fuel/7835886904.html
+Hyundai,Elantra,3500,2007,78000,automatic,Unknown,good,4,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/scottsdale-2007-hyundai-elantra/7835885860.html
+Nissan,rogue sport,2500,2006,268000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2006-nissan-titan-v8/7835885548.html
+Gmc,sierra 1500,25500,2015,137000,automatic,truck,like new,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/chandler-2015-gmc-denali-1500/7835885508.html
+Gmc,sierra 1500,6600,2000,139000,automatic,pickup,good,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2000-gmc-sierra-original-miles/7835883293.html
+Mercedes,benz sl500,123456,1970,47000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/scottsdale-1970-mercedes-600-swb-w100/7835882747.html
+Mercedes-Benz,sl500,3500,2002,114000,automatic,convertible,Unknown,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/scottsdale-2002-mercedes-clk-420/7835882145.html
+Hyundai,Elantra,4,2009,130850,automatic,Unknown,excellent,Unknown,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/tolleson-2009-hyundai-tucson/7835880185.html
+Gmc,sierra 1500,10900,2013,168000,automatic,pickup,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2013-gmc-sierra-work-truck-long/7835879123.html
+Hyundai,Elantra,3950,2009,199000,automatic,sedan,excellent,4,gas,5NPET46C69H477800,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2009-hyundai-sonota-cold-c/7835878444.html
+Nissan,rogue sport,14900,2015,151000,automatic,pickup,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-mint-2015-nissan-titan-4x4/7835875198.html
+Dodge,Unknown,2200,2005,160000,automatic,minivan,Unknown,6,gas,Unknown,rebuilt,https://phoenix.craigslist.org/wvl/cto/d/phoenix-2005-dodge-caravan-handicap-lift/7835874893.html
+Fiat,500c,6800,2017,40975,automatic,hatchback,excellent,Unknown,electric,Unknown,clean,https://phoenix.craigslist.org/cph/cto/d/phoenix-2017-fiat-500e/7835874516.html
+Ram,1500,23999,2020,63000,automatic,pickup,like new,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/gilbert-one-owner-2020-ram-1500/7835874027.html
+Ford,Unknown,9000,1981,112000,manual,pickup,good,6,gas,1FTCF10E6BPB03558,clean,https://phoenix.craigslist.org/nph/cto/d/payson-ford/7835872952.html
+Toyota,camry,31000,2020,250,automatic,SUV,like new,4,hybrid,Unknown,clean,https://phoenix.craigslist.org/nph/cto/d/scottsdale-2020-toyota-rav-awd-hybrid/7835872828.html
+Lexus,rx400h awd hybrid,18000,2010,84000,automatic,convertible,excellent,6,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/tempe-2010-lexus-is350-hardtop/7835871478.html
+Chevy,cruze lt,32000,2012,44000,automatic,coupe,excellent,8,gas,Unknown,clean,https://phoenix.craigslist.org/evl/cto/d/tempe-2012-chevy-camaro-ss-edelbrock/7835870285.html
+Dodge,Unknown,10800,2009,109000,automatic,pickup,Unknown,8,gas,Unknown,clean,https://phoenix.craigslist.org/wvl/cto/d/phoenix-09-dodge-ram-1500-extcab-drives/7835869279.html
+Buick,lacrosse,7200,2008,129435,automatic,SUV,excellent,6,gas,5GAER23758J134784,clean,https://phoenix.craigslist.org/nph/cto/d/phoenix-2008-buick-enclave-equinox/7835867329.html

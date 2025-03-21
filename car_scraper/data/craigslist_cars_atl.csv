@@ -1,0 +1,582 @@
+Brand,Model,Price,Year,Mileage,Transmission,Body Type,Condition,Cylinders,Fuel Type,VIN,Title Status,Link
+Ford,Focus BEV,4875,2013,82000,automatic,hatchback,like new,Unknown,electric,1FADP3R46DL319014,clean,https://atlanta.craigslist.org/sat/cto/d/norcross-2013-ford-focus-hatchback/7836378395.html
+Toyota,land cruiser,11200,2000,242000,automatic,SUV,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/kennesaw-2000-toyota-land-cruiser/7836375703.html
+Jeep,grand cherokee,4500,2005,155000,automatic,SUV,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/roswell-2005-grand-cherokee-laredo/7836375522.html
+Ford,Focus BEV,4400,2012,189000,automatic,pickup,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/lawrenceville-2012-ford-f250-super-duty/7836367770.html
+Nissan,Frontier,9500,2013,148000,automatic,pickup,excellent,4,gas,1N6BD0CT8DN744275,clean,https://atlanta.craigslist.org/nat/cto/d/lawrenceville-very-well-kept-2013/7836367502.html
+Toyota,land cruiser,5000,2006,142000,automatic,sedan,good,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/dallas-2006-toyota-corolla-le/7836367338.html
+Lexus,LS 430,7000,2005,218000,automatic,sedan,Unknown,8,gas,JTHBN36F655019135,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2005-lexus-ls-430/7836357408.html
+Chevrolet,silverado 1500,8900,2012,216000,automatic,pickup,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/cumming-2012-chevrolet-silverado-1500/7836355967.html
+Lexus,LS 430,2700,2001,253789,automatic,SUV,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/cumming-2001-lexus-rx-miles-price-is/7836355126.html
+Gmc,sierra 1500,5500,2012,189000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/griffin-2012-gmc-sierra-5500/7836354071.html
+Ford,Focus BEV,2400,1997,221000,automatic,SUV,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/cumming-1997-ford-expedition-xlt/7836353188.html
+Gmc,sierra 1500,6500,2001,180000,automatic,pickup,excellent,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/duluth-2001-gmc-sierra-2500-series/7836347899.html
+Nissan,Frontier,2250,2012,132000,automatic,sedan,good,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2012-nissan-altima-with-some/7836345206.html
+Dodge,Ram Light Duty 1500,8900,2011,147000,automatic,pickup,excellent,8,gas,1D7RB1CT5BS670623,clean,https://atlanta.craigslist.org/atl/cto/d/cumming-2011-dodge-ram-1500-big-horn/7836338380.html
+Ford,Focus BEV,58999,2020,23850,automatic,van,like new,6,gas,1FTYE1Y8XLKB74381,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2020-ford-transit-150/7836337881.html
+Toyota,land cruiser,6000,2007,115000,automatic,SUV,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2007-toyota-highlander-115k-v6/7836336148.html
+Chevrolet,silverado 1500,11500,2008,203000,automatic,SUV,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/wat/cto/d/dallas-chevrolet-avalanche-z71/7836336000.html
+Ford,Focus BEV,3200,1998,183996,automatic,pickup,excellent,8,gas,1FTZX17W0WKB43319,clean,https://atlanta.craigslist.org/sat/cto/d/newnan-1998-ford-f150-xl-special/7836315045.html
+Genesis,g90,33250,2019,68000,automatic,sedan,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/roswell-genesis/7836314472.html
+Honda,Pilot EX-L,5800,2015,113690,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/wat/cto/d/fairburn-2015-honda-pilot-ex/7836313005.html
+Jeep,grand cherokee,11500,2012,97875,manual,SUV,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/duluth-2012-jeep-wrangler/7836310544.html
+F150,king ranch 4x4,5500,2007,250000,automatic,pickup,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/social-circle-ford-king-ranch-extended/7836308259.html
+Infiniti,g37,8300,2009,123546,automatic,convertible,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/duluth-2009-infiniti-g37/7836307660.html
+Toyota,land cruiser,800,2013,210000,automatic,sedan,fair,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/cumming-2013-toyota-camry-se-door-sedan/7836305334.html
+Cadillac,DTS,1200,2007,159000,manual,sedan,good,8,diesel,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/buford-2007-cadillac-dts/7836304186.html
+Ford,Focus BEV,1850,2001,200000,manual,pickup,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/mcdonough-2001-ford-ranger-4x4-door/7836302345.html
+Ford,Focus BEV,3500,2005,123356,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/tucker-2005-ford-explorer-xlt/7836294464.html
+Ford,Focus BEV,13500,2013,146000,automatic,pickup,Unknown,6,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/lawrenceville-2013-ford-f150-fx4/7836292897.html
+Bmw,330ci,2800,2004,155000,automatic,sedan,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/cumming-2004-bmw-330ci-2800-cash/7836292133.html
+Mercedes,benz ml350,8500,2011,127000,automatic,SUV,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/lawrenceville-2011-mercedes-benz-ml350/7836289925.html
+Chevrolet,silverado 1500,6000,2017,140000,automatic,Unknown,Unknown,4,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/winder-2017-chevrolet-equinox/7836289121.html
+Bmw,330ci,7900,1998,50000,automatic,convertible,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/cumming-1998-bmw-z3-roadster-right-hand/7836288985.html
+Toyota,land cruiser,8300,2014,208000,automatic,minivan,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/cumming-2014-toyota-sienna-xle-8300-cash/7836288832.html
+Dodge,Ram Light Duty 1500,17700,2020,152000,automatic,pickup,like new,6,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/lawrenceville-2020-ram-big-horn/7836288637.html
+Ford,Focus BEV,11900,2003,194000,automatic,truck,good,8,diesel,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/dawsonville-2003-f350-superduty/7836287442.html
+Jeep,grand cherokee,17900,2008,126000,automatic,SUV,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/dawsonville-2008-jeep-rubicon/7836287193.html
+Ford,Focus BEV,34995,2016,23650,automatic,bus,good,10,gas,1FDGF5GY1GEC05244,clean,https://atlanta.craigslist.org/atl/cto/d/stockbridge-2016-f550-shuttle-bus/7836286812.html
+Jeep,grand cherokee,2500,2004,243755,automatic,SUV,good,6,gas,1J4GK48K54W116541,clean,https://atlanta.craigslist.org/atl/cto/d/cumming-2004-jeep-liberty-sport-drives/7836285041.html
+Toyota,land cruiser,1600,2003,293300,automatic,sedan,fair,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/flowery-branch-2003-toyota-camry-le-v6/7836281201.html
+Volkswagen,Jetta SEL,5500,2012,90000,automatic,sedan,excellent,5,gas,3VWLP7AJ1CM301562,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2012-volkswagen-jetta-sel/7836281023.html
+Chevy,silverado 1500,17999,2017,58000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2017-chevrolet-silverado-lt-4x4/7836280771.html
+Saturn,aura,3000,2009,115000,automatic,Unknown,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2009-saturn-aura-malibu-super/7836280720.html
+Ford,Focus BEV,2499,2012,201000,automatic,SUV,like new,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/pine-lake-2012-ford-escape-xlt-4cyl-suv/7836279946.html
+Gmc,sierra 1500,10995,2013,212000,automatic,pickup,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/kennesaw-2013-gmc-sierra-x4/7836277716.html
+Honda,Pilot EX-L,3600,2009,154000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/lawrenceville-2009-honda-accord/7836276406.html
+Chevrolet,silverado 1500,20000,2008,25800,automatic,pickup,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/hazelwood-2008-chevrolet-silverado-25k/7836276401.html
+Homda,odyssey,3300,2006,152000,automatic,minivan,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/lawrenceville-2006-honda-odyssey/7836276216.html
+Honda,Pilot EX-L,9100,2009,80587,automatic,minivan,good,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/conyers-2009-honda-odyssey-ex/7836274370.html
+Chrysler,200 200S,3925,2015,166119,automatic,sedan,good,6,gas,1C3CCCBGXFN529987,clean,https://atlanta.craigslist.org/atl/cto/d/norcross-2015-chrysler-s200/7836269732.html
+Honda,Pilot EX-L,8500,2011,140812,automatic,Unknown,like new,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/lawrenceville-honda-accord-crosstour-v6/7836269585.html
+Audi,Q5 3.0T Premium Plus S Line,7999,2015,170936,automatic,SUV,like new,6,gas,WA1DGAFP5FA046296,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2015-audi-q5-in-excellent/7836267232.html
+Duramax,2500HD GMC SIERRA,47000,2019,129000,automatic,pickup,like new,8,diesel,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/montmorenci-2500-hd-gmc-sierra-slt-4x4/7836261977.html
+Rockford,Fosgate,1000,2025,12,other,other,excellent,12,electric,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/mcdonough-rockford-fosgate-power-dvc-12/7836255992.html
+Kicker,Comp Q,300,2025,15,other,other,new,Unknown,electric,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/mcdonough-kicker-comp-15/7836255964.html
+Toyota,land cruiser,22300,2021,30000,automatic,hatchback,like new,4,hybrid,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/mcdonough-2021-prius-prime-limited-plug/7836255706.html
+Ford,Focus BEV,4400,2009,102000,automatic,SUV,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2009-ford-edge-awd-sel-roof-ac/7836253102.html
+Toyota,land cruiser,4199,2009,133000,automatic,sedan,good,4,hybrid,4T1BB46K19U084825,clean,https://atlanta.craigslist.org/nat/cto/d/lawrenceville-no-repairs-neededtoyota/7836252169.html
+Chevrolet,silverado 1500,4099,2011,122000,automatic,sedan,excellent,6,gas,2G1WB5EK2B1217805,clean,https://atlanta.craigslist.org/nat/cto/d/lilburn-no-repairs-neededwant-clean/7836252063.html
+Jeep,grand cherokee,4500,2011,132000,automatic,SUV,good,6,gas,1J4PP2GK3BW532109,clean,https://atlanta.craigslist.org/atl/cto/d/lilburn-low-mileage-clean-great-running/7836252004.html
+Honda,Pilot EX-L,8000,2008,157000,automatic,hatchback,like new,4,gas,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/hampton-2008-honda-element-ex/7836244803.html
+Infiniti,g37,11000,2013,78738,automatic,coupe,good,6,gas,JN1CV6ELXDM982643,rebuilt,https://atlanta.craigslist.org/wat/cto/d/douglasville-2013-infiniti-g37x-coupe/7836243947.html
+Toyota,land cruiser,3500,2001,215000,automatic,SUV,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/decatur-2001-toyota-sequoia-sr/7836241473.html
+Nissan,Frontier,15900,2022,57998,automatic,sedan,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/duluth-2022-nissan-altima-25sv-clean/7836237777.html
+Genesis,g90,17750,2019,67300,automatic,sedan,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/duluth-2019-genesis-g70-20t-awd/7836233891.html
+Avalon,Unknown,3000,1999,166000,automatic,sedan,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/braselton-1999-avalon-for-sale/7836228121.html
+Honda,Pilot EX-L,7999,2013,158000,automatic,sedan,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/roswell-2013-honda-accord-ex/7836226609.html
+Honda,Pilot EX-L,6800,2010,164000,automatic,SUV,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/alpharetta-2010-honda-cr-ex-miles/7836223694.html
+Infiniti,g37,4500,2010,200000,manual,truck,excellent,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/douglasville-infinity-truck-for-sale-in/7836222367.html
+Lexus,LS 430,4995,2008,160000,automatic,sedan,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/decatur-2008-lexus-gs-350/7836215270.html
+Toyota,land cruiser,7500,2008,149000,automatic,pickup,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/norcross-2008-toyota-tundra-sr5-crewcab/7836214651.html
+Chrysler,200 200S,4000,2006,227500,automatic,sedan,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/buford-chrysler-pt-cruiser-2006/7836214574.html
+Ford,Focus BEV,8750,2006,176000,automatic,pickup,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/alpharetta-2006-ford-f150-9inch-lift/7836205617.html
+Pontiac,Buick Olds Cadillac,30,1964,1,other,Unknown,Unknown,Unknown,other,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/marietta-buick-olds-pontiac-cadillac/7836199724.html
+Ford,Focus BEV,8500,2006,209000,automatic,pickup,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/buford-2006-ford-f150-supercrew-fx4/7836199712.html
+Ford,Focus BEV,18500,2000,100807,automatic,Unknown,Unknown,Unknown,diesel,Unknown,clean,https://atlanta.craigslist.org/wat/cto/d/temple-2000-f650/7836198380.html
+Buick,Reatta,4800,1990,151000,automatic,coupe,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/commerce-1990-buick-reatta-seater-coupe/7836197456.html
+Toyota,land cruiser,7990,2011,147200,automatic,minivan,excellent,6,gas,5TDYK3DC9BS147047,clean,https://atlanta.craigslist.org/nat/cto/d/duluth-2011-toyota-sienna-xle/7836196662.html
+Nova,Unknown,25000,1973,111111,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/wat/cto/d/douglasville-1973-chevy-nova/7836196269.html
+Infiniti,g37,3900,2009,135000,automatic,Unknown,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2009-infiniti-m35x-all-wheel/7836186060.html
+Toyota,land cruiser,22000,2019,69000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/smyrna-2019-toyota-tacoma/7836184207.html
+Jeep,grand cherokee,28500,2015,38000,automatic,SUV,like new,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-jeep-wrangler-unlinited-sahara/7836180893.html
+Bmw,330ci,4500,2006,200000,manual,wagon,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-manual-speed-2006-bmw-325xi/7836172652.html
+Ford,Focus BEV,14900,2008,169000,automatic,pickup,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2008-ford-350-super-duty-lariat/7836165655.html
+Honda,Pilot EX-L,4000,2001,171200,automatic,minivan,fair,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/decatur-2001-honda-odyssey/7836161376.html
+Audi,Q5 3.0T Premium Plus S Line,1495,2001,241000,manual,sedan,good,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/dawsonville-audi-a4-quattro/7836158888.html
+Lincoln,Navigator,4950,2006,224309,automatic,SUV,Unknown,8,gas,5LMFU27596LJ10363,clean,https://atlanta.craigslist.org/eat/cto/d/grayson-2006-linocln-navigator/7836152103.html
+International,4700,3000,1996,350538,automatic,truck,Unknown,8,diesel,1HTSCABM1TH379086,clean,https://atlanta.craigslist.org/sat/cto/d/rex-1996-international-444-series-truck/7836151945.html
+Toyota,land cruiser,20500,2013,94899,automatic,SUV,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/atlanta-2013-toyota-4runner-buckhead/7836151268.html
+Cadillac,DTS,2500,2010,148000,automatic,sedan,salvage,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/buford-gorgeous-black-on-black-cadi-cts1/7836139260.html
+Saab,9-5 Arc,1000,2005,124412,manual,sedan,good,4,gas,YS3ED45A253514370,clean,https://atlanta.craigslist.org/nat/cto/d/cartersville-2005-saab-95/7836138652.html
+Chevrolet,silverado 1500,48500,1961,91454,automatic,convertible,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/anniston-1961-corvette-convertible/7836135542.html
+Jaguar,xk8 coupe,13800,2005,86000,automatic,coupe,excellent,8,gas,SAJDA41C552A43747,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-jaguar-xk8-coupe-mi/7836121183.html
+Bmw,330ci,267500,2020,94000,automatic,sedan,like new,6,gas,WBA7T2C08LGF96841,clean,https://atlanta.craigslist.org/nat/cto/d/marietta-2020-bmw-740i/7836117326.html
+Chevrolet,silverado 1500,9800,1987,87000,automatic,pickup,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/smyrna-1987-elcamino-ss/7836113779.html
+Ford,Focus BEV,6900,2009,137000,automatic,pickup,like new,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/alpharetta-2009-ford-150/7836109068.html
+Gmc,sierra 1500,5500,2012,189000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/griffin-2012-gmc-sierra/7836108866.html
+Ford,Focus BEV,10500,2015,105000,automatic,pickup,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/alpharetta-2015-ford-250-with-105k-miles/7836107633.html
+Isuzu,Trooper LS 4WD with tow package,4000,1995,144850,automatic,SUV,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/wat/cto/d/douglasville-1995-isuzu-trooper-ls-4wd/7836104839.html
+Ford,Focus BEV,11500,2015,105000,automatic,pickup,like new,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/alpharetta-2015-ford-250/7836104406.html
+Dodge,Ram Light Duty 1500,3200,2013,157000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/stockbridge-2013-dodge-avenger-miles/7836092076.html
+Cadillac,DTS,5500,1993,125000,automatic,coupe,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/kennesaw-cadillac-coupe-deville-1993/7836089653.html
+Bmw,330ci,8000,1998,74000,automatic,Unknown,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/acworth-1998-bmw-z3-roadster/7836088680.html
+Pontiac,Buick Olds Cadillac,6500,2005,99256,automatic,hatchback,excellent,4,gas,5Y2SL63895Z442718,clean,https://atlanta.craigslist.org/nat/cto/d/norcross-2005-pontiac-vibe-hatchback/7836082501.html
+Toyota,land cruiser,3950,2006,200000,automatic,SUV,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/conyers-2006-toyota-highlander-sport/7836078912.html
+Honda,Pilot EX-L,4350,2007,150000,automatic,minivan,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/roswell-2007-honda-odyssey/7836074814.html
+Chevrolet,silverado 1500,5900,2015,91000,automatic,sedan,excellent,4,gas,1G11B5SL0FF331193,clean,https://atlanta.craigslist.org/atl/cto/d/cumming-2015-chevrolet-malibu-ls-drives/7836069865.html
+Hyundai,veloster,5200,2016,96321,automatic,coupe,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/decatur-2016-hyundai-veloster/7836061825.html
+Bmw,330ci,13500,2004,105000,other,convertible,good,6,gas,WBSBR93494PK04948,clean,https://atlanta.craigslist.org/atl/cto/d/stone-mountain-2002-bmw-m3-convertible/7836060362.html
+Ford,Focus BEV,16600,1930,1000,manual,other,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/alpharetta-1930-ford-model/7836059711.html
+Chevrolet,silverado 1500,4700,2013,103321,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/decatur-2013-chevrolet-cruze/7836058354.html
+Lexus,LS 430,6450,2010,170000,automatic,sedan,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/snellville-2010-lexus-ls460/7836055120.html
+Honda,Pilot EX-L,4925,2007,159000,automatic,minivan,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/lawrenceville-2007-honda-odyssey-ex/7836054649.html
+Hyundai,veloster,4800,2010,183214,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/decatur-2010-hyundai-veracruz/7836053133.html
+Ford,Focus BEV,5900,2005,219000,automatic,truck,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/lawrenceville-2005-ford-f150-4x4/7836051421.html
+Ford,Focus BEV,5500,2013,135000,automatic,van,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/duluth-2013-ford-e350-econoline-cargo/7836049224.html
+Ford,Focus BEV,4900,2006,142000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/lawrenceville-2006-ford-f150-long-bed/7836044905.html
+Bmw,330ci,1500,2003,170000,automatic,sedan,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/lilburn-2003-bmw-330i-e46-mtech-sports/7836043810.html
+Bmw,330ci,1500,2002,220000,manual,Unknown,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2000s-bmw-series-coupe-project/7836037896.html
+Ford,Focus BEV,4600,2012,189000,automatic,pickup,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/lawrenceville-2012-ford-f250-super-duty/7836027940.html
+Lexus,LS 430,5500,2007,180000,automatic,sedan,like new,6,gas,JTHBJ46G272066905,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2007-lexus-es-350/7836026659.html
+International,4700,29000,2017,290000,automatic,truck,excellent,4,diesel,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/atlanta-2017-international-4400-reefer/7836022414.html
+Audi,Q5 3.0T Premium Plus S Line,16800,2017,83750,automatic,sedan,excellent,4,gas,WAUENAF48HN011833,clean,https://atlanta.craigslist.org/sat/cto/d/senoia-2017-audi-a4-premium-plus-quattro/7836017891.html
+Nissan,Frontier,4500,2010,110000,automatic,SUV,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-nissan-murano-2010-sl-4wd-pano/7836016934.html
+Lexus,LS 430,15999,2016,99204,automatic,sedan,Unknown,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2016-lexus-is200t-sport/7836015108.html
+Jaguar,xk8 coupe,1000,2002,162082,automatic,sedan,fair,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/winder-2002-jaguar-type-door-sedan-30l/7836012982.html
+Mercedes-Benz,SL 63,29999,2013,119122,automatic,convertible,Unknown,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2013-mercedes-benz-sl63-amg/7836012453.html
+Nissan,Frontier,9999,2005,121657,automatic,coupe,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2005-nissan-350z-enthusiast/7836011080.html
+Toyota,land cruiser,4200,2005,183500,automatic,SUV,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/lawrenceville-for-sale-toyota/7836003529.html
+Toyota,land cruiser,7700,2014,131000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/lawrenceville-2014-toyota-camry/7836002711.html
+Honda,Pilot EX-L,3850,2005,144000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/lawrenceville-05-honda-pilot-awd/7836001565.html
+Chevrolet,silverado 1500,39000,2013,83000,automatic,pickup,like new,8,diesel,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/montmorenci-duramax-2500-hd-chevrolet/7835999031.html
+Gmc,sierra 1500,6500,2013,176123,automatic,SUV,good,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/alpharetta-2013-gmc-terrain-private-sale/7835996643.html
+Bmw,330ci,7500,2008,155684,automatic,convertible,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/alpharetta-bmw-128i/7835996582.html
+Honda,Pilot EX-L,5500,2006,202132,automatic,coupe,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/alpharetta-honda-accord-coupe/7835996520.html
+Bmw,330ci,7900,2010,160129,automatic,SUV,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/alpharetta-bmw-x5-30l-great-car/7835996392.html
+Bmw,330ci,7900,2007,159123,automatic,sedan,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/alpharetta-bmw-335i-super-clean-twin/7835996343.html
+Bmw,330ci,11900,2011,168512,automatic,SUV,excellent,6,diesel,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/alpharetta-bmw-x5d-diesel-one-owner-all/7835996209.html
+Infinity,G35 Immaculate,7900,2008,157213,automatic,SUV,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/alpharetta-infiniti-ex35-private-sale/7835996119.html
+Infinity,G35 Immaculate,6500,2009,132331,automatic,sedan,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/alpharetta-2009-infinity-37/7835996067.html
+Vw,JETTA WAGON DIESEL,7900,2013,135723,automatic,wagon,excellent,4,diesel,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/alpharetta-2013-vw-jetta-tdi-wagon-hard/7835995909.html
+Gmc,sierra 1500,21000,2005,151000,automatic,pickup,excellent,8,diesel,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/montmorenci-duramax-2500hd-gmc-sierra/7835994379.html
+Ford,Focus BEV,5750,2008,327000,manual,truck,good,5,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/ball-ground-2008-ford-250-super-duty/7835993982.html
+Duramax,2500HD GMC SIERRA,43000,2019,123000,automatic,pickup,like new,8,diesel,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/montmorenci-chevrolet-2500-hd-silverado/7835991924.html
+Jeep,grand cherokee,41500,2021,56000,automatic,pickup,like new,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/locust-grove-jeep-gladiator-mojave/7835985417.html
+Ford,Focus BEV,28000,2024,7400,automatic,truck,excellent,4,hybrid,Unknown,lien,https://atlanta.craigslist.org/atl/cto/d/atlanta-2024-chili-pepper-ford-maverick/7835977093.html
+Mercedes,benz ml350,10999,2009,110000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/newnan-low-miles-2009-mercedes-benz/7835969297.html
+Ford,Focus BEV,1500,2014,203705,automatic,sedan,fair,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/covington-mechanic-speacial-2014-ford/7835968454.html
+Honda,Pilot EX-L,18000,2019,53000,automatic,SUV,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/marietta-2019-honda-hr-lx-clean-title/7835962667.html
+Nissan,Frontier,950,2012,999999,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/oxford-2012-nissan-altima-25s/7835960128.html
+Lexus,LS 430,3500,2005,165000,automatic,sedan,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-lexus-es-330/7835958566.html
+Jeep,grand cherokee,8400,2016,161650,automatic,SUV,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/locust-grove-jeep/7835957736.html
+Ford,Focus BEV,69500,2021,29198,automatic,Unknown,like new,8,diesel,Unknown,clean,https://atlanta.craigslist.org/wat/cto/d/douglasville-2021-ford-f450-limited-29k/7835954984.html
+Acura,integra,7000,1998,195235,manual,coupe,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/redan-1998-acura-integra-18l/7835953314.html
+Nissan,Frontier,6500,2016,124436,automatic,sedan,Unknown,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/lawrenceville-2016-nissan-sentra-with/7835950479.html
+Toyota,land cruiser,4250,2011,243000,automatic,minivan,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/duluth-2011-toyota-sienna-le-leather/7835949272.html
+Ford,Focus BEV,2000,1998,170000,automatic,convertible,fair,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/lilburn-1998-mustang-convertible/7835946619.html
+International,4700,11500,2009,301511,automatic,truck,excellent,Unknown,diesel,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/peachtree-corners-2009-international/7835946370.html
+T7F042-Fvr,Unknown,11500,2007,300000,automatic,truck,excellent,5,diesel,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/norcross-2007-isuzu-t7f042-fvr/7835946034.html
+Charger,Unknown,525,2008,201000,automatic,sedan,good,6,gas,Unknown,missing,https://atlanta.craigslist.org/eat/cto/d/stone-mountain-2008-charger/7835945221.html
+Toyota,land cruiser,2995,2008,255656,automatic,sedan,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/douglasville-2008-toyota-camry-cash-no/7835940287.html
+Gmc,sierra 1500,8500,2014,190000,automatic,SUV,like new,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/lithia-springs-2014-gmc-acadia-slt-nice/7835936910.html
+Kia,soul,3800,2010,136784,automatic,wagon,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/red-oak-2010-kia-soul/7835930594.html
+International,4700,28500,2007,526219,automatic,truck,excellent,6,diesel,Unknown,clean,https://atlanta.craigslist.org/wat/cto/d/cartersville-2007-international-4300/7835925794.html
+Ford,Focus BEV,38700,2019,177180,automatic,pickup,Unknown,8,diesel,1FT7W2BT2KED99578,clean,https://atlanta.craigslist.org/nat/cto/d/atlanta-2019-ford-f250-v8-67-es-disel/7835922267.html
+Hyundai,veloster,2500,2002,200000,automatic,SUV,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/alpharetta-2002-hyundai-santa-fe/7835921678.html
+Lexus,LS 430,2800,2006,198000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/lilburn-student-vehicle/7835920066.html
+Chevrolet,silverado 1500,7500,1990,160000,automatic,hatchback,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/monroe-1990-chevrolet-corvette-door/7835912950.html
+Ford,Focus BEV,3500,2010,138000,automatic,Unknown,Unknown,Unknown,gas,Unknown,rebuilt,https://atlanta.craigslist.org/sat/cto/d/hampton-2010-ford-fusion/7835910457.html
+Chevrolet,silverado 1500,3800,2014,190000,automatic,SUV,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/peachtree-corners-chevrolet-equinox-2014/7835906982.html
+Toyota,land cruiser,3700,2008,203000,automatic,Unknown,good,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/peachtree-corners-toyota-scion-2008/7835906648.html
+Honda,Pilot EX-L,6499,2010,91000,automatic,sedan,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/greenville-2010-honda-accord-ex-super/7835904920.html
+Ford,Focus BEV,2500,2006,188000,automatic,sedan,like new,6,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/lithonia-ford-fusion/7835900848.html
+Nissan,Frontier,13950,2019,151536,automatic,van,Unknown,Unknown,gas,1N6BF0KM2KN806660,clean,https://atlanta.craigslist.org/eat/cto/d/grayson-2019-nissan-nv1500/7835898881.html
+Ford,Focus BEV,3495,2003,161000,automatic,wagon,good,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/marietta-2003-ford-focus-ztw-wagon/7835895864.html
+Mini,cooper clubman,3300,2010,156000,automatic,coupe,fair,4,gas,WMWMF3C56ATZ63393,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2010-mini-cooper-british-green/7835895490.html
+Toyota,land cruiser,18900,2022,31300,automatic,SUV,like new,Unknown,hybrid,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/lithonia-2022-toyota-rav4-hybrid-xle/7835888120.html
+Ford,Focus BEV,3200,1997,146000,automatic,SUV,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-97-ford-explorer-xlt/7835885379.html
+Hyundai,veloster,7200,2014,140000,automatic,sedan,excellent,Unknown,gas,5NPDH4AEXEH469912,clean,https://atlanta.craigslist.org/wat/cto/d/hiram-2014-hyundai-elantra-limited-back/7835883956.html
+International,4700,9995,2012,260514,automatic,truck,fair,Unknown,diesel,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-box-truck/7835875810.html
+Dodge,Ram Light Duty 1500,12000,2007,143000,automatic,pickup,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/conyers-2007-dodge-dr-pickup/7835874624.html
+Honda,Pilot EX-L,3100,2010,168000,automatic,Unknown,good,4,hybrid,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/marietta-2010-honda-insight/7835874384.html
+"Hyundai,","Genesis, Dodge, Chevy",500,2018,20000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/riverdale-bad-credit-no-credit-okay/7835866006.html
+Toyota,land cruiser,6800,2013,137000,automatic,sedan,good,4,gas,2T1BU4EE1DC115839,clean,https://atlanta.craigslist.org/eat/cto/d/lawrenceville-2013-toyota-corolla/7835861364.html
+Buick,Reatta,9500,2015,120000,automatic,sedan,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/lawrenceville-2015-buick-regal-turbo/7835855182.html
+Ford,Focus BEV,5500,2007,167070,automatic,SUV,excellent,6,gas,1FMEU64E07UA78599,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-07-ford-explore-eddie-bauer/7835852886.html
+Lexus,LS 430,2000,2000,240000,automatic,SUV,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/canton-2000-lexus-rx-300/7835848213.html
+Hyundai,veloster,15995,2017,55644,automatic,SUV,excellent,4,gas,KM8J33A24HU291891,clean,https://atlanta.craigslist.org/nat/cto/d/lawrenceville-2017-hyundai-tucson/7835846506.html
+Dodge,Ram Light Duty 1500,2600,2012,210000,automatic,hatchback,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/norcross-2012-dodge-caliber-sxt/7835838208.html
+Ford,Focus BEV,17999,2008,114000,automatic,truck,Unknown,8,diesel,1FDAF56RX8EA01950,clean,https://atlanta.craigslist.org/atl/cto/d/marietta-2008-ford-550/7835832636.html
+Volkswagen,Jetta SEL,65000,2014,92000,automatic,sedan,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/rex-its-all-good-lp/7835826708.html
+Bmw,330ci,2900,2004,155000,automatic,sedan,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/cumming-2004-bmw-330ci-2900-cash/7835820210.html
+Chevy,silverado 1500,18500,2016,143000,automatic,van,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/marietta-2016-chevy-express-3500/7835814334.html
+Mazda,Miata,3950,1997,193000,manual,convertible,good,4,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/grayson-1997-mazda-miata/7835813077.html
+Infiniti,g37,4600,2008,154000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/lawrenceville-2008-infiniti-g35/7835799102.html
+Ford,Focus BEV,7500,2012,135121,automatic,coupe,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/red-oak-2012-matte-black-mustang/7835794818.html
+Mercedes,benz ml350,14500,2006,135000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/lawrenceville-2006-mercedes-benz-e55/7835792253.html
+International,4700,15000,2001,45343,manual,truck,good,6,diesel,Unknown,rebuilt,https://atlanta.craigslist.org/nat/cto/d/norcross-2001-international-4700-diesel/7835790661.html
+Cadillac,DTS,10500,2019,183703,automatic,sedan,excellent,6,gas,2G61U5S30K9123130,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2019-caddilac-xts/7835779472.html
+Kenworth,t300,53995,2006,155000,automatic,truck,like new,Unknown,diesel,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/chelsea-2006-kenworth-t300/7835779367.html
+Ford,Focus BEV,22000,2016,71305,automatic,pickup,good,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/atlanta-low-mileage-ford-super-duty-350/7835773984.html
+Toyota,land cruiser,5000,2014,108120,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/wat/cto/d/marietta-2014-toyota-corolla-plus/7835772612.html
+Honda,Pilot EX-L,3500,2004,182000,automatic,Unknown,good,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/norcross-honda-element-2004/7835772181.html
+Toyota,land cruiser,9000,2002,210000,automatic,pickup,Unknown,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/alpharetta-toyota-tacoma-2002-private/7835771757.html
+Cadillac,DTS,10000,1993,51219,automatic,convertible,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/lilburn-1993-cadillac-allante/7835768715.html
+International,4700,9500,2007,1137386,manual,truck,Unknown,Unknown,diesel,2HSCNAPR17C401916,clean,https://atlanta.craigslist.org/sat/cto/d/rex-2007-international-i/7835767620.html
+Honda,Pilot EX-L,18500,2018,97306,automatic,SUV,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/atlanta-2018-honda-pilot-ex/7835766918.html
+Toyota,land cruiser,5500,2014,158583,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/wat/cto/d/austell-2014-toyota-rav4-xle/7835759111.html
+Honda,Pilot EX-L,8000,2012,105705,automatic,coupe,good,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-honda-civic-coupe-ex-2dr-blue/7835756567.html
+Audi,Q5 3.0T Premium Plus S Line,3900,2010,137600,automatic,sedan,good,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/alpharetta-2010-audi-a4-quattro-20t/7835746719.html
+Honda,Pilot EX-L,5800,2012,150000,automatic,sedan,good,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/norcross-2012-honda-civic-lx-sedan/7835744614.html
+Chevrolet,silverado 1500,5900,2004,172000,automatic,van,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/norcross-2004-chevrolet-express-3500/7835742474.html
+Ford,Focus BEV,4800,2005,198000,automatic,van,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/norcross-2005-ford-econoline-e350-super/7835742121.html
+Ford,Focus BEV,2500,2015,170000,automatic,truck,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/barnesville-00-ford-box-truck/7835740828.html
+Chevrolet,silverado 1500,62500,1965,1965,manual,coupe,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/monroe-1965-chevrolet-corvette-speed/7835735826.html
+Ford,Focus BEV,12900,2015,129045,automatic,SUV,like new,6,gas,1FMJU1JT9FEF42339,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2015-king-ranch-ford-expedition/7835733112.html
+Mercedes,benz ml350,22900,2019,88900,automatic,sedan,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/canton-sleek-2019-mercedes-benz-class/7835732784.html
+Chevrolet,silverado 1500,11600,2018,117000,automatic,pickup,excellent,6,gas,1GCNCNEH5JZ196670,clean,https://atlanta.craigslist.org/atl/cto/d/marietta-2018-chevrolet-silverado-lift/7835716484.html
+Chevrolet,silverado 1500,32000,1965,37000,automatic,coupe,like new,8,gas,118,clean,https://atlanta.craigslist.org/atl/cto/d/sarasota-1965-chevrolet-nova-ss/7835705829.html
+Nissan,Frontier,3500,2010,174999,automatic,sedan,good,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-dependable-2010-altima/7835699204.html
+Freightliner,cascadia,19000,2015,705626,manual,truck,excellent,6,diesel,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/grayson-freightliner-cascadia-2015/7835689904.html
+Chevrolet,silverado 1500,9900,2003,59500,automatic,van,excellent,8,gas,1GAHG39U631129986,clean,https://atlanta.craigslist.org/nat/cto/d/duluth-2003-chevrolet-express/7835684295.html
+Nissan,Frontier,2500,2010,211000,automatic,sedan,fair,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/union-city-2010-nissan-maxima/7835684161.html
+Mercedes-Benz,SL 63,5995,2010,135000,automatic,sedan,excellent,6,gas,WDDGF8BB6AR125971,clean,https://atlanta.craigslist.org/nat/cto/d/buford-mercedes-benz-c300-4matic-luxury/7835683707.html
+Dodge,Ram Light Duty 1500,4200,2006,125000,automatic,Unknown,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2006-daytona-charger-rt-hemi/7835683416.html
+Ford,Focus BEV,900,1993,200000,automatic,pickup,fair,8,gas,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/lagrange-1993-f150-needs-engine-work/7835682584.html
+Ford,Focus BEV,6500,2015,139500,automatic,SUV,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/kennesaw-for-sale-ford-escape/7835666951.html
+Honda,Pilot EX-L,11900,2012,171000,automatic,SUV,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/austell-2012-honda-cr-ex/7835665752.html
+Toyota,land cruiser,15900,2011,135000,automatic,SUV,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/austell-2011-toyota-4runner-sr5/7835664575.html
+Freightliner,cascadia,26000,2014,176000,automatic,truck,excellent,Unknown,diesel,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2014-freightliner-m2-new-engine/7835659505.html
+Honda,Pilot EX-L,4000,2001,171200,automatic,minivan,fair,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/decatur-2001-honda-odyssey/7835656610.html
+Datsun,280z,4700,1978,97000,manual,Unknown,good,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/wat/cto/d/dallas-1978-datsun-280z/7835650075.html
+Ford,Focus BEV,25500,1972,20394,automatic,truck,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/cumming-1972-ford-f100-429-cobra-jet/7835646168.html
+Dodge,Ram Light Duty 1500,43500,2020,90000,automatic,pickup,Unknown,Unknown,diesel,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2020-dodge-ram-laramie-longhorn/7835645195.html
+Volkswagon,rabbit,3400,2009,160676,automatic,hatchback,fair,5,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/scottdale-2009-vw-rabbit-4dr/7835641958.html
+Tesla,s 85,9000,2013,113662,automatic,sedan,fair,Unknown,electric,5YJSA1CN8DFP20589,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-tesla-model-with-bad-battery/7835640401.html
+Bmw,330ci,11000,2011,102000,automatic,sedan,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/wat/cto/d/douglasville-2011-bmw-750li/7835638161.html
+Ram,3500 SLT,25500,2016,193231,manual,pickup,good,6,diesel,3C63R3HL6GG228956,clean,https://atlanta.craigslist.org/eat/cto/d/decatur-2016-ram-3500-turbo-diesel-slt/7835633413.html
+Chevrolet,silverado 1500,3000,1995,100000,automatic,pickup,good,8,gas,1GCDC14K0PZ136497,clean,https://atlanta.craigslist.org/eat/cto/d/lithonia-1994-chevy-silverado/7835632427.html
+Ford,Focus BEV,15995,2007,495000,automatic,other,good,8,diesel,1FDXX46P57EB45260,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-one-owner-2007-ford-f450sd/7835625942.html
+Toyota,land cruiser,6800,2014,219300,automatic,minivan,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/conyers-2014-toyota-sienna-xle/7835625926.html
+Chevrolet,silverado 1500,7995,2011,52000,automatic,sedan,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/conyers-2011-chevrolet-cruze-ltz-black/7835622362.html
+Bmw,330ci,1900,2006,179120,automatic,sedan,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/austell-reduced-price-2006-bmw-330i-1900/7835621100.html
+Mazda,Miata,9995,2012,81000,automatic,sedan,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/conyers-2012-mazda-sedan-gray-auto-81/7835620455.html
+Honda,Pilot EX-L,9995,2009,68000,automatic,hatchback,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/conyers-2009-honda-fit-sport-gray-auto/7835618819.html
+Nissan,Frontier,16900,2018,29726,manual,SUV,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/marietta-2018-nissan-rogue-29k-miles/7835615801.html
+Toyota,land cruiser,4300,2004,229568,automatic,SUV,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/austell-reduced-price-2004-toyota/7835613196.html
+Volvo,xc90,4300,2008,178727,automatic,SUV,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/austell-2008-volvo-xc-or-best-offer/7835612517.html
+Chrysler,200 200S,7995,2013,47000,automatic,sedan,like new,6,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/conyers-2013-chrysler-200-limited-blue/7835605565.html
+Infiniti,g37,6900,2013,124000,automatic,SUV,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/atlanta-2013-infiniti-fx37/7835598823.html
+Honda,Pilot EX-L,4000,2011,122000,automatic,sedan,good,4,gas,1HGCP2F66BA036239,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2011-honda-accord/7835596894.html
+Ford,Focus BEV,18999,2002,134041,automatic,van,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/douglasville-carpet-cleaning-van/7835596286.html
+Ford,Focus BEV,17000,2014,114123,manual,coupe,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/peachtree-corners-2014-ford-mustang-gt/7835594146.html
+Ford,Focus BEV,3750,2013,164800,automatic,sedan,excellent,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2013-ford-focus-se/7835593994.html
+Kia,soul,12499,2018,85059,manual,Unknown,like new,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/marietta-2018-kia-optima-sx-turbo/7835592643.html
+Toyota,land cruiser,2995,2008,255656,automatic,sedan,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/douglasville-2008-toyota-camry-cash-no/7835592176.html
+Honda,Pilot EX-L,5799,2003,209060,automatic,SUV,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/holly-springs-2003-honda-cr/7835584252.html
+Chevrolet,silverado 1500,26900,2002,110500,automatic,van,excellent,8,gas,1GBFG15R421142467,clean,https://atlanta.craigslist.org/atl/cto/d/carnesville-02-chevy-very-beautiful/7835579243.html
+Honda,Pilot EX-L,6000,2008,151900,automatic,SUV,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/grayson-2008-honda-cr/7835578803.html
+Hyundai,veloster,4000,2007,159000,automatic,minivan,fair,6,gas,KNDMC233X76039485,clean,https://atlanta.craigslist.org/nat/cto/d/marietta-2007-hyundai-entourage/7835576104.html
+Mazda,Miata,3200,2006,160000,automatic,hatchback,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/norcross-2006-mazda-s/7835572898.html
+Honda,Pilot EX-L,6400,2012,180000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/snellville-honda-pilot-2012/7835572795.html
+Honda,Pilot EX-L,6200,2007,98675,automatic,sedan,excellent,4,gas,2HGFA16517H506783,clean,https://atlanta.craigslist.org/atl/cto/d/union-city-2007-honda-civic-lx-for-sale/7835570731.html
+Mercedes-Benz,SL 63,8750,2013,119000,automatic,SUV,Unknown,6,gas,WDCGG8JB3DG094780,clean,https://atlanta.craigslist.org/nat/cto/d/duluth-mercedes-benz-mb-glk-350-4matic/7835570020.html
+Chevrolet,silverado 1500,19500,2000,54000,manual,convertible,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/mcdonough-chevrolet-corvette-c5/7835570003.html
+Ford,Focus BEV,5700,2013,228370,automatic,pickup,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/kennesaw-2013-150-xl/7835566010.html
+Mitsubishi,Lancer Evo 9,32000,2006,113000,manual,sedan,good,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/smyrna-2006-mitsubishi-lancer-evolution/7835563026.html
+Nissan,Frontier,2400,2003,290000,automatic,sedan,good,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/acworth-2003-nissan-altima/7835560290.html
+Jaguar,xk8 coupe,7000,2007,200000,automatic,sedan,fair,6,gas,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/forest-park-2007-jaguar/7835558857.html
+Dodge,Ram Light Duty 1500,5700,2016,135192,automatic,minivan,good,6,gas,2C4RDGCG1GR265880,clean,https://atlanta.craigslist.org/atl/cto/d/cumming-2016-dodge-grand-caravan-sxt/7835557173.html
+Ford,Focus BEV,9999,2004,3500,automatic,pickup,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/buford-2004-ford-f150-supercrew-lariat/7835556047.html
+Ford,Focus BEV,24800,1955,6000,automatic,truck,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/canton-1955-ford-f100-truck-restored-air/7835548982.html
+Cadillac,DTS,12500,1974,54000,automatic,sedan,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/sarasota-1974-cadillac-sedan-deville-in/7835548537.html
+Kenworth,t300,83000,2022,266000,automatic,truck,good,6,diesel,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/buford-2022-kenworth-t680/7835538800.html
+Chevrolet,silverado 1500,18500,2016,242000,automatic,SUV,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2016-chevy-suburban-lt-owner/7835537236.html
+Lincoln,Navigator,13250,2016,91200,automatic,SUV,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/woodstock-2016-lincoln-mkc-reserve/7835523638.html
+Ford,Focus BEV,7000,1990,83000,automatic,Unknown,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/peachtree-corners-1990-ford-crown/7835516083.html
+Lexus,LS 430,7900,2004,276000,automatic,SUV,Unknown,8,gas,JTJBT20X440037144,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2004-lexus-gx-470/7835502998.html
+Ford,Focus BEV,25000,1991,100000,manual,truck,Unknown,Unknown,diesel,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/riverdale-special-of-the-month-91-ford/7835495976.html
+Lexus,LS 430,9700,2010,177700,automatic,SUV,good,6,hybrid,JTJBC1BA4A2009458,clean,https://atlanta.craigslist.org/nat/cto/d/alpharetta-2010-lexus-rx450h/7835485571.html
+Ford,Focus BEV,2900,2005,209000,automatic,SUV,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/locust-grove-2005-ford-escape-xlt-soild/7835483775.html
+Ford,Focus BEV,19800,1967,76000,automatic,convertible,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/canton-1967-ford-galaxie-500-convertible/7835479168.html
+Chevrolet,silverado 1500,3600,2011,181000,automatic,SUV,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/lilburn-2013-chevrolet-equinox-lt/7835478638.html
+Ford,Focus BEV,3000,2003,250000,automatic,van,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/marietta-2003-ford-150-econoline-van/7835477994.html
+Chevrolet,silverado 1500,3500,1980,109000,manual,Unknown,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/atlanta-1980-el-camino/7835477192.html
+Chevy,silverado 1500,12500,2005,232000,automatic,truck,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/norcross-2005-chevy-silverado-1500-z71/7835476033.html
+Chevrolet,silverado 1500,5800,2016,101000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/pine-lake-2016-chevrolet-cruze/7835476031.html
+Subaru,Crosstrek,17000,2019,93100,automatic,SUV,like new,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/lawrenceville-2019-subaru-crosstrek/7835475126.html
+Volvo,xc90,8500,2007,1379370,manual,truck,Unknown,6,diesel,4V4M19GF07N451668,clean,https://atlanta.craigslist.org/sat/cto/d/rex-2007-volvo-vnm/7835471168.html
+Volvo,xc90,10500,2016,842132,other,other,Unknown,6,other,4V5N39UG4GN946785,clean,https://atlanta.craigslist.org/sat/cto/d/rex-2016-volvo-vnl/7835470813.html
+Mercury,Grand Marquis,2800,1996,185000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/red-oak-1996-mercury-grand-marquis/7835456856.html
+Porsche,Cayman,43900,2008,81756,other,coupe,like new,6,gas,WP0AA29858U760452,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2008-porsche-cayman-987-gt3/7835452900.html
+Nissan,Frontier,6500,2012,140000,automatic,SUV,excellent,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/wat/cto/d/villa-rica-2012-nisaan-murano-low-miles/7835451170.html
+Hummer,H2,19000,2006,247000,automatic,SUV,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/mcdonough-2006-hummer-h2/7835448265.html
+Volkswagen,Jetta SEL,15000,1973,90000,manual,coupe,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/mcdonough-1973-vw-beetle/7835448225.html
+Bmw,330ci,5888,2011,177777,automatic,sedan,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/red-oak-2011-bmw-528i/7835445317.html
+Bmw,330ci,13495,2014,71575,automatic,sedan,excellent,6,gas,WBA5B1C50ED483337,clean,https://atlanta.craigslist.org/nat/cto/d/ball-ground-2014-bmw-535i/7835442505.html
+Ford,Focus BEV,4500,2012,173000,automatic,sedan,like new,4,gas,1FAHP3H29CL140630,clean,https://atlanta.craigslist.org/atl/cto/d/mcdonough-2012-ford-focus-sel/7835430416.html
+Ford,Focus BEV,1500,2006,108000,automatic,SUV,excellent,6,gas,1FMZK05116GA34723,clean,https://atlanta.craigslist.org/atl/cto/d/mcdonough-2006-ford-freestyle/7835430368.html
+Chrysler,200 200S,4000,2005,135000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/lithonia-2005-chrysler-300/7835416209.html
+Ford,Focus BEV,2999,2012,185342,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/decatur-2012-ford-fusion/7835408862.html
+Honda,Pilot EX-L,2500,2010,225000,automatic,sedan,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/decatur-honda-accord-sedan/7835403485.html
+Chevrolet,silverado 1500,5300,2004,281312,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/marietta-2004-chevrolet-tahoe-lt/7835403108.html
+International,4700,22000,2015,64000,automatic,truck,excellent,6,diesel,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2015-international-daycab-semi/7835398458.html
+Infiniti,g37,3500,2005,175000,automatic,Unknown,good,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/peachtree-corners-infiniti/7835392336.html
+Ford,Focus BEV,10500,2005,149000,automatic,pickup,excellent,8,diesel,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/peachtree-corners-ford-f350-xl-super/7835392165.html
+Buick,Reatta,4500,2004,124000,automatic,sedan,excellent,6,gas,1G4HP52K644178497,clean,https://atlanta.craigslist.org/atl/cto/d/stone-mountain-car/7835391607.html
+Mitsubishi,Lancer Evo 9,4990,2015,56412,automatic,hatchback,good,4,gas,ML32A4HJXFH009294,clean,https://atlanta.craigslist.org/atl/cto/d/snellville-mitsubishi-mirage-es/7835389814.html
+Isuzu,Trooper LS 4WD with tow package,5590,2005,93412,automatic,SUV,like new,6,gas,4NUDS13S052700356,clean,https://atlanta.craigslist.org/atl/cto/d/snellville-isuzu-ascender-4door-wagon/7835384870.html
+Saturn,aura,5990,2004,85142,automatic,SUV,like new,6,gas,5GZCZ53424S835122,clean,https://atlanta.craigslist.org/atl/cto/d/snellville-saturn-vue-fwd-35l-v6honda/7835383860.html
+Volvo,xc90,7999,2013,145124,automatic,SUV,like new,6,gas,YV4902DZ8D2451471,clean,https://atlanta.craigslist.org/atl/cto/d/snellville-volvo-xc60-t6-platinum/7835382782.html
+Mazda,Miata,4999,2009,170412,manual,sedan,excellent,4,gas,1YVHP81A095M12837,clean,https://atlanta.craigslist.org/atl/cto/d/snellville-mazda-4-cyl-sport-manual/7835374899.html
+Toyota,land cruiser,6500,2010,240000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/snellville-toyota-tundra-2010/7835373724.html
+Toyota,land cruiser,9999,2018,225412,automatic,SUV,excellent,4,hybrid,JTMRJREV3JD183479,clean,https://atlanta.craigslist.org/atl/cto/d/snellville-toyota-rav4-awd-hybrid-25l/7835372578.html
+Nissan,Frontier,3250,2009,146500,manual,SUV,good,6,gas,JN8AZ18U99W023525,clean,https://atlanta.craigslist.org/wat/cto/d/douglasville-2009-nissan-murano/7835372557.html
+Isuzu,Trooper LS 4WD with tow package,1,2003,1,automatic,other,Unknown,4,diesel,Unknown,parts only,https://atlanta.craigslist.org/wat/cto/d/austell-2003-isuzu-npr-parts/7835369002.html
+Nissan,Frontier,5800,2007,83000,automatic,sedan,like new,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/red-oak-car/7835364676.html
+Toyota,land cruiser,9999,2014,156412,automatic,SUV,excellent,4,gas,4T3ZA3BB3EU089246,clean,https://atlanta.craigslist.org/atl/cto/d/snellville-toyota-venza-le-fwd-27l-cyl/7835364216.html
+Honda,Pilot EX-L,9500,2014,150420,automatic,minivan,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/lawrenceville-2014-honda-odyssey-ex-fwd/7835363289.html
+Mercedes,benz ml350,37500,1968,17500,automatic,Unknown,fair,8,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/cleveland-1968-mercedes-600-w100/7835358508.html
+Nissan,Frontier,5499,2013,177412,automatic,coupe,like new,4,gas,1N4AL2EP3DC281671,clean,https://atlanta.craigslist.org/atl/cto/d/snellville-nissan-altima-4c-2d-coupe/7835358382.html
+Ford,Focus BEV,7900,2017,170000,automatic,SUV,Unknown,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/tucker-2017-ford-expedition-xlt/7835358370.html
+Nissan,Frontier,5999,2011,153412,automatic,SUV,like new,6,gas,JN8AZ1MU1BW064078,clean,https://atlanta.craigslist.org/atl/cto/d/snellville-2011-white-nissan-murano-fwd/7835355697.html
+Volkswagen,Jetta SEL,6700,2013,11311,automatic,sedan,good,Unknown,hybrid,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2013-volkswagen-jetta-hybrid/7835353275.html
+Lincoln,Navigator,7900,2012,98412,automatic,sedan,excellent,4,gas,3LNDL2L38CR836505,clean,https://atlanta.craigslist.org/atl/cto/d/snellville-black-lincoln-mkz-hybrid-4d/7835351674.html
+Chevrolet,silverado 1500,15000,2005,339000,automatic,pickup,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/wat/cto/d/winston-2005-chevrolet-silverado/7835350811.html
+Hyundai,veloster,12500,2014,74510,automatic,sedan,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/snellville-2014-hyundai-equus-signature/7835348200.html
+Chrysler,200 200S,11200,2010,300000,automatic,minivan,Unknown,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2010-chrysler-town-and-country/7835344380.html
+Dodge,Ram Light Duty 1500,6400,2015,106000,automatic,SUV,Unknown,4,gas,3C4PDCBBXFT707749,clean,https://atlanta.craigslist.org/wat/cto/d/hiram-2015-dodge-journey-sxt-106k/7835338631.html
+Jeep,grand cherokee,4800,2013,201000,automatic,SUV,Unknown,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/stockbridge-2013-jeep-grand-cherokee/7835338626.html
+Mitsubishi,Lancer Evo 9,6000,2013,123000,automatic,SUV,excellent,Unknown,gas,4A4AP3AU5DE006638,clean,https://atlanta.craigslist.org/wat/cto/d/hiram-2013-mitsubishi-outlander-sport-es/7835337676.html
+Ford,Focus BEV,8500,2014,80100,manual,hatchback,good,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/alpharetta-2014-ford-fiesta-st-80k/7835334556.html
+Chevrolet,silverado 1500,3000,2003,302000,automatic,SUV,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/roswell-2003-suburban-z71/7835330543.html
+Nissan,Frontier,11000,2017,256000,automatic,van,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/decatur-2017-nissan-nv2500/7835327371.html
+Chevrolet,silverado 1500,25000,1990,149000,manual,other,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/monroe-1990-chevrolet-3500-rollback-tow/7835319043.html
+Ford,Focus BEV,8000,2012,175000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2012-ford-f250-super-duty/7835300480.html
+Ford,Focus BEV,12000,2016,169667,automatic,pickup,good,8,gas,1FT7W2A69GEA78284,clean,https://atlanta.craigslist.org/nat/cto/d/atlanta-ford-f250-super-duty-crew-cab/7835299233.html
+Ford,Focus BEV,14999,2008,200677,automatic,truck,excellent,8,diesel,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/roswell-2008-ford-f450-xlt-4x4-diesel/7835299036.html
+Honda,Pilot EX-L,2000,2001,234204,automatic,minivan,fair,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/norcross-2001-honda-odyssey/7835294797.html
+Hyundai,veloster,4500,2014,224959,automatic,sedan,good,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/austell-car-for-sale/7835293808.html
+Chevrolet,silverado 1500,4000,2011,153000,automatic,sedan,good,6,gas,2G1WF5EK2B1111634,clean,https://atlanta.craigslist.org/wat/cto/d/bremen-2011-chevy-impala-ls/7835293580.html
+Land,rover range rover sport,6900,2008,189000,automatic,SUV,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/dallas-mint-condition-excellent-running/7835282976.html
+Gmc,sierra 1500,16500,2010,129259,automatic,pickup,Unknown,Unknown,gas,3GTRCVE02AG280134,clean,https://atlanta.craigslist.org/nat/cto/d/flowery-branch-2010-gmc-sierra-1500/7835273991.html
+Ford,Focus BEV,2000,1996,261750,automatic,pickup,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/kennesaw-1996-150-4x4/7835267672.html
+Subaru,Crosstrek,5500,1993,54000,automatic,coupe,good,4,gas,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/enterprise-subaru-vivio-top/7835264616.html
+Ford,Focus BEV,12000,2016,199824,automatic,pickup,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/duluth-ford-f150-super-cab/7835263252.html
+Toyota,land cruiser,38500,2022,38000,automatic,SUV,excellent,6,gas,Unknown,lien,https://atlanta.craigslist.org/nat/cto/d/buford-2022-toyota-4runner-sr5/7835261631.html
+Sterling,acterra,16000,2003,269000,automatic,truck,good,Unknown,diesel,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/norcross-sterling-acterra-dump-truck/7835261614.html
+Subaru,Crosstrek,7500,1994,32000,automatic,Unknown,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/enterprise-subaru-vivio-top/7835259839.html
+Honda,Pilot EX-L,5800,2008,200000,automatic,pickup,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/snellville-2008-honda-ridgeline/7835259099.html
+Nissan,Frontier,2250,2012,132000,automatic,sedan,good,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2012-nissan-altima-with-some/7835256170.html
+Bmw,330ci,4500,2015,117000,automatic,sedan,salvage,8,gas,Unknown,salvage,https://atlanta.craigslist.org/sat/cto/d/stockbridge-2015-bmw-428i-drive-sport/7835255137.html
+Honda,Pilot EX-L,4500,2009,147000,automatic,sedan,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/decatur-honda-accord/7835244362.html
+Chevrolet,silverado 1500,15000,2020,193000,automatic,pickup,excellent,8,gas,1GB1WLE78LF303267,clean,https://atlanta.craigslist.org/eat/cto/d/conyers-2020-chevy-silverado/7835243105.html
+Toyota,land cruiser,3750,2009,171000,automatic,hatchback,good,4,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/conyers-2013-kia-rio-09-toyota-prius/7835241355.html
+Ford,Focus BEV,25000,2016,126000,automatic,pickup,excellent,8,gas,1FTEW1CF8GFD32429,clean,https://atlanta.craigslist.org/nat/cto/d/acworth-2016-ford-f150-super-crew-lariat/7835237877.html
+Dodge,Ram Light Duty 1500,3000,1999,211100,automatic,van,excellent,Unknown,gas,Unknown,rebuilt,https://atlanta.craigslist.org/wat/cto/d/austell-great-work-and-travel-van/7835227797.html
+Packard,Unknown,32000,1948,56000,manual,sedan,excellent,8,gas,Unknown,missing,https://atlanta.craigslist.org/nat/cto/d/demorest-1948-packard-custom-eight/7835225729.html
+Jeep,grand cherokee,9500,1994,108357,manual,other,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/blairsville-1994-jeep-wrangler-yj/7835218554.html
+Mazda,Miata,3999,2006,177000,automatic,sedan,good,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/norcross-2006-mazda-23/7835217119.html
+Kia,soul,6999,2012,107000,automatic,SUV,good,Unknown,gas,5XYKU3A63CG242197,clean,https://atlanta.craigslist.org/nat/cto/d/canton-2012-kia-sorento-ex-runs-great/7835216282.html
+Mercury,Grand Marquis,1,1949,1000,automatic,convertible,like new,8,gas,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/monticello-classic-car-collectionprices/7835204470.html
+Chevrolet,silverado 1500,5600,2005,272000,automatic,pickup,good,5,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/norcross-2005-chevrolet-colorado-z71/7835199778.html
+Ford,Focus BEV,4200,2010,277000,automatic,van,good,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/norcross-2010-ford-transit-connect-cargo/7835198963.html
+Honda,Pilot EX-L,3900,2013,190600,automatic,minivan,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/cumming-2013-honda-odyssey-lx/7835187680.html
+Toyota,land cruiser,8300,2014,208000,automatic,minivan,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/cumming-2014-toyota-sienna-xle-8300-cash/7835179371.html
+Bmw,330ci,2900,2004,155000,automatic,sedan,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/cumming-2004-bmw-330ci-2900-cash/7835179098.html
+Ford,Focus BEV,1600,2007,194478,automatic,pickup,fair,8,gas,1FTPX14V37FB59365,clean,https://atlanta.craigslist.org/nat/cto/d/roswell-2007-ford-f150-4wd-extended-cab/7835174022.html
+Kw,T680,20000,2014,1400000,manual,truck,good,Unknown,diesel,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/lawrenceville-2014-kw/7835160459.html
+Nissan,Frontier,2999,2006,189000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2006-nissan-altima/7835154148.html
+Dodge,Ram Light Duty 1500,7999,2019,131000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2019-dodge-ram/7835153592.html
+Chevy,silverado 1500,5959,2017,230000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2017-chevy-city-express/7835152557.html
+Dodge,Ram Light Duty 1500,6350,2019,235000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2019-dodge-pro-master-city/7835151947.html
+Chevy,silverado 1500,11500,2020,210000,automatic,van,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2020-chevy-expres-3500/7835150975.html
+Honda,Pilot EX-L,2950,2009,210000,automatic,minivan,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2009-honda-odyssey/7835149970.html
+Mz,660 Baghira,5500,2004,7970,manual,Unknown,excellent,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/snellville-2004-mz-660-baghira-black/7835140470.html
+Jeep,grand cherokee,10500,2014,139000,automatic,SUV,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2014-jeep-grand-cherokee/7835135234.html
+Bmw,330ci,13900,2017,110000,automatic,SUV,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2017-bmw-x5-package/7835133298.html
+Nissan,Frontier,12900,2017,140000,automatic,pickup,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2017-nissan-titan-sv-4x4/7835131756.html
+Jeep,grand cherokee,6900,2014,103000,automatic,SUV,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2014-jeep-cherokee-limited/7835131404.html
+Honda,Pilot EX-L,5800,2012,240300,automatic,SUV,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/loganville-2012-honda-cr-original-owner/7835130722.html
+Am,general humvee,15000,2005,4200,automatic,Unknown,Unknown,Unknown,diesel,Unknown,clean,https://atlanta.craigslist.org/wat/cto/d/auburn-2005-usmc-humvee/7835127399.html
+Ford,Focus BEV,1700,1999,247986,automatic,sedan,good,8,gas,2FAFP71W3XX161705,clean,https://atlanta.craigslist.org/atl/cto/d/stockbridge-crown-victoria/7835126290.html
+Toyota,land cruiser,18500,2016,123000,automatic,SUV,like new,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/marietta-2016-toyota-rav4/7835111177.html
+Mercedes-Benz,SL 63,43000,2017,106000,automatic,truck,good,Unknown,diesel,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/kennesaw-mercedes-benz-3500-box-truck/7835104313.html
+Dodge,Ram Light Duty 1500,3500,2013,157000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/stockbridge-2013-dodge-avenger-miles/7835102205.html
+Audi,Q5 3.0T Premium Plus S Line,1500,2007,158000,automatic,sedan,fair,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/lawrenceville-a4-quattro-2007/7835101751.html
+Nissan,Frontier,18750,2021,73000,automatic,SUV,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/duluth-2021-nissan-murano-sl/7835098775.html
+Chevrolet,silverado 1500,10900,1963,12345,automatic,coupe,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/eastover-1963-chevrolet-impala-sports/7835093945.html
+Toyota,land cruiser,6600,2018,182000,automatic,sedan,good,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2018-toyota-yaris-ia-sedan/7835091466.html
+Mazda,Miata,4500,2011,205000,automatic,SUV,good,6,gas,JM3TB2CA6B0301020,clean,https://atlanta.craigslist.org/nat/cto/d/ball-ground-2011-mazda-cx9/7835082511.html
+Mitsu,Eclipse Spyder 2.4,2000,1998,167197,automatic,convertible,good,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/snellville-1998-eclipse-24-automatic/7835081278.html
+Ford,Focus BEV,8800,2010,129000,automatic,SUV,like new,8,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/lawrenceville-2010-ford-expedition/7835075613.html
+Chevrolet,silverado 1500,4250,2008,105689,automatic,Unknown,like new,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/marietta-2008-chevrolet-hhr-ls/7835069061.html
+Lexus,LS 430,13800,2016,139000,automatic,sedan,excellent,4,gas,JTHBA1D2XG5007301,clean,https://atlanta.craigslist.org/nat/cto/d/marietta-2016-lexus-is200t/7835064799.html
+Infiniti,g37,29900,2022,32300,automatic,SUV,excellent,6,gas,Unknown,rebuilt,https://atlanta.craigslist.org/nat/cto/d/winder-2022-infiniti-qx60-autograph/7835064041.html
+Toyota,land cruiser,3500,2011,183000,automatic,sedan,fair,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2011-toyota-corolla-cash-trade/7835062410.html
+Kia,soul,9700,2017,55786,automatic,hatchback,excellent,4,gas,KNDJP3A5XH7457736,clean,https://atlanta.craigslist.org/atl/cto/d/austell-2017-kia-soul-plus-ex/7835061455.html
+Gmc,sierra 1500,12900,2018,138000,automatic,pickup,excellent,8,gas,1GTW7AFG0J1902787,clean,https://atlanta.craigslist.org/nat/cto/d/marietta-2018-gmc-sierra-2500/7835058790.html
+Honda,Pilot EX-L,4000,2006,146808,automatic,SUV,excellent,6,gas,5FNYF18546B017918,clean,https://atlanta.craigslist.org/nat/cto/d/lawrenceville-2006-tan-honda-pilot-ex/7835056906.html
+Honda,Pilot EX-L,1500,2010,256334,automatic,minivan,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/decatur-2010-honda-odyssey-ex/7835054583.html
+Lexus,LS 430,15000,2014,110000,automatic,sedan,excellent,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/lilburn-owner-selling-lexus-es-nd-owner/7835050973.html
+Jeep,grand cherokee,9000,2012,122000,automatic,SUV,excellent,6,gas,1C4RJFBG6CC239184,clean,https://atlanta.craigslist.org/nat/cto/d/marietta-2012-jeep-grand-cherokee/7835049107.html
+Acura,integra,9500,2012,124000,automatic,sedan,excellent,4,gas,JH4CU2F61CC005637,clean,https://atlanta.craigslist.org/nat/cto/d/marietta-2012-acura-tsx/7835047569.html
+Dodge,Ram Light Duty 1500,8600,2013,181000,automatic,coupe,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/marietta-2013-dodge-challengerautosport/7835046471.html
+Cadillac,DTS,4700,2011,182000,automatic,SUV,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/marietta-2011-cadillac-srx-v6-30/7835045285.html
+Dodge,Ram Light Duty 1500,13500,2018,99000,automatic,coupe,like new,6,gas,2C3CDZAGXJH132234,rebuilt,https://atlanta.craigslist.org/atl/cto/d/powder-springs-2018-dodge-challenger-sxt/7835040793.html
+Ford,Focus BEV,16500,2014,127000,automatic,pickup,good,8,gas,1FTFW1EF1EFC61198,clean,https://atlanta.craigslist.org/nat/cto/d/cumming-2014-ford-f150-supercrew-cab/7835035807.html
+Chevy,silverado 1500,3800,1999,116000,automatic,van,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/wat/cto/d/marietta-1999-chevy-express-1500/7835030740.html
+Dodge,Ram Light Duty 1500,8500,2014,194000,automatic,sedan,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/riverdale-2014-dodge-charger-8500/7835024904.html
+Mazda,Miata,6500,2013,104750,manual,hatchback,good,4,gas,JM1BL1LP4D1745431,clean,https://atlanta.craigslist.org/nat/cto/d/marietta-2013-mazda-mazda3-6-speed/7835021057.html
+Infiniti,g37,3850,2005,175000,automatic,sedan,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/atlanta-2005-infiniti-g35-fully-loaded/7835018643.html
+Toyota,land cruiser,14999,1992,227000,manual,pickup,excellent,6,gas,JT4VN13G9N5085937,clean,https://atlanta.craigslist.org/nat/cto/d/marietta-1992-toyota-pickup-sr5-v6-4x4/7835016450.html
+Toyota,land cruiser,37500,2023,11872,automatic,pickup,excellent,6,gas,3TMAZ5CN5PM212849,clean,https://atlanta.craigslist.org/sat/cto/d/peachtree-city-2023-toyota-tacoma/7835008324.html
+Ford,Focus BEV,1950,2008,181350,automatic,SUV,fair,4,gas,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/peachtree-city-2008-ford-expedition/7835002585.html
+Ford,Focus BEV,1999,2007,139000,automatic,sedan,like new,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/pine-lake-2007-ford-focus-se-cyl-139k/7834997811.html
+International,4700,9900,2000,200000,automatic,truck,Unknown,6,diesel,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/huntsville-2000-international-9400-a/7834993232.html
+Land,rover range rover sport,4997,2012,133000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/decatur-2012-land-rover-lr4-hse-v8/7834990455.html
+Honda,Pilot EX-L,2500,2008,196548,automatic,sedan,fair,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/decatur-2008-honda-civic/7834983372.html
+Toyota,land cruiser,4800,2009,143960,automatic,sedan,Unknown,4,gas,2T1GE40E49C005241,clean,https://atlanta.craigslist.org/eat/cto/d/duluth-2009-toyota-matrix-xrs/7834981747.html
+All,"Steel Willys ""hemi shaker""",150000,1940,500,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/grayson-1940-all-steel-willys-hemi/7834979331.html
+Ford,Focus BEV,21500,1923,500,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/grayson-1923-ford-bucket/7834978238.html
+Harley,Davidson dyna wide glide,9500,2005,16000,manual,Unknown,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/grayson-2005-harley-davidson-dyna-wide/7834976859.html
+Honda,Pilot EX-L,1950,2000,119572,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/duluth-00-honda-civic/7834976014.html
+Chevy,silverado 1500,52500,1955,500,manual,Unknown,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/grayson-1955-chevy-210-straight-axle/7834975244.html
+Ford,Focus BEV,23000,2021,68000,automatic,pickup,good,4,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/conyers-2021-ford-ranger-stx/7834971715.html
+Lincoln,Navigator,4150,2003,78224,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/atlanta-2003-lincoln-town-car-signature/7834970870.html
+Ford,Focus BEV,10000,1985,100000,automatic,pickup,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-85-f250-44/7834970298.html
+Hyundai,veloster,950,2008,121000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/rex-08-hyundai-tiburon-mechanic-special/7834965416.html
+Volkswagen,Jetta SEL,950,2011,139000,automatic,minivan,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/rex-11-vw-routan-starts-but-trans-bad/7834965272.html
+Lexus,LS 430,7000,2008,221000,automatic,sedan,excellent,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/snellville-2008-lexus-is-250/7834964593.html
+Willys,MB & 1945 WW2 1/4 ton trailer,40000,1944,900,manual,other,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/greenville-1944-ww2-willys-mb-ton/7834964203.html
+Fiat,500 sport,1800,2012,160000,automatic,hatchback,good,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/pine-lake-2012-fiat-500-sport/7834963780.html
+Audi,Q5 3.0T Premium Plus S Line,14995,2016,46000,automatic,convertible,like new,4,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/lilburn-audi-a5-convertible/7834959447.html
+Bmw,330ci,50000,1988,230000,manual,sedan,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/conyers-1988-bmw-535is/7834955208.html
+Ford,Focus BEV,1450,2007,90135,automatic,sedan,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/riverdale-2008-ford-crown-victoria-p71/7834938328.html
+Kia,soul,1500,2005,120000,automatic,wagon,good,4,gas,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/riverdale-kia-rio-wagon-120k-mi/7834938261.html
+Lexus,LS 430,19000,2018,90000,automatic,sedan,excellent,6,gas,58ABK1GG0JU096481,clean,https://atlanta.craigslist.org/atl/cto/d/red-oak-nice-2018-lexus-es-350-liaded/7834927608.html
+Jaguar,xk8 coupe,36000,2015,18571,automatic,Unknown,Unknown,8,gas,Unknown,clean,https://atlanta.craigslist.org/wat/cto/d/douglasville-2015-jaguar-type-18k-miles/7834924637.html
+Chevy,silverado 1500,5200,2013,102000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/lithia-springs-2013-chevy-equinox/7834924242.html
+Honda,Pilot EX-L,7999,2013,170000,automatic,sedan,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/roswell-2013-honda-accord-ex-v6/7834916615.html
+Chevrolet,silverado 1500,5500,2014,131000,automatic,SUV,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/pine-lake-2014-chevy-equinox-lt/7834915614.html
+Lexus,LS 430,14000,2012,43035,automatic,SUV,like new,6,gas,2T2ZK1BA7CC082540,clean,https://atlanta.craigslist.org/atl/cto/d/lawrenceville-2012-lexus-rx-350/7834915396.html
+Chevrolet,silverado 1500,25000,2007,36300,automatic,coupe,like new,8,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/lawrenceville-2007-supercharged-corvette/7834909355.html
+Any,Unknown,100,1991,222,manual,other,Unknown,Unknown,other,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-we-buy-junk-cars/7834906796.html
+Lexus,LS 430,13500,2012,132686,automatic,SUV,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2012-lexus-rx-350-awd-perfect/7834899782.html
+Toyota,land cruiser,8000,2013,142000,automatic,sedan,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/marietta-2013-toyota-corolla/7834891439.html
+Ford,Focus BEV,10000,2018,109000,automatic,SUV,excellent,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/marietta-2018-ford-explorer-police/7834889964.html
+Ford,Focus BEV,18000,2019,111445,automatic,SUV,excellent,6,gas,Unknown,rebuilt,https://atlanta.craigslist.org/atl/cto/d/marietta-2019-ford-explorer/7834887671.html
+Nissan,Frontier,6000,2013,200000,automatic,sedan,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/jonesboro-2013-nissan-spec-custom/7834855176.html
+Chevrolet,silverado 1500,9999,2014,150101,automatic,coupe,like new,6,gas,2G1FA1E33E9150819,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2014-chevrolet-camaro-in/7834855101.html
+Land,rover range rover sport,6850,2010,260360,automatic,SUV,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/alpharetta-2010-range-rover-sport-hse/7834850328.html
+Infiniti,g37,8600,2009,123546,automatic,convertible,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/duluth-2009-infiniti-g37/7834845158.html
+Dodge,Ram Light Duty 1500,299,2018,119677,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/tucker-need-help-with-auto-insurance/7834844187.html
+Toyota,land cruiser,10900,2014,185000,automatic,minivan,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/austell-2014-toyota-sienna-xle/7834841213.html
+Nissan,Frontier,10900,2010,181000,automatic,pickup,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/austell-2010-nissan-frontier/7834841029.html
+Mercedes-Benz,SL 63,16900,2016,147000,automatic,sedan,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/austell-2016-mercedes-benz-cls550/7834840839.html
+Lexus,LS 430,12900,2010,102000,automatic,SUV,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/austell-2010-lexus-rx350-awd/7834840492.html
+Frieghtliner,Cascadia,16000,2010,837000,manual,truck,good,8,diesel,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/clarkston-fright-liner-cascadi-dd15/7834839220.html
+Tesla,s 85,21800,2020,33165,automatic,sedan,like new,Unknown,electric,5YJ3E1EA3LF476240,clean,https://atlanta.craigslist.org/sat/cto/d/fairburn-2020-tesla-model-standard/7834836717.html
+Bmw,330ci,6500,2011,101000,automatic,sedan,Unknown,6,gas,WBAPH7G56BNN02290,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2011-bmw-328i/7834832014.html
+Cadillac,DTS,7900,2011,278000,automatic,SUV,Unknown,8,gas,1GYS4KEF2BR341575,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2011-cadillac-escalade-esv/7834831722.html
+Chevrolet,silverado 1500,24900,1985,29000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/monroe-1985-monte-carlo-super-sport/7834829068.html
+Ford,Focus BEV,11000,2003,219000,automatic,pickup,Unknown,8,diesel,1FTWW33P03ED12085,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2003-ford-f350-super-duty-crew/7834828034.html
+Plymouth,road runner,69500,1970,1970,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/monroe-1970-plymouth-road-runner-440/7834825595.html
+Audi,Q5 3.0T Premium Plus S Line,9900,2015,130000,automatic,sedan,excellent,Unknown,diesel,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/lebanon-audi-a3-tdi/7834823573.html
+Acura,integra,26500,2020,78617,automatic,SUV,like new,6,gas,5J8YD3H38LL005376,clean,https://atlanta.craigslist.org/atl/cto/d/marietta-2020-acura-mdx/7834821741.html
+Chevrolet,silverado 1500,42500,1971,1971,automatic,coupe,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/monroe-1971-chevrolet-camaro-rally-sport/7834821439.html
+Toyota,land cruiser,24000,2019,30000,automatic,sedan,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/rex-toyota-camry/7834809422.html
+Mercedes-Benz,SL 63,9900,2015,130000,automatic,Unknown,excellent,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/lebanon-mercedes-benz-matic-c300/7834800865.html
+Oldsmobile,cutlass supreme,22000,1970,80000,automatic,coupe,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/belton-1970-oldsmobile-cutlass/7834799239.html
+S55,AMG,9500,2003,135000,automatic,sedan,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/cumming-s55-amg-mercedes/7834794845.html
+Bmw,330ci,19500,2013,77000,automatic,Unknown,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/cumming-bmw-m5-2013/7834794375.html
+Porsche,Cayman,1,2001,37000,manual,convertible,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/wat/cto/d/lithia-springs-2001-porsche-911/7834793925.html
+Nissan,Frontier,6500,2015,125000,automatic,SUV,excellent,4,gas,Unknown,rebuilt,https://atlanta.craigslist.org/nat/cto/d/dallas-2015-nissan-juke/7834792706.html
+Jaguar,xk8 coupe,12800,2017,109200,automatic,SUV,excellent,6,gas,SADCK2BV7HA056913,clean,https://atlanta.craigslist.org/nat/cto/d/atlanta-2017-jaguar-pace-prestige-no/7834782938.html
+Ford,Focus BEV,4,1997,180000,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-1997-ford-150/7834781141.html
+Nissan,Frontier,8500,2018,157809,other,sedan,excellent,4,gas,1N4AL3AP7JC152646,clean,https://atlanta.craigslist.org/eat/cto/d/lawrenceville-2018-nissan-ultima/7834773762.html
+Toyota,land cruiser,6300,2008,147000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/wat/cto/d/marietta-2008-toyota-rav4-with-v6-engine/7834773689.html
+Honda,Pilot EX-L,3900,2006,170000,automatic,van,good,6,gas,5FNRL38736B039435,clean,https://atlanta.craigslist.org/eat/cto/d/lawrenceville-2006-hondo-odessey/7834769460.html
+Honda,Pilot EX-L,6999,2014,200000,automatic,sedan,Unknown,Unknown,hybrid,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/grayson-owner-honda-accord-hybrid-mint/7834768335.html
+Chevy,silverado 1500,22000,2023,42000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/carrollton-2023-chevy-malibu-ls/7834766785.html
+Bmw,330ci,5999,2012,160000,automatic,coupe,like new,6,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/grayson-immaculate-owner-2012-bmw-328i/7834766114.html
+Bmw,330ci,5999,2012,159000,automatic,sedan,like new,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-immaculate-2012-bmw-335i-twin/7834765461.html
+Toyota,land cruiser,3500,2005,244000,automatic,hatchback,good,3,hybrid,JTDKB20U557018445,clean,https://atlanta.craigslist.org/eat/cto/d/lawrenceville-2005-prius/7834764449.html
+Hyndai,veracruz,4500,2011,124000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2011-hyundai-veracruz-124-miles/7834762291.html
+Ford,Focus BEV,4900,2013,182000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2012-ford-edge-everything-works/7834761718.html
+Bmw,330ci,3950,2002,117000,automatic,SUV,Unknown,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2002-bmw-x5-awd-117-miles/7834759173.html
+Bmw,330ci,14000,2014,83077,automatic,SUV,Unknown,8,gas,5UXFG8C50EL593326,clean,https://atlanta.craigslist.org/atl/cto/d/snellville-2014-bmw-x6-xdrive50i-sport/7834757765.html
+Chrysler,200 200S,4800,2014,170000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2014-chrysler-town-county/7834757150.html
+Chevrolet,silverado 1500,6950,2016,105000,automatic,Unknown,excellent,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/lawrenceville-beautiful-low-miles/7834756209.html
+Chevrolet,silverado 1500,5200,2015,170000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2015-chevrolet-trax-ltz/7834755248.html
+Chevrolet,silverado 1500,5500,2015,80000,automatic,Unknown,excellent,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/lawrenceville-beautiful-low-miles/7834754251.html
+Honda,Pilot EX-L,3800,2006,244023,automatic,SUV,Unknown,4,gas,SHSRD68566U407788,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2006-honda-cr-lx-suv-original/7834754136.html
+Audi,Q5 3.0T Premium Plus S Line,5100,2011,180000,automatic,SUV,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2011-audi-q5-premium/7834752890.html
+Mini,cooper clubman,3600,2006,100000,manual,Unknown,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2006-mini-cooper-supercharger/7834751075.html
+Jeep,grand cherokee,6950,2014,184000,automatic,SUV,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/lawrenceville-2014-jeep-grand-cherokee/7834750846.html
+Mitsubishi,Lancer Evo 9,5950,2013,135000,automatic,Unknown,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/lawrenceville-passangers-cylinders/7834750424.html
+Nissan,Frontier,5800,2016,200000,automatic,Unknown,excellent,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/lawrenceville-dependable-ready-for-work/7834750110.html
+Gmc,sierra 1500,8900,2017,152000,automatic,Unknown,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/lawrenceville-passenger-cylinders-gas/7834749190.html
+Volvo,xc90,11500,2006,1042000,automatic,Unknown,excellent,Unknown,diesel,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/lawrenceville-2005-volvo-vnl-780/7834749094.html
+Jeep,grand cherokee,5950,2015,160000,automatic,Unknown,excellent,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/lawrenceville-beautiful-and-reliable/7834748714.html
+Honda,Pilot EX-L,6800,2012,164023,automatic,SUV,Unknown,4,gas,5J6TF3H54CL006751,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2012-honda-crosstour-ex-twin/7834745319.html
+Mitsubishi,Lancer Evo 9,7995,2008,110000,automatic,truck,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/riverdale-2008-mitsubishi-raider-ls/7834736449.html
+Lamborghini,Aventador,395000,2014,915,automatic,coupe,new,10,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2014-lamborghini-aventador-lp/7834734486.html
+Nissan,Frontier,7490,2015,130000,automatic,SUV,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/lawrenceville-2015-nissan-murano-rogue/7834727271.html
+Ram,3500 SLT,8800,2017,208186,automatic,pickup,excellent,8,gas,1C6RR6FT9HS655461,clean,https://atlanta.craigslist.org/nat/cto/d/lawrenceville-2017-ram-1500-tradesman/7834723661.html
+Jeep,grand cherokee,7595,1973,34351,manual,SUV,good,6,gas,J3F85FPA51054,clean,https://atlanta.craigslist.org/atl/cto/d/dallas-1973-jeep-cj-commando/7834722514.html
+Nissan,Frontier,10500,2012,161606,automatic,pickup,excellent,8,gas,1N6BA0EK1CN301297,clean,https://atlanta.craigslist.org/nat/cto/d/lawrenceville-2012-nissan-titan-sl/7834722475.html
+Honda,Pilot EX-L,4500,2011,202000,automatic,van,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/lilburn-2011-honda-odyessey-ex/7834718924.html
+Bmw,330ci,2900,2004,155000,automatic,sedan,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/cumming-2004-bmw-330ci-2900-cash/7834718337.html
+Toyota,land cruiser,8300,2014,208000,automatic,minivan,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/cumming-2014-toyota-sienna-xle-8300-cash/7834718161.html
+Chevrolet,silverado 1500,10900,2018,88468,automatic,pickup,excellent,4,gas,1GCHSBEA8J1149147,clean,https://atlanta.craigslist.org/nat/cto/d/lawrenceville-2018-chevrolet-colorado-t/7834716374.html
+Toyota,land cruiser,7900,2006,200653,automatic,pickup,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/austell-2006-toyota-tacoma/7834715484.html
+Ford,Focus BEV,7000,2011,389942,automatic,pickup,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/wat/cto/d/bowdon-2011-ford-f150/7834715055.html
+Mazda,Miata,6500,2014,161169,automatic,SUV,excellent,4,gas,JM3KE2BE6E0311493,clean,https://atlanta.craigslist.org/nat/cto/d/lawrenceville-2014-mazda-cx-sport/7834713255.html
+Chevrolet,silverado 1500,1,1979,75071,automatic,coupe,good,8,gas,1Z8789S437851,clean,https://atlanta.craigslist.org/nat/cto/d/duluth-sold-corvette-cyl-350-ci-195-hp/7834707629.html
+Ford,Focus BEV,6500,2015,139000,automatic,SUV,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/kennesaw-ford-escape/7834706706.html
+2009,Unknown,3000,2009,135000,manual,SUV,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/buford-gmc-hummer-for-sale/7834701245.html
+Gmc,sierra 1500,10500,2005,150000,automatic,truck,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/marietta-uhaul-truck/7834694648.html
+Mercedes,benz ml350,8000,2010,103650,automatic,sedan,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/decatur-2010-mercedes-c300/7834691622.html
+Toyota,land cruiser,1800,1999,335016,automatic,coupe,fair,6,gas,2T1CF22P4XC217777,clean,https://atlanta.craigslist.org/eat/cto/d/covington-1999-toyota-solara-xle-sold/7834689193.html
+Bmw,330ci,2500,2002,180000,automatic,sedan,Unknown,6,gas,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/ellenwood-2002-bmw-525i/7834680288.html
+Toyota,land cruiser,3500,2004,329000,automatic,SUV,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/lithonia-2003-toyota-4runner-limited/7834673525.html
+Nissan,Frontier,3995,2015,231000,automatic,pickup,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/decatur-2015-nissan-titan-sv/7834672826.html
+Mazda,Miata,4900,1993,162000,manual,convertible,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-1993-mazda-miata/7834672735.html
+Ford,Focus BEV,3000,2004,215000,automatic,SUV,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/decatur-2004-ford-expedition-eddie-bauer/7834669715.html
+Audi,Q5 3.0T Premium Plus S Line,7000,2009,108000,automatic,coupe,good,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-2009-audi-tt-new-tires-108k/7834669546.html
+Wabh,Unknown,10000,1996,100000,other,Unknown,good,Unknown,other,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/marietta-carco-trailer/7834665062.html
+Toyota,land cruiser,2700,2006,250000,automatic,sedan,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/riverdale-2006-toyota-camry-4cylinders/7834664991.html
+Ford,Focus BEV,6700,2020,138241,automatic,sedan,good,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/fairburn-2020-ford-fusion/7834663493.html
+Honda,Pilot EX-L,8199,2013,171000,automatic,sedan,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/roswell-2013-honda-accord-sport/7834663425.html
+Chevrolet,silverado 1500,5000,1948,900,other,pickup,salvage,Unknown,gas,Unknown,salvage,https://atlanta.craigslist.org/sat/cto/d/fayetteville-40s-chevy-chevrolet/7834654498.html
+Lexus,LS 430,3950,2026,297500,automatic,convertible,fair,8,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/alpharetta-2006-lexus-sc430-for-sale/7834653000.html
+Mazda,Miata,6499,2014,151000,automatic,SUV,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/marietta-2014-mazda-cx/7834643575.html
+Honda,Pilot EX-L,4000,2011,174000,automatic,sedan,good,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/lawrenceville-2011-honda-accord-se/7834636522.html
+Infiniti,g37,4200,2008,191000,automatic,sedan,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/cumming-2008-infiniti-35-sedan/7834630927.html
+Chevy,silverado 1500,3000,1978,100000,automatic,truck,fair,8,gas,Unknown,clean,https://atlanta.craigslist.org/sat/cto/d/forest-park-1978-chevy-p30-box-truck/7834628282.html
+Dodge,Ram Light Duty 1500,2000,2014,200000,automatic,van,fair,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/buford-2014-dodge-grand-carvan/7834627404.html
+And,2007 Lincol. MKXs,3000,2008,156000,automatic,SUV,good,6,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/alpharetta-for-lincoln-mkxs/7834621436.html
+Toyota,land cruiser,9600,2016,133120,automatic,sedan,excellent,4,gas,5YFBURHE5GP401531,clean,https://atlanta.craigslist.org/atl/cto/d/lawrenceville-2016-toyota-corolla-le/7834620989.html
+Honda,Pilot EX-L,3000,2004,231000,automatic,minivan,good,6,gas,5FNRL18994B080719,clean,https://atlanta.craigslist.org/nat/cto/d/roswell-2004-honda-odyssey-ex/7834612205.html
+Toyota,land cruiser,26000,2021,25000,manual,hatchback,new,4,other,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/marietta-prius-prime-plug-in-xle/7834611536.html
+Chevy,silverado 1500,7400,2014,131700,automatic,SUV,good,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/decatur-2014-tahoe-131k-miles-front/7834607915.html
+Toyota,land cruiser,9995,2011,123000,automatic,SUV,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/conyers-2011-toyota-rav4-limited/7834602755.html
+Nissan,Frontier,5698,2011,146842,automatic,coupe,excellent,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/wat/cto/d/smyrna-2011-nissan-altima-coupe/7834600902.html
+Volvo,xc90,15995,2014,71000,automatic,SUV,like new,6,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/conyers-2014-volvo-xc60-awd-whiite/7834598414.html
+Bmw,330ci,4700,2009,147000,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/dacula-2009-bmw-528-runs-great-reduced/7834596354.html
+Maserati,quattroporte,14500,2011,44000,automatic,Unknown,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-cool-2011-maserati-quattroporte/7834589931.html
+Mercedes,benz ml350,12995,2010,35000,automatic,sedan,like new,6,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/conyers-2010-mercedes-e350-sport-silver/7834588752.html
+Lincoln,Navigator,5995,2003,74000,automatic,sedan,like new,6,gas,Unknown,clean,https://atlanta.craigslist.org/eat/cto/d/conyers-2003-lincoln-ls-silver-charcoal/7834586582.html
+Toyota,land cruiser,12500,2017,130000,automatic,sedan,excellent,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/marietta-2017-toyota-camry-se/7834584375.html
+Ford,Focus BEV,20000,2016,147000,automatic,pickup,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/stone-mountain-2016-ford-f150-xlt/7834579727.html
+Ford,Focus BEV,6900,2006,156131,automatic,pickup,excellent,8,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/lilburn-2006-150/7834579328.html
+Chevrolet,silverado 1500,3500,2017,224000,automatic,SUV,good,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-chevrolet-equinox/7834576073.html
+Jeep,grand cherokee,7500,2006,169000,automatic,Unknown,fair,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/snellville-jeeps-for-sell/7834575173.html
+Honda,Pilot EX-L,3800,2009,169669,automatic,sedan,excellent,4,gas,2HGFA165X9H530017,clean,https://atlanta.craigslist.org/nat/cto/d/lawrenceville-2009-black-honda-civic-lx/7834565612.html
+Bmw,330ci,13800,2017,169415,automatic,sedan,excellent,6,gas,WBA8B7G55HNU36992,clean,https://atlanta.craigslist.org/atl/cto/d/cumming-very-nice-2017-bmw-340i-xdrive/7834565443.html
+Ford,Focus BEV,8900,2005,110000,automatic,pickup,excellent,6,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/duluth-2005-ford-ranger-edge-110k-miles/7834559364.html
+Hyundai,veloster,5500,2013,115000,automatic,sedan,Unknown,4,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/lawrenceville-2013-hyundai-elantra/7834552216.html
+Lexus,LS 430,700,2011,112220,automatic,sedan,Unknown,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/atl/cto/d/atlanta-insuranceincludedlongterm/7834547252.html
+Ford,Focus BEV,49500,2021,56100,automatic,pickup,excellent,Unknown,diesel,Unknown,rebuilt,https://atlanta.craigslist.org/sat/cto/d/senoia-2021-ford-f250-lariat-4x4-67/7834539116.html
+Toyota,land cruiser,5000,2000,260000,automatic,SUV,Unknown,4,gas,JT3GM84R4Y0067047,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2000-toyota-4runner-sr5/7834536398.html
+Bmw,330ci,5000,2008,204000,automatic,sedan,Unknown,6,gas,WBAVB77508NH79828,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2008-bmw-335i/7834536128.html
+Chevrolet,silverado 1500,7000,2013,221000,automatic,SUV,Unknown,8,gas,1GNSCJE03DR128269,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2013-chevy-suburban-lt/7834535945.html
+Toyota,land cruiser,8900,2005,234000,automatic,Unknown,Unknown,8,gas,JTEBT14R550046585,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2005-toyota-4runner-sport/7834535706.html
+Gmc,sierra 1500,9000,2004,165000,automatic,Unknown,Unknown,8,gas,2GTEK19T941292518,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2004-gmc-sierra-sle-z71-4x4/7834535499.html
+Ram,3500 SLT,29900,2018,300000,automatic,pickup,Unknown,6,diesel,3C63RRJL4JG339767,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2018-ram-3500-laramie-aluminum/7834535325.html
+Chevrolet,silverado 1500,7000,2007,285000,automatic,pickup,Unknown,4,hybrid,1GCEK19Z37Z142243,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2007-chevy-silverado-z71-4x4/7834534700.html
+Cadillac,DTS,11000,2014,199000,automatic,SUV,Unknown,8,gas,1GYS4JEF4ER105637,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2014-cadillac-escalade-esv-awd/7834534436.html
+Cadillac,DTS,11000,2013,170000,automatic,SUV,Unknown,8,gas,1GYS4HEF6DR277577,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2013-cadillac-escalade-esv-awd/7834534180.html
+Jeep,grand cherokee,11000,2012,218000,automatic,SUV,Unknown,6,gas,1C4HJWFG8CL146074,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2012-jeep-wrangler-unlimited/7834533867.html
+Gmc,sierra 1500,16900,2017,312000,automatic,pickup,Unknown,8,diesel,1GT42VCY3HF115341,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2017-gmc-sierra-3500hd-crew-cab/7834533589.html
+Toyota,land cruiser,8000,2001,231000,automatic,SUV,Unknown,6,gas,JT3HN86R610350991,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2001-toyota-4runner-sr5-4wd/7834533275.html
+Jeep,grand cherokee,8900,2018,128000,automatic,SUV,Unknown,4,gas,ZACCJABB9JPG95475,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2018-jeep-renegade-latitude/7834533074.html
+Audi,Q5 3.0T Premium Plus S Line,8499,2012,137082,automatic,sedan,excellent,Unknown,gas,Unknown,clean,https://atlanta.craigslist.org/nat/cto/d/buford-2012-audi-a6/7834532567.html
+Toyota,land cruiser,5900,2001,325000,automatic,SUV,Unknown,6,gas,JT3HN86R610343071,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2001-toyota-4runner-sr5-4wd/7834532424.html
+Jeep,grand cherokee,16000,2016,158000,automatic,SUV,Unknown,6,gas,1C4BJWDG5GL279051,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2016-jeep-wrangler-unlimited/7834532241.html
+Honda,Pilot EX-L,7900,2006,176000,automatic,pickup,Unknown,6,gas,2HJYK16576H551905,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2006-honda-ridgeline-rtl-awd/7834532002.html
+Chevrolet,silverado 1500,5900,2008,270000,automatic,pickup,Unknown,6,gas,1GCEC14X08Z195020,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2008-chevy-silverado-1500-work/7834531772.html
+Toyota,land cruiser,8000,2006,274000,automatic,Unknown,Unknown,8,gas,5TBET34106S501390,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2006-toyota-tundra-sr5-double/7834531416.html
+Bmw,330ci,6500,2011,132000,automatic,Unknown,Unknown,6,gas,WBAPH7G50BNN06223,clean,https://atlanta.craigslist.org/atl/cto/d/grayson-2011-bmw-328i/7834531223.html
