@@ -3,7 +3,7 @@ import numpy as np
 from sklearn.preprocessing import StandardScaler
 
 # Load the dataset
-df = pd.read_csv("craigslist_cars_test.csv")
+df = pd.read_csv("craigslist_cars_to_clean.csv")
 
 df.drop(columns=["VIN"], errors="ignore", inplace=True)
 
