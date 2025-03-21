@@ -1,6 +1,7 @@
 ﻿import time
 import pandas as pd
 import requests
+import configparser
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
@@ -9,9 +10,12 @@ from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 from webdriver_manager.chrome import ChromeDriverManager
 
-# API Key (Replace with your actual API key)
-API_KEY = "S711EBOUek2pf145pTwPug==MbebzFBDWwPqNkZK"
-API_URL = "https://api.api-ninjas.com/v1/cars"
+# Load API configurations from config.ini
+config = configparser.ConfigParser()
+config.read("config.ini")
+
+API_KEY = config.get("API", "API_KEY")
+API_URL = config.get("API", "API_URL")
 
 # Configure WebDriver
 options = webdriver.ChromeOptions()

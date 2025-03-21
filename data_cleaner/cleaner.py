@@ -1,46 +1,74 @@
 ﻿import pandas as pd
-import requests
+import numpy as np
+from sklearn.preprocessing import StandardScaler
 
-API_KEY = "S711EBOUek2pf145pTwPug==MbebzFBDWwPqNkZK"
-API_URL = "https://api.api-ninjas.com/v1/cars"
+# Load the dataset
+df = pd.read_csv("craigslist_cars_test.csv")
 
-def fetch_car_details(brand, model):
-    """Fetch additional car details from the API."""
-    try:
-        response = requests.get(
-            API_URL,
-            headers={"X-Api-Key": API_KEY},
-            params={"make": brand, "model": model}
-        )
-        if response.status_code == 200:
-            data = response.json()
-            if data:
-                return data[0]  # Return the first matching car
-    except Exception as e:
-        print(f"⚠️ API request failed: {e}")
-    return {}
+df.drop(columns=["VIN"], errors="ignore", inplace=True)
 
-def clean_data(file_path="data/raw_craigslist_cars.csv", save_path="data/cleaned_craigslist_cars.csv"):
-    df = pd.read_csv(file_path)
+# 🚀 Convert 'Price' and 'Mileage' to numeric, forcing errors to NaN
+df["Price"] = pd.to_numeric(df["Price"], errors="coerce")
+df["Mileage"] = pd.to_numeric(df["Mileage"], errors="coerce")
 
-    print("🛠️ Cleaning and enriching car data...")
+# Convert 'Year' to integer (forcing errors to NaN)
+df["Year"] = pd.to_numeric(df["Year"], errors="coerce").astype("Int64")
 
-    for index, row in df.iterrows():
-        brand, model = row["Brand"], row["Model"]
-        if brand == "Unknown" or model == "Unknown":
-            continue
+# 🚀 Handle missing values
+numeric_cols = ["Price", "Mileage", "Year"]
+df[numeric_cols] = df[numeric_cols].fillna(df[numeric_cols].median())
 
-        print(f"🔍 Fetching details for: {brand} {model}...")
-        car_api_data = fetch_car_details(brand, model)
+# Standardize text data
+df["Brand"] = df["Brand"].str.title().str.strip()
+df["Model"] = df["Model"].str.title().str.strip()
+df["Condition"] = df["Condition"].str.lower().replace("like new", "excellent")
+df["Fuel Type"] = df["Fuel Type"].str.lower()
+df["Transmission"] = df["Transmission"].str.lower()
+df["Body Type"] = df["Body Type"].str.lower()
+df["Title Status"] = df["Title Status"].str.lower()
 
-        df.at[index, "Engine Size"] = car_api_data.get("engine", "Unknown")
-        df.at[index, "Drivetrain"] = car_api_data.get("drivetrain", "Unknown")
-        df.at[index, "Horsepower"] = car_api_data.get("horsepower", "Unknown")
-        df.at[index, "Torque"] = car_api_data.get("torque", "Unknown")
-        df.at[index, "Fuel Efficiency"] = car_api_data.get("combined_mpg", "Unknown")
+# 🚀 Convert 'Cylinders' to numeric if possible
+df["Cylinders"] = pd.to_numeric(df["Cylinders"], errors="coerce").astype("Int64")
 
-    df.to_csv(save_path, index=False)
-    print(f"✅ Data cleaning complete! Saved as {save_path}")
+# 🚀 Remove rows where 'Cylinders' is missing (NaN)
+df = df.dropna(subset=["Cylinders"])
 
-# Run cleaner
-clean_data()
+# 🚀 Remove rows with unknown transmission types
+df = df[df["Transmission"].isin(["manual", "automatic"])]
+
+# 🚀 Remove rows where ANY column contains "unknown"
+df = df[~df.apply(lambda row: row.astype(str).str.contains("unknown", case=False, na=False).any(), axis=1)]
+
+# 🚀 Remove outliers using the interquartile range (IQR)
+def remove_outliers(df, column):
+    Q1, Q3 = df[column].quantile([0.25, 0.75])
+    IQR = Q3 - Q1
+    lower_bound, upper_bound = Q1 - 1.5 * IQR, Q3 + 1.5 * IQR
+    return df[(df[column] >= lower_bound) & (df[column] <= upper_bound)]
+
+df = remove_outliers(df, "Price")
+df = remove_outliers(df, "Mileage")
+
+# 🚀 Encode Brand & Model based on average price
+brand_avg_price = df.groupby("Brand")["Price"].transform("mean")
+model_avg_price = df.groupby("Model")["Price"].transform("mean")
+
+df["Brand_Encoded"] = brand_avg_price
+df["Model_Encoded"] = model_avg_price
+
+# 🚀 One-hot encode categorical features
+categorical_cols = ["Fuel Type", "Transmission", "Body Type", "Condition", "Title Status"]
+df = pd.get_dummies(df, columns=categorical_cols)
+
+# 🚀 Drop irrelevant columns
+df.drop(columns=["VIN", "Link", "Brand", "Model"], errors="ignore", inplace=True)
+
+# 🚀 Feature Scaling (Normalize large differences)
+scaler = StandardScaler()
+scaled_cols = ["Price", "Year", "Mileage", "Cylinders", "Brand_Encoded", "Model_Encoded"]
+df[scaled_cols] = scaler.fit_transform(df[scaled_cols])
+
+# Save cleaned data
+df.to_csv("cleaned_craigslist_cars.csv", index=False)
+
+print("✅ Data cleaning complete! Saved as cleaned_craigslist_cars.csv.")
