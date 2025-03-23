@@ -71,4 +71,4 @@ df[scaled_cols] = scaler.fit_transform(df[scaled_cols])
 # Save cleaned data
 df.to_csv("cleaned_craigslist_cars.csv", index=False)
 
-print("✅ Data cleaning complete! Saved as cleaned_craigslist_cars.csv.")
+print("✅ Data cleaning complete! Saved as cleaned_craigslist_cars_first.csv.")
