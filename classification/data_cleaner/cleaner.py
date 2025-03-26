@@ -1,20 +1,22 @@
-﻿import pandas as pd
+﻿import os
+import pandas as pd
 import numpy as np
-from sklearn.preprocessing import StandardScaler
+from sklearn.preprocessing import StandardScaler, LabelEncoder
 
 # Load the dataset
-df = pd.read_csv("craigslist_cars_to_clean.csv")
+file_path = os.path.join(os.path.dirname(__file__), "craigslist_cars_to_clean.csv")
+df = pd.read_csv(file_path)
 
+
+# Drop unnecessary columns
 df.drop(columns=["VIN"], errors="ignore", inplace=True)
 
-# 🚀 Convert 'Price' and 'Mileage' to numeric, forcing errors to NaN
+# Convert 'Price' and 'Mileage' to numeric
 df["Price"] = pd.to_numeric(df["Price"], errors="coerce")
 df["Mileage"] = pd.to_numeric(df["Mileage"], errors="coerce")
-
-# Convert 'Year' to integer (forcing errors to NaN)
 df["Year"] = pd.to_numeric(df["Year"], errors="coerce").astype("Int64")
 
-# 🚀 Handle missing values
+# Handle missing values
 numeric_cols = ["Price", "Mileage", "Year"]
 df[numeric_cols] = df[numeric_cols].fillna(df[numeric_cols].median())
 
@@ -27,19 +29,17 @@ df["Transmission"] = df["Transmission"].str.lower()
 df["Body Type"] = df["Body Type"].str.lower()
 df["Title Status"] = df["Title Status"].str.lower()
 
-# 🚀 Convert 'Cylinders' to numeric if possible
+# Convert 'Cylinders' to numeric
 df["Cylinders"] = pd.to_numeric(df["Cylinders"], errors="coerce").astype("Int64")
 
-# 🚀 Remove rows where 'Cylinders' is missing (NaN)
-df = df.dropna(subset=["Cylinders"])
-
-# 🚀 Remove rows with unknown transmission types
+# Remove missing values in key columns
+df.dropna(subset=["Cylinders"], inplace=True)
 df = df[df["Transmission"].isin(["manual", "automatic"])]
 
-# 🚀 Remove rows where ANY column contains "unknown"
+# Remove rows where ANY column contains "unknown"
 df = df[~df.apply(lambda row: row.astype(str).str.contains("unknown", case=False, na=False).any(), axis=1)]
 
-# 🚀 Remove outliers using the interquartile range (IQR)
+# Remove outliers using IQR
 def remove_outliers(df, column):
     Q1, Q3 = df[column].quantile([0.25, 0.75])
     IQR = Q3 - Q1
@@ -49,26 +49,31 @@ def remove_outliers(df, column):
 df = remove_outliers(df, "Price")
 df = remove_outliers(df, "Mileage")
 
-# 🚀 Encode Brand & Model based on average price
-brand_avg_price = df.groupby("Brand")["Price"].transform("mean")
-model_avg_price = df.groupby("Model")["Price"].transform("mean")
+# Encode Brand & Model based on average price
+df["Brand_Encoded"] = df.groupby("Brand")["Price"].transform("mean")
+df["Model_Encoded"] = df.groupby("Model")["Price"].transform("mean")
 
-df["Brand_Encoded"] = brand_avg_price
-df["Model_Encoded"] = model_avg_price
+# One-hot encode categorical features (excluding the target)
+categorical_features = ["Title Status"]
+df = pd.get_dummies(df, columns=categorical_features)
 
-# 🚀 One-hot encode categorical features
-categorical_cols = ["Fuel Type", "Transmission", "Body Type", "Condition", "Title Status"]
-df = pd.get_dummies(df, columns=categorical_cols)
+# Label encode categorical targets
+label_encoders = {}
+target_columns = ["Fuel Type", "Transmission", "Body Type", "Condition"]
+for col in target_columns:
+    le = LabelEncoder()
+    df[col] = le.fit_transform(df[col])
+    label_encoders[col] = le
 
-# 🚀 Drop irrelevant columns
+# Drop irrelevant columns
 df.drop(columns=["VIN", "Link", "Brand", "Model"], errors="ignore", inplace=True)
 
-# 🚀 Feature Scaling (Normalize large differences)
+# Feature Scaling
 scaler = StandardScaler()
 scaled_cols = ["Price", "Year", "Mileage", "Cylinders", "Brand_Encoded", "Model_Encoded"]
 df[scaled_cols] = scaler.fit_transform(df[scaled_cols])
 
 # Save cleaned data
-df.to_csv("cleaned_craigslist_cars.csv", index=False)
+df.to_csv("cleaned_craigslist_cars_classification.csv", index=False)
 
-print("✅ Data cleaning complete! Saved as cleaned_craigslist_cars_first.csv.")
+print("✅ Data cleaning complete! Saved as cleaned_craigslist_cars_classification.csv.")
