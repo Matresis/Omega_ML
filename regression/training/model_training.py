@@ -10,29 +10,50 @@ from xgboost import XGBRegressor
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 
-# 🚀 Load cleaned dataset
+# Load cleaned dataset
 df = pd.read_csv("cleaned_craigslist_cars.csv")
 
 year = datetime.now().year
 
-# 🚀 Feature Engineering
+# Feature Engineering
 df["Car_Age"] = year - df["Year"]
 df["Mileage_per_Year"] = df["Mileage"] / (df["Car_Age"] + 1)  # Avoid division by zero
 
-# 🚀 Drop unnecessary columns
+# Drop 'Year' column as we now have 'Car_Age'
 df.drop(columns=["Year"], inplace=True)
 
-# 🚀 Define features (X) and target variable (y)
+# Use the already encoded 'Brand_Encoded' and 'Model_Encoded' columns
+brand_avg_price = df.groupby("Brand_Encoded")["Price"].transform("mean")
+model_avg_price = df.groupby("Model_Encoded")["Price"].transform("mean")
+
+df["Brand_Encoded"] = brand_avg_price
+df["Model_Encoded"] = model_avg_price
+
+# Saving the encoding mappings for later use in prediction
+with open("models/brand_encoding.pkl", "wb") as f:
+    pc.dump(brand_avg_price.to_dict(), f)  # Save as dictionary for faster lookups
+
+with open("models/model_encoding.pkl", "wb") as f:
+    pc.dump(model_avg_price.to_dict(), f)  # Save as dictionary for faster lookups
+
+# Define features (X) and target variable (y)
 X = df.drop(columns=["Price"])  # Features
 y = df["Price"]  # Target variable
 
-# 🚀 Split dataset (80% training, 20% testing)
+# Split dataset (80% training, 20% testing)
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
 
-# 🚀 Feature Scaling (Standardization)
+# Feature Scaling (Standardization)
 scaler = StandardScaler()
 X_train = scaler.fit_transform(X_train)
 X_test = scaler.transform(X_test)
+
+# Inspect the columns before fitting the model
+print("Columns used during model training:", X.columns.tolist())
+
+
+with open("models/scaler.pkl", "wb") as f:
+    pc.dump(scaler, f)
 
 # 🚀 Train Models
 print("🔍 Training models...")
@@ -90,9 +111,6 @@ for name, model in models.items():
     print(f"   MAE: {mae:.2f}")
     print(f"   MSE: {mse:.2f}")
     print(f"   R² Score: {r2:.4f}\n")
-
-with open("models/scaler.pkl", "wb") as f:
-    pc.dump(scaler, f)
 
 # 🚀 Save Models
 os.makedirs("models", exist_ok=True)
