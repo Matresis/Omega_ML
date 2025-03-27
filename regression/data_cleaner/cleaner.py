@@ -73,19 +73,7 @@ import pandas as pd
 from sklearn.preprocessing import StandardScaler
 
 # Load the dataset
-df = pd.read_csv("craigslist_cars_to_clean.csv")
-
-# Merge similar brands
-brand_mapping = {"Chevy": "Chevrolet", "Mercedes": "Mercedes-Benz"}
-df["Brand"] = df["Brand"].replace(brand_mapping)
-
-# Keep only the most common brands
-top_brands = [
-    "Ford", "Toyota", "Chevrolet", "Honda", "Nissan", "BMW", "Dodge", "Jeep",
-    "GMC", "Subaru", "Lexus", "Mercedes-Benz", "Hyundai", "Volkswagen",
-    "Kia", "Cadillac", "Audi", "Chrysler"
-]
-df = df[df["Brand"].isin(top_brands)]
+df = pd.read_csv("filtered_cars_by_brand.csv")
 
 # Drop unnecessary column (VIN)
 df.drop(columns=["VIN", "Model"], errors="ignore", inplace=True)

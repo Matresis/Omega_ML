@@ -19,7 +19,7 @@ df["Car_Age"] = current_year - df["Year"]
 df["Mileage_per_Year"] = df["Mileage"] / (df["Car_Age"] + 1)  # Avoid division by zero
 
 # Drop 'Year' column as we now have 'Car_Age'
-df.drop(columns=["Year", "Model"], inplace=True)
+df.drop(columns=["Year"], inplace=True)
 
 # Encode brands & models using average price per category
 brand_avg_price = df.groupby("Brand_Encoded")["Price"].transform("mean")
