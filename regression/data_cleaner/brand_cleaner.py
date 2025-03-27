@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the cleaned dataset
-df = pd.read_csv("craigslist_cars_to_clean.csv")
+df = pd.read_csv("data/craigslist_cars_to_clean.csv")
 
 # Merge similar brands
 brand_mapping = {"Chevy": "Chevrolet", "Mercedes": "Mercedes-Benz"}
@@ -20,6 +20,6 @@ df = df[df["Brand"].isin(top_brands)]
 df_filtered = df[df["Brand"].isin(top_brands)]
 
 # Save the extracted dataset
-df_filtered.to_csv("filtered_cars_by_brand.csv", index=False)
+df_filtered.to_csv("data/filtered_cars_by_brand.csv", index=False)
 
 print(f"✅ Extracted {len(df_filtered)} cars from desirable brands and saved to 'filtered_cars_by_brand.csv'.")

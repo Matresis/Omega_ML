@@ -1,52 +1,45 @@
 ﻿import pandas as pd
 import pickle as pc
 import os
-from datetime import datetime
-from sklearn.model_selection import train_test_split, GridSearchCV
-from sklearn.tree import DecisionTreeRegressor
-from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor, AdaBoostRegressor
-from xgboost import XGBRegressor
+
 from sklearn.linear_model import LinearRegression
+from sklearn.model_selection import train_test_split, GridSearchCV
+from sklearn.ensemble import RandomForestRegressor, GradientBoostingRegressor, AdaBoostRegressor
+from sklearn.tree import DecisionTreeRegressor
+from xgboost import XGBRegressor
+from sklearn.preprocessing import StandardScaler
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
+import numpy as np
 
 # Load cleaned dataset
-df = pd.read_csv("cleaned_craigslist_cars.csv")
-
-current_year = datetime.now().year
-
-# Feature Engineering
-df["Car_Age"] = current_year - df["Year"]
-df["Mileage_per_Year"] = df["Mileage"] / (df["Car_Age"] + 1)  # Avoid division by zero
-
-# Drop 'Year' column as we now have 'Car_Age'
-df.drop(columns=["Year"], inplace=True)
-
-# Encode brands & models using average price per category
-brand_avg_price = df.groupby("Brand_Encoded")["Price"].transform("mean")
-
-df["Brand_Encoded"] = brand_avg_price
-
-# Save encoding mappings for later use in prediction
-os.makedirs("models", exist_ok=True)
-with open("models/brand_encoding.pkl", "wb") as f:
-    pc.dump(brand_avg_price.to_dict(), f)
+df = pd.read_csv("data/cleaned_craigslist_cars.csv")
 
 # Define features (X) and target variable (y)
 X = df.drop(columns=["Price"])  # Features
 y = df["Price"]  # Target variable
 
+# Check for NaN or infinite values
+print("NaN values in X:", X.isna().sum())
+print("Infinite values in X:", np.isinf(X).sum())
+
+# Replace NaN values with median
+X = X.fillna(X.median())
+
+# Replace infinite values with a large number
+X.replace([np.inf, -np.inf], 1e10, inplace=True)
+
+# Scale features
+scaler = StandardScaler()
+X_scaled = scaler.fit_transform(X)
+
 # Split dataset (80% training, 20% testing)
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
+X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.3, random_state=42)
 
 # Save the feature order after preprocessing
 with open("models/feature_order.pkl", "wb") as f:
     pc.dump(X.columns.tolist(), f)
 
-
-# 🚀 Train Models
-print("🔍 Training models...")
-
-# 🎯 Random Forest with Hyperparameter Tuning
+# Train Random Forest with Hyperparameter Tuning
 rf_params = {
     "n_estimators": [100, 200],
     "max_depth": [10, 20, None],
