@@ -60,9 +60,12 @@ brand_avg_price = df.groupby("Brand")["Price"].transform("mean")
 df["Brand_Encoded"] = brand_avg_price
 
 # Save the encoding mappings for 'Brand' for use in training
-os.makedirs("models", exist_ok=True)
+brand_price_mapping = df.groupby("Brand")["Price"].mean().to_dict()
+
 with open("models/brand_encoding.pkl", "wb") as f:
-    pc.dump(brand_avg_price.to_dict(), f)
+    pc.dump(brand_price_mapping, f)
+
+print("✅ Brand encoding mapping saved correctly!")
 
 # One-hot encode categorical features
 categorical_cols = ["Fuel Type", "Transmission", "Body Type", "Condition", "Title Status"]
@@ -73,8 +76,11 @@ df.drop(columns=["VIN", "Link", "Brand"], errors="ignore", inplace=True)
 
 # Feature Scaling (Standardize the numeric columns)
 scaler = StandardScaler()
-scaled_cols = ["Price", "Car_Age", "Mileage", "Cylinders", "Brand_Encoded"]
+scaled_cols = ["Car_Age", "Mileage", "Cylinders", "Brand_Encoded"]
 df[scaled_cols] = scaler.fit_transform(df[scaled_cols])
+
+with open("models/scaler.pkl", "wb") as f:
+    pc.dump(scaler, f)
 
 # Save the cleaned dataset
 df.to_csv("data/cleaned_craigslist_cars.csv", index=False)
