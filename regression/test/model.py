@@ -21,12 +21,12 @@ with open("models/scaler.pkl", "rb") as f:
 # Example input data
 new_data = {
     "Brand": "Ford",
-    "Year": 2023,
-    "Mileage": 10000,
+    "Year": 2018,
+    "Mileage": 67772,
     "Transmission": "automatic",
-    "Body Type": "sedan",
+    "Body Type": "pickup",
     "Condition": "like new",
-    "Cylinders": 8,
+    "Cylinders": 6,
     "Fuel Type": "gas",
     "Title Status": "clean"
 }
