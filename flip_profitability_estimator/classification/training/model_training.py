@@ -1,5 +1,4 @@
 ﻿import pandas as pd
-import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.preprocessing import StandardScaler
@@ -7,7 +6,7 @@ from sklearn.ensemble import RandomForestClassifier, GradientBoostingClassifier
 from xgboost import XGBClassifier
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import accuracy_score, classification_report
-from classification.data_cleaner.cleaner import label_encoders
+from price_predictor.classification.data_cleaner.cleaner import label_encoders
 
 # 🚀 Load cleaned dataset
 df = pd.read_csv("cleaned_craigslist_cars_classification.csv")
