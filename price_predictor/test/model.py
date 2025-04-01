@@ -4,7 +4,7 @@ from datetime import datetime
 from sklearn.preprocessing import StandardScaler
 
 # Load the trained model
-xgb_model = pc.load(open("models/gradientboosting_model.pkl", 'rb'))
+model = pc.load(open("models/gradient_boosting_model.pkl", 'rb'))
 
 # Load the encoding mappings
 with open("models/brand_encoding.pkl", "rb") as f:
@@ -65,7 +65,7 @@ df_input[numeric_features] = scaler.transform(df_input[numeric_features])
 df_input = df_input.values
 
 # 🔥 Make the prediction
-predicted_price = xgb_model.predict(df_input)
+predicted_price = model.predict(df_input)
 
 # 🎯 Output the result
 print(f"The predicted price of the car is: ${predicted_price[0]:,.2f}")
