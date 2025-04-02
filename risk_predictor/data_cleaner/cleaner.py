@@ -17,19 +17,22 @@ df["Mileage"] = pd.to_numeric(df["Mileage"], errors="coerce")
 df["Cylinders"] = pd.to_numeric(df["Cylinders"], errors="coerce")
 
 # Fill missing values
-df["Mileage"].fillna(df["Mileage"].median(), inplace=True)
-df["Cylinders"].fillna(df["Cylinders"].median(), inplace=True)
-df["Condition"].fillna("unknown", inplace=True)
-df["Title Status"].fillna("clean", inplace=True)
-df["Body Type"].fillna("unknown", inplace=True)
-df["Transmission"].fillna("unknown", inplace=True)
-df["Fuel Type"].fillna("unknown", inplace=True)
+numeric_cols = ["Price", "Mileage", "Year"]
+df[numeric_cols] = df[numeric_cols].fillna(df[numeric_cols].median())
+
+df["Brand"] = df["Brand"].str.title().str.strip()
+df["Condition"] = df["Condition"].str.lower().replace("like new", "excellent")
+df["Fuel Type"] = df["Fuel Type"].str.lower()
+df["Transmission"] = df["Transmission"].str.lower()
+df["Body Type"] = df["Body Type"].str.lower()
+df["Title Status"] = df["Title Status"].str.lower()
 
 # Normalize text data
 for col in ["Condition", "Title Status", "Body Type", "Transmission", "Fuel Type"]:
     df[col] = df[col].str.strip().str.lower()
 
-# Remove rows with 'unknown' values in critical columns
+# Remove rows with missing 'Cylinders' and remove 'unknown' transmission rows
+df = df.dropna(subset=["Cylinders"])
 df = df[df["Transmission"].isin(["manual", "automatic"])]
 df = df[~df.apply(lambda row: row.astype(str).str.contains("unknown", case=False, na=False).any(), axis=1)]
 
