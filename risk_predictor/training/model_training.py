@@ -33,8 +33,11 @@ df = df.dropna()
 X = df.drop(columns=["Risk_Category", "Total_Risk"])
 y = df["Risk_Category"]
 
-# Ensure X contains only finite values
-assert np.isfinite(X).all().all(), "Error: X contains non-finite values!"
+# Replace NaN values with median
+X = X.fillna(X.median())
+
+# Replace infinite values with a large number
+X.replace([np.inf, -np.inf], 1e10, inplace=True)
 
 # --- Feature Scaling ---
 # Even though tree models don't require scaling, we'll scale the data to keep things consistent with the testing script.

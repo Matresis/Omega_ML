@@ -1,7 +1,6 @@
 ﻿import pandas as pd
 import pickle as pc
 from datetime import datetime
-from sklearn.preprocessing import StandardScaler
 
 # Load the trained model
 model = pc.load(open("models/gradient_boosting_model.pkl", 'rb'))
@@ -40,6 +39,7 @@ df_input["Car_Age"] = current_year - df_input["Year"]
 df_input["Mileage_per_Year"] = df_input["Mileage"] / (df_input["Car_Age"] + 1)
 
 # Encode brand using the saved encoding
+df_input["Brand"] = df_input["Brand"].str.lower()
 df_input["Brand_Encoded"] = df_input["Brand"].map(brand_encoding).fillna(0)
 
 # Drop 'Year' column as it's no longer needed

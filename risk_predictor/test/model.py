@@ -13,6 +13,10 @@ with open("models/brand_encoding.pkl", "rb") as f:
 with open("models/feature_order.pkl", "rb") as f:
     expected_columns = pc.load(f)  # Expected to be a list of 45 feature names
 
+# Load the standard scaler used in training
+with open("models/scaler.pkl", "rb") as f:
+    scaler = pc.load(f)
+
 print("Expected feature order ({} features):".format(len(expected_columns)))
 print(expected_columns)
 
@@ -21,7 +25,7 @@ new_data = {
     "Brand": "Ford",
     "Year": 2018,
     "Mileage": 50000,
-    "Price": 16000,  # User-entered price
+    "Price": 16000,
     "Transmission": "automatic",
     "Body Type": "pickup",
     "Condition": "like new",
@@ -52,8 +56,12 @@ df_input = pd.get_dummies(df_input, columns=categorical_columns)
 # Debug: Print columns before reindexing
 print("Columns before reindexing:", df_input.columns.tolist())
 
-# Ensure that all expected columns exist; add missing ones with 0.
+# Ensure all expected columns exist (fill missing ones with 0)
 df_input = df_input.reindex(columns=expected_columns, fill_value=0)
+
+# ⚠️ Standardize numeric features (including "Price")
+numeric_features = ["Car_Age", "Mileage", "Cylinders", "Brand_Encoded", "Price"]
+df_input[numeric_features] = scaler.transform(df_input[numeric_features])
 
 # Debug: Print final columns and shape
 print("Columns after reindexing:", df_input.columns.tolist())
