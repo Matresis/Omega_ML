@@ -7,14 +7,13 @@ from sklearn.metrics import accuracy_score, classification_report, confusion_mat
 from sklearn.preprocessing import StandardScaler
 
 # Load cleaned data
-df = pd.read_csv("data/cleaned_risk_data.csv")
+df = pd.read_csv("data/cleaned_risk_data_with_total_risk.csv")
 
 # Ensure 'Total_Risk' exists
 if "Total_Risk" not in df.columns:
     raise ValueError("❌ Error: 'Total_Risk' column is missing from the dataset.")
 
-# --- Improved Risk Categorization ---
-# More granular risk bins (0-5 scale)
+# Improve Risk Categorization
 risk_labels = ["Very Low", "Low", "Medium", "High", "Very High", "Extreme"]
 df["Risk_Category"] = pd.cut(
     df["Total_Risk"],
@@ -22,46 +21,52 @@ df["Risk_Category"] = pd.cut(
     labels=risk_labels
 )
 
-# Convert risk labels to numerical values for training
+# Map risk labels to numerical values for training
 risk_label_map = {label: i for i, label in enumerate(risk_labels)}
 df["Risk_Category"] = df["Risk_Category"].map(risk_label_map)
 
-# --- Handle Missing or Invalid Data ---
+# Handle missing/invalid data
 df.replace([np.inf, -np.inf], np.nan, inplace=True)
 df.dropna(inplace=True)
 
-# --- Feature Engineering ---
+# Feature engineering for risk based on Price, Mileage, and Car Age
 df["Price_Risk"] = pd.qcut(df["Price"], q=5, labels=[4, 3, 2, 1, 0]).astype(int)
 df["Mileage_Risk"] = pd.qcut(df["Mileage"], q=5, labels=[4, 3, 2, 1, 0]).astype(int)
 df["Age_Risk"] = pd.qcut(df["Car_Age"], q=5, labels=[4, 3, 2, 1, 0]).astype(int)
 
-# Define features (X) and target (y)
-X = df.drop(columns=["Risk_Category", "Total_Risk"])
+# Feature engineering and including Total_Risk
+df["Total_Risk"] = (
+    df["Condition_Risk"] + df["Title_Risk"] +
+    df["Body_Risk"] + df["Fuel_Risk"] +
+    df["Transmission_Risk"] + df["Price_Risk"].astype(int) +
+    df["Mileage_Risk"].astype(int) + df["Age_Risk"].astype(int)
+)
+
+# Define features and target (including Total_Risk)
+X = df.drop(columns=["Risk_Category"])  # Total_Risk is part of features but not the target
 y = df["Risk_Category"]
 
-# Handle missing values
+# Handle missing values in features
 X.fillna(X.median(), inplace=True)
 X.replace([np.inf, -np.inf], 1e10, inplace=True)
 
-# --- Feature Scaling ---
+# Feature scaling
 scaler = StandardScaler()
 X_scaled = scaler.fit_transform(X)
 
-# Save the feature order and scaler
+# Save feature order (including Total_Risk)
 feature_order = X.columns.tolist()
 with open("models/feature_order.pkl", "wb") as f:
     pc.dump(feature_order, f)
-with open("models/scaler.pkl", "wb") as f:
-    pc.dump(scaler, f)
 
-print("✅ Feature order and scaler saved.")
+print("✅ Feature order saved.")
 
-# --- Train/Test Split ---
+# Train-Test Split
 X_train, X_test, y_train, y_test = train_test_split(
     X_scaled, y, test_size=0.2, random_state=42, stratify=y
 )
 
-# --- Train Improved Model ---
+# Train the model
 model = RandomForestClassifier(
     n_estimators=300,
     max_depth=10,
@@ -71,10 +76,8 @@ model = RandomForestClassifier(
 )
 model.fit(X_train, y_train)
 
-# --- Model Evaluation ---
+# Model evaluation
 y_pred = model.predict(X_test)
-
-# Convert numeric predictions back to labels
 y_pred_labels = [risk_labels[int(pred)] for pred in y_pred]
 
 accuracy = accuracy_score(y_test, y_pred)
@@ -84,7 +87,7 @@ print(classification_report(y_test, y_pred))
 print("🔍 Confusion Matrix:")
 print(confusion_matrix(y_test, y_pred))
 
-# --- Save the Model and Risk Mapping ---
+# Save the model and mappings
 with open("models/risk_model.pkl", "wb") as f:
     pc.dump(model, f)
 

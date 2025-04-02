@@ -16,10 +16,21 @@ df["Year"] = pd.to_numeric(df["Year"], errors="coerce")
 df["Mileage"] = pd.to_numeric(df["Mileage"], errors="coerce")
 df["Cylinders"] = pd.to_numeric(df["Cylinders"], errors="coerce")
 
-# Fill missing values
-numeric_cols = ["Price", "Mileage", "Year"]
-df[numeric_cols] = df[numeric_cols].fillna(df[numeric_cols].median())
+# Handle missing or "Unknown" values
+df["Mileage"].fillna(df["Mileage"].median(), inplace=True)
+df["Price"].fillna(df["Price"].median(), inplace=True)
+df["Year"].fillna(df["Year"].median(), inplace=True)
+df["Cylinders"].fillna(df["Cylinders"].median(), inplace=True)
 
+# Replace "Unknown" text with NaN to mark missing data
+df.replace("Unknown", np.nan, inplace=True)
+
+# Create a binary feature indicating if data is missing/unknown
+df["Missing_Mileage"] = df["Mileage"].isna().astype(int)
+df["Missing_Year"] = df["Year"].isna().astype(int)
+df["Missing_Cylinders"] = df["Cylinders"].isna().astype(int)
+
+# Normalize text data
 df["Brand"] = df["Brand"].str.title().str.strip()
 df["Condition"] = df["Condition"].str.lower().replace("like new", "excellent")
 df["Fuel Type"] = df["Fuel Type"].str.lower()
@@ -27,37 +38,28 @@ df["Transmission"] = df["Transmission"].str.lower()
 df["Body Type"] = df["Body Type"].str.lower()
 df["Title Status"] = df["Title Status"].str.lower()
 
-# Normalize text data
+# Normalize text columns
 for col in ["Condition", "Title Status", "Body Type", "Transmission", "Fuel Type"]:
     df[col] = df[col].str.strip().str.lower()
 
-# Remove rows with missing 'Cylinders' and remove 'unknown' transmission rows
+# Drop rows with missing 'Cylinders' or "unknown" transmission rows
 df = df.dropna(subset=["Cylinders"])
 df = df[df["Transmission"].isin(["manual", "automatic"])]
 df = df[~df.apply(lambda row: row.astype(str).str.contains("unknown", case=False, na=False).any(), axis=1)]
 
-# Calculate car age
+# Calculate car age and add features like Mileage per Year
 CURRENT_YEAR = 2025
 df["Car_Age"] = CURRENT_YEAR - df["Year"]
+df["Mileage_per_Year"] = df["Mileage"] / (df["Car_Age"] + 1)
 
-# Feature: Mileage per year
-df["Mileage_per_Year"] = df["Mileage"] / (df["Car_Age"] + 1)  # Avoid division by zero
-
-# Drop 'Year' column (replaced by 'Car_Age')
+# Remove 'Year' column (now redundant)
 df.drop(columns=["Year"], inplace=True)
 
-# Encode 'Brand' based on average price
+# Handle "Unknown" values more precisely: Encode with average price for brands
 brand_avg_price = df.groupby("Brand")["Price"].transform("mean")
 df["Brand_Encoded"] = brand_avg_price
 
-# Save encoding mappings for 'Brand'
-brand_price_mapping = df.groupby("Brand")["Price"].mean().to_dict()
-with open("models/brand_encoding.pkl", "wb") as f:
-    pc.dump(brand_price_mapping, f)
-
-print("✅ Brand encoding mapping saved correctly!")
-
-# Remove outliers using IQR
+# Handle outliers (IQR)
 def remove_outliers(df, column):
     Q1, Q3 = df[column].quantile([0.25, 0.75])
     IQR = Q3 - Q1
@@ -99,7 +101,7 @@ df["Total_Risk"] = (
     df["Mileage_Risk"].astype(int) + df["Age_Risk"].astype(int)
 )
 
-# Define risk categories
+# Risk Category based on total risk score
 df["Risk_Category"] = pd.cut(df["Total_Risk"], bins=[0, 5, 10, 15, 20], labels=["Low", "Medium", "High", "Very High"])
 
 # One-hot encode categorical features
@@ -114,28 +116,12 @@ scaler = StandardScaler()
 scaled_cols = ["Car_Age", "Mileage", "Cylinders", "Brand_Encoded"]
 df[scaled_cols] = scaler.fit_transform(df[scaled_cols])
 
-# Save the scaler for model use
+# Save the scaler
 with open("models/scaler.pkl", "wb") as f:
     pc.dump(scaler, f)
 
-# Save bin edges for Price, Mileage, and Age Risk
-price_bins = df["Price"].quantile([0, 0.33, 0.67, 1.0]).values
-mileage_bins = df["Mileage"].quantile([0, 0.33, 0.67, 1.0]).values
-age_bins = df["Car_Age"].quantile([0, 0.33, 0.67, 1.0]).values
-
-with open("models/price_bins.pkl", "wb") as f:
-    pc.dump(price_bins, f)
-
-with open("models/mileage_bins.pkl", "wb") as f:
-    pc.dump(mileage_bins, f)
-
-with open("models/age_bins.pkl", "wb") as f:
-    pc.dump(age_bins, f)
-
-print("✅ Risk quantile bin edges saved!")
-
-# Save cleaned dataset
-df.to_csv("data/cleaned_risk_data.csv", index=False)
+# Save cleaned dataset, including the 'Total_Risk' column
+df.to_csv("data/cleaned_risk_data_with_total_risk.csv", index=False)
 
 # Completion message
-print("✅ Risk data cleaning complete! Saved as cleaned_risk_data.csv.")
+print("✅ Risk data cleaning complete! Saved as cleaned_risk_data_with_total_risk.csv.")
