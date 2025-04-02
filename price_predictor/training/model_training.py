@@ -18,10 +18,6 @@ df = pd.read_csv("data/cleaned_craigslist_cars.csv")
 X = df.drop(columns=["Price"])  # Features
 y = df["Price"]  # Target variable
 
-# Check for NaN or infinite values
-print("NaN values in X:", X.isna().sum())
-print("Infinite values in X:", np.isinf(X).sum())
-
 # Replace NaN values with median
 X = X.fillna(X.median())
 
@@ -39,33 +35,9 @@ X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.3, 
 with open("models/feature_order.pkl", "wb") as f:
     pc.dump(X.columns.tolist(), f)
 
-# Train Random Forest with Hyperparameter Tuning
-rf_params = {
-    "n_estimators": [100, 200],
-    "max_depth": [10, 20, None],
-    "min_samples_split": [2, 5],
-    "min_samples_leaf": [1, 2]
-}
-
-rf_grid = GridSearchCV(RandomForestRegressor(random_state=42), rf_params, cv=3, n_jobs=-1, verbose=1)
-rf_grid.fit(X_train, y_train)
-best_rf = rf_grid.best_estimator_
-
-# 🎯 XGBoost
-xgb = XGBRegressor(n_estimators=200, learning_rate=0.1, max_depth=6, random_state=42)
-xgb.fit(X_train, y_train)
-
 # 🎯 Gradient Boosting
 gradient = GradientBoostingRegressor(n_estimators=200, learning_rate=0.1, max_depth=5, random_state=42)
 gradient.fit(X_train, y_train)
-
-# 🎯 Decision Tree
-decision = DecisionTreeRegressor(max_depth=10, random_state=42)
-decision.fit(X_train, y_train)
-
-# 🎯 AdaBoost
-ada = AdaBoostRegressor(n_estimators=200, learning_rate=0.1, random_state=42)
-ada.fit(X_train, y_train)
 
 # 🎯 Linear Regression
 lr = LinearRegression()
@@ -73,11 +45,7 @@ lr.fit(X_train, y_train)
 
 # 🚀 Evaluate Models
 models = {
-    "RandomForest": best_rf,
-    "XGBoost": xgb,
     "GradientBoosting": gradient,
-    "DecisionTree": decision,
-    "AdaBoost": ada,
     "LinearRegression": lr
 }
 

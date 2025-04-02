@@ -118,6 +118,22 @@ df[scaled_cols] = scaler.fit_transform(df[scaled_cols])
 with open("models/scaler.pkl", "wb") as f:
     pc.dump(scaler, f)
 
+# Save bin edges for Price, Mileage, and Age Risk
+price_bins = df["Price"].quantile([0, 0.33, 0.67, 1.0]).values
+mileage_bins = df["Mileage"].quantile([0, 0.33, 0.67, 1.0]).values
+age_bins = df["Car_Age"].quantile([0, 0.33, 0.67, 1.0]).values
+
+with open("models/price_bins.pkl", "wb") as f:
+    pc.dump(price_bins, f)
+
+with open("models/mileage_bins.pkl", "wb") as f:
+    pc.dump(mileage_bins, f)
+
+with open("models/age_bins.pkl", "wb") as f:
+    pc.dump(age_bins, f)
+
+print("✅ Risk quantile bin edges saved!")
+
 # Save cleaned dataset
 df.to_csv("data/cleaned_risk_data.csv", index=False)
 

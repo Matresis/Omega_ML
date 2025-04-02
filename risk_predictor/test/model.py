@@ -1,81 +1,90 @@
 ﻿import pandas as pd
 import pickle as pc
+import numpy as np
 from datetime import datetime
 
-# Load the trained risk prediction model
-model = pc.load(open("models/risk_model.pkl", "rb"))
+# Load trained model
+model = pc.load(open("models/risk_model.pkl", 'rb'))
 
-# Load the encoding mapping for Brand (if used)
+# Load encoding mappings
 with open("models/brand_encoding.pkl", "rb") as f:
     brand_encoding = pc.load(f)
 
-# Load the expected feature order saved during training
+# Load feature order and scaler
 with open("models/feature_order.pkl", "rb") as f:
-    expected_columns = pc.load(f)  # Expected to be a list of 45 feature names
-
-# Load the standard scaler used in training
+    expected_columns = pc.load(f)
 with open("models/scaler.pkl", "rb") as f:
     scaler = pc.load(f)
 
-print("Expected feature order ({} features):".format(len(expected_columns)))
-print(expected_columns)
+# Load risk labels
+with open("models/risk_label_map.pkl", "rb") as f:
+    risk_labels = pc.load(f)
 
-# Example input data provided by the user, including the Price
+# Example input
 new_data = {
     "Brand": "Ford",
-    "Year": 2018,
+    "Year": 2023,
     "Mileage": 50000,
-    "Price": 16000,
     "Transmission": "automatic",
     "Body Type": "pickup",
-    "Condition": "like new",
+    "Condition": "salvage",
     "Cylinders": 6,
     "Fuel Type": "gas",
-    "Title Status": "clean"
+    "Title Status": "salvage",
+    "Price": 0
 }
 
-# Convert input data to DataFrame
+# Convert input to DataFrame
 df_input = pd.DataFrame([new_data])
 
-# Feature Engineering: calculate Car_Age and Mileage_per_Year
+# Feature Engineering
 current_year = datetime.now().year
 df_input["Car_Age"] = current_year - df_input["Year"]
 df_input["Mileage_per_Year"] = df_input["Mileage"] / (df_input["Car_Age"] + 1)
 
-# Encode 'Brand' using the saved encoding mapping (convert to lowercase for consistency)
-df_input["Brand"] = df_input["Brand"].str.lower()
+# Encode categorical values
+df_input["Brand"] = df_input["Brand"].str.title().str.strip()
 df_input["Brand_Encoded"] = df_input["Brand"].map(brand_encoding).fillna(0)
 
-# Drop unnecessary columns (drop 'Year' and 'Brand'; keep 'Price')
 df_input.drop(columns=["Year", "Brand"], inplace=True)
 
-# One-Hot Encoding for remaining categorical variables
+# Risk Mapping
+condition_map = {"new": 0, "like new": 1, "excellent": 2, "good": 3, "fair": 4, "salvage": 5}
+title_risk_map = {"clean": 0, "rebuilt": 2, "salvage": 3}
+body_risk_map = {"sedan": 0, "suv": 1, "coupe": 1, "hatchback": 1, "van": 2, "pickup": 2, "truck": 3}
+fuel_risk_map = {"gas": 1, "diesel": 2, "hybrid": 1, "electric": 0}
+transmission_risk_map = {"automatic": 1, "manual": 2}
+
+df_input["Condition_Risk"] = df_input["Condition"].map(condition_map).fillna(3)
+df_input["Title_Risk"] = df_input["Title Status"].map(title_risk_map).fillna(1)
+df_input["Body_Risk"] = df_input["Body Type"].map(body_risk_map).fillna(2)
+df_input["Fuel_Risk"] = df_input["Fuel Type"].map(fuel_risk_map).fillna(2)
+df_input["Transmission_Risk"] = df_input["Transmission"].map(transmission_risk_map).fillna(2)
+
+# One-Hot Encoding for categorical variables
 categorical_columns = ["Transmission", "Body Type", "Condition", "Fuel Type", "Title Status"]
 df_input = pd.get_dummies(df_input, columns=categorical_columns)
 
-# Debug: Print columns before reindexing
-print("Columns before reindexing:", df_input.columns.tolist())
+# Ensure all expected columns exist
+for col in expected_columns:
+    if col not in df_input.columns:
+        df_input[col] = 0
 
-# Ensure all expected columns exist (fill missing ones with 0)
-df_input = df_input.reindex(columns=expected_columns, fill_value=0)
+# Ensure column order matches training
+df_input = df_input[expected_columns]
 
-# ⚠️ Standardize numeric features (including "Price")
-numeric_features = ["Car_Age", "Mileage", "Cylinders", "Brand_Encoded", "Price"]
+# Standardize numeric features
+numeric_features = ["Car_Age", "Mileage", "Cylinders", "Brand_Encoded"]
 df_input[numeric_features] = scaler.transform(df_input[numeric_features])
 
-# Debug: Print final columns and shape
-print("Columns after reindexing:", df_input.columns.tolist())
-print("Final shape of input features:", df_input.shape)
+# Convert to NumPy array
+df_input = df_input.values
 
-# Convert to NumPy array if required by the model
-X_new = df_input.values
+# Make the prediction
+predicted_risk = model.predict(df_input)
 
-# Make the risk prediction
-predicted_risk = model.predict(X_new)[0]
-
-# Map numerical risk to a meaningful label (assuming: 0=Low, 1=Medium, 2=High, 3=Very High)
-risk_categories = {0: "Low Risk", 1: "Medium Risk", 2: "High Risk", 3: "Very High Risk"}
-risk_label = risk_categories.get(predicted_risk, "Unknown")
+# Convert numeric risk to descriptive label
+predicted_risk_label = risk_labels[int(predicted_risk[0])]
 
 # Output the result
-print(f"\n🚗 Predicted Risk Category: {risk_label}")
+print(f"🚗 The predicted risk level of the car is: **{predicted_risk_label}**")
