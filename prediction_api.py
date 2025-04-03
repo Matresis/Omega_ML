@@ -1,9 +1,7 @@
 import pickle as pc
 import pandas as pd
-import numpy as np
 from flask import Flask, request, jsonify
 from datetime import datetime
-from sklearn.preprocessing import StandardScaler
 
 # Load Model and Preprocessing Objects - Price Prediction Model
 with open("models/price/price_model.pkl", "rb") as f:
