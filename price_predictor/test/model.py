@@ -20,12 +20,12 @@ with open("models/scaler.pkl", "rb") as f:
 # Example input data
 new_data = {
     "Brand": "Ford",
-    "Year": 2023,
-    "Mileage": 10000,
+    "Year": 2010,
+    "Mileage": 50000,
     "Transmission": "automatic",
     "Body Type": "sedan",
     "Condition": "like new",
-    "Cylinders": 8,
+    "Cylinders": 6,
     "Fuel Type": "gas",
     "Title Status": "clean"
 }
@@ -34,38 +34,33 @@ new_data = {
 df_input = pd.DataFrame([new_data])
 
 # Feature Engineering
-current_year = datetime.now().year
-df_input["Car_Age"] = current_year - df_input["Year"]
+df_input["Car_Age"] = datetime.now().year - df_input["Year"]
 df_input["Mileage_per_Year"] = df_input["Mileage"] / (df_input["Car_Age"] + 1)
 
-# Encode brand using the saved encoding
-df_input["Brand"] = df_input["Brand"].str.lower()
+# Encode brand
 df_input["Brand_Encoded"] = df_input["Brand"].map(brand_encoding).fillna(0)
 
-# Drop 'Year' column as it's no longer needed
+# Drop unused columns
 df_input.drop(columns=["Year", "Brand"], inplace=True)
 
-# One-Hot Encoding for categorical variables
+# One-Hot Encoding
 categorical_columns = ["Transmission", "Body Type", "Condition", "Fuel Type", "Title Status"]
 df_input = pd.get_dummies(df_input, columns=categorical_columns)
 
-# Ensure all expected columns exist (fill missing ones with 0)
+# Ensure all expected columns exist
 for col in expected_columns:
     if col not in df_input.columns:
         df_input[col] = 0
 
-# Reorder features to match the model's training data
+# Reorder features
 df_input = df_input[expected_columns]
 
-# ⚠️ Standardize numeric features (excluding "Price")
+# Standardize numeric features
 numeric_features = ["Car_Age", "Mileage", "Cylinders", "Brand_Encoded"]
 df_input[numeric_features] = scaler.transform(df_input[numeric_features])
 
-# 🚀 Convert to NumPy array to avoid sklearn warning
-df_input = df_input.values
-
-# 🔥 Make the prediction
-predicted_price = model.predict(df_input)
+# Predict
+predicted_price = model.predict(df_input.values)
 
 # 🎯 Output the result
 print(f"The predicted price of the car is: ${predicted_price[0]:,.2f}")

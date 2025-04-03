@@ -55,9 +55,9 @@ def predict():
         df_input[numeric_features] = scaler.transform(df_input[numeric_features])
 
         # Predict
-        predicted_price = model.predict(df_input.values)[0]
+        predicted_price = model.predict(df_input.values)
 
-        return jsonify({"prediction": round(predicted_price, 2)})
+        return jsonify({"prediction": round(predicted_price[0], 2)})
 
     except Exception as e:
         return jsonify({"error": str(e)}), 500
