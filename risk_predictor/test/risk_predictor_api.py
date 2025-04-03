@@ -24,7 +24,7 @@ with open("models/risk_label_map.pkl", "rb") as f:
 
 app = Flask(__name__)
 
-@app.route("/predict", methods=["POST"])
+@app.route("/predict-risk", methods=["POST"])
 def predict():
     try:
         data = request.get_json()
@@ -122,9 +122,6 @@ def predict():
 
         # Make the prediction
         predicted_risk = model.predict(df_input_np)
-
-        # Convert numeric risk to descriptive label
-        predicted_risk_label = risk_labels[int(predicted_risk[0])]
 
         # Custom rule: Override model if risk is very high
         total_risk_value = df_input.get("Total_Risk")

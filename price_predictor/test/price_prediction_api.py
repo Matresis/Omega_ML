@@ -20,7 +20,7 @@ with open("models/scaler.pkl", "rb") as f:
 
 app = Flask(__name__)
 
-@app.route("/predict", methods=["POST"])
+@app.route("/predict-price", methods=["POST"])
 def predict():
     try:
         data = request.get_json()
