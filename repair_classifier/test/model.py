@@ -3,7 +3,7 @@ import pickle as pc
 from datetime import datetime
 
 # Load the trained model
-model = pc.load(open("models/gradient_boosting_model.pkl", 'rb'))
+model = pc.load(open("models/randomforest_model.pkl", 'rb'))  # Use the desired model
 
 # Load the encoding mappings
 with open("models/brand_encoding.pkl", "rb") as f:
@@ -21,13 +21,14 @@ with open("models/scaler.pkl", "rb") as f:
 new_data = {
     "Brand": "Ford",
     "Year": 2020,
-    "Mileage": 20000,
+    "Mileage": 50000,
     "Transmission": "automatic",
     "Body Type": "sedan",
-    "Condition": "like new",
+    "Condition": "excellent",
     "Cylinders": 6,
     "Fuel Type": "gas",
-    "Title Status": "clean"
+    "Title Status": "clean",
+    "Price": 17596
 }
 
 # Convert input to DataFrame
@@ -47,12 +48,12 @@ df_input.drop(columns=["Year", "Brand"], inplace=True)
 categorical_columns = ["Transmission", "Body Type", "Condition", "Fuel Type", "Title Status"]
 df_input = pd.get_dummies(df_input, columns=categorical_columns)
 
-# Ensure all expected columns exist
+# Add missing expected columns
 for col in expected_columns:
     if col not in df_input.columns:
         df_input[col] = 0
 
-# Reorder features
+# Remove extra columns not seen during training
 df_input = df_input[expected_columns]
 
 # Standardize numeric features
@@ -60,7 +61,10 @@ numeric_features = ["Car_Age", "Mileage", "Cylinders", "Brand_Encoded"]
 df_input[numeric_features] = scaler.transform(df_input[numeric_features])
 
 # Predict
-predicted_price = model.predict(df_input.values)
+predicted_repair_needed = model.predict(df_input.values)
 
 # 🎯 Output the result
-print(f"The predicted price of the car is: ${predicted_price[0]:,.2f}")
+if predicted_repair_needed[0] == 1:
+    print("This car likely needs repairs.")
+else:
+    print("This car does not likely need repairs.")

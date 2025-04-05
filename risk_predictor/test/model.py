@@ -66,7 +66,7 @@ CURRENT_YEAR = 2025
 df_input["Car_Age"] = CURRENT_YEAR - df_input["Year"]
 
 # Encode Brand using precomputed mapping
-df_input["Brand_Encoded"] = df_input["Brand"].map(brand_encoding).fillna(df_input["Price"].mean())  # Avg price used for unknown brands
+df_input["Brand_Encoded"] = df_input["Brand"].map(brand_encoding).fillna(0)
 
 # Drop redundant columns
 df_input.drop(columns=["Year", "Brand"], inplace=True, errors="ignore")

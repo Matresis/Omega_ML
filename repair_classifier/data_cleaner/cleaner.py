@@ -7,7 +7,7 @@ from datetime import datetime
 # Load the dataset
 df = pd.read_csv("data/filtered_cars_by_brand.csv")
 
-# Drop unnecessary column (VIN and Model)
+# Drop unnecessary columns (VIN, Model)
 df.drop(columns=["VIN", "Model"], errors="ignore", inplace=True)
 
 # Convert 'Price' and 'Mileage' to numeric (force errors to NaN)
@@ -17,7 +17,7 @@ df["Mileage"] = pd.to_numeric(df["Mileage"], errors="coerce")
 # Convert 'Year' to integer
 df["Year"] = pd.to_numeric(df["Year"], errors="coerce").astype("Int64")
 
-# Handle missing values: Replace with median for numeric columns
+# Handle missing values
 numeric_cols = ["Price", "Mileage", "Year"]
 df[numeric_cols] = df[numeric_cols].fillna(df[numeric_cols].median())
 
@@ -50,10 +50,14 @@ df = remove_outliers(df, "Mileage")
 # Feature Engineering: Add 'Car_Age' and 'Mileage_per_Year'
 current_year = datetime.now().year
 df["Car_Age"] = current_year - df["Year"]
-df["Mileage_per_Year"] = df["Mileage"] / (df["Car_Age"] + 1)  # Avoid division by zero
+df["Mileage_per_Year"] = df["Mileage"] / (df["Car_Age"] + 1)
 
 # Drop 'Year' column as we now have 'Car_Age'
 df.drop(columns=["Year"], inplace=True)
+
+# Create the target variable 'Repair Needed'
+# Assuming cars with high mileage, old age, or poor condition might need repairs
+df['Repair Needed'] = ((df['Mileage'] > 100000) | (df['Car_Age'] > 10) | (df['Condition'] == 'fair')).astype(int)
 
 # Encode 'Brand' by average price
 brand_avg_price = df.groupby("Brand")["Price"].transform("mean")
@@ -77,11 +81,11 @@ scaler = StandardScaler()
 scaled_cols = ["Car_Age", "Mileage", "Cylinders", "Brand_Encoded"]
 df[scaled_cols] = scaler.fit_transform(df[scaled_cols])
 
+# Save the scaler
 with open("models/scaler.pkl", "wb") as f:
     pc.dump(scaler, f)
 
 # Save the cleaned dataset
-df.to_csv("data/cleaned_repair_modification_cars.csv", index=False)
+df.to_csv("data/cleaned_craigslist_cars_repair.csv", index=False)
 
-# Print completion message
-print("✅ Data cleaning complete! Saved as cleaned_repair_modification_cars.csv.")
+print("✅ Data cleaning complete! Saved as cleaned_craigslist_cars_repair.csv.")
