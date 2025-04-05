@@ -23,15 +23,15 @@ with open("models/risk_label_map.pkl", "rb") as f:
 # Example input
 new_data = {
     "Brand": "Ford",
-    "Year": 2015,
-    "Mileage": 20000,
+    "Year": 2000,
+    "Mileage": 300000,
     "Transmission": "automatic",
     "Body Type": "pickup",
     "Condition": "excellent",
     "Cylinders": 6,
     "Fuel Type": "gas",
-    "Title Status": "clean",
-    "Price": 10000
+    "Title Status": "salvage",
+    "Price": 16000
 }
 
 # Convert input to DataFrame
@@ -87,6 +87,14 @@ df_input[numeric_features] = scaler.transform(df_input[numeric_features])
 # Ensure column order matches training
 df_input = df_input[expected_columns]
 
+# Debugging encoding process
+print("Brand Encoding:", df_input["Brand_Encoded"].head())
+print("Condition Risk:", df_input.get("Condition_Risk", "Column not found").head())  # Safe access
+print("Title Status Risk:", df_input.get("Title_Risk", "Column not found").head())  # Safe access
+
+# Debugging the processed input features
+print("Processed Input Data:\n", df_input.head())
+
 # Convert to NumPy array
 df_input_np = df_input.values  # Store separately to avoid overwriting DataFrame
 
@@ -96,8 +104,9 @@ predicted_risk = model.predict(df_input_np)
 # Reverse the dictionary to use numbers as keys
 risk_labels = {v: k for k, v in risk_labels.items()}
 
+# Debugging prediction and labels
 print(risk_labels)  # Debugging: should print {0: 'Very Low', 1: 'Low', 2: 'Medium', 3: 'High', 4: 'Very High'}
-print(f"Predicted risk value: {int(predicted_risk[0])}")  # Debugging
+print(f"Predicted numeric risk value: {int(predicted_risk[0])}")  # Debugging
 
 # Convert numeric risk to descriptive label
 predicted_risk_label = risk_labels.get(int(predicted_risk[0]), "Unknown Risk Level")

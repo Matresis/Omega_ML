@@ -6,6 +6,10 @@ import pickle as pc
 # Load dataset
 df = pd.read_csv("data/craigslist_cars_to_clean.csv")
 
+# Debugging data cleaning process
+print("Initial Data:")
+print(df.head())
+
 # Drop unnecessary columns
 df.drop(columns=["VIN", "Model", "Link"], errors="ignore", inplace=True)
 
@@ -16,6 +20,10 @@ for col in ["Price", "Year", "Mileage", "Cylinders"]:
 # Fill missing numerical values with median
 for col in ["Price", "Year", "Mileage", "Cylinders"]:
     df[col].fillna(df[col].median(), inplace=True)
+
+# Debugging after filling missing values
+print("After filling missing numerical values:")
+print(df[["Price", "Year", "Mileage", "Cylinders"]].head())
 
 # Normalize text data
 text_cols = ["Brand", "Condition", "Fuel Type", "Transmission", "Body Type", "Title Status"]
@@ -35,35 +43,88 @@ df["Mileage_per_Year"] = df["Mileage"] / (df["Car_Age"] + 1)
 # Remove 'Year' column
 df.drop(columns=["Year"], inplace=True)
 
-# Handle "Unknown" values more precisely: Encode with average price for brands
+# Encode 'Brand' by average price
 brand_avg_price = df.groupby("Brand")["Price"].transform("mean")
 df["Brand_Encoded"] = brand_avg_price
 
-# Define risk mappings
-condition_map = {"new": 0, "excellent": 1, "good": 2, "fair": 3, "salvage": 4}
-title_risk_map = {"clean": 0, "rebuilt": 2, "salvage": 3}
-body_risk_map = {
-    "sedan": 0, "hatchback": 1, "coupe": 1, "convertible": 1, "wagon": 1,
-    "suv": 1, "minivan": 2, "van": 2, "pickup": 2, "other": 2,
-    "truck": 3, "bus": 3, "offroad": 3
-}
-fuel_risk_map = {"gas": 1, "diesel": 2, "hybrid": 1, "electric": 0}
-transmission_risk_map = {"automatic": 1, "manual": 2}
+# Save the encoding mappings for 'Brand' for use in training
+brand_price_mapping = df.groupby("Brand")["Price"].mean().to_dict()
 
-# Apply mappings
-df["Condition_Risk"] = df["Condition"].map(condition_map).fillna(2)
-df["Title_Risk"] = df["Title Status"].map(title_risk_map).fillna(1)
-df["Body_Risk"] = df["Body Type"].map(body_risk_map).fillna(1)
-df["Fuel_Risk"] = df["Fuel Type"].map(fuel_risk_map).fillna(1)
-df["Transmission_Risk"] = df["Transmission"].map(transmission_risk_map).fillna(1)
+with open("models/brand_encoding.pkl", "wb") as f:
+    pc.dump(brand_price_mapping, f)
+
+# Debugging after encoding categorical features
+print("After encoding 'Brand' and other categorical features:")
+print(df[["Brand", "Condition", "Fuel Type", "Transmission", "Body Type", "Title Status"]].head())
+
+# Define risk mappings
+condition_map = {
+    "new": 0,
+    "excellent": 1,
+    "good": 2,
+    "fair": 4,
+    "salvage": 5,
+    "unknown": 6
+}
+
+title_risk_map = {
+    "clean": 0,
+    "lien": 2,
+    "missing": 3,
+    "parts only": 4,
+    "rebuilt": 3,
+    "salvage": 5,
+    "unknown": 6
+}
+
+# Updated body type risk mapping (default: 2 - moderate)
+body_risk_map = {
+    "sedan": 0,
+    "hatchback": 1,
+    "coupe": 1,
+    "convertible": 2,
+    "wagon": 1,
+    "suv": 1,
+    "minivan": 3,
+    "van": 3,
+    "pickup": 2,
+    "other": 3,
+    "truck": 4,
+    "bus": 5,
+    "offroad": 3
+}
+
+# Updated fuel type risk mapping (default: 2 - moderate)
+fuel_risk_map = {
+    "gas": 1,
+    "diesel": 2,
+    "hybrid": 1,
+    "electric": 0,
+    "other": 2
+}
+
+# Updated transmission risk mapping (default: 1 - moderate)
+transmission_risk_map = {
+    "automatic": 1,
+    "manual": 2,
+    "unknown": 2  # Mark "Unknown" as moderate risk
+}
+
+# Apply mappings with handling "Unknown" values as very risky
+df["Condition_Risk"] = df["Condition"].map(condition_map).fillna(5)  # "Unknown" -> 5 (very risky)
+df["Title_Risk"] = df["Title Status"].map(title_risk_map).fillna(5)  # "Unknown" -> 5 (very risky)
+df["Body_Risk"] = df["Body Type"].map(body_risk_map).fillna(3)  # Use default risk for missing values
+df["Fuel_Risk"] = df["Fuel Type"].map(fuel_risk_map).fillna(2)  # Use default risk for missing values
+df["Transmission_Risk"] = df["Transmission"].map(transmission_risk_map).fillna(2)  # Use default risk for missing values
+
+# Debugging risk mapping
+print("Risk columns after mapping:")
+print(df[["Condition_Risk", "Title_Risk", "Body_Risk", "Fuel_Risk", "Transmission_Risk"]].head())
 
 # Price, Mileage, and Age risk (quantiles)
 df["Price_Risk"] = pd.qcut(df["Price"], q=3, labels=[2, 1, 0], duplicates="drop").astype(int)
 df["Mileage_Risk"] = pd.qcut(df["Mileage"], q=3, labels=[0, 1, 2], duplicates="drop").astype(int)
 df["Age_Risk"] = pd.qcut(df["Car_Age"], q=3, labels=[0, 1, 2], duplicates="drop").astype(int)
-
-# **REMOVE manual Total_Risk calculation**
-# We want the AI model to predict risk, not just learn a formula
 
 # **Define Risk_Category Based on Data Distribution**
 df["Risk_Category"] = pd.qcut(
@@ -72,6 +133,20 @@ df["Risk_Category"] = pd.qcut(
     df["Fuel_Risk"] + df["Transmission_Risk"],
     q=4, labels=["Low", "Medium", "High", "Very High"], duplicates="drop"
 )
+
+# Debugging price, mileage, and age risk
+print("Price Risk distribution:")
+print(df["Price_Risk"].value_counts())
+
+print("Mileage Risk distribution:")
+print(df["Mileage_Risk"].value_counts())
+
+print("Age Risk distribution:")
+print(df["Age_Risk"].value_counts())
+
+# Check the distribution of combined risk categories
+print("Risk Category distribution:")
+print(df["Risk_Category"].value_counts())
 
 text_cols.remove("Brand")
 # One-hot encode categorical features
