@@ -6,10 +6,6 @@ import pickle as pc
 # Load dataset
 df = pd.read_csv("data/craigslist_cars_to_clean.csv")
 
-# Debugging data cleaning process
-print("Initial Data:")
-print(df.head())
-
 # Drop unnecessary columns
 df.drop(columns=["VIN", "Model", "Link"], errors="ignore", inplace=True)
 
@@ -20,10 +16,6 @@ for col in ["Price", "Year", "Mileage", "Cylinders"]:
 # Fill missing numerical values with median
 for col in ["Price", "Year", "Mileage", "Cylinders"]:
     df[col].fillna(df[col].median(), inplace=True)
-
-# Debugging after filling missing values
-print("After filling missing numerical values:")
-print(df[["Price", "Year", "Mileage", "Cylinders"]].head())
 
 # Normalize text data
 text_cols = ["Brand", "Condition", "Fuel Type", "Transmission", "Body Type", "Title Status"]
@@ -133,20 +125,6 @@ df["Risk_Category"] = pd.qcut(
     df["Fuel_Risk"] + df["Transmission_Risk"],
     q=4, labels=["Low", "Medium", "High", "Very High"], duplicates="drop"
 )
-
-# Debugging price, mileage, and age risk
-print("Price Risk distribution:")
-print(df["Price_Risk"].value_counts())
-
-print("Mileage Risk distribution:")
-print(df["Mileage_Risk"].value_counts())
-
-print("Age Risk distribution:")
-print(df["Age_Risk"].value_counts())
-
-# Check the distribution of combined risk categories
-print("Risk Category distribution:")
-print(df["Risk_Category"].value_counts())
 
 text_cols.remove("Brand")
 # One-hot encode categorical features

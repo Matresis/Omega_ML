@@ -51,21 +51,37 @@ with open("models/scaler.pkl", "rb") as f:
 new_data = {
     "Brand": "Ford",
     "Year": 2010,
-    "Mileage": 150000,
+    "Mileage": 50000,
     "Transmission": "automatic",
     "Body Type": "sedan",
     "Condition": "excellent",
     "Cylinders": 6,
     "Fuel Type": "gas",
     "Title Status": "clean",
-    "Price": 16000
+    "Price": 9765
 }
 
 # Convert input to DataFrame
 df_input = pd.DataFrame([new_data])
 
+# Normalize text data
+df_input["Brand"] = df_input["Brand"].str.title().str.strip()
+df_input["Condition"] = df_input["Condition"].str.lower().replace("like new", "excellent")
+df_input["Fuel Type"] = df_input["Fuel Type"].str.lower().str.strip()
+df_input["Transmission"] = df_input["Transmission"].str.lower().str.strip()
+df_input["Body Type"] = df_input["Body Type"].str.lower().str.strip()
+df_input["Title Status"] = df_input["Title Status"].str.lower().str.strip()
+
+# Convert numerical values
+df_input["Price"] = pd.to_numeric(df_input["Price"], errors="coerce").fillna(0)
+df_input["Mileage"] = pd.to_numeric(df_input["Mileage"], errors="coerce").fillna(df_input["Mileage"].median())
+df_input["Cylinders"] = pd.to_numeric(df_input["Cylinders"], errors="coerce").fillna(df_input["Cylinders"].median())
+
+
 # Feature Engineering
-df_input["Car_Age"] = datetime.now().year - df_input["Year"]
+CURRENT_YEAR = 2025
+df_input["Car_Age"] = CURRENT_YEAR - df_input["Year"]
+
 df_input["Mileage_per_Year"] = df_input["Mileage"] / (df_input["Car_Age"] + 1)
 
 # Encode brand
@@ -87,7 +103,7 @@ for col in expected_columns:
 df_input = df_input[expected_columns]
 
 # Standardize numeric features for repair need model (RandomForestClassifier)
-numeric_features = ["Car_Age", "Mileage", "Cylinders", "Brand_Encoded"]
+numeric_features = ["Car_Age", "Mileage", "Cylinders", "Brand_Encoded", "Price"]
 df_input[numeric_features] = scaler.transform(df_input[numeric_features])
 
 # Predict repair cost (regression task)

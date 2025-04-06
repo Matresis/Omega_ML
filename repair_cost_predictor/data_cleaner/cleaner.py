@@ -74,7 +74,7 @@ df.drop(columns=["Brand"], inplace=True)
 
 # Feature scaling
 scaler = StandardScaler()
-scale_cols = ["Car_Age", "Mileage", "Cylinders", "Brand_Encoded"]
+scale_cols = ["Car_Age", "Mileage", "Cylinders", "Brand_Encoded", "Price"]
 df[scale_cols] = scaler.fit_transform(df[scale_cols])
 
 with open("models/scaler.pkl", "wb") as f:

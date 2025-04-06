@@ -31,6 +31,10 @@ X_train, X_test, y_train, y_test = train_test_split(
     X_scaled, y, test_size=0.2, random_state=42, stratify=y
 )
 
+# Save the feature order after preprocessing
+with open("models/feature_order.pkl", "wb") as f:
+    pc.dump(X.columns.tolist(), f)
+
 # Train the model (use a more powerful model if needed)
 model = RandomForestClassifier(
     n_estimators=300,

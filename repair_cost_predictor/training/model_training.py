@@ -1,11 +1,9 @@
 ﻿import pandas as pd
 import pickle as pc
 from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
 from xgboost import XGBRegressor
 from sklearn.preprocessing import StandardScaler
-from sklearn.metrics import accuracy_score, classification_report, confusion_matrix, mean_squared_error, \
-    mean_absolute_error
+from sklearn.metrics import mean_squared_error, mean_absolute_error
 import numpy as np
 
 # Load cleaned dataset

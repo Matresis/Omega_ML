@@ -27,7 +27,7 @@ new_data = {
     "Mileage": 300000,
     "Transmission": "automatic",
     "Body Type": "pickup",
-    "Condition": "excellent",
+    "Condition": "unknown",
     "Cylinders": 6,
     "Fuel Type": "gas",
     "Title Status": "salvage",
