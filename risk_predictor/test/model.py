@@ -24,14 +24,14 @@ with open("models/risk_label_map.pkl", "rb") as f:
 new_data = {
     "Brand": "Ford",
     "Year": 2000,
-    "Mileage": 300000,
+    "Mileage": 150000,
     "Transmission": "automatic",
     "Body Type": "pickup",
-    "Condition": "unknown",
+    "Condition": "salvage",
     "Cylinders": 6,
     "Fuel Type": "gas",
     "Title Status": "salvage",
-    "Price": 16000
+    "Price": 10000
 }
 
 # Convert input to DataFrame

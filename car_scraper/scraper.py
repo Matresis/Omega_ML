@@ -1,4 +1,9 @@
-﻿import time
+﻿#
+# scraper structure, parameter splitting and implementation of libraries below was done by ChatGPT
+# integration with craigslist website was done by developer
+#
+
+import time
 import pandas as pd
 import requests
 import configparser
