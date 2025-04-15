@@ -59,9 +59,9 @@ for name, model in models.items():
     print(f"   R² Score: {r2:.4f}\n")
 
 # 🚀 Save Models
-for name, model in models.items():
-    filename = f"models/{name.lower().replace(' ', '_')}_model.pkl"
-    pc.dump(model, open(filename, 'wb'))
-    print(f"✅ Model saved: {filename}")
+# for name, model in models.items():
+#     filename = f"models/{name.lower().replace(' ', '_')}_model.pkl"
+#     pc.dump(model, open(filename, 'wb'))
+#     print(f"✅ Model saved: {filename}")
 
 print("\n🎯 All models trained and exported successfully!")
